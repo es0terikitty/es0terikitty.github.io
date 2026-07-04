@@ -436,7 +436,7 @@ footer a {
 
 /* ── Theme: Gruvbox ── */
 .theme-gruvbox {
-  --bg: #000000;
+  --bg: #282828;
   --surface: #3c3836;
   --surface2: #504945;
   --text: #ebdbb2;
