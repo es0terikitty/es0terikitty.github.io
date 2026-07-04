@@ -78,7 +78,7 @@ a:hover {
 .top-nav {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 48px 24px 16px;
+  padding: 8px 24px 12px;
   border-bottom: 1px solid var(--border);
   display: flex;
   flex-direction: column;
