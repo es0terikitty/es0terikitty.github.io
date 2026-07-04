@@ -34,13 +34,7 @@
       <div class="nav-prev">
         <a href="{{ prev_path | safe }}">&#x276E;</a>
       </div>
-      <h1 class="chapter-title">
-        {% if page.extra.part == "Epilogue" %}
-          Epilogue
-        {% else %}
-          Part {{ page.extra.part }} — Chapter {{ page.extra.chapter }}
-        {% endif %}
-      </h1>
+      <h1 class="chapter-title">{{ page.title }}</h1>
       <div class="nav-next">
         <a href="{{ next_path | safe }}">&#x276F;</a>
       </div>
