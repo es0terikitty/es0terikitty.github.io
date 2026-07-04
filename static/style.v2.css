@@ -157,7 +157,7 @@ main {
 
 .grid-item {
   display: block;
-  color: var(--text);
+  color: var(--link, var(--text));
   font-size: 14px;
   font-family: var(--font-body);
   padding: 16px;
@@ -168,8 +168,8 @@ main {
 }
 
 .grid-item:hover {
-  color: var(--accent);
-  border-color: var(--accent);
+  color: var(--link-hover, var(--accent));
+  border-color: var(--link-hover, var(--accent));
   background: var(--surface2);
   text-decoration: none;
 }
@@ -422,6 +422,8 @@ footer a {
   --green: #a6e3a1;
   --pink: #cba6f7;
   --border: #45475a;
+  --link: #8bd3c8;
+  --link-hover: #f38ba8;
 }
 
 /* ── Theme: Gruvbox ── */
@@ -435,6 +437,8 @@ footer a {
   --green: #98971a;
   --pink: #b16286;
   --border: #504945;
+  --link: #d79921;
+  --link-hover: #d65d0e;
 }
 
 /* ── Theme: Nord ── */
@@ -448,4 +452,6 @@ footer a {
   --green: #a3be8c;
   --pink: #b48ead;
   --border: #4c566a;
+  --link: #d38f73;
+  --link-hover: #88c0d0;
 }
