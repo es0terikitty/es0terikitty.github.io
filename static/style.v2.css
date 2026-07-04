@@ -78,7 +78,7 @@ a:hover {
 .top-nav {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 8px 24px 16px;
+  padding: 28px 24px 16px;
   border-bottom: 1px solid var(--border);
   display: flex;
   flex-direction: column;
@@ -108,7 +108,7 @@ a:hover {
 main {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 8px 24px 40px;
+  padding: 16px 24px 40px;
   min-height: 80vh;
 }
 
@@ -221,8 +221,9 @@ main {
 /* ── Page header (chapter title + nav arrows on one row) ── */
 
 .page-header {
-  margin-bottom: 32px;
-  padding-bottom: 16px;
+  margin-bottom: 24px;
+  padding-bottom: 24px;
+  border-bottom: 1px solid var(--accent);
 }
 
 .page-nav-top {
