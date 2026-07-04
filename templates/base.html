@@ -20,5 +20,6 @@
   <main>
     {% block content %}{% endblock content %}
   </main>
+<script>(function(){var t=localStorage.getItem('theme');if(t)document.documentElement.className=t;document.addEventListener('click',function(e){var s=e.target.closest('[data-theme]');if(s){var th=s.dataset.theme;document.documentElement.className=th;localStorage.setItem('theme',th)}})})();</script>
 </body>
 </html>
