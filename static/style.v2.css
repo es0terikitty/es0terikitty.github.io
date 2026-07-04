@@ -37,7 +37,7 @@
 
   --font-ui:    "JetBrainsMono Nerd Font", "JetBrains Mono", "Menlo", monospace;
   --font-body:  "Cagliostro", Georgia, serif;
-  --font-size:  15px;
+  --font-size:  30px;
   --line-height: 1.6;
   --max-width:  800px;
 }
@@ -78,27 +78,28 @@ a:hover {
 .top-nav {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 28px 24px 16px;
+  padding: 48px 24px 16px;
   border-bottom: 1px solid var(--border);
   display: flex;
-  align-items: baseline;
-  gap: 12px;
-  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
   font-family: var(--font-ui);
 }
 
 .site-title {
   font-family: "CaskaydiaMono Nerd Font", "CaskaydiaMono NF", var(--font-ui);
-  font-size: 16px;
+  font-size: 48px;
   font-weight: bold;
   color: var(--accent) !important;
   text-transform: uppercase;
   letter-spacing: 1.5px;
+  line-height: 1.1;
 }
 
 .subtitle {
   color: var(--text-dim);
-  font-size: 12px;
+  font-size: 18px;
 }
 
 /* ── Main content ── */
