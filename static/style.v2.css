@@ -463,3 +463,18 @@ footer a {
   --link: #5E81AC;
   --link-hover: #88C0D0;
 }
+
+/* ── Theme: Paper ── */
+.theme-paper {
+  --bg: #F4EBD9;
+  --surface: #E8DCC8;
+  --surface2: #DCC8A8;
+  --text: #1A2E40;
+  --text-dim: #4A3525;
+  --accent: #2D5A27;
+  --green: #3A7D35;
+  --pink: #D4AF37;
+  --border: #4A3525;
+  --link: #2D5A27;
+  --link-hover: #D4AF37;
+}
