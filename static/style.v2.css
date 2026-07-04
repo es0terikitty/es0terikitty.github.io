@@ -25,15 +25,18 @@
 }
 
 :root {
-  --bg:         #000000;
-  --surface:    #101010;
-  --surface2:   #181818;
-  --text:       #F6F2EC;
-  --text-dim:   #B7AEA3;
-  --accent:     #FF6B4A;
-  --green:      #D62828;
-  --pink:       #F77F00;
-  --border:     #2A2A2A;
+  --bg:         #0F0F0F;
+  --surface:    #1E1E1E;
+  --surface2:   #292929;
+  --text:       #F4DECD;
+  --text-dim:   #A9A9A9;
+  --accent:     #EF934D;
+  --green:      #7EC97E;
+  --pink:       #E28DC6;
+  --border:     #353535;
+
+  --link:       #EF934D;
+  --link-hover: #EFBF71;
 
   --font-body:  "Cagliostro", Georgia, serif;
   --font-size:  15px;
@@ -391,24 +394,29 @@ footer a {
 .theme-swatches {
   display: flex;
   justify-content: center;
-  gap: 16px;
+  gap: 8px;
   margin-top: 48px;
   padding-top: 24px;
   border-top: 1px solid var(--border);
+  font-family: var(--font-body);
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 .theme-swatch {
-  width: 28px;
-  height: 28px;
-  border-radius: 50%;
   cursor: pointer;
-  border: 2px solid var(--border);
-  transition: transform 0.15s, border-color 0.15s;
+  padding: 6px 14px;
+  border-radius: 4px;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  transition: color 0.15s, border-color 0.15s, background 0.15s;
 }
 
 .theme-swatch:hover {
-  transform: scale(1.2);
+  color: var(--accent);
   border-color: var(--accent);
+  background: var(--surface);
 }
 
 /* ── Theme: Catppuccin Mocha ── */
@@ -418,12 +426,12 @@ footer a {
   --surface2: #45475a;
   --text: #cdd6f4;
   --text-dim: #a6adc8;
-  --accent: #f38ba8;
+  --accent: #cba6f7;
   --green: #a6e3a1;
-  --pink: #cba6f7;
+  --pink: #f5c2e7;
   --border: #45475a;
-  --link: #8bd3c8;
-  --link-hover: #f38ba8;
+  --link: #cba6f7;
+  --link-hover: #89b4fa;
 }
 
 /* ── Theme: Gruvbox ── */
@@ -433,25 +441,25 @@ footer a {
   --surface2: #504945;
   --text: #ebdbb2;
   --text-dim: #a89984;
-  --accent: #d65d0e;
-  --green: #98971a;
+  --accent: #d79921;
+  --green: #8ec07c;
   --pink: #b16286;
   --border: #504945;
   --link: #d79921;
-  --link-hover: #d65d0e;
+  --link-hover: #fabd2f;
 }
 
 /* ── Theme: Nord ── */
 .theme-nord {
-  --bg: #2e3440;
-  --surface: #3b4252;
-  --surface2: #434c5e;
-  --text: #eceff4;
-  --text-dim: #d8dee9;
-  --accent: #88c0d0;
-  --green: #a3be8c;
-  --pink: #b48ead;
-  --border: #4c566a;
-  --link: #d38f73;
-  --link-hover: #88c0d0;
+  --bg: #2E3440;
+  --surface: #3B4252;
+  --surface2: #434C5E;
+  --text: #E5E9F0;
+  --text-dim: #D8DEE9;
+  --accent: #5E81AC;
+  --green: #A3BE8C;
+  --pink: #B48EAD;
+  --border: #434C5E;
+  --link: #5E81AC;
+  --link-hover: #88C0D0;
 }
