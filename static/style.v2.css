@@ -89,7 +89,7 @@ a:hover {
 
 .site-title {
   font-family: "CaskaydiaMono Nerd Font", "CaskaydiaMono NF", var(--font-ui);
-  font-size: 24px;
+  font-size: 21px;
   font-weight: bold;
   color: var(--accent) !important;
   text-transform: uppercase;
@@ -100,7 +100,7 @@ a:hover {
 .subtitle {
   color: var(--text-dim);
   font-size: 12px;
-  margin-top: 2px;
+  margin-top: 6px;
 }
 
 /* ── Main content ── */
@@ -176,7 +176,7 @@ main {
 
 .chapter-title {
   font-family: var(--font-ui);
-  font-size: 13px;
+  font-size: 15px;
   color: var(--accent);
   text-transform: uppercase;
   letter-spacing: 2px;
