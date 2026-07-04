@@ -24,6 +24,22 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "Montserrat";
+  src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Montserrat";
+  src: url("/fonts/Montserrat-Italic-VariableFont_wght.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 :root {
   --bg:         #000000;
   --surface:    #101010;
@@ -36,7 +52,8 @@
   --border:     #2A2A2A;
 
   --font-ui:    "JetBrainsMono Nerd Font", "JetBrains Mono", "Menlo", monospace;
-  --font-body:  "Cagliostro", Georgia, serif;
+  --font-body:  "Montserrat", Georgia, serif;
+  --font-heading: "Cagliostro", Georgia, serif;
   --font-size:  15px;
   --line-height: 1.6;
   --max-width:  800px;
@@ -56,6 +73,10 @@ body {
   line-height: var(--line-height);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
 }
 
 ::selection {
@@ -176,7 +197,7 @@ main {
 /* ── Chapter page ── */
 
 .chapter-title {
-  font-family: var(--font-ui);
+  font-family: var(--font-heading);
   font-size: 15px;
   color: var(--accent);
   text-transform: uppercase;
