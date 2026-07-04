@@ -24,22 +24,6 @@
   font-display: swap;
 }
 
-@font-face {
-  font-family: "Montserrat";
-  src: url("/fonts/Montserrat-VariableFont_wght.ttf") format("truetype");
-  font-weight: 100 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "Montserrat";
-  src: url("/fonts/Montserrat-Italic-VariableFont_wght.ttf") format("truetype");
-  font-weight: 100 900;
-  font-style: italic;
-  font-display: swap;
-}
-
 :root {
   --bg:         #000000;
   --surface:    #101010;
@@ -51,9 +35,7 @@
   --pink:       #F77F00;
   --border:     #2A2A2A;
 
-  --font-ui:    "JetBrainsMono Nerd Font", "JetBrains Mono", "Menlo", monospace;
-  --font-body:  "Montserrat", Georgia, serif;
-  --font-heading: "Cagliostro", Georgia, serif;
+  --font-body:  "Cagliostro", Georgia, serif;
   --font-size:  15px;
   --line-height: 1.6;
   --max-width:  800px;
@@ -76,7 +58,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-heading);
+  font-family: var(--font-body);
 }
 
 ::selection {
@@ -105,11 +87,10 @@ a:hover {
   flex-direction: column;
   align-items: center;
   gap: 0;
-  font-family: var(--font-ui);
+  font-family: var(--font-body);
 }
 
 .site-title {
-  font-family: "CaskaydiaMono Nerd Font", "CaskaydiaMono NF", var(--font-ui);
   font-size: 21px;
   font-weight: bold;
   color: var(--accent) !important;
@@ -141,7 +122,6 @@ main {
 }
 
 .hero h1 {
-  font-family: "CaskaydiaMono Nerd Font", "CaskaydiaMono NF", var(--font-ui);
   font-size: 22px;
   color: var(--accent);
   margin-bottom: 12px;
@@ -159,7 +139,7 @@ main {
 }
 
 .chapter-list h2 {
-  font-family: var(--font-ui);
+  font-family: var(--font-body);
   font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -197,7 +177,7 @@ main {
 /* ── Chapter page ── */
 
 .chapter-title {
-  font-family: var(--font-heading);
+  font-family: var(--font-body);
   font-size: 15px;
   color: var(--accent);
   text-transform: uppercase;
@@ -248,7 +228,7 @@ main {
 }
 
 .page-nav-top {
-  font-family: var(--font-ui);
+  font-family: var(--font-body);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -293,7 +273,7 @@ main {
 /* ── Bottom page nav ── */
 
 .page-nav-bottom {
-  font-family: var(--font-ui);
+  font-family: var(--font-body);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -318,7 +298,7 @@ main {
 /* ── Chapter nav (prev/next) ──
 
 .chapter-nav {
-  font-family: var(--font-ui);
+  font-family: var(--font-body);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -358,7 +338,7 @@ footer {
   padding: 20px 16px;
   border-top: 1px solid var(--border);
   text-align: center;
-  font-family: var(--font-ui);
+  font-family: var(--font-body);
   font-size: 11px;
   color: var(--text-dim);
 }
