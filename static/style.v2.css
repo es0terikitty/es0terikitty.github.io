@@ -139,11 +139,12 @@ main {
 
 .chapter-list h2 {
   font-family: var(--font-ui);
-  font-size: 13px;
+  font-size: 15px;
   text-transform: uppercase;
   letter-spacing: 2px;
   color: var(--pink);
   margin-bottom: 16px;
+  text-align: center;
 }
 
 .chapter-grid {
@@ -156,7 +157,7 @@ main {
 .grid-item {
   display: block;
   color: var(--text);
-  font-size: 17px;
+  font-size: 14px;
   font-family: var(--font-body);
   padding: 16px;
   border: 1px solid var(--border);
