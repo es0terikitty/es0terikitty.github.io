@@ -1,6 +1,7 @@
 +++
 title = "Chapter 6"
 date = 2026-07-04
+[extra]
 chapter = 6
 +++
 Later on Raskolnikov happened to find out why the huckster and his wife had invited Lizaveta. It was a very ordinary matter and there was nothing exceptional about it. A family who had come to the town and been reduced to poverty were selling their household goods and clothes, all women’s things.

@@ -1,6 +1,7 @@
 +++
 title = "Chapter 12"
 date = 2026-07-04
+[extra]
 chapter = 12
 +++
 This was a gentleman no longer young, of a stiff and portly appearance, and a cautious and sour countenance. He began by stopping short in the doorway, staring about him with offensive and undisguised astonishment, as though asking himself what sort of place he had come to. Mistrustfully and with an affectation of being alarmed and almost affronted, he scanned Raskolnikov’s low and narrow ‘cabin.’

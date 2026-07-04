@@ -1,6 +1,7 @@
 +++
 title = "Chapter 34"
 date = 2026-07-04
+[extra]
 chapter = 34
 +++
 He hurried to Svidrigaïlov’s. What he had to hope from that man he did not know. But that man had some hidden power over him.

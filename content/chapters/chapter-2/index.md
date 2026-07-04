@@ -1,6 +1,7 @@
 +++
 title = "Chapter 2"
 date = 2026-07-04
+[extra]
 chapter = 2
 +++
 Raskolnikov was not used to crowds, and, as we said before, he avoided society of every sort, more especially of late. But now all at once he felt a desire to be with other people. Something new seemed to be taking place within him, and with it he felt a sort of thirst for company.

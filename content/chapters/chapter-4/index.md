@@ -1,6 +1,7 @@
 +++
 title = "Chapter 4"
 date = 2026-07-04
+[extra]
 chapter = 4
 +++
 His mother’s letter had been a torture to him, but as regards the chief fact in it, he had felt not one moment’s hesitation, even whilst he was reading the letter. The essential question was settled, and irrevocably settled, in his mind: ‘Never such a marriage while I am alive and Mr. Luzhin be damned!’ ‘The thing is perfectly clear,’ he muttered to himself, with a malignant smile anticipating the triumph of his decision.

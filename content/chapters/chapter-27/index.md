@@ -1,6 +1,7 @@
 +++
 title = "Chapter 27"
 date = 2026-07-04
+[extra]
 chapter = 27
 +++
 The morning that followed the fateful interview with

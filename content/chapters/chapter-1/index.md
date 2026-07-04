@@ -1,6 +1,7 @@
 +++
 title = "Chapter 1"
 date = 2026-07-04
+[extra]
 chapter = 1
 +++
 On an exceptionally hot evening early in July a young man came out of the garret in which he lodged in S. Place and walked slowly, as though in hesitation, towards

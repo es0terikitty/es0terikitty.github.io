@@ -1,6 +1,7 @@
 +++
 title = "Chapter 26"
 date = 2026-07-04
+[extra]
 chapter = 26
 +++
 When he remembered the scene afterwards, this is how

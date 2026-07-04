@@ -1,6 +1,7 @@
 +++
 title = "Chapter 24"
 date = 2026-07-04
+[extra]
 chapter = 24
 +++
 Raskolnikov went straight to the house on the canal bank where Sonia lived. It was an old green house of three storeys. He found the porter and obtained from him vague directions as to the whereabouts of Kapernaumov, the tailor.

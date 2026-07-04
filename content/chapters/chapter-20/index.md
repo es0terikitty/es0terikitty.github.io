@@ -1,6 +1,7 @@
 +++
 title = "Chapter 20"
 date = 2026-07-04
+[extra]
 chapter = 20
 +++
 ‘I don’t believe it, I can’t believe it!’ repeated Razumihin, trying in perplexity to refute Raskolnikov’s arguments. They were by now approaching Bakaleyev’s lodgings, where Pulcheria Alexandrovna and Dounia had been expecting them a long while. Razumihin kept stopping on the way in the heat of discussion, confused and excited by the very fact that they were for the first time speaking openly about it.

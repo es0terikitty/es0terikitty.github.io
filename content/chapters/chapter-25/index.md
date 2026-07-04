@@ -1,6 +1,7 @@
 +++
 title = "Chapter 25"
 date = 2026-07-04
+[extra]
 chapter = 25
 +++
 When next morning at eleven o’clock punctually Raskolnikov went into the department of the investigation of criminal causes and sent his name in to Porfiry Petrovitch, he was surprised at being kept waiting so long: it was at least ten minutes before he was summoned. He had expected that they would pounce upon him. But he stood in the waiting- room, and people, who apparently had nothing to do with him, were continually passing to and fro before him.

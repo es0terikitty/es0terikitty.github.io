@@ -1,6 +1,7 @@
 +++
 title = "Chapter 8"
 date = 2026-07-04
+[extra]
 chapter = 8
 +++
 So he lay a very long while. Now and then he seemed to wake up, and at such moments he noticed that it was far into the night, but it did not occur to him to get up. At last he noticed that it was beginning to get light.

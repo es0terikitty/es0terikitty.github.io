@@ -1,6 +1,7 @@
 +++
 title = "Chapter 17"
 date = 2026-07-04
+[extra]
 chapter = 17
 +++
 ‘H e is well, quite well!’ Zossimov cried cheerfully as they entered. He had come in ten minutes earlier and was sitting in the same place as before, on the sofa. Raskolnikov was sitting in the opposite corner, fully dressed and carefully washed and combed, as he had not been for some time past.

@@ -1,6 +1,7 @@
 +++
 title = "Chapter 35"
 date = 2026-07-04
+[extra]
 chapter = 35
 +++
 ‘Y ou know perhaps—yes, I told you myself,’ began Svidrigaïlov, ‘that I was in the debtors’ prison here, for an immense sum, and had not any expectation of being able to pay it. There’s no need to go into particulars how Marfa

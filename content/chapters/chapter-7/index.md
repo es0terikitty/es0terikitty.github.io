@@ -1,6 +1,7 @@
 +++
 title = "Chapter 7"
 date = 2026-07-04
+[extra]
 chapter = 7
 +++
 The door was as before opened a tiny crack, and again two sharp and suspicious eyes stared at him out of the darkness. Then Raskolnikov lost his head and nearly made a great mistake. Fearing the old woman would be frightened by their being alone, and not hoping that the sight of him would disarm her suspicions, he took hold of the door and drew it towards him to prevent the old woman from attempting to shut it again.

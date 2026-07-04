@@ -1,6 +1,7 @@
 +++
 title = "Chapter 31"
 date = 2026-07-04
+[extra]
 chapter = 31
 +++
 Lebeziatnikov looked perturbed. ‘I’ve come to you, Sofya Semyonovna,’ he began. ‘Excuse me … I thought I should find you,’ he said, addressing

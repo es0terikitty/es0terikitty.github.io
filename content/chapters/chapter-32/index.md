@@ -1,6 +1,7 @@
 +++
 title = "Chapter 32"
 date = 2026-07-04
+[extra]
 chapter = 32
 +++
 Astrange period began for Raskolnikov: it was as though a fog had fallen upon him and wrapped him in a dreary solitude from which there was no escape. Recalling that period long after, he believed that his mind had been clouded at times, and that it had continued so, with intervals, till the final catastrophe. He was convinced that he had been mistaken about many things at that time, for instance as to the date of certain events.

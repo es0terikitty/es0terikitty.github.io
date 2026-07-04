@@ -1,6 +1,7 @@
 +++
 title = "Chapter 40"
 date = 2026-07-04
+[extra]
 chapter = 40
 +++
 I Siberia. On the banks of a broad solitary river stands a town, one of the administrative centres of Russia; in the town there is a fortress, in the fortress there is a prison. In the prison the second-class convict Rodion Raskolnikov has been confined for nine months.

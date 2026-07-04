@@ -1,6 +1,7 @@
 +++
 title = "Chapter 13"
 date = 2026-07-04
+[extra]
 chapter = 13
 +++
 But as soon as she went out, he got up, latched the door, undid the parcel which Razumihin had brought in that evening and had tied up again and began dressing. Strange to say, he seemed immediately to have become perfectly calm; not a trace of his recent delirium nor of the panic fear that had haunted him of late. It was the first moment of a strange sudden calm.

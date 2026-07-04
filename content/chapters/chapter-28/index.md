@@ -1,6 +1,7 @@
 +++
 title = "Chapter 28"
 date = 2026-07-04
+[extra]
 chapter = 28
 +++
 It would be difficult to explain exactly what could have originated the idea of that senseless dinner in Katerina

@@ -1,6 +1,7 @@
 +++
 title = "Chapter 15"
 date = 2026-07-04
+[extra]
 chapter = 15
 +++
 Raskolnikov got up, and sat down on the sofa. He waved his hand weakly to Razumihin to cut short the flow of warm and incoherent consolations he was addressing to his mother and sister, took them both by the hand and for a minute or two gazed from one to the other without speaking. His mother was alarmed by his expression.

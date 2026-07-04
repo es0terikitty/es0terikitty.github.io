@@ -1,6 +1,7 @@
 +++
 title = "Chapter 30"
 date = 2026-07-04
+[extra]
 chapter = 30
 +++
 Raskolnikov had been a vigorous and active champion of Sonia against Luzhin, although he had such a load of horror and anguish in his own heart. But having gone through so much in the morning, he found a sort of relief in a change of sensations, apart from the strong personal feeling which impelled him to defend Sonia. He was agitated too, especially at some moments, by the thought of his approaching interview with Sonia: he had to tell her who had killed Lizaveta.

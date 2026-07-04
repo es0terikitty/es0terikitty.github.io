@@ -1,6 +1,7 @@
 +++
 title = "Chapter 19"
 date = 2026-07-04
+[extra]
 chapter = 19
 +++
 Raskolnikov was already entering the room. He came in looking as though he had the utmost difficulty not to burst out laughing again. Behind him Razumihin strode in gawky and awkward, shamefaced and red as a peony, with an utterly crestfallen and ferocious expression.

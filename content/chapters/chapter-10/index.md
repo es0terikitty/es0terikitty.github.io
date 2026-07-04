@@ -1,6 +1,7 @@
 +++
 title = "Chapter 10"
 date = 2026-07-04
+[extra]
 chapter = 10
 +++
 He was not completely unconscious, however, all the time he was ill; he was in a feverish state, sometimes delirious, sometimes half conscious. He remembered a great deal afterwards. Sometimes it seemed as though there were a number of people round him; they wanted to take him away somewhere, there was a great deal of squabbling and discussing about him.

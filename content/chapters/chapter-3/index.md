@@ -1,6 +1,7 @@
 +++
 title = "Chapter 3"
 date = 2026-07-04
+[extra]
 chapter = 3
 +++
 He waked up late next day after a broken sleep. But his sleep had not refreshed him; he waked up bilious, irritable, ill-tempered, and looked with hatred at his room. It was a tiny cupboard of a room about six paces in length.

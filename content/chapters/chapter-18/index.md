@@ -1,6 +1,7 @@
 +++
 title = "Chapter 18"
 date = 2026-07-04
+[extra]
 chapter = 18
 +++
 At that moment the door was softly opened, and a young girl walked into the room, looking timidly about her. Everyone turned towards her with surprise and curiosity. At first sight, Raskolnikov did not recognise her.

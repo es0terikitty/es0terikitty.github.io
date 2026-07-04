@@ -1,6 +1,7 @@
 +++
 title = "Chapter 33"
 date = 2026-07-04
+[extra]
 chapter = 33
 +++
 ‘ Ah these cigarettes!’ Porfiry Petrovitch ejaculated at last, having lighted one. ‘They are pernicious, positively pernicious, and yet I can’t give them up! I cough, I begin to have tickling in my throat and a difficulty in breathing.

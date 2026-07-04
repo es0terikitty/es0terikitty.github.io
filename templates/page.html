@@ -4,7 +4,7 @@
 
 {% block content %}
 {% set section = get_section(path="chapters/_index.md") %}
-{% set all_pages = section.pages | sort(attribute="path") %}
+{% set all_pages = section.pages | sort(attribute="extra.chapter") %}
 {% set first_page = all_pages | first %}
 {% set last_page = all_pages | last %}
 {% set prev_path = "" %}

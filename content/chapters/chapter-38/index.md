@@ -1,6 +1,7 @@
 +++
 title = "Chapter 38"
 date = 2026-07-04
+[extra]
 chapter = 38
 +++
 The same day, about seven o’clock in the evening, Raskolnikov was on his way to his mother’s and sister’s lodging—the lodging in Bakaleyev’s house which Razumihin had found for them. The stairs went up from the street. Raskolnikov walked with lagging steps, as though still hesitating whether to go or not.

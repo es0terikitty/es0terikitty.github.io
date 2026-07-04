@@ -1,6 +1,7 @@
 +++
 title = "Chapter 39"
 date = 2026-07-04
+[extra]
 chapter = 39
 +++
 When he went into Sonia’s room, it was already getting dark. All day Sonia had been waiting for him in terrible anxiety. Dounia had been waiting with her.

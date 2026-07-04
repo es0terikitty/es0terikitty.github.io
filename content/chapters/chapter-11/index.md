@@ -1,6 +1,7 @@
 +++
 title = "Chapter 11"
 date = 2026-07-04
+[extra]
 chapter = 11
 +++
 Zossimov was a tall, fat man with a puffy, colourless, cleanshaven face and straight flaxen hair. He wore spectacles, and a big gold ring on his fat finger. He was twenty-seven.

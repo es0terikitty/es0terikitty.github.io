@@ -1,6 +1,7 @@
 +++
 title = "Chapter 5"
 date = 2026-07-04
+[extra]
 chapter = 5
 +++
 ‘O f course, I’ve been meaning lately to go to Razumihin’s to ask for work, to ask him to get me lessons or something …’ Raskolnikov thought, ‘but what help can he be to me now? Suppose he gets me lessons, suppose he shares his last farthing with me, if he has any farthings, so that I could get some boots and make myself tidy enough to give lessons … hm … Well and what then? What shall I do with the few coppers I earn?

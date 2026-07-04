@@ -1,6 +1,7 @@
 +++
 title = "Chapter 23"
 date = 2026-07-04
+[extra]
 chapter = 23
 +++
 The fact was that up to the last moment he had never expected such an ending; he had been overbearing to the last degree, never dreaming that two destitute and defenceless women could escape from his control. This conviction was strengthened by his vanity and conceit, a conceit to the point of fatuity. Pyotr Petrovitch, who had made his way up from insignificance, was morbidly given to self-admiration, had the highest opinion of his intelligence and capacities, and sometimes even gloated in solitude over his image in the glass.

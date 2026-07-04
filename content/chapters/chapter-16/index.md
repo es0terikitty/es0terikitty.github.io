@@ -1,6 +1,7 @@
 +++
 title = "Chapter 16"
 date = 2026-07-04
+[extra]
 chapter = 16
 +++
 Razumihin waked up next morning at eight o’clock, troubled and serious. He found himself confronted with many new and unlooked-for perplexities. He had never expected that he would ever wake up feeling like that.

@@ -1,6 +1,7 @@
 +++
 title = "Chapter 9"
 date = 2026-07-04
+[extra]
 chapter = 9
 +++
 ‘A nd what if there has been a search already? What if I find them in my room?’

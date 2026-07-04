@@ -1,6 +1,7 @@
 +++
 title = "Chapter 22"
 date = 2026-07-04
+[extra]
 chapter = 22
 +++
 It was nearly eight o’clock. The two young men hurried to
