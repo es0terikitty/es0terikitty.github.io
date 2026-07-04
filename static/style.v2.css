@@ -108,7 +108,7 @@ a:hover {
 main {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 16px 24px 40px;
+  padding: 8px 24px 40px;
   min-height: 80vh;
 }
 
