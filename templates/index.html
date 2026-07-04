@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}{{ config.title }}{% endblock title %}
+
+{% block content %}
+<section class="chapter-list">
+  <h2>Contents</h2>
+  <div class="chapter-grid">
+    {% set chapters_section = get_section(path="chapters/_index.md") %}
+    {% set pages = chapters_section.pages | sort(attribute="path") %}
+    {% set seen = [] %}
+    {% for page in pages %}
+      {% if page.extra.page == 1 %}
+      <a href="{{ page.path | safe }}" class="grid-item">
+        {% if page.extra.part == "Epilogue" %}
+          Epilogue
+        {% else %}
+          Part {{ page.extra.part }} — Chapter {{ page.extra.chapter }}
+        {% endif %}
+      </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+</section>
+{% endblock content %}

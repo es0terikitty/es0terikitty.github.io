@@ -1,0 +1,384 @@
+/* Red-Orange-Grey theme — Tristan's Tale */
+
+@font-face {
+  font-family: "Cagliostro";
+  src: url("/fonts/Cagliostro-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CaskaydiaMono Nerd Font";
+  src: url("/fonts/CaskaydiaMonoNerdFont-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CaskaydiaMono Nerd Font";
+  src: url("/fonts/CaskaydiaMonoNerdFont-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg:         #000000;
+  --surface:    #101010;
+  --surface2:   #181818;
+  --text:       #F6F2EC;
+  --text-dim:   #B7AEA3;
+  --accent:     #FF6B4A;
+  --green:      #D62828;
+  --pink:       #F77F00;
+  --border:     #2A2A2A;
+
+  --font-ui:    "JetBrainsMono Nerd Font", "JetBrains Mono", "Menlo", monospace;
+  --font-body:  "Cagliostro", Georgia, serif;
+  --font-size:  15px;
+  --line-height: 1.6;
+  --max-width:  800px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+a:hover {
+  color: var(--pink);
+  text-decoration: underline;
+}
+
+/* ── Top nav ── */
+
+.top-nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 28px 24px 16px;
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+  font-family: var(--font-ui);
+}
+
+.site-title {
+  font-family: "CaskaydiaMono Nerd Font", "CaskaydiaMono NF", var(--font-ui);
+  font-size: 16px;
+  font-weight: bold;
+  color: var(--accent) !important;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
+
+.subtitle {
+  color: var(--text-dim);
+  font-size: 12px;
+}
+
+/* ── Main content ── */
+
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 16px 24px 40px;
+  min-height: 80vh;
+}
+
+/* ── Hero / Homepage ── */
+
+.hero {
+  text-align: center;
+  padding: 48px 0 24px;
+}
+
+.hero h1 {
+  font-family: "CaskaydiaMono Nerd Font", "CaskaydiaMono NF", var(--font-ui);
+  font-size: 22px;
+  color: var(--accent);
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.byline {
+  color: var(--text-dim);
+  font-size: 16px;
+}
+
+.chapter-list {
+  margin-top: 0;
+}
+
+.chapter-list h2 {
+  font-family: var(--font-ui);
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--pink);
+  margin-bottom: 16px;
+}
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.grid-item {
+  display: block;
+  color: var(--text);
+  font-size: 17px;
+  font-family: var(--font-body);
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  text-align: center;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+
+.grid-item:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--surface2);
+  text-decoration: none;
+}
+
+/* ── Chapter page ── */
+
+.chapter-title {
+  font-family: var(--font-ui);
+  font-size: 16px;
+  color: var(--accent);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  text-align: center;
+  flex: 1;
+  margin: 0;
+  padding: 0 12px;
+}
+
+.chapter-body {
+  font-family: var(--font-body);
+  font-size: var(--font-size);
+  line-height: var(--line-height);
+  color: var(--text);
+}
+
+.chapter-body::before {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 2px;
+  background: var(--green);
+  margin: 0 auto 32px;
+  border-radius: 1px;
+}
+
+.chapter-body p {
+  margin-bottom: 1.4em;
+}
+
+
+.chapter-body em {
+  color: var(--pink);
+  font-style: italic;
+}
+
+.chapter-body strong {
+  color: var(--green);
+}
+
+/* ── Page header (chapter title + nav arrows on one row) ── */
+
+.page-header {
+  margin-bottom: 32px;
+  padding-bottom: 16px;
+}
+
+.page-nav-top {
+  font-family: var(--font-ui);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-prev,
+.nav-next {
+  flex: 0 0 auto;
+  display: flex;
+}
+
+.nav-prev {
+  justify-content: flex-start;
+}
+
+.nav-next {
+  justify-content: flex-end;
+}
+
+.nav-prev a,
+.nav-next a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 36px;
+  font-size: 18px;
+  font-weight: 700;
+  background: var(--surface2);
+  color: var(--accent);
+  padding: 4px 16px;
+  border-radius: 6px;
+  transition: background 0.15s;
+}
+
+.nav-prev a:hover,
+.nav-next a:hover {
+  background: var(--accent);
+  color: var(--bg);
+  text-decoration: none;
+}
+
+/* ── Bottom page nav ── */
+
+.page-nav-bottom {
+  font-family: var(--font-ui);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 48px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border);
+}
+
+.nav-up {
+  text-align: center;
+  flex-shrink: 0;
+  padding: 0 16px;
+}
+
+.nav-up a {
+  color: var(--text-dim);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+/* ── Chapter nav (prev/next) ──
+
+.chapter-nav {
+  font-family: var(--font-ui);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 56px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border);
+  font-size: 13px;
+}
+
+.nav-prev,
+.nav-next {
+  flex: 1;
+}
+
+.nav-next {
+  text-align: right;
+}
+
+.nav-up {
+  text-align: center;
+  flex: 0 0 auto;
+  padding: 0 16px;
+}
+
+.nav-up a {
+  color: var(--text-dim);
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+} */
+
+/* ── Footer ── */
+
+footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 20px 16px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+footer a {
+  color: var(--green);
+}
+
+/* ── Responsive ── */
+
+@media (min-width: 1600px) {
+  :root {
+    --max-width: 1200px;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1599px) {
+  :root {
+    --max-width: 1000px;
+  }
+}
+
+@media (max-width: 600px) {
+  :root {
+    --font-size: 16px;
+    --max-width: 100%;
+  }
+
+  .top-nav {
+    flex-direction: column;
+    gap: 4px;
+    padding-top: 20px;
+  }
+
+  .hero {
+    padding: 24px 0;
+  }
+
+  .chapter-nav {
+    flex-direction: column;
+    gap: 10px;
+    text-align: center;
+  }
+
+  .nav-next {
+    text-align: center;
+  }
+}
