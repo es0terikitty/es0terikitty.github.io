@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<section class="chapter-list">
+  <h2>{{ section.title }}</h2>
+  <div class="chapter-grid">
+    {% set pages = section.pages | sort(attribute="extra.chapter") %}
+    {% for page in pages %}
+      <a href="{{ page.path | safe }}" class="grid-item">{{ page.title }}</a>
+    {% endfor %}
+  </div>
+</section>
+
+<nav class="section-back">
+  <a href="/">&larr; Back to all books</a>
+</nav>
+{% endblock content %}
