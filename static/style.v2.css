@@ -535,36 +535,6 @@ footer a {
   }
 }
 
-/* ── Theme swatches ── */
-
-.theme-swatches {
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  margin-top: 48px;
-  padding-top: 24px;
-  border-top: 1px solid var(--border);
-  font-family: var(--font-body);
-  font-size: 7px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.theme-swatch {
-  cursor: pointer;
-  padding: 6px 14px;
-  border-radius: 4px;
-  border: 1px solid var(--border);
-  color: var(--text-dim);
-  transition: color 0.15s, border-color 0.15s, background 0.15s;
-}
-
-.theme-swatch:hover {
-  color: var(--accent);
-  border-color: var(--accent);
-  background: var(--surface);
-}
-
 /* ── Theme: Catppuccin Mocha ── */
 .theme-catpuccin {
   --bg: #1e1e2e;
@@ -702,11 +672,4 @@ footer a {
 .grid-item:nth-child(39) { animation-delay: 1.95s; }
 .grid-item:nth-child(40) { animation-delay: 2.00s; }
 
-/* ── Theme swatch active state ── */
 
-.theme-swatch.active {
-  color: var(--accent);
-  border-color: var(--accent);
-  background: var(--surface);
-  box-shadow: 0 0 12px var(--accent);
-}
