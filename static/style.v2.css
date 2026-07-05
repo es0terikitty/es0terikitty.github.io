@@ -547,7 +547,7 @@ footer a {
   background: transparent;
 }
 
-#bg-canvas {
+#starfield {
   position: fixed;
   top: 0;
   left: 0;
@@ -555,6 +555,13 @@ footer a {
   height: 100%;
   z-index: 0;
   pointer-events: none;
+  overflow: hidden;
+}
+.star {
+  position: absolute;
+  border-radius: 50%;
+  background: var(--accent);
+  opacity: 0.6;
 }
 
 .progress-fill {

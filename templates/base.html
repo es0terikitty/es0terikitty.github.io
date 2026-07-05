@@ -8,11 +8,11 @@
   <link rel="icon" href="/es0terikitty.jpg" type="image/jpeg">
   <style>
 @font-face{font-family:"Cagliostro";src:url("/fonts/Cagliostro-Regular.ttf") format("truetype");font-weight:normal;font-style:normal;font-display:swap}
-:root{--bg:#0F0F0F;--surface:#1E1E1E;--surface2:#292929;--text:#F4DECD;--text-dim:#A9A9A9;--accent:#EF934D;--green:#7EC97E;--pink:#E28DC6;--border:#353535;--link:#EF934D;--link-hover:#EFBF71;--font-body:"Cagliostro",Georgia,serif;--font-size:15px;--line-height:1.6;--max-width:800px}*{margin:0;padding:0;box-sizing:border-box}body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-size:var(--font-size);line-height:var(--line-height);-webkit-font-smoothing:antialiased}h1,h2,h3,h4,h5,h6{font-family:var(--font-body)}a{color:var(--accent);text-decoration:none}.top-nav{max-width:var(--max-width);margin:0 auto;padding:28px 24px 24px;border-bottom:1px solid var(--border);display:flex;flex-direction:column;align-items:center;position:relative;z-index:1;font-family:var(--font-body)}.site-title{font-family:var(--font-body);font-size:21px;font-weight:700;color:var(--accent)!important;text-transform:uppercase;letter-spacing:1.5px;line-height:1.1}.subtitle{color:var(--text-dim);font-size:12px;margin-top:6px}main{max-width:var(--max-width);margin:0 auto;padding:24px 24px 40px;position:relative;z-index:1}.chapter-body p{margin-bottom:1.4em}
+:root{--bg:#0F0F0F;--surface:#1E1E1E;--surface2:#292929;--text:#F4DECD;--text-dim:#A9A9A9;--accent:#EF934D;--green:#7EC97E;--pink:#E28DC6;--border:#353535;--link:#EF934D;--link-hover:#EFBF71;--font-body:"Cagliostro",Georgia,serif;--font-size:15px;--line-height:1.6;--max-width:800px}*{margin:0;padding:0;box-sizing:border-box}body{background:var(--bg);color:var(--text);font-family:var(--font-body);font-size:var(--font-size);line-height:var(--line-height);-webkit-font-smoothing:antialiased}h1,h2,h3,h4,h5,h6{font-family:var(--font-body)}a{color:var(--accent);text-decoration:none}.top-nav{max-width:var(--max-width);margin:0 auto;padding:28px 24px 24px;border-bottom:1px solid var(--border);display:flex;flex-direction:column;align-items:center;position:relative;z-index:1;font-family:var(--font-body)}.site-title{font-family:var(--font-body);font-size:21px;font-weight:700;color:var(--accent)!important;text-transform:uppercase;letter-spacing:1.5px;line-height:1.1}.subtitle{color:var(--text-dim);font-size:12px;margin-top:6px}main{max-width:var(--max-width);margin:0 auto;padding:24px 24px 40px;position:relative;z-index:1}.chapter-body p{margin-bottom:1.4em}@keyframes starDrift{0%{transform:translateY(0)}100%{transform:translateY(-110vh)}}
   </style>
 </head>
 <body>
-<canvas id="bg-canvas"></canvas>
+<div id="starfield"></div>
 <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
   <nav class="top-nav">
     <a href="/" class="site-title">{{ config.title }}</a>
@@ -23,6 +23,6 @@
     {% block content %}{% endblock content %}
   </main>
 <script>(function(){var pf=document.getElementById('progressFill');if(pf){window.addEventListener('scroll',function(){var h=document.documentElement.scrollHeight-window.innerHeight;pf.style.width=h>0?(window.scrollY/h*100)+'%':'0%'})}})();
-(function(){var c=document.getElementById('bg-canvas'),ctx=c.getContext('2d'),x=80,y=80,dx=3,dy=2;function resize(){c.width=window.innerWidth;c.height=window.innerHeight}window.addEventListener('resize',resize);resize();(function draw(){ctx.clearRect(0,0,c.width,c.height);ctx.beginPath();ctx.arc(x,y,40,0,Math.PI*2);ctx.fillStyle='#EF934D';ctx.fill();x+=dx;y+=dy;if(x<40||x>c.width-40)dx=-dx;if(y<40||y>c.height-40)dy=-dy;requestAnimationFrame(draw)})()})();
+(function(){var sf=document.getElementById('starfield'),s=[],W=window.innerWidth,H=window.innerHeight;function resize(){W=window.innerWidth;H=window.innerHeight}window.addEventListener('resize',resize);for(var i=0;i<200;i++){var e=document.createElement('div');e.className='star';var sz=Math.random()*3+1,sp=Math.random()*60+30;e.style.cssText='width:'+sz+'px;height:'+sz+'px;left:'+(Math.random()*W)+'px;bottom:0;animation:starDrift '+sp+'s linear infinite;animation-delay:-'+(Math.random()*sp)+'s';if(i%5===0){e.style.background='#EF934D';e.style.opacity='0.8'}else{e.style.background='#F4DECD';e.style.opacity='0.3'}sf.appendChild(e);s.push(e)}})();
 </body>
 </html>
