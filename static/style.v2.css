@@ -123,138 +123,24 @@ main {
   min-height: 80vh;
 }
 
-/* ── Portfolio Homepage ── */
+/* ── Hero / Homepage ── */
 
-.portfolio-hero {
+.hero {
   text-align: center;
-  padding: 48px 0 16px;
-  animation: fadeUp 0.6s ease-out;
+  padding: 48px 0 24px;
 }
 
-.portfolio-name {
-  font-size: 28px;
+.hero h1 {
+  font-size: 22px;
   color: var(--accent);
-  text-transform: uppercase;
-  letter-spacing: 3px;
-  margin-bottom: 8px;
-}
-
-.portfolio-tagline {
-  color: var(--text-dim);
-  font-size: 15px;
-  letter-spacing: 1px;
-}
-
-.portfolio-about {
-  text-align: center;
-  max-width: 520px;
-  margin: 32px auto 0;
-  color: var(--text-dim);
-  font-size: 14px;
-  line-height: 1.7;
-  animation: fadeUp 0.6s ease-out 0.15s both;
-}
-
-.featured-works {
-  margin-top: 48px;
-}
-
-.section-label {
-  font-size: 11px;
+  margin-bottom: 12px;
   text-transform: uppercase;
   letter-spacing: 2px;
+}
+
+.byline {
   color: var(--text-dim);
-  text-align: center;
-  margin-bottom: 20px;
-  font-weight: 400;
-}
-
-.book-subtitle {
-  font-size: 11px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: var(--pink);
-  margin-bottom: 8px;
-}
-
-.site-footer {
-  text-align: center;
-  padding: 32px 0 8px;
-  font-size: 11px;
-  color: var(--text-dim);
-  letter-spacing: 0.5px;
-  border-top: 1px solid var(--border);
-  animation: fadeUp 0.6s ease-out 0.4s both;
-}
-
-.site-footer a {
-  color: var(--green);
-}
-
-/* ── Book cards ── */
-
-.book-grid {
-  display: grid;
-  gap: 16px;
-  margin-top: 40px;
-}
-
-.book-card {
-  display: block;
-  padding: 24px;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
-  animation: fadeUp 0.6s ease-out 0.3s both;
-}
-
-.book-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
-  border-color: var(--accent);
-  text-decoration: none;
-}
-
-.book-card h2 {
-  font-size: 18px;
-  color: var(--accent);
-  margin-bottom: 8px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.book-card p {
-  color: var(--text-dim);
-  font-size: 14px;
-  margin-bottom: 12px;
-  line-height: 1.5;
-}
-
-.book-link {
-  font-size: 13px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-  color: var(--accent);
-}
-
-/* ── Section back link ── */
-
-.section-back {
-  text-align: center;
-  margin-top: 48px;
-  padding-top: 24px;
-  border-top: 1px solid var(--border);
-}
-
-.section-back a {
-  color: var(--text-dim);
-  font-size: 12px;
-  text-transform: uppercase;
-  letter-spacing: 1px;
-}
-
-.section-back a:hover {
-  color: var(--accent);
+  font-size: 16px;
 }
 
 .chapter-list {
@@ -455,6 +341,23 @@ main {
   text-transform: uppercase;
   letter-spacing: 1px;
 } */
+
+/* ── Footer ── */
+
+footer {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 20px 16px;
+  border-top: 1px solid var(--border);
+  text-align: center;
+  font-family: var(--font-body);
+  font-size: 11px;
+  color: var(--text-dim);
+}
+
+footer a {
+  color: var(--green);
+}
 
 /* ── Responsive ── */
 
@@ -663,62 +566,6 @@ main {
 .grid-item:nth-child(38) { animation-delay: 1.90s; }
 .grid-item:nth-child(39) { animation-delay: 1.95s; }
 .grid-item:nth-child(40) { animation-delay: 2.00s; }
-.grid-item:nth-child(41) { animation-delay: 2.05s; }
-.grid-item:nth-child(42) { animation-delay: 2.10s; }
-.grid-item:nth-child(43) { animation-delay: 2.15s; }
-.grid-item:nth-child(44) { animation-delay: 2.20s; }
-.grid-item:nth-child(45) { animation-delay: 2.25s; }
-.grid-item:nth-child(46) { animation-delay: 2.30s; }
-.grid-item:nth-child(47) { animation-delay: 2.35s; }
-.grid-item:nth-child(48) { animation-delay: 2.40s; }
-.grid-item:nth-child(49) { animation-delay: 2.45s; }
-.grid-item:nth-child(50) { animation-delay: 2.50s; }
-.grid-item:nth-child(51) { animation-delay: 2.55s; }
-.grid-item:nth-child(52) { animation-delay: 2.60s; }
-.grid-item:nth-child(53) { animation-delay: 2.65s; }
-.grid-item:nth-child(54) { animation-delay: 2.70s; }
-.grid-item:nth-child(55) { animation-delay: 2.75s; }
-.grid-item:nth-child(56) { animation-delay: 2.80s; }
-.grid-item:nth-child(57) { animation-delay: 2.85s; }
-.grid-item:nth-child(58) { animation-delay: 2.90s; }
-.grid-item:nth-child(59) { animation-delay: 2.95s; }
-.grid-item:nth-child(60) { animation-delay: 3.00s; }
-.grid-item:nth-child(61) { animation-delay: 3.05s; }
-.grid-item:nth-child(62) { animation-delay: 3.10s; }
-.grid-item:nth-child(63) { animation-delay: 3.15s; }
-.grid-item:nth-child(64) { animation-delay: 3.20s; }
-.grid-item:nth-child(65) { animation-delay: 3.25s; }
-.grid-item:nth-child(66) { animation-delay: 3.30s; }
-.grid-item:nth-child(67) { animation-delay: 3.35s; }
-.grid-item:nth-child(68) { animation-delay: 3.40s; }
-.grid-item:nth-child(69) { animation-delay: 3.45s; }
-.grid-item:nth-child(70) { animation-delay: 3.50s; }
-.grid-item:nth-child(71) { animation-delay: 3.55s; }
-.grid-item:nth-child(72) { animation-delay: 3.60s; }
-.grid-item:nth-child(73) { animation-delay: 3.65s; }
-.grid-item:nth-child(74) { animation-delay: 3.70s; }
-.grid-item:nth-child(75) { animation-delay: 3.75s; }
-.grid-item:nth-child(76) { animation-delay: 3.80s; }
-.grid-item:nth-child(77) { animation-delay: 3.85s; }
-.grid-item:nth-child(78) { animation-delay: 3.90s; }
-.grid-item:nth-child(79) { animation-delay: 3.95s; }
-.grid-item:nth-child(80) { animation-delay: 4.00s; }
-.grid-item:nth-child(81) { animation-delay: 4.05s; }
-.grid-item:nth-child(82) { animation-delay: 4.10s; }
-.grid-item:nth-child(83) { animation-delay: 4.15s; }
-.grid-item:nth-child(84) { animation-delay: 4.20s; }
-.grid-item:nth-child(85) { animation-delay: 4.25s; }
-.grid-item:nth-child(86) { animation-delay: 4.30s; }
-.grid-item:nth-child(87) { animation-delay: 4.35s; }
-.grid-item:nth-child(88) { animation-delay: 4.40s; }
-.grid-item:nth-child(89) { animation-delay: 4.45s; }
-.grid-item:nth-child(90) { animation-delay: 4.50s; }
-.grid-item:nth-child(91) { animation-delay: 4.55s; }
-.grid-item:nth-child(92) { animation-delay: 4.60s; }
-.grid-item:nth-child(93) { animation-delay: 4.65s; }
-.grid-item:nth-child(94) { animation-delay: 4.70s; }
-.grid-item:nth-child(95) { animation-delay: 4.75s; }
-.grid-item:nth-child(96) { animation-delay: 4.80s; }
 
 /* ── Theme swatch active state ── */
 

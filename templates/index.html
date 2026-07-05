@@ -3,30 +3,14 @@
 {% block title %}{{ config.title }}{% endblock title %}
 
 {% block content %}
-<section class="portfolio-hero">
-  <h1 class="portfolio-name">{{ config.title }}</h1>
-  <p class="portfolio-tagline">{{ config.description }}</p>
-</section>
-
-<section class="portfolio-about">
-  <p>Classic literature, thoughtfully presented. A curated collection of Dostoevsky's greatest works for the modern reader.</p>
-</section>
-
-<section class="featured-works">
-  <h2 class="section-label">Featured Works</h2>
-  <div class="book-grid">
-    <a href="/chapters/" class="book-card">
-      <h2>Crime and Punishment</h2>
-      <p class="book-subtitle">40 chapters</p>
-      <p>Follow Raskolnikov through the streets of St. Petersburg in Dostoyevsky's masterpiece of psychological drama.</p>
-      <span class="book-link">Read &rarr;</span>
-    </a>
-    <a href="/brothers-karamazov/" class="book-card">
-      <h2>The Brothers Karamazov</h2>
-      <p class="book-subtitle">96 chapters</p>
-      <p>The passionate Karamazov brothers collide in a story of faith, doubt, and redemption in Dostoyevsky's final novel.</p>
-      <span class="book-link">Read &rarr;</span>
-    </a>
+<section class="chapter-list">
+  <h2>Contents</h2>
+  <div class="chapter-grid">
+    {% set chapters_section = get_section(path="chapters/_index.md") %}
+    {% set pages = chapters_section.pages | sort(attribute="extra.chapter") %}
+    {% for page in pages %}
+      <a href="{{ page.path | safe }}" class="grid-item">{{ page.title }}</a>
+    {% endfor %}
   </div>
 </section>
 
@@ -37,8 +21,4 @@
   <span class="theme-swatch" data-theme="theme-nord">Nord</span>
   <span class="theme-swatch" data-theme="theme-paper">Paper</span>
 </div>
-
-<footer class="site-footer">
-  <p>Built with <a href="https://getzola.org">Zola</a> &middot; Hosted on <a href="https://pages.github.com">GitHub Pages</a></p>
-</footer>
 {% endblock content %}
