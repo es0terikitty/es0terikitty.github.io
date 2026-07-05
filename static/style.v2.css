@@ -557,12 +557,7 @@ footer a {
   pointer-events: none;
   overflow: hidden;
 }
-.star {
-  position: absolute;
-  border-radius: 50%;
-  background: var(--accent);
-  opacity: 0.6;
-}
+
 
 .progress-fill {
   height: 100%;
