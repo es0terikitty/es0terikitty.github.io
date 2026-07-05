@@ -177,6 +177,7 @@ main {
   font-size: 11px;
   letter-spacing: 1px;
   background: var(--surface);
+  font-weight: bold;
 }
 
 .num-table td, .prime-table td {
@@ -209,6 +210,7 @@ main {
   border-color: var(--accent);
   transform: translateY(-4px);
   box-shadow: 0 6px 24px rgba(0,0,0,0.35);
+  text-decoration: none;
 }
 
 .book-card-img-wrap {
