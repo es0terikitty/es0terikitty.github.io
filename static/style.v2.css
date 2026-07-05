@@ -50,6 +50,12 @@
   box-sizing: border-box;
 }
 
+/* ── Base ── */
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background: var(--bg);
   color: var(--text);
@@ -167,7 +173,9 @@ main {
   border: 1px solid var(--border);
   border-radius: 8px;
   text-align: center;
-  transition: background 0.15s, color 0.15s, border-color 0.15s;
+  transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+  opacity: 0;
+  animation: fadeUp 0.5s ease-out forwards;
 }
 
 .grid-item:hover {
@@ -175,6 +183,8 @@ main {
   border-color: var(--link-hover, var(--accent));
   background: var(--surface2);
   text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.3);
 }
 
 /* ── Chapter page ── */
@@ -269,6 +279,7 @@ main {
   background: var(--accent);
   color: var(--bg);
   text-decoration: none;
+  box-shadow: 0 0 20px var(--accent);
 }
 
 /* ── Bottom page nav ── */
@@ -477,4 +488,90 @@ footer a {
   --border: #4A3525;
   --link: #2D5A27;
   --link-hover: #D4AF37;
+}
+
+/* ── Reading progress bar ── */
+
+.progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  z-index: 9999;
+  background: transparent;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0%;
+  background: var(--accent);
+  transition: width 0.1s linear;
+}
+
+/* ── Animations ── */
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.chapter-body {
+  animation: fadeUp 0.6s ease-out;
+}
+
+.grid-item:nth-child(1) { animation-delay: 0.05s; }
+.grid-item:nth-child(2) { animation-delay: 0.10s; }
+.grid-item:nth-child(3) { animation-delay: 0.15s; }
+.grid-item:nth-child(4) { animation-delay: 0.20s; }
+.grid-item:nth-child(5) { animation-delay: 0.25s; }
+.grid-item:nth-child(6) { animation-delay: 0.30s; }
+.grid-item:nth-child(7) { animation-delay: 0.35s; }
+.grid-item:nth-child(8) { animation-delay: 0.40s; }
+.grid-item:nth-child(9) { animation-delay: 0.45s; }
+.grid-item:nth-child(10) { animation-delay: 0.50s; }
+.grid-item:nth-child(11) { animation-delay: 0.55s; }
+.grid-item:nth-child(12) { animation-delay: 0.60s; }
+.grid-item:nth-child(13) { animation-delay: 0.65s; }
+.grid-item:nth-child(14) { animation-delay: 0.70s; }
+.grid-item:nth-child(15) { animation-delay: 0.75s; }
+.grid-item:nth-child(16) { animation-delay: 0.80s; }
+.grid-item:nth-child(17) { animation-delay: 0.85s; }
+.grid-item:nth-child(18) { animation-delay: 0.90s; }
+.grid-item:nth-child(19) { animation-delay: 0.95s; }
+.grid-item:nth-child(20) { animation-delay: 1.00s; }
+.grid-item:nth-child(21) { animation-delay: 1.05s; }
+.grid-item:nth-child(22) { animation-delay: 1.10s; }
+.grid-item:nth-child(23) { animation-delay: 1.15s; }
+.grid-item:nth-child(24) { animation-delay: 1.20s; }
+.grid-item:nth-child(25) { animation-delay: 1.25s; }
+.grid-item:nth-child(26) { animation-delay: 1.30s; }
+.grid-item:nth-child(27) { animation-delay: 1.35s; }
+.grid-item:nth-child(28) { animation-delay: 1.40s; }
+.grid-item:nth-child(29) { animation-delay: 1.45s; }
+.grid-item:nth-child(30) { animation-delay: 1.50s; }
+.grid-item:nth-child(31) { animation-delay: 1.55s; }
+.grid-item:nth-child(32) { animation-delay: 1.60s; }
+.grid-item:nth-child(33) { animation-delay: 1.65s; }
+.grid-item:nth-child(34) { animation-delay: 1.70s; }
+.grid-item:nth-child(35) { animation-delay: 1.75s; }
+.grid-item:nth-child(36) { animation-delay: 1.80s; }
+.grid-item:nth-child(37) { animation-delay: 1.85s; }
+.grid-item:nth-child(38) { animation-delay: 1.90s; }
+.grid-item:nth-child(39) { animation-delay: 1.95s; }
+.grid-item:nth-child(40) { animation-delay: 2.00s; }
+
+/* ── Theme swatch active state ── */
+
+.theme-swatch.active {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--surface);
+  box-shadow: 0 0 12px var(--accent);
 }
