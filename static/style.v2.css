@@ -184,9 +184,9 @@ main {
   color: var(--text);
 }
 
-.prime-table tfoot td {
-  color: var(--green);
-  background: var(--surface);
+.num-table td:first-child, .prime-table td:first-child {
+  color: var(--pink);
+  font-weight: bold;
 }
 
 .book-shelf {
