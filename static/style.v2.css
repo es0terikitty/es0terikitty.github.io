@@ -172,7 +172,7 @@ main {
 }
 
 .num-table th, .prime-table th {
-  color: var(--accent);
+  color: var(--pink);
   text-transform: uppercase;
   font-size: 11px;
   letter-spacing: 1px;
