@@ -158,6 +158,16 @@ body::after {
   font-size: var(--text-xs); color: var(--fg-dim);
   text-transform: uppercase; letter-spacing: 0.08em;
 }
+.live-dot {
+  display: inline-block;
+  width: 6px; height: 6px;
+  background: var(--red);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .live-dot { animation: blink 1s step-end infinite; }
+}
 .terminal-body {
   background: var(--bg-panel);
   padding: 24px;
