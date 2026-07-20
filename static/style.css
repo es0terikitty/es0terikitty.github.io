@@ -299,6 +299,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 }
 .stat-card .value { font-size: var(--text-xl); font-weight: 700; color: var(--fg); }
 .stat-card .label { font-size: var(--text-xs); color: var(--fg-dim); text-transform: uppercase; letter-spacing: 0.08em; margin-top: 4px; }
+.live-date { font-size: var(--text-xs); color: var(--fg-muted); margin-top: 2px; }
 
 /* ── Footer ── */
 .footer {
@@ -387,7 +388,6 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   #stack.wrap { max-width: var(--content-w-wide); }
   .stack-grid { grid-template-columns: repeat(4, 1fr); }
   #stats.wrap { max-width: var(--content-w-wide); }
-  #stats.wrap .stats-grid { grid-template-columns: repeat(4, 1fr); }
   .chapter-list { max-width: var(--content-w-list); }
   .chapter-grid { display: block; columns: 3; column-gap: 24px; }
   .chapter-grid .grid-item { break-inside: avoid; }

@@ -160,20 +160,33 @@
       <div class="value">{{ all_n }}</div>
       <div class="label">Notes</div>
     </div>
+    {% set novel_n = ri_n + mt_n %}
     <div class="stat-card">
-      <div class="value">{{ ri_n }}</div>
-      <div class="label">RI Chapters</div>
+      <div class="value">{{ all_n }}</div>
+      <div class="label">Notes</div>
     </div>
     <div class="stat-card">
-      <div class="value">{{ mt_n }}</div>
-      <div class="label">MT Chapters</div>
+      <div class="value">{{ novel_n }}</div>
+      <div class="label">Novel Chapters</div>
     </div>
     <div class="stat-card">
-      <div class="value">{{ now() | date(format="%Y-%m-%d") }}</div>
-      <div class="label">Last Updated</div>
+      <div class="value"><span id="live-clock">00:00:00</span></div>
+      <div class="label">IST</div>
+      <div class="live-date" id="live-date"></div>
     </div>
   </div>
 </section>
 
 </main>
+
+<script>
+function tick() {
+  var d = new Date();
+  var opts = { timeZone: 'Asia/Kolkata', hour12: false };
+  document.getElementById('live-clock').textContent = d.toLocaleTimeString('en-US', opts);
+  document.getElementById('live-date').textContent = d.toLocaleDateString('en-US', { timeZone: 'Asia/Kolkata', weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+}
+tick();
+setInterval(tick, 1000);
+</script>
 {% endblock content %}
