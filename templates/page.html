@@ -3,8 +3,18 @@
 {% block title %}{{ page.title }} — {{ config.title }}{% endblock title %}
 
 {% block content %}
-{% set section = get_section(path="chapters/_index.md") %}
-{% set all_pages = section.pages | sort(attribute="extra.chapter") %}
+{% if page.components[0] == "mushoku-tensei" %}
+  {% set section_base = page.components | slice(end=2) | join(sep="/") %}
+  {% set section_path = section_base ~ "/_index.md" %}
+{% else %}
+  {% set section_path = "chapters/_index.md" %}
+{% endif %}
+{% set section = get_section(path=section_path) %}
+{% if page.components[0] == "mushoku-tensei" %}
+  {% set all_pages = section.pages %}
+{% else %}
+  {% set all_pages = section.pages | sort(attribute="extra.chapter") %}
+{% endif %}
 {% set first_page = all_pages | first %}
 {% set last_page = all_pages | last %}
 {% set prev_path = "" %}
