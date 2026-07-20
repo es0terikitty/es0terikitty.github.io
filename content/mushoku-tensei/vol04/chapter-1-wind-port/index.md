@@ -17,7 +17,6 @@ had to travel halfway across the world to get back.
 I became an adventurer to earn money as I started out on the
 long voyage home. In the past year, I’ve successfully cut my way
 across the Demon Continent.
-***
 Wind Port, the Demon Continent’s one and only port city, was a
 townscape with rolling hills. From the entrance, you had a sweeping
 view of the entire city. Most of the houses were made with mud and
@@ -161,7 +160,6 @@ her takeoff made me jump—it was like a low thumping noise. She
 had really toned her legs and lower body. Right now that really
 complemented her build, but I imagine her becoming even more
 brawny and muscular in the future, and that worried me a little.
-***
 Once we decided on our inn and boarded our lizard, we headed
 straight for the Adventurers’ Guild. A diverse crowd of adventurers
 clamored around the Wind Port Adventurers’ Guild. It wasn’t an
@@ -347,7 +345,6 @@ of a “Kennel Master.”
 “Hmph!”
 We departed with the attention of most of the guild trained on
 the three of us.
-***
 We arrived at the checkpoint. This city was located in the
 Demon Continent, but the boat we wanted to board would take us to
 the Holy Country of Millis. If you were carrying any luggage, you
@@ -392,7 +389,6 @@ you?”
 “Just the money you wasted by lying about it in the first place.”
 In other words, as long as we paid the money like he told us, we
 would be fine. The power of money was impressive indeed.
-***
 The sun was already going down by the time we departed from
 the checkpoint. We decided to return to the inn and eat. We were
 provided with the port city’s unique seafood cuisine. The main dish
@@ -420,7 +416,6 @@ our strategy meeting.”
 “Rudeus, talking during a meal is poor manners,” Eris said,
 suddenly wearing the expression of a prim and proper lady on her
 face.
-***
 We started our meeting once the meal was over and our bellies
 were full.
 “It’s going to cost two hundred green ore for us to cross the sea.
@@ -518,7 +513,6 @@ Pros and cons aside, I didn’t want to sell it if at all possible. It
 was a precious birthday gift from Eris, and I was making good use of
 it. Eris and Ruijerd surely wouldn’t agree to me letting go of it so
 easily.
-***
 That night, a divine message came to me.
 The Man-God told me, “Buy some food at a street stall and
 search the alleyways by yourself.”

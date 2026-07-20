@@ -37,7 +37,6 @@ There was no use in being impatient.
 
 Ten years had passed since I came into this world, huh? The
 thought made me a bit emotional.
-***
 As my birthday was about a month away, the people in the
 manor began growing restless, Eris especially so.
 What is it, I wondered. Was someone important supposed to be
@@ -111,7 +110,6 @@ so this was the first time she’d done something like this. If I didn’t act
 excited about it, she would be disappointed.
 I decided to practice making fake tears with water magic.
 Because I was a man who knew how to read the situation.
-***
 My birthday.
 I pretended I didn’t notice how anxious everyone in the manor
 was. Once afternoon lessons ended and we had our break, Ghislaine
@@ -212,7 +210,6 @@ us for dinner.
 “All right, Rudeus. It’s time to eat, let’s go.” She stood quickly, as
 if trying to hurry me along. Apparently, the real show was about to
 start.
-***
 I entered the dining hall to a burst of applause. I had previously
 met every person gathered here at least once. Of course, Sauros and
 Philip and Hilda, whose presences were typically scarce, were also in
@@ -431,7 +428,6 @@ tugged at me, guiding me to the birthday seat that had been
 installed in front of a gigantic cake. “I helped too!”
 Other than Eris’s first home-cooked dishes, which were
 atrocious, the rest of the food was delicious.
-***
 Once the party started, Eris’s mouth went off like a machine
 gun, talking about the cooking and the staff. I gave short responses
 as I listened, but midway through her words began to slow. Perhaps
@@ -619,7 +615,6 @@ that offer.
 “All right, it’s about time to sleep then.”
 “Yes, good night,” I responded.
 So ended the birthday party that Eris had staged for me.
-***
 When I returned to my room, Eris, who should have been
 asleep, was sitting on my bed.
 “Oh, w-welcome back!” She was wearing a red negligee.
@@ -733,7 +728,6 @@ on my back.
 Eris was standing over me. Her cheeks were red. She was glaring
 at me. “I told you just a little, didn’t I?! You moron!” The door was
 left hanging wide open after she kicked it and marched out.
-***
 I stared blankly at the ceiling. The feverish heat that had taken
 over had dissipated completely.
 “This is why you’re a virgin.”
@@ -844,7 +838,6 @@ Lolita good, touching bad.
 Wait, five years from now…? The thick-headed protagonist? An
 image of Sylphie’s pale, angelic face and sweet smile suddenly
 popped into the back of my head.
-***
 
 The next morning, I woke up to crusty underwear. Apparently, I
 had accidentally released the A button. Oh well, I would just have to
@@ -852,7 +845,6 @@ start again tomorrow.
 I had a word with the maid who came to collect our laundry and
 asked her to keep quiet about this so Eris didn’t find out. She giggled
 with a look of mirth in her eyes. It was a little embarrassing.
-***
 NAME: Eris B. Greyrat
 OCCUPATION: Granddaughter of Fittoa’s liege lord
 PERSONALITY: Sometimes violent, sometimes meek, depending

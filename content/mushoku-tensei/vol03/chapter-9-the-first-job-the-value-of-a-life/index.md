@@ -347,7 +347,6 @@ Right now, we needed to take these people into custody. If they
 were good guys, we could cajole them into keeping quiet about this,
 and if they were bad guys, we could punch them until they promised
 not to talk.
-***
 A few minutes later, I was standing over three people—two
 men, one woman—who were lying unconscious on the floor in a
 corner of the room.

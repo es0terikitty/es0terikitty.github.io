@@ -248,7 +248,6 @@ I reinforced the door with earth magic. Then I used fire to
 remove her bindings and healing to restore her to full health.
 Finally, I slipped out the window and pulled the Young Mistress
 out with me.
-***
 Once we escaped the storehouse, we were greeted by an
 unfamiliar town. There were no castle walls. This wasn’t Roa. It
 wasn’t small enough to be a village, but it was a very small town. I
@@ -395,7 +394,6 @@ them, I would have to overpower them with my magic.
 As we hid in a corner of the wait area, I prayed they were
 opponents I could defeat. When it was time to leave, I handed my
 money to the coachman and we boarded.
-***
 We arrived in the neighboring city without any trouble.
 For the night’s stay, I chose a dilapidated-looking shack to teach
 the Young Mistress a lesson about how harsh the world could really
@@ -647,7 +645,6 @@ If I had made even one mistake, I would have died. This really
 was a different world. A world with magic and swords.
 What would happen if I died this time?
 A chill of indescribable fear ran up my spine.
-***
 “Phew…”
 When we finally reached the manor, the Young Mistress sank to
 the ground, completely exhausted. Her legs must have given out now
@@ -679,7 +676,6 @@ tutor? Oh, oh wow! Seriously? S-so, I succeeded?! Yes!
 “Drop the Mistress! Just call me Eris!” She was imitating
 Ghislaine. As soon as she finished, she collapsed.
 That was how I became the tutor for Eris Boreas Greyrat.
-***
 NAME: Eris B. Greyrat
 OCCUPATION: Granddaughter of Fittoa’s liege lord
 PERSONALITY: Fierce
@@ -849,7 +845,6 @@ Like you have any room to talk, I thought.
 “Grr…” Eris took a fistful of her long, red hair into each hand.
 She made a tail on either side of her temples; instant twin tails. Then,
 just like that, she winked at me. “Please teach me magic, mew ✩”
-***
 Wait. Was I dreaming? I blacked out for a minute there. It felt
 like I’d just had a really awful dream.
 “Don’t worry about teaching me reading or writing, mew ✩”

@@ -172,7 +172,6 @@ I paused for just an instant to steady my nerves and say a silent
 little prayer.
 “You do have some sort of proof that we broke the rules, right?”
 Nokopara’s irritated “Tch!” echoed across the lobby.
-***
 Nokopara started off by pulling a list of tasks that Dead End had
 completed from the Guild’s record books. The clerk didn’t ask him
 why he wanted this information; this probably wasn’t the first time
@@ -239,7 +238,6 @@ But at least for now, this didn’t seem to occur to Nokopara.
 “To hell with this! We’re goin’ to the next one!”
 With a small smirk on my face, I followed as he stomped off to
 the next address on his list.
-***
 By the time we’d visited several dozen former clients,
 Nokopara’s face had somehow gone from red to blue.
 
@@ -403,7 +401,6 @@ can make a run for it in the confusion. Let them take away my status
 as an adventurer if they want to. I’m going to reach my goal, no
 matter how low I have to sink.
 Just you watch!
-***
 With my mind made up at last, I began gathering magical energy
 in my hands… then noticed the look on Nokopara’s face.
 “Wha…ah…”
@@ -521,7 +518,6 @@ horse-man’s pants, and something bulged out in the rear.
 Nokopara nodded vigorously and repeatedly.
 When Ruijerd dropped him, he hit the ground with a nasty
 squelch.
-***
 Before long, Ruijerd was chased out of Rikarisu. Taking all the
 blame for everything on his shoulders, he fled into the wilderness.
 That was an ugly, frustrating day. Ruijerd set off running all by
@@ -722,7 +718,6 @@ With a wry smile, Ruijerd nodded slightly.
 
 For some reason…in that moment, I felt like I’d finally earned his
 trust for good.
-***
 When I woke up the next morning, Ruijerd was as bald as a cue
 ball.
 The sight left me dumbfounded. Also a little freaked out,

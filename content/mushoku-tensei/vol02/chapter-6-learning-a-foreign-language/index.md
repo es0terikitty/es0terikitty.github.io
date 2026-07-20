@@ -222,7 +222,6 @@ long history existed was because some species were immortal. This
 was the case for the Great Demon Emperor Kishirika as well as a few
 other Demon Kings. Perhaps there was some sort of magic that made
 them live forever.
-***
 By learning about the history of this world, I also turned up
 some information about the other languages that existed here. The
 most commonly used ones were:
@@ -253,7 +252,6 @@ the Human tongue.
 As for the sea, seafolk lived all over the waters of the world. I
 had heard the term “fish people” before, but never seen them in the
 city.
-***
 On top of my regular monthly income, I made and sold figures,
 assisted Philip in managing the daily hiring of part-time workers, and
 sometime resold wares I had bought several months prior. With
@@ -272,7 +270,6 @@ Which was how I began learning a foreign language. I decided to
 start with Ghislaine’s native language, the Beast God tongue. I also
 wanted to learn the Demon God Tongue. I decided to send Roxy a
 letter in hopes that she might teach me, even if just a little.
-***
 I turned nine. That meant two years had passed since I first
 became Eris’s home tutor.
 I’d spent a year learning the Beast God tongue. I had Ghislaine’s
@@ -286,7 +283,6 @@ cheap book on the language. The owner of the bookstore prefaced
 the sale by telling me, “I have no clue what’s written in here, just so
 you know.” It was seven gold coins, but I haggled the price down to
 six.
-***
 
 Three months passed. My study of the Demon God tongue
 wasn’t making much progress. Translation itself was difficult; in fact,
@@ -709,7 +705,6 @@ meet her master. If possible, Ghislaine would take Rudeus along as
 well.
 Ghislaine wondered how her master would react to that. She
 was looking forward to it.
-***
 NAME: Eris B. Greyrat
 OCCUPATION: Granddaughter of Fittoa’s liege lord
 PERSONALITY: A little violent

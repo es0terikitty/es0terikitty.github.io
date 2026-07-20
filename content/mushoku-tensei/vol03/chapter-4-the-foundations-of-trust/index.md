@@ -94,7 +94,6 @@ lessons. Watching her drop down to the ground, I found myself
 slightly concerned that the girl might completely forget the concept
 of “manners” by the time we made it back home.
 Shaking my head slightly, I turned back to face Elder Rokkus.
-***
 
 I started off by stating my name, age, profession, and place of
 residence, then explained that Eris was my pupil and the daughter of
@@ -243,7 +242,6 @@ complied immediately. Still, I could see his hands shaking with fury.
 “Well, I’ve got plenty of time.”
 The story Ruijerd proceeded to tell me described a hidden side
 of this world’s history.
-***
 The Demon-God Laplace was known as a hero who united the
 demonic races, winning them the rights humankind had long denied
 them. The Superd had rallied to Laplace’s banner very early in his
@@ -385,7 +383,6 @@ location.
 responsibility for the disgrace I brought upon my people. Even if I am
 the last of my kind, I want to tell the world the truth.”
 With his story told, Ruijerd fell silent once again.
-***
 His words had been simple and blunt. He never appealed to our
 emotions. And yet, Ruijerd had conveyed his regret, anger, and
 bitterness perfectly. Either all of it was true, or the man was an

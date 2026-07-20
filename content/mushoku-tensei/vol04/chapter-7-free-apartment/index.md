@@ -31,7 +31,6 @@ magic.
 There surely isn’t a thief alive who would look at these bars
 and think, hey! I think I want to go in there! Yet inside they will go,
 because this free apartment is a jail cell.
-***
 
 Hung over Gyes’ back, I continued my ride through the forest.
 Unable to move, I had no choice but to allow myself to be carried
@@ -99,7 +98,6 @@ any tentacle monsters on me…right?
 Either way, I felt like I finally understood the meaning behind
 Gallus’ words. If this was what was going to happen to them, they
 surely would have been in a lot of trouble.
-***
 An entire day passed as I was busy thinking those things. Time
 was fleeting. The morning of the day after I was thrown into this cell,
 a guard appeared. It was a woman. She had the build of a warrior,

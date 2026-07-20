@@ -55,7 +55,6 @@ earth…but he wasn’t sure how to use it! He conjured fire and…the
 wind…water? Earth? He didn’t know! He just didn’t know anymore!
 “Aaah!”
 He fell headfirst.
-***
 “Waaaah!” A silver-haired boy screamed as he jerked his body
 upright and out of bed. He was somewhere around the age of ten,
 and his youthful features were contorted in fear.
@@ -98,7 +97,6 @@ washing. Lady Ariel is waiting for us.” Once Luke finished speaking,
 he left the room.
 Fitz wiped away his tears and crawled out of bed, grabbing his
 sunglasses from the nearby table and sliding them onto his face.
-***
 Fitz was a victim of the incident that decimated the Fittoa
 Region. He was transported into mid-air, a hundred meters above
 the ground. Like anyone else, Fitz was no exception to the law of
@@ -195,7 +193,6 @@ her makeup stand. It showed a young man with a somber look,
 sunglasses over his eyes. He lingered there and twisted a strand of
 short-cropped white hair around one of his fingers. It only lasted for
 a moment. He turned away and trailed after Ariel.
-***
 The nobles were quite judgmental about the young guardian Fitz
 after his abrupt appearance in the royal palace.
 “But there are so many among the Magician’s Guild who were
@@ -303,7 +300,6 @@ That was how the nobles criticized Fitz, maliciously gossiping
 about him as they watched, without any intention to act on their
 hostilities. Fortunately, that was exactly what Ariel expected them to
 do.
-***
 “Then shall we have Lord Tink’s son enter the Knights’ Guild?”
 “Yes, he is skilled at arithmetic. Have him enter the guild and
 learn firsthand from the guild’s accountant.”
@@ -492,7 +488,6 @@ as a reward.”
 “Well, I’m sure it will stir some strange rumors, but you should
 be fine. You’ve endured their gossip thus far after all, right?”
 Fitz had no allies here. Once he realized that, he heaved a sigh.
-***
 As Ariel and Pilemon were conspiring with one another,
 somewhere else in the imperial palace, another conspiracy was
 taking shape.
@@ -566,7 +561,6 @@ resembled a couple of corrupt Edo period officials as they conspired
 in the seclusion of a private room. The only person who overheard
 their talk was the female slave resting atop Darius’ lap. And that girl
 just happened to be…
-***
 
 It was late at night, a time for everyone to be resting in their
 beds, when Fitz arrived in Ariel’s chambers. Steam was visibly rising
@@ -742,7 +736,6 @@ assassin’s body fell down below.”
 called for the guard.
 Fitz watched, still feeling faint, and only lost consciousness once
 Luke was out of sight.
-***
 Thus, the attempted assassination of Ariel was over.
 
 Fitz had been infected by the poison, but the cut on his finger
@@ -774,7 +767,6 @@ assassins, she could not bring their identity to light. As a result,
 Pilemon determined that it was too risky for her to remain and
 proposed a plan for her to leave the country under the guise of
 studying abroad. But that is a story for another day.
-***
 
 Guardian Fitz had lost those closest to him in the Displacement
 Incident, disrupting his entire life. Though it wasn’t of his own

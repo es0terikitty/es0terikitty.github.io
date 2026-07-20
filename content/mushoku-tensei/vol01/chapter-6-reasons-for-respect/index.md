@@ -41,7 +41,6 @@ from home.
 No matter how I tried to reassure myself, no matter how much I
 promised myself aloud, my body would not obey.
 I wanted to cry.
-***
 The graduation ceremony was to take place outside the village,
 Roxy informed me.
 I protested meekly. “Outside?”
@@ -178,7 +177,6 @@ scant. I stopped asking her questions, and the silence resumed for a
 while. The rest of our journey would take roughly another hour.
 Soon, the fields of wheat were completely gone, leaving us to
 travel through empty grassland.
-***
 
 We continued our way across the plains, bound for the flat
 horizon.

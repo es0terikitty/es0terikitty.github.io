@@ -47,7 +47,6 @@ swordswomen, so it would better to have them master basic spells
 because they were more versatile. In the end, I decided to keep my
 lessons as they were. I wanted to believe they would be able to cast
 without chanting someday.
-***
 Eris’s tenth birthday was drawing close. A person’s tenth
 birthday was a special one. It was customary for the nobility to host
 large parties for a child on their fifth, tenth, and fifteenth birthdays.
@@ -137,7 +136,6 @@ explicitly. “So what do you want me to do?”
 “Could, I mean, if you wouldn’t mind, Lord Rudeus, couldn’t you
 persuade her for me? To come back for her dance lessons.”
 There it was.
-***
 Why did I agree to her request? Because I had nothing else to
 do, I suppose, and because of something Edna said: “Becoming a
 laughingstock on that day seems far too cruel.”
@@ -224,7 +222,6 @@ self? Whichever it was, she seemed to have found some motivation,
 so I was glad.
 “Very well, Young Mistress.”
 I followed her back to the dance hall.
-***
 Helping with her lessons meant I was learning to dance myself.
 For things like this, you improved faster by having a partner.
 That said, I had never danced a day in either of my lives. My
@@ -356,7 +353,6 @@ some odd reason.
 That’s right, praise me some more, I thought. I’m the type that
 feeds off praise. Bwahahaha!
 
-***
 The day of the dance party.
 Eris was all dolled up and seated like a princess when Sauros
 roared for the festivities to begin. I hunkered down in a corner and
@@ -508,7 +504,6 @@ Applause erupted when the dance finished. Sauros came running
 over, lifted the both of us onto his shoulders, and ran around the
 courtyard laughing the whole way.
 It was an enjoyable party.
-***
 When the party was over, I invited Ghislaine and Eris to my
 room. In truth I only intended to invite Ghislaine, but Eris was with
 her, so I extended the offer to Eris as well.
@@ -611,7 +606,6 @@ father.”
 “Sounds good to me. All right then, let’s eat. The food’s cold, but
 let’s dig in anyway. And let’s forget about the whole teacherapprentice relationship for now.”
 And that was how Eris’s tenth birthday came safely to an end.
-***
 When I woke the next day, Eris was right beside me. She had
 such a fierce personality, but her sleeping face was so relaxed and
 adorable.
@@ -723,7 +717,6 @@ siblings either.
 “All right.”
 Today was one of our days off. Tomorrow, Eris would have to
 work hard again.
-***
 NAME: Eris B. Greyrat
 OCCUPATION: Granddaughter of Fittoa’s liege lord
 PERSONALITY: A little violent

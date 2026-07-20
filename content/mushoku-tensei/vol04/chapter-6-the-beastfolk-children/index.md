@@ -164,7 +164,6 @@ meant they were all in feathered robes.
 “Where did you find clothes like that?”
 “I cut the curtains.”
 Oho. You are a clever one, I thought. A true font of wisdom.
-***
 The next objective in our mission was to return the children to
 their homes. That meant bringing them to the city and guiding them
 to their parents.
@@ -228,7 +227,6 @@ was here” on the wall, they might actually believe it. Kishirika did say
 to rely on her if I needed anything, after all.
 “Welp.” I’d arrived back at the building, still undecided on a
 course of action.
-***
 I found the room where I previously saw the magic circle. When
 I entered, the beast greeted me with a suspicious look in its eyes. It
 didn’t wag its tail, and it didn’t bark. It was lethargic.
@@ -335,7 +333,6 @@ For you to be this soft… Hey, wait. You’re using some kind of
 fabric softener, aren’t you? I thought, only for another voice in my
 head to reply in kind. Aww, but I’m not using anything~
 
-***
 “Bastard! What have you done to the Sacred Beast?!”
 “Huh?”
 Just as the ball of fur finally seemed satisfied, a voice rang out.

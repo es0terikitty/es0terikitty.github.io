@@ -135,7 +135,6 @@ that she ran away from home.
 “Hahaha. R-right, sure.” I get the message, man…
 It was hard to know when or if I’d see Roxy again, but at the
 very least, I’d have to repay them for the money someday.
-***
 Evidently, the closest town was a three-day journey on foot.
 Not long after we set out, it became clear how crucial an asset
 Ruijerd really was. The man had been traveling the area on his own
@@ -207,7 +206,6 @@ Eris blinked with surprise, but managed to stammer out an “Oof course!” and 
 
 all aggressive anymore. You had to be forceful when you were
 negotiating, that was all.
-***
 The first enemy we faced as a group was a monster known as a
 “Stone Treant.”
 Treant, in general, was a term for tree-like monsters. These
@@ -363,7 +361,6 @@ little prayer for the creature we’d slain?
 place.”
 Using wind magic, I proceeded to gather up the shattered pieces
 of the Treant.
-***
 Our party kept moving until the sun set, fighting a total of four
 battles. We faced another Stone Treant, a Great Tortoise, an Acid
 Wolf, and a group of Pax Coyotes.
@@ -485,7 +482,6 @@ take charge and tell us what to do.”
 For the moment, we had our basic combat formation worked
 out. Hopefully it would allow Eris and myself to get some more
 combat experience under our belts over the next couple of days.
-***
 Next up came camping practice.
 For dinner, we had Great Tortoise meat. There was far too much
 of it to eat in one sitting, so we started off by drying most of it out
@@ -537,7 +533,6 @@ spine. Fortunately, I managed to speak before she could open her
 mouth. “The answer’s no. Don’t even think about it.”
 For crying out loud. Do you want worms? Because that’s how
 you get worms.
-***
 Ruijerd was giving Eris a lesson on basic weapon upkeep before
 we turned in for the night. For lack of anything better to do, I
 listened in.

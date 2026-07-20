@@ -19,7 +19,6 @@ we were just swords for hire. All we needed to do was fulfill our
 mission. There was some danger involved, so we decided that only
 Ruijerd and I would be carrying out this mission. Eris would stay
 behind at the inn.
-***
 It was midnight on the day of the operation. The moon was
 nowhere to be seen. The place in question was a pier located on the
 edge of the harbor. It was eerily quiet, the only sound being the echo
@@ -130,7 +129,6 @@ had no idea.
 
 “It’s amazing, isn’t it? That something this big can cross the
 ocean.” Eris was incredibly impressed.
-***
 We left port three days later.
 As we were on board, I began to think. A ship…a ship was a
 treasure trove. Now that we were on board, there had to be an
@@ -383,7 +381,6 @@ like Bodhisattva, and became a healing machine at last.
 “Huh?”
 “Sniff, sniff… you smell weird.”
 I had forgotten to wash my hands.
-***
 Eris returned to her normal lively self the moment we got off
 the boat. “I never want to ride on another ship again!”
 “Yeah, but we’ll have to do it one last time in order to get from

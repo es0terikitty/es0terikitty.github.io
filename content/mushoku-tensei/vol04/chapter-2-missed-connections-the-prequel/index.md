@@ -39,7 +39,6 @@ All right then, this would be the last time I did as he told me. I
 would follow his advice and see how things turned out this time, but
 there was no way I would obey him next time. There was no way I
 was going to become his puppet and let him string me along! Period!
-***
 I marched down the alleyway. By myself, of course.
 Why did I have to be alone, anyway? That was the key part of
 his advice this time. It must be something that Ruijerd and Eris
@@ -76,7 +75,6 @@ sweep him all the way into the ocean. The end! He could drift at sea
 until he drowned. Mwahaha!
 Wait, don’t misunderstand me. I did trust Ruijerd. It was just
 that, well, you know that saying. Love is a battlefield, right?
-***
 It was quiet in the back alleys. Even the words “back alley”
 conjured the negative image of a bunch of unscrupulous characters
 gathering in one place. In reality, tender and innocent boys like me

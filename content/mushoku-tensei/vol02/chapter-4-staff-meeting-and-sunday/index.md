@@ -10,7 +10,6 @@ Half a year passed. Eris, who I thought had finally cooled
 down, began returning to her violent ways.
 Why, how, who did this?! I panicked, until I realized something.
 She had been given no breaks.
-***
 It was after dinner when I called Ghislaine and the etiquette
 teacher to my room. The etiquette teacher didn’t actually live with
 us; she lived in the city, so I had a butler send a message to her.
@@ -139,7 +138,6 @@ yet you are so considerate to Miss Eris.” Her eyes shone as though
 she had seen something particularly endearing.
 Well, whatever.
 That was how I managed to get myself a day off.
-***
 Finally, my first day off arrived.
 After greeting Philip briefly, I decided to head into the city. But I
 found Ghislaine and Eris lying in wait for me at the exit.
@@ -218,7 +216,6 @@ had never seen before.
 “You look lovely today.”
 “Hmph!” She punched me in the head when I complimented
 her. What the hell was that about?
-***
 The Fittoa region’s Citadel of Roa was one of the biggest cities in
 the area, but “big” was a relative term. It was still smaller than the
 expanse of countryside that made up Buena Village. If you walked
@@ -328,7 +325,6 @@ should do it too. If you think it’s useless, then point and laugh.”
 “And why the heck are you laughing!”
 She punched me. Sadface…
 
-***
 We looped around the area and I finished taking inventory of all
 the stalls. I skipped the posher shops since I knew everything would
 be too expensive. Instead, we headed toward the outer part of the
@@ -435,7 +431,6 @@ give her a little money and let her learn how to use it.
 I noted down the name of that book that caught my eye and we
 left the store. After today, I had a good understanding of what I
 wanted to buy and how much things cost.
-***
 The sky was a beautiful mix of red and orange as we headed
 back home. It seemed the sunset didn’t change, no matter what
 world I was in. Just as I thought that, I looked up, only to see a
@@ -519,7 +514,6 @@ More importantly, it had been 400 years. Was the guy even still
 alive? Wasn’t it just an empty castle floating around in the sky now?
 That said, if the opportunity ever presented itself, I would be eager
 to check it out myself.
-***
 The next day found Eris in an absolutely horrendous mood.
 Perhaps it was because she’d had her first taste of an entire day of
 freedom, or perhaps because she had never been allowed outside
@@ -548,7 +542,6 @@ myself!”
 S-since when had she gotten this smart?!
 “Th-that’s right, I’ll take you as long as you behave yourself!”
 Impressed, I started on the last lesson for the day.
-***
 NAME: Eris B. Greyrat
 OCCUPATION: Granddaughter of Fittoa’s liege lord
 PERSONALITY: A little violent

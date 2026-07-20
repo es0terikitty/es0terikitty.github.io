@@ -32,7 +32,6 @@ I forced myself downward, hoping for the best. Our velocity
 slowed rapidly as I plunged toward a reddish-brown stretch of earth.
 An instant later, I lost consciousness.
 
-***
 When I opened my eyes, I found myself in a pure white void. I
 immediately knew this wasn’t real. It had to be some sort of lucid
 dream. Yet, for some reason, my body felt oddly heavy.
@@ -58,7 +57,6 @@ fade. Once you’ve woken up, even the best of dreams melt away in
 no time.
 Had I really expected anything different? Please. A smooth,
 happy life like that was never in the cards for a guy like me.
-***
 
 Eventually, I noticed that a weirdo had appeared in front of me.
 The individual in question had a blank, white face, marked only by a

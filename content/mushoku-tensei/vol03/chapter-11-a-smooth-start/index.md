@@ -116,7 +116,6 @@ than we were, and everyone already knew Ruijerd was a ‘phony.’
 “That’s all right, Rudeus. I understand.”
 Since Ruijerd wasn’t raising any objections, I proceeded to pick
 out a few jobs in consultation with Jalil.
-***
 After exchanging a few words of greeting with the gate guards,
 the three of us headed out of town.
 In the vicinity of Rikarisu, it seemed that Pax Coyotes, Acid
@@ -227,7 +226,6 @@ off…
 tomorrow!”
 But in the face of Eris’s enthusiasm, I couldn’t bring myself to
 disagree.
-***
 A mere three days later, “Dead End” formally ascended to rank
 E.
 “Nice work out there.” With a few appreciative words, I handed
@@ -277,7 +275,6 @@ as you keep getting the jobs done.”
 right. And we’re making sure to spread the word about Dead End
 too.”
 Hmm. If you say so…
-***
 We’d made ourselves a bit of spending money at this point, so it
 seemed about time to buy new clothes and combat armor.
 First of all, we picked out some clothing from a street vendor.
@@ -439,7 +436,6 @@ We could use one to hide that eye on his forehead if we ever felt the
 need to.
 Why did I need one, you might ask?
 Well…it’s no fun being the odd man out, you know?
-***
 Incidentally, I’d asked Ruijerd to spy on Vizquel while Eris and I
 went out on our shopping trip. I wasn’t expecting much out of her
 and Jalil, but depending on how they behaved, there was a possibility

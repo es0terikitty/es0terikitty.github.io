@@ -30,7 +30,6 @@ Certainly, his skills with the sword were undeniable, and the
 people of the town held him in esteem, but he was only half the man
 he needed to be in order to be a dad.
 And this was his second time around, too. Good grief.
-***
 
 To help restore some of Paul’s honor, here, let me talk some
 about his more amazing points. Now, I admit that he was a man with
@@ -112,7 +111,6 @@ There’s always a bigger fish, after all.
 I was grateful for Paul teaching me to wield a sword. Other than
 that, though, he was still no good as a dad. He was like an Olympic
 gold medalist who also happened to be a convicted criminal.
-***
 One day, I was working on my sword practice with Paul, as I
 usually did. Once again, I could tell I wasn’t going to beat him that
 day. I probably wouldn’t beat him the day after, either. Lately, I
@@ -322,7 +320,6 @@ time for now, though.”
 Paul pointed behind me with a grin. I turned around to find
 myself face to face with a very sulky-looking Sylphie.
 Perfect timing, moron.
-***
 I’d been spending a lot of time in my room with Sylphie recently,
 walking her through the basics of math and science. It seemed like
 the quickest way to help her understand how silent spellcasting
@@ -530,7 +527,6 @@ I’d been about two minutes away from turning into an extremely
 pathetic kind of villain.
 Still, a man’s endurance had its limits. I’d managed to weather
 this storm, but there was no telling what might happen next time.
-***
 The letter I received that day was from Roxy, as it happened.
 Dear Rudeus, How have you been?
 It’s hard to believe, but I suppose two years have flown by since
@@ -614,7 +610,6 @@ What to do?
 For the moment, I finished my letter, paused, and then added a
 brief note.
 P.S. Sorry about stealing your panties.
-***
 The next day, I waited until my family was gathered at the
 dinner table, and then made my move.
 “Father, can I make a selfish request?”

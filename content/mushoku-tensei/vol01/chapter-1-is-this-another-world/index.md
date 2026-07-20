@@ -43,7 +43,6 @@ That was a pretty nasty accident I’d been in, after all.
 There was a good chance I hadn’t come out of it with all of my
 limbs. For the rest of the day, I dwelled on a single thought:
 My life is going to be a living hell.
-***
 Let’s jump ahead a month.
 Apparently, I’d been reborn. The reality of my situation had
 finally set in: I was a baby.
@@ -75,7 +74,6 @@ least help out with the housekeeping, right?
 I had wished that I could go back and do everything over again,
 but being born to a family that was too poor to pay for utilities
 wasn’t exactly what I’d had in mind.
-***
 Another half a year went by.
 After six months of listening to my parents conversing, I’d begun
 to pick up some of the language. My English grades had never been
@@ -192,7 +190,6 @@ bed, then headed upstairs to make me a baby brother or sister. I
 could tell because I could hear the creaking and moaning coming
 from the second floor. I guess there was life outside the internet.
 And also…magic?
-***
 In the wake of all that, I paid extra-close attention to the
 conversations my parents had with one another and the help. In so
 doing, I noticed them using a lot of words I wasn’t familiar with. Most

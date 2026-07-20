@@ -604,7 +604,6 @@ Beast whined and Geese, who had removed the bag from the
 hostage’s head, laughed. Had we really won? I was still basking in the
 afterglow of victory when the hostage child woke and began
 sobbing. Shortly after that, the beastfolk warriors finally arrived.
-***
 This had been quite the unique kidnapping case. It was a largescale operation that the smuggling organization had plotted. They
 planned to steal the Sacred Beast, the Doldia’s guardian deity. Their
 exact motivations were unclear, but apparently many people desired

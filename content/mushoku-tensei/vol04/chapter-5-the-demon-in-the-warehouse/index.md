@@ -136,7 +136,6 @@ you just washed.”
 I groaned inwardly at that burn.
 …But you know, Eris, I never tried to steal your underwear after
 you’d washed them. Not even once.
-***
 I walked through the city at night, alone. Eris took quite some
 time to persuade. Crime prevention really was important, though.
 We were instructed to carry out our job at night, but our

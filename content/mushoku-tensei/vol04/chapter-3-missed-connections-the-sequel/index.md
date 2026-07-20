@@ -62,7 +62,6 @@ didn’t want to be further involved with that thug.
 This eye seemed to have its uses after all, though it would be a
 nuisance if it caused problems like this constantly. I decided to work
 on mastering it quickly.
-***
 
 I returned to the inn. When I told Eris and Ruijerd that I had met
 the Demon World’s Great Emperor, they were both flabbergasted.
@@ -108,7 +107,6 @@ out the back alleys tomorrow anyway, despite what I said.
 “Anyway, with that said, I’m going to hole up in the inn. You two
 are free to go off on your own.”
 They each gave a nod.
-***
 It took a week to learn how to use the demon eye. Put simply, it
 wasn’t that difficult. You could control the eye through mana. It was
 very similar to the way I used magic without chanting, which I had
@@ -145,7 +143,6 @@ Regardless, I knew that I could safely see one second into the
 future. It took me three days to master this, then an extra day to
 learn how to control both factors at once. In total, it took seven days
 to learn the basics of using my Eye of Foresight.
-***
 While I was busy channeling mana into my eye and commanding
 it, Do my bidding, Eye of Foresight! Eris and Ruijerd went somewhere
 together every day. When they returned, Eris was always bathed in
@@ -175,7 +172,6 @@ prodding me in the cheek as he whispered in my ear, “From now on
 your nickname will be ‘pathetic loser’.” I figured it had to be the
 Man-God’s handiwork. That bastard was really good for absolutely
 nothing.
-***
 A week later I informed Eris and Ruijerd about my ability to
 control the Eye of Foresight. When I did, Ruijerd suggested, “Then
 why don’t you and Eris have a bout?” Was it to test how usable this
@@ -355,7 +351,6 @@ said.
 All right, then. Thank you, breast-loving Wise Old Sage. Hmm.
 Thinking about all the ways I could use this eye really did make my
 heart soar!
-***
 When I returned to the inn, wearing a dreamy look on my face, I
 found Eris perched on the bed with her knees hugged to her chest.
 Oh, right, I had forgotten about her. She was depressed. Meanwhile,
@@ -444,7 +439,6 @@ let myself play right into the schemes of that treacherous devil, the
 Man-God.
 I decided I would only use my demon eye as a final trump card.
 
-***
 That night I spent time thinking by myself.
 Ultimately, we hadn’t found a way to cross the ocean yet. Had I
 messed up somewhere? I followed the Man-God’s advice well
@@ -885,7 +879,6 @@ Unfortunately, none of the men that Roxy had ever taken an interest
 in saw her as a woman. She was popular with children, but she had
 no luck when it came to men.
 
-***
 The Demon Continent’s Adventurers’ Guild had a unique feel to
 it compared to its counterpart on the Central Continent. Many
 different races were paired together in parties.
@@ -952,7 +945,6 @@ cutting her reminiscing short. She was here to find Rudeus or his
 family.
 “All right, let’s start gathering information,” she proposed to the
 other two, and started scanning the inside of the guild.
-***
 From the information they gathered, they found out that Dead
 End was in this town—part of a new, up-and-coming group of
 adventurers who had quickly made a name for themselves.
@@ -1118,7 +1110,6 @@ It felt like their eyes met. His gaze was so intense that it gave
 Roxy an unspeakable sense of terror. Enough to give her the illusion
 that she was prey being hunted.
 She slipped away hastily.
-***
 Ruijerd sensed her from the very beginning. He wasn’t sure
 what she wanted, or if she was just watching. When he casually
 looked in her direction, he saw a girl’s face peeking out from behind
@@ -1146,7 +1137,6 @@ that Migurd girl had caught his attention and he let his guard down
 for a moment.
 Ruijerd let out a sigh, quietly enough so that Eris wouldn’t hear
 it.
-***
 Roxy looked over her shoulder countless times as she hurried
 back toward the inn. The whole time, she worried that she was being
 followed and that an attack might be coming. If she was going to
@@ -1218,7 +1208,6 @@ Thunder! With your majestic blade of ice, slay my enemy! Icicle
 Blast!”
 The inn was left partially destroyed.
 
-***
 They set out from the town on the third day. They’d barely
 managed to gather any information after everything that happened,
 and they forgot to submit a request to the guild. They also destroyed

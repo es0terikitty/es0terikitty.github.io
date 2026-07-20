@@ -9,7 +9,6 @@ chapter = 4
 It had been roughly two years since I’d been reincarnated.
 My legs had finally developed enough that I could walk.
 Also, I was finally able to speak this world’s language.
-***
 Having decided to give my life an honest shot this time, I first
 needed to make a plan.
 What had I lacked in my previous life? Study, exercise, and
@@ -123,7 +122,6 @@ inherited. I knew my mother was able to use Healing magic, so
 maybe it was all right to have some expectations for myself. Still, I
 was uneasy. Even if my parents excelled at this sort of thing, I wasn’t
 sure my own genes would be up to the task.
-***
 
 For the time being, I decided to try my hand at the simplest
 magic I could. The textbook included both incantations and magic
@@ -269,7 +267,6 @@ since this was my first time, I just had less magical power to work
 with? No, that didn’t make sense.
 I tried once more, just to make sure, and I wound up passing
 out.
-***
 “Honestly, Rudy,” my mother said, “when you get tired, you
 need to go to the toilet first and then get to bed.”
 I woke to find I’d fallen asleep with the book in hand, and wet
@@ -284,7 +281,6 @@ deflated my mood some. Still, even if all I could muster was two
 Waterballs, what mattered was how I used them, I supposed. Maybe
 I should concentrate on conjuring them more quickly?
 Ugh.
-***
 The next day, I still felt fine after conjuring my fourth Waterball.
 It was after the fifth that I started to feel tired.
 “What the hell?”
@@ -299,7 +295,6 @@ time casting them?
 I’d cast all my spells today without incantations, so I doubted it
 had anything to do with that. I had no idea. Perhaps my abilities
 would grow further the next day.
-***
 The following day, my Waterball count increased significantly.
 Now I was up to eleven.
 
@@ -337,7 +332,6 @@ The principle was still the same.
 
 Which meant there was only one thing for me to do: continue
 honing my skills as best I could while I was still growing up.
-***
 The next day, I decided that I would continue to push my magic
 to its limits daily, which increased how much I could use it. As I could
 recreate the right feeling, casting a spell without an incantation was
@@ -365,7 +359,6 @@ stuff, like slimes.
 
 Although I personally never managed to complete anything in
 that game, even when I did start with slimes.
-***
 The Beginner-level water spells listed in the tome were as
 follows:
 Waterball: hurls a spherical projectile of water.
@@ -406,7 +399,6 @@ weren’t subject to gravity, but they fizzled out and disappeared after
 a while. I tried using the wind to move the hovering orbs of flame,
 but I got the impression something wasn’t right with that.
 Hmm…
-***
 Two months later, thanks to a mistake in my studies, I managed
 to get a Waterball to fly. As a result, it finally became clear why
 incantations were a key part of the process.

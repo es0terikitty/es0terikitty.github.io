@@ -41,7 +41,6 @@ Was that joy in her voice? Well, all right then. No reason to be
 a buzzkill and explain just how dangerous this is going to be.
 “Let’s move,” said Ruijerd. “Follow me.”
 Together, the three of us set out across the barren plain.
-***
 Apparently, Eris had made friends with Ruijerd while I was
 sleeping. She chattered away at him as we walked, describing her life
 at home, her lessons in magic, and her sword fighting practice with
@@ -82,7 +81,6 @@ be grateful that you have him.”
 moment before finally giving in. “O-Of course I’m grateful…”
 Not that we’re really siblings, of course. Also, she’s older than
 me.
-***
 The Demon Continent lived up to its reputation for rocky, steep
 terrain. The ground was also hard, dry, and dusty—more sand than
 soil. You could hardly blame the demons for starting a war to break
@@ -147,7 +145,6 @@ just stay with your little sister and keep her safe, all right?”
 Ruijerd tried patting Eris on the head as well, but she slapped his
 hand away sulkily.
 Better luck next time, big guy.
-***
 “Here we are.”
 
 The walk had taken about three hours in total. We’d followed a

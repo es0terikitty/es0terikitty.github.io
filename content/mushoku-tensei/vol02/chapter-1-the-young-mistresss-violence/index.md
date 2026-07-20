@@ -283,7 +283,6 @@ none of his business.
 “Well, we won’t make any progress by talking. You need to meet
 my daughter. Thomas, bring him to her.” Philip stood.
 And so, I finally met her.
-***
 Arrogant. That was my first thought when I saw her. She was
 two years older than me, her eyes sharp and narrow, and her hair
 wavy. It was also such a pure shade of crimson it looked like
@@ -394,7 +393,6 @@ way she would listen to what I had to say. I was going to have to use
 brute force to make her listen to me.
 That, however, was the one decision I couldn’t make right now.
 There, now we’re all caught up.
-***
 
 Exhausted from her pursuit, the Young Mistress eventually gave
 up and returned to her room. She didn’t manage to find me, but it
@@ -428,7 +426,6 @@ someone with her personality?
 Phillip shrugged and said, “Depends on how hard you work.”
 Naturally.
 And so, we began working on our plan.
-***
 I entered the room they gave me. It was exquisitely furnished. It
 had a large bed and other heavily decorated furniture, beautiful
 curtains, and a brand-new bookcase. All it needed was an airconditioner and a computer and it would be a shut-in’s paradise. It
@@ -507,7 +504,6 @@ other Japanese person, I turned to prayer when I was in trouble.
 Please, somehow, some way, make this work, I prayed.
 That was when I realized I had left my treasured panties behind
 in Buena Village, and I cried. There was no God (a.k.a. Roxy) here.
-***
 NAME: “Young Mistress”
 
 OCCUPATION: Granddaughter of Fittoa’s liege lord

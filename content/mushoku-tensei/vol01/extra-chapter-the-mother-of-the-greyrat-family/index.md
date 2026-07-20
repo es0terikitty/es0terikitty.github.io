@@ -101,7 +101,6 @@ that Paul would actually do the honorable thing and marry me the
 way he did.
 The child I bore him was a son, as it turned out.
 Rudeus Greyrat. My little Rudy.
-***
 At the moment, Rudy was crouched next to his little sisters’
 cribs with a very serious expression on his face— so much like his
 father’s. Frowning intently, he peered into one crib for a moment,

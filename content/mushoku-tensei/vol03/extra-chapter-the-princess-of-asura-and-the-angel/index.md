@@ -21,7 +21,6 @@ As it happens, the “Displacement Incident” that had taken place
 in the Fittoa region of the kingdom had a major impact on the course
 of the wars waged within this castle.
 This is the story of how those events were set in motion…
-***
 Aside from the residences of the royal family, the Silver Palace
 contained a number of splendid gardens.
 There was the Rose Garden, full of plants with red flowers; the
@@ -199,7 +198,6 @@ frustration, but he could find no other words to say.
 As he turned and left the garden, Ariel and Luke shrugged their
 shoulders, then resumed their discourse on the nipples of the
 palace’s women.
-***
 It wasn’t that Derrick had abandoned his responsibilities as the
 princess’s guardian mage. He was just going to the bathroom.
 Derrick and Luke were tasked with protecting Ariel at all times,
@@ -403,7 +401,6 @@ his mind.
 This was something Derrick had no way of knowing, but…
 The Fittoa Displacement Incident was taking place at this exact
 instant.
-***
 “Lady Arie— Wha—?!”
 The moment Derrick stepped back into the Lily Garden, his jaw
 dropped open in shock.
@@ -558,7 +555,6 @@ Thank you, God… Thank you so much. Witnessing this, Derrick
 shed one final tear. Please…watch over Lady Ariel.
 And with his heart full of peace, the guardian mage breathed his
 last…
-***
 The Fittoa Displacement Incident cost one young magician his
 life—and provided Ariel Anemoi Asura with a new and different
 purpose.

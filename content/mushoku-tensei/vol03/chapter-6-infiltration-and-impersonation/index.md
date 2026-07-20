@@ -69,7 +69,6 @@ hide your real identity.”
 “Hmm, good question. Why don’t we just hide your face for
 now?” I squatted, put my hands to the ground, and began channeling
 my magical power into it.
-***
 “Halt!”
 There were two soldiers guarding the gate we approached. One
 was a stern-looking man with the head of a snake; the other a cockylooking guy with the head of a pig.
@@ -133,7 +132,6 @@ the area, so we’re kinda on high alert right now.”
 soon, huh?”
 Dead End, huh? Judging from the name…if you run into him, I
 guess your life’s as good as over? Must be one terrifying monster.
-***
 The buildings weren’t quite as tall in Rikarisu as they were back
 in Roa, but it felt like there were just as many of them. The two cities
 seemed to have pretty similar layouts. Most of the facilities near the
@@ -238,7 +236,6 @@ they?”
 Really now? You promise? I’m gonna take your word on that,
 okay?
 All right then. Let’s readjust this plan a bit.
-***
 
 Before heading to the Adventurers’ Guild, we spent some time
 wandering through the roadside stalls clustered around the entrance

@@ -59,7 +59,6 @@ me even noticing. In that case there was only one thing to say.
 “You’d better make up with her before we leave tomorrow.”
 “…Don’t want to.”
 Still a child, huh?
-***
 
 We were busy preparing for our departure on the last day, so I
 didn’t meet with the Sacred Beast. Instead I got two visitors in the
@@ -154,7 +153,6 @@ to part the next day, Eris held Minitona’s hand and had tears in their
 
 eyes when they hugged. It seemed they were able to make up after
 all. I was glad.
-***
 The Holy Sword Highway was a road that went straight through
 the Great Forest. Built long ago by the Holy Country of Millis, it was
 bursting with mana. Even as the area around it flooded, the highway
@@ -274,7 +272,6 @@ our party.
 That was how we set off on our journey with an extra traveler
 accompanying us.
 
-***
 The carriage carried us along on a nonstop path that cut through
 the Great Forest. It really was a straight road, one that stretched
 unbroken into the horizon, continuing all the way to the Holy
@@ -327,7 +324,6 @@ It wasn’t empty boasting, either. The meat really was delicious.
 “Amazing; hold me!” I threw my arms around him without
 thinking it through. Geese was disgusted by it. I was disgusted by it.
 Our feelings were mutual.
-***
 “I’m bored,” Eris muttered as we were preparing our daily meal
 as usual.
 Ingredient Collector: Ruijerd
@@ -441,7 +437,6 @@ face. The soup, which should have been delicious, suddenly didn’t
 taste so great anymore.
 I wondered just how much longer it would be before Ruijerd got
 back.
-***
 One day I found a curious stone monument on the roadside
 where we stopped to rest. It came up to my knees and had a strange
 pattern on its face. A single character was inscribed there, with seven
@@ -601,7 +596,6 @@ now in the mountains.” It would take too much time for us to make
 our way up there since we were unused to traversing the mountains.
 
 And so, I gave up going to the hot spring. What a bummer.
-***
 The Holy Sword Highway was stretched across the Blue Wyrm
 mountains. Its path cleaved the mountain range in two, creating a
 space just wide enough for two horse-pulled carriages to make their

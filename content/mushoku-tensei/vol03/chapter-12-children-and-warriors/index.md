@@ -48,7 +48,6 @@ Once we hit rank C, we’d say goodbye to Jalil and Vizquel, then
 promptly leave this city. Seemed like a solid plan to me.
 Not long after reaching this conclusion, I spotted an
 “interesting” task on the Guild board.
-***
 B
 TASK: Locate and Defeat Unknown Monster(s)
 REWARD: 5 scrap iron coins (2 iron coins if defeated)
@@ -61,7 +60,6 @@ NOTES: A large, slithering creature was spotted deep
 inside the forest. Please identify it, and destroy it if it’s
 dangerous.
 
-***
 Jalil and I pondered the piece of paper with our hands on our
 chins. A mystery monster, huh? Talk about a vague job description.
 There was a chance this thing wasn’t even there. And even if it were,
@@ -108,7 +106,6 @@ Things had gone so smoothly that I’d underestimated the risks; my
 impatience pushed me toward a big payday.
 With the benefit of hindsight, there were better choices open to
 me. But at the time, I don’t think I could have made them.
-***
 The Petrified Forest was a full day’s journey from Rikarisu. It was
 a place where bone-like trees with jagged branches grew in
 enormous numbers, and derived its name from their stony
@@ -236,7 +233,6 @@ babysitters either, thank you very much. We’ll be working on our
 own.”
 I promptly turned and left the leaders’ conference without
 waiting for a response to my declaration.
-***
 
 My party had been waiting for me a little distance away.
 “So what’s going on?” asked Eris, her voice betraying some
@@ -467,7 +463,6 @@ again.
 Still, there was definitely a part of me that was thinking, Nice!
 Good thing he got the wrong idea! At least I got away with it.
 I wanted to smack myself in the face.
-***
 Kurt and his friend told us they planned to carry their fallen
 comrade back to town. We escorted them back as far as the
 entrance to the forest. I’d expected Ruijerd to insist we guard them
@@ -527,7 +522,6 @@ forcefully against her clothes.
 It was all pretty adorable, so I forgave her on the spot.
 This hadn’t been a good day overall, but I wasn’t feeling quite as
 miserable anymore.
-***
 As we made our way deeper into the forest, I found myself
 thinking about Ruijerd.
 He was a man with an absolute moral code, and he loved
@@ -646,7 +640,6 @@ Ruijerd didn’t seem remotely intimidated, even in the face of an
 A-ranked enemy. Based on that alone, I felt like we’d probably be all
 right.
 “Let’s do it then.”
-***
 I would attack with magic from a distance while Eris and Ruijerd
 fought the monster at close range, same as always. So I started
 things off the way I always did—with a Stone Cannon.
@@ -704,7 +697,6 @@ Ruijerd and I weren’t landing any hits, but over time, the snake
 grew fatigued. Its movements began slowing.
 And in the end, one of my Stone Cannon spells finally struck
 home.
-***
 By the time we finished processing the Red-Hood Cobra’s body,
 the sun had already set. We were having a snake-meat feast for
 dinner tonight, naturally.

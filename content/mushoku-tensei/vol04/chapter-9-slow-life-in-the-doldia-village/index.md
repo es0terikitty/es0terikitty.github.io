@@ -22,7 +22,6 @@ had gone through and delivered a Boreas Punch to Gyes’ exposed
 belly before pouring water over his head. Once he looked like a
 drowned rat, she glared down at him and said, “Now we’re even.”
 Eris never failed to impress me.
-***
 At the moment, we were in Gustav’s house. It was the largest in
 the village, sitting well above the ground amongst the trees. Three
 stories tall and constructed of wood, it looked like it would collapse
@@ -139,7 +138,6 @@ wondered where she was and what she was doing. Knowing her, I
 figured she was probably searching for Eris and me. It was frustrating
 that we were unable to gather any information during our time in
 Zant Port.
-***
 One week passed. Rain continued falling the entire time. We
 were given an empty house in the village and spent our time there.
 We were given food regardless of whether or not we contributed
@@ -186,7 +184,6 @@ said.
 Still, he didn’t seem like a totally bad guy at least. The way he
 was kind and yet noncommittal reminded me of Paul. Paul… I
 wondered if he was doing well.
-***
 Two weeks passed, and the rain wasn’t stopping.
 I learned that the Doldia had their own secret magic. It allowed
 them to find enemies by using a far-reaching howl, and with their
@@ -217,7 +214,6 @@ When I told Gustav that I also planned to go to the Academy of
 Magic, he seemed impressed and said, “Wow, you’re already at that
 level and yet you’re still motivated to improve?” That made me feel
 good.
-***
 Three weeks passed.
 Monsters appeared in this village as well. One was a water
 strider, surfing swiftly across the water below only to leap up
@@ -270,7 +266,6 @@ entrusting the protection of their village to another race.” Ruijerd
 was the only one bothered by this. It seemed the beastfolk of several
 hundred years ago were quite different from their modern
 counterparts.
-***
 One month passed.
 The strength of the downpour seemed to be waning, but that
 was probably just my imagination. Eris, Minitona, and Tersena were
@@ -367,7 +362,6 @@ flash, at the same speed of one of those Tomy Pop-up Pirates.
 you but…restrain yourself a little.”
 “Yes, sir.”
 Yeah, well, I did get a little too carried away. That I would admit.
-***
 A month and a half passed.
 Ruijerd and Gustav got along like a house on fire. Ruijerd paid
 frequent visits to the Dedoldia house, and the two drank together
@@ -449,7 +443,6 @@ allowing themselves to get caught!”
 Boy, Ruijerd, you sure are hammered, I thought. Maybe you
 could escape on your own if you got caught, but try not to expect too
 much out of me. My powers aren’t limitless, okay?
-***
 Two months passed.
 Whenever I was in my room, the Sacred Beast would come
 plodding in. The beast lived deeper in the village alongside the

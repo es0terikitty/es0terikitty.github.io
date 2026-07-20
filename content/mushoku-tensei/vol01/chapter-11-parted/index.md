@@ -13,7 +13,6 @@ It was probably the reply that I’d been waiting for. I tried my
 best to brace myself for the news without getting too impatient.
 Would he tell me after training? At lunch? Maybe dinner?
 For the moment, I decided to focus on our sword practice.
-***
 As it happened, though, he chose to bring it up before we’d
 even finished training.
 “Hey, Rudy.”
@@ -95,7 +94,6 @@ Well, I’m glad we’re using wooden swords, at least…
 
 A short, sharp blow to my neck knocked me instantly
 unconscious.
-***
 When I woke up, I found myself inside a box of some sort. Given
 all the swaying and clattering going on, it was presumably some kind
 of vehicle.

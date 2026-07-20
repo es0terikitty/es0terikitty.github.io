@@ -199,7 +199,6 @@ unforgivable act of violence she committed against him. However,
 the king refused to pay his claims any heed. Instead, the prince was
 rebuked and severely punished for being unable to convince the
 Water King-tier magician Roxy Migurdia to stay.
-***
 Roxy was not the only one to notice the change in the sky. Every
 person in every part of the world took notice both of its abnormality
 and the abruptness of its appearance. Even those of wide renown
@@ -599,7 +598,6 @@ Roxy’s head jerked up. “I’ll go!” This was Rudeus after all. Surely
 he was all right. No doubt he’d used his quick wits to survive. He was
 surely in perfect health, living in that settlement.
 Once again, she clutched firmly at a sliver of hope.
-***
 The refugee camp comprised numerous wooden buildings and
 was roughly the size of a village. A great number of people bustled
 about. They were anything but carefree; a dark, heavy mood hung
@@ -651,7 +649,6 @@ seen a place of such pure anguish.
 This might be a pointless endeavor, she thought.
 Pulled in by the heavy atmosphere, she felt close to tears, but
 she pressed on and began her hunt for information.
-***
 An hour passed.
 Roxy learned the gist of what happened. After the sky turned
 strange, a large-scale mana calamity occurred over the Fittoa Region.

@@ -314,7 +314,6 @@ tomorrow morning.”
 I didn’t trust that so-called god further than I could throw him,
 but this man was different. It couldn’t hurt to give him a chance.
 Until we reached that village at least.
-***
 A little while later, Eris’s eyes snapped open.
 Sitting bolt upright, she looked around the area, her expression
 increasingly anxious. After a moment her eyes met mine, and I saw

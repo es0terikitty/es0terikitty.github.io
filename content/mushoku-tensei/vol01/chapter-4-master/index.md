@@ -13,7 +13,6 @@ Rudeus Greyrat, the firstborn son of the Greyrat family.
 My parents didn’t refer to each other by their first names, and
 they called me “Rudy” for short, so it took some time to learn what
 all of our actual, formal names were.
-***
 “My, Rudy really does love that book, doesn’t he?” Zenith said
 with a smile as I puttered about with A Textbook of Magic in hand, as
 I usually did.
@@ -42,7 +41,6 @@ was pretty sure I was safe. If people tried to stop me, I wouldn’t fight
 it, but I didn’t want to squander my childhood while I still had it. I
 needed to flex my talents now, before they set and became too rigid.
 Now was the time for me to make the most of things.
-***
 Then, one afternoon, my secret magic training came to an end.
 My magical reserves had grown a decent amount, so I went
 through the incantation for an Intermediate-tier spell rather casually.
@@ -174,7 +172,6 @@ decided on their kid’s studies without bothering to take his feelings
 into account.
 Well, no big deal. I did promise to give it my all in this new life,
 after all.
-***
 And so it was decided that a home tutor should be hired for me.
 I gathered that the position of personal instructor to a young
 noble was a well-paying one. Paul was one of the few knights in the
@@ -254,7 +251,6 @@ Yet again, Roxy sighed. “All right, then. I suppose I’ll just have to
 do what I can.” She sounded like she’d already decided it was futile.
 And so, that was the first day of taking classes with Roxy in the
 morning and practicing swordplay with Paul in the afternoon.
-***
 “Okay, so this magic textbook here… Actually. Before we get to
 that, how about we see how much magic you can use, Rudy?”
 Roxy had taken me into the yard for our first lesson. I gathered
@@ -386,7 +382,6 @@ Roxy was taken aback. “Yes, you’re…you’re right.
 Thank you.”
 “Uh-huh. So, could you please continue with our lesson?”
 And so, right from day one, I formed a little bond with Roxy.
-***
 Afternoons were spent practicing swordplay with Paul.
 
 We didn’t have a wooden practice sword suitable for a toddler
@@ -448,7 +443,6 @@ But I was quick to caution myself. The body goes soft when one
 slacks off from their physical training. For all I knew, magic could be
 the same, and now that I’d built up my reserves, I wanted to keep
 training to make sure they stayed that way.
-***
 
 One night, while practicing some magic, I heard the lascivious
 sounds of a creaking bedframe and lurid moaning coming from
@@ -512,7 +506,6 @@ hadn’t seen anything.
 Or, well, something like that. I definitely liked what I had seen,
 anyway.
 
-***
 Four months later, I was able to cast Intermediate-tier spells. At
 that point, Roxy began to give me classroom-style lessons in the
 evenings.
@@ -536,7 +529,6 @@ Of course, it didn’t hurt that my teacher was a junior-high-aged
 girl at the budding edge of sexual maturity. That was kind of an
 awesome situation. In my old life, I could have gotten off to that
 mental image in three pumps.
-***
 “Miss Roxy, how come there are only spells for things to be used
 in combat?” I asked abruptly.
 
@@ -753,7 +745,6 @@ warn other people to stay away from them—yikes.
 If I got killed, I doubted I’d be lucky enough to get a third shot at
 life, so I figured it was best to do everything I could to steer clear.
 These Superd were really bad news.
-***
 
 Roughly another year went by. My magic lessons were
 proceeding apace. I could now use Advanced-tier spells from all
@@ -798,7 +789,6 @@ Granted, being the shut-in I was in my past life, not only did I
 not help anyone else out of a bad situation, I was the bad situation
 for the rest of my family.
 Hahaha…
-***
 One day, out of the blue, I decided to ask Roxy,
 “Would it be better if I called you ‘Master’ instead of just
 ‘Miss’?”

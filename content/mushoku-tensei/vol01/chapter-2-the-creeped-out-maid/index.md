@@ -71,7 +71,6 @@ wanted, someplace far away from the war of succession.
 The issue was that less-wealthy families couldn’t afford to retain
 her services. Finding a place that was both safe and still paid decently
 proved rather difficult.
-***
 After a month of wandering about Fittoa, Lilia finally came
 across a job posting that caught her eye. A low-ranking knight in
 Buena Village was looking for a housekeeper. The posting specified
@@ -98,7 +97,6 @@ however, he abruptly left the training hall after causing some kind of
 big stir for reasons unknown to Lilia. He left with one final
 declaration: “I’m going to become an adventurer.”
 The man was like a hurricane.
-***
 It had been seven years since Lilia had last seen Paul. And not
 only had he become a knight since then, but now he was also
 married? Lilia could scarcely believe it. She didn’t know what ups and
@@ -116,7 +114,6 @@ princess; plus, she was a familiar face that one of them could vouch
 for. The family was happy to have her aboard.
 Also, the pay was better than Lilia had been hoping for. To her,
 it was like a dream come true.
-***
 And then the child was born.
 
 The birth itself was problem-free, with everything proceeding as
@@ -137,7 +134,6 @@ The baby turned his face toward Lilia, his expression slack,
 burbling random sounds. Relief washed over Lilia.
 She didn’t quite know why, but it seemed like things were going
 to be okay.
-***
 The child was given the name Rudeus, and what an unsettling
 child he was. He never cried, and never made a fuss. It might just
 have been that he was physically frail, but that notion was soon
@@ -206,7 +202,6 @@ and kill them all one by one.
 Lilia had been far, far too hasty. She never should have taken
 this job. At some point, she knew, she was going to be attacked.
 She was, after all, the type to take superstitions quite seriously.
-***
 
 And so, Lilia lived in fear for the first year or so.
 At some point, however, Rudeus’s ever-unpredictable behavior

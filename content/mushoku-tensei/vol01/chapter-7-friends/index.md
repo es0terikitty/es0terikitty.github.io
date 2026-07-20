@@ -85,7 +85,6 @@ it. Look, if you’re giving me permission, just say so.
 “Okay then,” I said. “I’m off.”
 “Come back safe.”
 And then, I left home.
-***
 Several days went by. I wasn’t afraid of the outside world
 anymore. Things were going pretty well. I was even able to exchange
 greetings with passersby without mumbling my way through.
@@ -101,7 +100,6 @@ what helped me feel so comfortable. The rest was all thanks to what
 Roxy had done for me. Which meant, I guess, that Roxy was to thank
 for the bulk of it.
 I’d have to take very good care of those treasured panties.
-***
 My main goal in going outside was to go exploring on my own
 two feet and get the lay of the land. If I knew my way around, then I
 wouldn’t get lost if I ever got kicked out of my house.
@@ -434,7 +432,6 @@ reverse.
 out the second part. Sylph, huh?
 “That’s a nice name. Just like a spirit of the wind.”
 At that, Sylph’s face turned red, and he nodded. “Yeah.”
-***
 Sylph’s father was a very attractive man. He had pointed ears
 and blond hair that almost glittered, and he was slender without
 lacking muscle definition. Certainly, he lived up to the name of halfelf, having inherited the best parts of both elf and human.
@@ -527,7 +524,6 @@ incantation, but with Combined Magic, anyone could reproduce the
 effects. That’s why it was probably fine. Probably.
 “Okay then!” I announced. “Today, we’ll begin your training!”
 And so, Sylph and I played until the sun went down.
-***
 When I got back home, Paul was furious.
 He stood imposingly in the entryway, hands set on his hips in an
 expression of his anger. I immediately tried to think of what I’d done

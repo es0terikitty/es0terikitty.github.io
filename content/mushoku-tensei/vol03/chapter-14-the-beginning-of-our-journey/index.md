@@ -60,7 +60,6 @@ singlehandedly, and I believed him. All by himself, he was stronger
 than a group of six or seven skilled B-ranked adventurers.
 You had to be pretty happy about earning the trust of someone
 like that, right?
-***
 
 Three days had passed since we left the city of Rikarisu. I’m not
 sure if it had anything to do with the fact that I was feeling a bit more
@@ -132,7 +131,6 @@ In other words, I’d be making the call to buy the spices all by myself.
 That wasn’t good. We were a team after all.
 We probably needed to get into the habit of talking our
 decisions over as a group.
-***
 “Gather ’round, everyone!” I shouted.
 It was just about our usual bedtime. Eris was looking for a good
 spot to place the rolled-up bundle of cloth she used as a pillow, and
@@ -397,7 +395,6 @@ fights with each other.
 “All right then. Looking forward to working with you!” With that,
 I bowed my head and brought things to a close.
 As of that moment, our journey finally began in earnest.
-***
 We made it to the next city without anyone realizing that
 Ruijerd was a Superd.
 To be fair, he’d shaved off all his hair, even his eyebrows—and

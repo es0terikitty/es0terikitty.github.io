@@ -105,7 +105,6 @@ Well, I didn’t vomit blood, but I did get punched.
 “Hmph!” She sniffed once at me, then kicked me. Once she was
 done, she stepped over my collapsed form and walked right out of
 the stable.
-***
 There was nothing I could do. I finally went to Ghislaine for help.
 The woman who, according to Paul, had muscles for brains. If she
 talked about why she wanted to learn reading, writing, and
@@ -229,7 +228,6 @@ beginning…but of course, if we hadn’t been kidnapped, she probably
 would have never listened to me in the first place. Back then, she’d
 looked at me like I was a worm. So my plan wasn’t pointless.
 In any case, things had turned out well.
-***
 
 Our first lessons involved teaching Eris the four basic arithmetic
 operations. Since she had attended school and previously been
@@ -286,7 +284,6 @@ his older sister, eager to imitate her.
 Bring me these problems once you have them all solved. If there’s
 anything you don’t understand, ask me.”
 With that, things gradually progressed.
-***
 Ghislaine made for an excellent teacher. She pointed out each
 of my faults in explicit detail and gave me advice. Paul would tell you
 
@@ -443,7 +440,6 @@ continued. “But I will do my best to be as good as the two of you!”
 
 So much for that. She had a goal. She was different from my
 past self.
-***
 We had free time after our morning lessons and afternoon
 sword practice. Today, I was headed toward the library. Ghislaine
 and Eris both possessed magical textbooks, so I thought there might
@@ -481,7 +477,6 @@ taken out of the library. It seemed there were only a limited amount
 of grimoires in the world, and people didn’t leave them lying around.
 Guess I couldn’t be so lucky. In the end I got some books about
 the history of this world. I could at least study those when I was free.
-***
 At the end of each day, I spent time in my room preparing for
 the next day’s lessons. Most of that entailed creating practice sheets
 for reading, writing, and arithmetic. Finally, I would review my
@@ -516,7 +511,6 @@ increase? As I wondered, I looked at the back of the book. Printed
 there was the line: Published by Ranoa University of Magic. Aha,
 what a clever marketing scheme.
 In this way, my days as a tutor passed in the blink of an eye.
-***
 NAME: Eris B. Greyrat
 OCCUPATION: Granddaughter of Fittoa’s liege lord
 PERSONALITY: Fierce

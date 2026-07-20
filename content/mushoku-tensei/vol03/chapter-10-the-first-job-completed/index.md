@@ -379,7 +379,6 @@ Incidentally, the lizard-man’s name was Jalil, and the bug-lady
 was Vizquel.
 After a quick group meeting with both of them, I finally removed
 their handcuffs.
-***
 As we left the building with our client’s cat, Ruijerd glared over
 at me and broke his silence. “Rudeus! What’s the meaning of this?!”
 
@@ -466,7 +465,6 @@ how anxious I may feel.
 I’d thought it was a brilliant idea at first. I’d just have to trust
 myself on that one.
 …Not that there were many people I had less faith in.
-***
 When we reunited her with her cat, Meicel was absolutely
 overjoyed. She came running over the moment she laid eyes on us,
 threw her arms around Mii, and burst into tears of joy.
@@ -511,7 +509,6 @@ now.
 friend Ruijerd, okay?”
 “Yeah! Come help me if she goes missing again!”
 The girl’s final, cheerful words made my chest ache just a little.
-***
 By the time the three of us made it back to the Adventurers’
 Guild, it was already twilight. If every job took us this long, we’d be
 bankrupt in no time.

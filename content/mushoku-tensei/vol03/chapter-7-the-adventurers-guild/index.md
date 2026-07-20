@@ -88,7 +88,6 @@ a reply.
 “Snort… Hehe. J-just a tip, kid…the Superd have green hair…”
 With that, an explosion of hilarity filled the guild’s lobby from
 one end to the other.
-***
 Judging from the gales of laughter buffeting us from all sides,
 our act had gotten off to a decent start.
 At a glance, the Adventurers’ Guild seemed to be even more of
@@ -168,7 +167,6 @@ Snort…”
 I could still hear some quiet chuckling behind my back, but that
 wasn’t really a problem.
 So far, so good.
-***
 And so, after roughly forty-four years of obstinate struggle, I
 finally realized my long-cherished dream of setting foot inside an
 employment office…sort of.
@@ -205,7 +203,6 @@ warrior from a backwoods village would deal with all this.
 “Thank you, but we’re fine.”
 I picked up one of the papers and read it out loud in the Human
 tongue for Eris’s benefit.
-***
 1 — Use of the Adventurers’ Guild
 Registering with the Adventurers’ Guild (“the guild”)
 entitles you to the use of its services.
@@ -265,7 +262,6 @@ monster attack or similar crisis, all adventurers are
 obliged to offer their assistance.
 In addition, adventurers are expected to obey any orders
 issued by their local guild in the event of an emergency.
-***
 
 By the time I was halfway through the list, Eris was looking
 increasingly fed-up. This sort of stilted, formal writing wasn’t exactly
@@ -481,7 +477,6 @@ from the board and bring it over to our reception counters.”
 to head back there when you have something to sell.”
 “Out back. Got it. Thank you.”
 Phew. Finally done with the paperwork at least…
-***
 With our registration completed, the three of us headed over to
 take a look at the bulletin board. Unfortunately, that meant making
 our way through a gauntlet of smirking adventurers. Almost
@@ -583,7 +578,6 @@ a fight here, but that was more nerve-wracking than expected.
 With the crisis past, I turned around and made for the guild’s
 bulletin board…totally oblivious to the ominous gaze of a certain
 horse-headed man.
-***
 The board was absolutely covered with dozens of pieces of
 paper. There was a mountain of work that needed doing apparently.
 As a brand-new party, however, we could only take jobs ranked
@@ -594,7 +588,6 @@ bookkeeping, looking for a lost pet, and exterminating insects.
 None of them looked especially challenging, but the rewards
 were also low.
 The actual forms looked like this, for example:
-***
 F
 TASK: Warehouse Organizing REWARD: 5 stone coins
 DETAILS: Manual labor, heavy lifting
@@ -607,7 +600,6 @@ CLIENT: Dogamu of the Orte
 NOTES: I’ve got a ton of stuff to move around, and not
 nearly enough manpower. Someone help me out. Ideally,
 someone strong.
-***
 F
 TASK: Kitchen Help REWARD: 6 stone coins
 DETAILS: Dishwashing, carrying food, etc.
@@ -618,7 +610,6 @@ CLIENT: Shinitora of the Kanande
 NOTES: We’ve been getting a ton of reservations lately. I
 need some extra hands in the kitchen. If you’re up for a
 little taste-testing too, I’d appreciate it.
-***
 E
 TASK: Lost Pet REWARD: One scrap iron coin
 DETAILS: Find and catch a missing pet
@@ -630,7 +621,6 @@ CLIENT: Meicel of the Houga
 NOTES: My pet vanished and won’t come home. I’m using
 up all my allowance money on this request. Someone
 please help.
-***
 They didn’t seem like the sort of jobs you’d undertake as a party
 really. It looked like low-rank jobs tended to be “solo quests” for the
 most part. Any jobs we completed would count for all of us for rank

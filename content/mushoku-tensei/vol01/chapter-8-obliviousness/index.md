@@ -38,7 +38,6 @@ the blade, if possible, but if that proved unfeasible, then at least in a
 close-combat situation where I could weave my magic into the mix.
 That was what I kept in mind as I headed out for my day’s
 training.
-***
 Under the tree atop the hill, Sylph came by, as he usually did.
 “Sorry,” he said. “I hope I didn’t keep you waiting.”
 “Not at all,” I replied. “I just got here myself.” That’s how we’d
@@ -62,7 +61,6 @@ ignore one another.
 With that, the issue seemed to be resolved, and the tree on top
 of the hill became our territory.
 
-***
 Anyway, less about those punks and more about Sylph.
 What we referred to as “playing” was, in fact, magic training. If
 Sylph picked up a bit of spellcraft, he could fend off bullies by
@@ -221,7 +219,6 @@ crops aren’t going to grow. I make a point not to mess with the
 weather unless it’s going to cause problems.”
 We were already off and running by then. Since Sylph’s house
 was too far away, we made for the Greyrat estate.
-***
 “I’m home!” I called out.
 “Uh, h-hello,” Sylph added.
 Our maid, Lilia, was standing just inside, waiting with a large
@@ -303,7 +300,6 @@ tissues.
 One of those. That’s what Sylph had.
 He…was a she.
 My vision went white. What I’d just done was not okay at all.
-***
 “Rudeus, what are you doing?”
 I came to my senses to see Paul standing there. When had he
 gotten home? Had he come into the room because he’d heard Sylph
@@ -433,7 +429,6 @@ At least we could still play together. There might be some lingering
 awkwardness, but at least we were still hanging out together.
 
 For today, I told myself, that would be good enough.
-***
 My skills, according to this world’s standards, were as follows:
 Swordplay
 Sword God Style: Beginner; Water God Style: Beginner
@@ -496,7 +491,6 @@ was busy with things like studying or working. And all the knowledge,
 experience, and perspectives I’d gained from those games would be
 useful in this world.
 Or, well, they ought to be. They hadn’t really been, so far.
-***
 One day, I was outside doing sword training with Paul when I
 unwittingly let out a loud sigh.
 I thought my father would be angry with me for being so
@@ -577,7 +571,6 @@ Unable to wait any longer, I dashed off. As I left, I could’ve
 sworn I heard him say one final thing.
 “What the hell did I just teach my six-year-old son?”
 
-***
 I got to our spot under the tree earlier than usual, so Sylphie
 hadn’t shown up yet. I’d brought my wooden practice sword, as
 always, but I hadn’t cleaned up before heading out like I usually did,

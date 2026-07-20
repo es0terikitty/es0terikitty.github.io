@@ -74,7 +74,6 @@ entire world that believed in the Forest Goddess Laine, and that was
 the Markien Mercenary Country. Why was it only this particular
 country that had such a custom?
 The answer was one interesting story indeed.
-***
 Year Four Hundred and Seventeen of the Armored Dragon.
 It was the year of the Displacement Incident in Asura Kingdom.
 Not two years had passed since the Mercenary King Markien
@@ -126,7 +125,6 @@ strength was reduced to the point where they had little ability to put
 
 up any meaningful opposition. They had their hands full just trying to
 keep the country from collapsing.
-***
 Bigott Mercenal, the Captain of the third unit of Markien’s
 Mercenary Company, led ten of his men into the depths of the
 forest. Ejin Forest, as it was called, was infested with monsters. Since
@@ -506,7 +504,6 @@ his head sliced off by a brown-skinned woman.
 wore on. And he lived.
 The final battle ended in victory for the Markien Mercenary
 Country.
-***
 Thanks to his achievements, Bigott Mercenal earned the
 position of general. He was celebrated as a legendary hero for having
 succeeded in a suicide mission and for executing Dikuto’s king.

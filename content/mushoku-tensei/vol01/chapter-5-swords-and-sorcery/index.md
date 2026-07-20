@@ -50,7 +50,6 @@ As much as she didn’t like being called “Master,” Roxy sure
 seemed reluctant to buck the traditions of the role.
 “Thank you, Master,” I said. “I’ll take good care of it.”
 Roxy grimaced.
-***
 The following day, I began actually training with the sword,
 focusing on practice swings and fundamental forms. We had a
 wooden practice dummy in our yard that I used to practice my forms
@@ -92,7 +91,6 @@ Paul wasn’t using magic consciously. That was why he couldn’t
 explain how he did what he did. It meant that once I was able to
 reproduce what he did, I’d be able to use magic to give myself a
 physical boost. I had to stick with it.
-***
 In this world, there were three primary schools of swordplay.
 First was the Sword God Style. This style maintained that the
 best defense was a good offense and focused on high-speed moves
@@ -141,7 +139,6 @@ Also, it was typical when referring to swordsmen to address
 them as “Water God” or “Water Saint” or whatever their level of
 proficiency was. For magicians, it was tradition to add “level” to that
 descriptor. Roxy, for example, was a “Water Saint-tier Magician.”
-***
 Paul decided that I would learn both the Sword God Style and
 Water God Style: the former to get a good handle on offense and the
 latter for defense.
@@ -196,7 +193,6 @@ died. If I’d been nicer to them, maybe my siblings wouldn’t have
 kicked me out of the house.
 I needed to be better to my parents this time around.
 
-***
 While I was taking my first steps in sword training, my magical
 studies were taking on a more technical and practical bent.
 “What would happen if you cast Waterfall, Heat Island, and

@@ -25,7 +25,6 @@ It was a day of bubbling joy and countless smiles. I was honestly
 very happy, hoping that I’d wind up with a little sister. A younger
 brother might break all of my precious things (with a baseball bat).
 The problems didn’t arise until about a month later.
-***
 Our maid, Lilia, had discovered that she was pregnant, as well.
 “I’m so sorry,” she announced matter-of-factly to the family as
 we sat at the table. “I’m pregnant.”
@@ -81,7 +80,6 @@ solidified as I watched Zenith draw herself up to her full height, her
 face livid, her hand rising into the air.
 And thus was convened an emergency family meeting, with Lilia
 included.
-***
 It was Zenith who first broke the silence. She had the authority
 in this meeting. “So, what are we going to do?”
 From what I could see, she was as calm as anything. Instead of
@@ -214,7 +212,6 @@ fearfully in my futon, but even when morning came, there was
 nothing. She hadn’t told anyone.
 I owed it to her to repay that debt.
 
-***
 “Mother?” I asked, keeping my tone as childlike as I could. “How
 come everyone’s acting so glum about how I’m going to have two
 new siblings at once?”
@@ -280,7 +277,6 @@ tears.
 ![Illustration](illustration-176.jpg)
 
 All right, then. That was all done and settled.
-***
 And so, with all of the responsibility laid squarely on Paul, we
 got through things without further issue. By the end, Zenith was
 looking at him with the cold dispassion of someone who was about
@@ -493,7 +489,6 @@ you.
 “Mother!” I started to call. “Father is—”
 “Gah! No, stop!”
 And so, today our house would be a peaceful one yet again.
-***
 Soon after that, Zenith gave birth.
 It was a rough experience, a breech birth. With Lilia gravid as
 she was, she called for a midwife from the village, an older woman,

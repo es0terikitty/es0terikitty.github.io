@@ -135,7 +135,6 @@ too serious.”
 Now that was a phrase I never would’ve expected to hear from
 Miss Eris Boreas Greyrat. The girl really had come a long way in the
 last few years, hadn’t she?
-***
 We settled on a place called the Wolfclaw Inn. It had a total of
 twelve rooms, and the rate was five stone coins per night. The
 building itself had seen better days, but they openly welcomed
@@ -297,7 +296,6 @@ and watching all of this unfold with a small smile on his face.
 “Hm? It was only a children’s fight, wasn’t it?”
 “Yeah, but the grown-ups are supposed to stop those!”
 Especially when it’s such a total mismatch…
-***
 “Are you all right?”
 “Yeah, I’m f-fine…”
 Feeling a bit sympathetic despite myself, I cast Healing on the
@@ -399,7 +397,6 @@ you in the wilderness too?”
 Yeah, I think I won that one. Feels good, man. Hard to argue
 with the mental image of a Pax Coyote ripping out your throat, right?
 I left the “Tokurabu Village Toughs” to nurse their bruised egos.
-***
 After dinner, we headed up to our room, where three fur beds
 awaited us.
 “Phew…” Sighing softly, I took a seat on mine. Today really had
@@ -516,7 +513,6 @@ easy.
 Hopefully I can figure something out…
 Nothing came to mind before I fell asleep, though.
 
-***
 I was dreaming. In my dream, I found myself in a pure-white
 void. I could sense I’d reverted into a duller and more pathetic
 version of myself.
@@ -552,7 +548,6 @@ to find the lost pet, and you’ll soon find yourself with much less to
 worry about…”
 With the Man-God’s final words echoing in my ears, I felt myself
 slipping back into unconsciousness.
-***
 When I woke up, it was still the middle of the night. Talk about a
 bad dream.
 I’d had about enough of these divine messages, to be honest.
