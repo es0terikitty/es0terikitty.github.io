@@ -4,7 +4,13 @@
 
 {% block content %}
 <nav class="back-link wrap">
-  <a href="/">&larr; Home</a>
+  {% set ancestors = section.ancestors %}
+  {% if ancestors %}
+    {% set parent = get_section(path=ancestors | last) %}
+    <a href="{{ parent.path }}">&larr; {% if parent.path == "/" %}Home{% else %}{{ parent.title }}{% endif %}</a>
+  {% else %}
+    <a href="/">&larr; Home</a>
+  {% endif %}
 </nav>
 
 <section class="chapter-list">

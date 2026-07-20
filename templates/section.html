@@ -7,7 +7,7 @@
   {% set ancestors = section.ancestors %}
   {% if ancestors %}
     {% set parent = get_section(path=ancestors | last) %}
-    <a href="{{ parent.path }}">&larr; {{ parent.title }}</a>
+    <a href="{{ parent.path }}">&larr; {% if parent.path == "/" %}Home{% else %}{{ parent.title }}{% endif %}</a>
   {% else %}
     <a href="/">&larr; Home</a>
   {% endif %}
@@ -17,14 +17,21 @@
   <h2>{{ section.title }}</h2>
   {{ section.content | safe }}
   <div class="chapter-grid">
-    {% if "/chapters/" in section.path %}
-      {% set pages = section.pages | sort(attribute="extra.chapter") %}
+    {% if section.subsections %}
+      {% for sub in section.subsections | sort %}
+        {% set sub_sec = get_section(path=sub) %}
+        <a href="{{ sub_sec.path | safe }}" class="grid-item">{{ sub_sec.title }}</a>
+      {% endfor %}
     {% else %}
-      {% set pages = section.pages %}
+      {% if "/chapters/" in section.path %}
+        {% set pages = section.pages | sort(attribute="extra.chapter") %}
+      {% else %}
+        {% set pages = section.pages %}
+      {% endif %}
+      {% for page in pages %}
+        <a href="{{ page.path | safe }}" class="grid-item">{{ page.title }}</a>
+      {% endfor %}
     {% endif %}
-    {% for page in pages %}
-      <a href="{{ page.path | safe }}" class="grid-item">{{ page.title }}</a>
-    {% endfor %}
   </div>
 </section>
 {% endblock content %}
