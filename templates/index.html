@@ -9,27 +9,26 @@
   <div class="terminal">
     <div class="terminal-bar">
       <span>tty1</span>
-      <span>es0terikitty</span>
+      <span></span>
     </div>
     <div class="terminal-body">
       <img src="/es0terikitty.jpg" alt="avatar" class="avatar">
       <div class="prompt"><span>$</span> whoami</div>
-      <h1>es0terikitty</h1>
       <div class="tagline"><span class="typewriter">{{ config.description }}</span><span class="cursor"></span></div>
     </div>
   </div>
 </div>
 
-<!-- ── 01 notes ── -->
+<!-- ── Novels ── -->
 <div class="section-divider wrap">
-  <span class="num">01</span> ━━━━━━━━━━━━ NOTES ━━━━━━━━━━━━
+  ━━━━━━━━━━━━ NOVELS ━━━━━━━━━━━━
 </div>
 
 <section id="notes" class="wrap">
   <div class="playlist">
     <div class="playlist-bar">
-      <span>▸─ Notes</span>
-      <span>3 sections</span>
+      <span>▸─ Novels</span>
+      <span></span>
     </div>
     {% set math = get_section(path="math/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
@@ -37,7 +36,6 @@
     {% set shelves = [math, chapters, mt] %}
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="playlist-item">
-      <span class="idx">{{ loop.index }}</span>
       <span class="glyph">{{ shelf.extra.glyph | default(value="▶") }}</span>
       <div>
         <div class="title">{{ shelf.title }}</div>
@@ -48,74 +46,68 @@
   </div>
 </section>
 
-<!-- ── 02 stack ── -->
+<!-- ── stack ── -->
 <div class="section-divider wrap">
-  <span class="num">02</span> ━━━━━━━━━━━━ STACK ━━━━━━━━━━━━
+  ━━━━━━━━━━━━ STACK ━━━━━━━━━━━━
 </div>
 
 <section id="stack" class="wrap">
   <h2 class="section-heading"><span class="glyph">⌁</span> /stack</h2>
   <div class="stack-grid">
-    <div class="stack-card">
+    <a href="https://hyprland.org" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">WM</div>
       <div class="icon">⌂</div>
       <div class="name">Hyprland + Noctalia</div>
       <div class="desc">Tiling Wayland compositor, custom dark theme</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://neovim.io" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Editor</div>
       <div class="icon">λ</div>
       <div class="name">Neovim (LazyVim)</div>
       <div class="desc">Lua config, snacks.nvim dashboard</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://sw.kovidgoyal.net/kitty/" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Terminal</div>
       <div class="icon">❯</div>
       <div class="name">Kitty</div>
       <div class="desc">GPU-accelerated, Nerd Font glyphs</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://yazi-rs.github.io" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">File Manager</div>
       <div class="icon">⎔</div>
       <div class="name">Yazi</div>
       <div class="desc">Terminal file manager with previews</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://github.com/Novum/rmpc" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Music</div>
       <div class="icon">♫</div>
       <div class="name">rmpc</div>
       <div class="desc">Minimal MPD client</div>
-    </div>
-    <div class="stack-card">
-      <div class="kicker">Engine</div>
-      <div class="icon">⚙</div>
-      <div class="name">Zola</div>
-      <div class="desc">Static site generator (this site)</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://obsidian.md" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Notes</div>
       <div class="icon">✎</div>
       <div class="name">Obsidian</div>
       <div class="desc">Markdown knowledge base</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://github.com/JohnKFoster/Noctalia" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Theming</div>
       <div class="icon">▣</div>
       <div class="name">matugen</div>
       <div class="desc">Material color utility for theming</div>
-    </div>
-    <div class="stack-card">
+    </a>
+    <a href="https://www.nerdfonts.com/font-downloads" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Font</div>
       <div class="icon">⌀</div>
       <div class="name">JetBrainsMono Nerd Font</div>
       <div class="desc">Monospace everywhere</div>
-    </div>
+    </a>
   </div>
 </section>
 
-<!-- ── 03 now ── -->
+<!-- ── now ── -->
 <div class="section-divider wrap">
-  <span class="num">03</span> ━━━━━━━━━━━━ NOW ━━━━━━━━━━━━
+  ━━━━━━━━━━━━ NOW ━━━━━━━━━━━━
 </div>
 
 <section id="now" class="wrap">
@@ -133,9 +125,9 @@
   </div>
 </section>
 
-<!-- ── 04 install ── -->
+<!-- ── site.stats ── -->
 <div class="section-divider wrap">
-  <span class="num">04</span> ━━━━━━━━━━━━ SITE.STATS ━━━━━━━━━━━━
+  ━━━━━━━━━━━━ SITE.STATS ━━━━━━━━━━━━
 </div>
 
 <section id="stats" class="wrap">
