@@ -299,7 +299,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 }
 .stat-card .value { font-size: var(--text-xl); font-weight: 700; color: var(--fg); }
 .stat-card .label { font-size: var(--text-xs); color: var(--fg-dim); text-transform: uppercase; letter-spacing: 0.08em; margin-top: 4px; }
-.live-date { font-size: var(--text-xs); color: var(--fg-muted); margin-top: 2px; }
+.live-date { font-size: var(--text-xs); color: var(--fg-dim); margin-top: 6px; }
 
 /* ── Footer ── */
 .footer {
