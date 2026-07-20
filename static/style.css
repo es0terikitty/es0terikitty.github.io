@@ -172,10 +172,9 @@ body::after {
   display: inline;
 }
 @media (prefers-reduced-motion: no-preference) {
-  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; border-right: 2px solid var(--amber); width: 0; animation: type 2.5s steps(60, end) forwards, blink-caret 0.75s step-end infinite; }
+  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; width: 0; animation: type 2.5s steps(60, end) forwards; }
 }
 @keyframes type { to { width: 100%; } }
-@keyframes blink-caret { 50% { border-color: transparent; } }
 
 /* ── Section dividers ── */
 .section-divider {
