@@ -3,5 +3,5 @@ description = "Until we turn to dust, (ﾐゝᆽ╹ﾐ)"
 base_url = "https://es0terikitty.github.io"
 default_language = "en"
 build_search_index = false
-generate_feeds = false
+generate_feeds = true
 taxonomies = []

@@ -44,6 +44,8 @@
   --text-xl: 1.75rem;
   --text-2xl: 2.5rem;
   --content-w: 720px;
+  --content-w-wide: 1100px;
+  --content-w-list: 960px;
 }
 
 *, *::before, *::after {
@@ -355,6 +357,19 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   .stack-grid { grid-template-columns: 1fr; }
   .stats-grid { grid-template-columns: 1fr; }
   .terminal-body { padding: 16px; }
+}
+
+/* ── Desktop enhancement (min-width, additive) ── */
+@media (min-width: 1024px) {
+  #stack.wrap { max-width: var(--content-w-wide); }
+  .stack-grid { grid-template-columns: repeat(4, 1fr); }
+  #stats.wrap { max-width: var(--content-w-wide); }
+  .chapter-list { max-width: var(--content-w-list); }
+  .chapter-grid { display: block; columns: 3; column-gap: 24px; }
+  .chapter-grid .grid-item { break-inside: avoid; }
+}
+@media (min-width: 1440px) {
+  .chapter-grid { columns: 4; }
 }
 
 /* ── Content page nav ── */
