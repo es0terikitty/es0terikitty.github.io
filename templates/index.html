@@ -26,9 +26,10 @@
       <span>▸─ Novels</span>
       <span></span>
     </div>
+    {% set ri = get_section(path="reverend-insanity/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
     {% set mt = get_section(path="mushoku-tensei/_index.md") %}
-    {% set shelves = [chapters, mt] %}
+    {% set shelves = [ri, chapters, mt] %}
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="playlist-item">
       <span class="glyph">{{ shelf.extra.glyph | default(value="▶") }}</span>
@@ -134,6 +135,7 @@
 <section id="stats" class="wrap">
   <h2 class="section-heading"><span class="glyph">⟲</span> ~/stats</h2>
   <div class="stats-grid">
+    {% set ri = get_section(path="reverend-insanity/_index.md") %}
     {% set math = get_section(path="studies/math/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
     {% set mt = get_section(path="mushoku-tensei/_index.md") %}
@@ -142,10 +144,16 @@
       {% set vol = get_section(path=sub) %}
       {% set_global mt_all = mt_all | concat(with=vol.pages) %}
     {% endfor %}
+    {% set ri_all = [] %}
+    {% for sub in ri.subsections %}
+      {% set vol = get_section(path=sub) %}
+      {% set_global ri_all = ri_all | concat(with=vol.pages) %}
+    {% endfor %}
     {% set math_n = math.pages | length %}
     {% set ch_n = chapters.pages | length %}
     {% set mt_n = mt_all | length %}
-    {% set all_n = math_n + ch_n + mt_n %}
+    {% set ri_n = ri_all | length %}
+    {% set all_n = math_n + ch_n + mt_n + ri_n %}
     <div class="stat-card">
       <div class="value">{{ all_n }}</div>
       <div class="label">Notes</div>
