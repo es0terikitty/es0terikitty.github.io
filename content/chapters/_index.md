@@ -3,5 +3,5 @@ title = "Crime and Punishment"
 render = true
 [extra]
 glyph = "✎"
-summary = "Chapter-by-chapter notes on Dostoevsky's novel."
+summary = "Pain and suffering are always inevitable for a large intelligence and a deep heart"
 +++

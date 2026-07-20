@@ -4,5 +4,5 @@ template = "mushoku-tensei.html"
 render = true
 [extra]
 glyph = "▶"
-summary = "Full light novel text — 8 volumes, illustrations included."
+summary = "One who obtains the wings of freedom loses both legs in exchange"
 +++
