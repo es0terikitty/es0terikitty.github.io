@@ -152,7 +152,8 @@ body::after {
 }
 .terminal-body .tagline {
   font-size: var(--text-sm); color: var(--fg-dim);
-  text-align: center; max-width: 480px;
+  max-width: 480px;
+  display: inline-flex; align-items: center; justify-content: center; gap: 2px;
 }
 .terminal-body .tagline span { color: var(--fg-muted); }
 .cursor {
@@ -172,9 +173,9 @@ body::after {
   display: inline;
 }
 @media (prefers-reduced-motion: no-preference) {
-  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; width: 0; animation: type 2.5s steps(60, end) forwards; }
+  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; max-width: 0; vertical-align: bottom; animation: type 2.5s steps(60, end) forwards; }
 }
-@keyframes type { to { width: 100%; } }
+@keyframes type { to { max-width: 100%; } }
 
 /* ── Section dividers ── */
 .section-divider {
