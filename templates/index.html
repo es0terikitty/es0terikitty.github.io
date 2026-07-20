@@ -1,31 +1,172 @@
 {% extends "base.html" %}
 
-{% block title %}{{ config.title }}{% endblock title %}
-
 {% block content %}
-<div class="home-logo">
-  <img src="/es0terikitty.jpg" alt="es0terikitty">
+
+<main>
+
+<!-- ── Hero ── -->
+<div class="wrap">
+  <div class="terminal">
+    <div class="terminal-bar">
+      <span>tty1</span>
+      <span>es0terikitty</span>
+    </div>
+    <div class="terminal-body">
+      <img src="/es0terikitty.jpg" alt="avatar" class="avatar">
+      <div class="prompt"><span>$</span> whoami</div>
+      <h1>es0terikitty</h1>
+      <div class="tagline"><span class="typewriter">{{ config.description }}</span><span class="cursor"></span></div>
+    </div>
+  </div>
 </div>
 
-<section class="book-shelf">
-  <a href="/math/" class="book-card-lg">
-    <div class="book-card-img-wrap">
-      <img src="/math-cat.jpg" alt="Mathematics">
-      <span class="book-card-label">Mathematics &rarr;</span>
+<!-- ── 01 notes ── -->
+<div class="section-divider wrap">
+  <span class="num">01</span> ━━━━━━━━━━━━ NOTES ━━━━━━━━━━━━
+</div>
+
+<section id="notes" class="wrap">
+  <div class="playlist">
+    <div class="playlist-bar">
+      <span>▸─ Notes</span>
+      <span>3 sections</span>
     </div>
-  </a>
-  <a href="/chapters/" class="book-card-lg">
-    <div class="book-card-img-wrap">
-      <img src="/crime-and-punishment.jpg" alt="Crime and Punishment">
-      <span class="book-card-label">Crime and Punishment &rarr;</span>
-    </div>
-  </a>
-  <a href="/mushoku-tensei/" class="book-card-lg">
-    <div class="book-card-img-wrap">
-      <img src="/mushoku-tensei.jpg" alt="Mushoku Tensei">
-      <span class="book-card-label">Mushoku Tensei &rarr;</span>
-    </div>
-  </a>
+    {% set math = get_section(path="math/_index.md") %}
+    {% set chapters = get_section(path="chapters/_index.md") %}
+    {% set mt = get_section(path="mushoku-tensei/_index.md") %}
+    {% set shelves = [math, chapters, mt] %}
+    {% for shelf in shelves %}
+    <a href="{{ shelf.path }}" class="playlist-item">
+      <span class="idx">{{ loop.index }}</span>
+      <span class="glyph">{{ shelf.extra.glyph | default(value="▶") }}</span>
+      <div>
+        <div class="title">{{ shelf.title }}</div>
+        <div class="summary">{{ shelf.extra.summary | default(value="") }}</div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
 </section>
 
+<!-- ── 02 stack ── -->
+<div class="section-divider wrap">
+  <span class="num">02</span> ━━━━━━━━━━━━ STACK ━━━━━━━━━━━━
+</div>
+
+<section id="stack" class="wrap">
+  <h2 class="section-heading"><span class="glyph">⌁</span> /stack</h2>
+  <div class="stack-grid">
+    <div class="stack-card">
+      <div class="kicker">WM</div>
+      <div class="icon">⌂</div>
+      <div class="name">Hyprland + Noctalia</div>
+      <div class="desc">Tiling Wayland compositor, custom dark theme</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Editor</div>
+      <div class="icon">λ</div>
+      <div class="name">Neovim (LazyVim)</div>
+      <div class="desc">Lua config, snacks.nvim dashboard</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Terminal</div>
+      <div class="icon">❯</div>
+      <div class="name">Kitty</div>
+      <div class="desc">GPU-accelerated, Nerd Font glyphs</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">File Manager</div>
+      <div class="icon">⎔</div>
+      <div class="name">Yazi</div>
+      <div class="desc">Terminal file manager with previews</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Music</div>
+      <div class="icon">♫</div>
+      <div class="name">rmpc</div>
+      <div class="desc">Minimal MPD client</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Engine</div>
+      <div class="icon">⚙</div>
+      <div class="name">Zola</div>
+      <div class="desc">Static site generator (this site)</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Notes</div>
+      <div class="icon">✎</div>
+      <div class="name">Obsidian</div>
+      <div class="desc">Markdown knowledge base</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Theming</div>
+      <div class="icon">▣</div>
+      <div class="name">matugen</div>
+      <div class="desc">Material color utility for theming</div>
+    </div>
+    <div class="stack-card">
+      <div class="kicker">Font</div>
+      <div class="icon">⌀</div>
+      <div class="name">JetBrainsMono Nerd Font</div>
+      <div class="desc">Monospace everywhere</div>
+    </div>
+  </div>
+</section>
+
+<!-- ── 03 now ── -->
+<div class="section-divider wrap">
+  <span class="num">03</span> ━━━━━━━━━━━━ NOW ━━━━━━━━━━━━
+</div>
+
+<section id="now" class="wrap">
+  <h2 class="section-heading"><span class="glyph">◌</span> /now</h2>
+  <div class="terminal" style="max-width:100%;">
+    <div class="terminal-bar"><span>status</span><span>live</span></div>
+    <div class="terminal-body" style="align-items:flex-start;">
+      <div class="prompt"><span>$</span> cat /now</div>
+      <div style="color:var(--fg-dim); font-size:var(--text-sm); line-height:1.8;">
+        <p>Reading: Mushoku Tensei volumes 8+</p>
+        <p>Building: This site — full redesign in progress</p>
+        <p>Ricing: Noctalia v5, Neovim snacks.nvim</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── 04 install ── -->
+<div class="section-divider wrap">
+  <span class="num">04</span> ━━━━━━━━━━━━ SITE.STATS ━━━━━━━━━━━━
+</div>
+
+<section id="stats" class="wrap">
+  <h2 class="section-heading"><span class="glyph">⟲</span> /stats</h2>
+  <div class="stats-grid">
+    {% set math = get_section(path="math/_index.md") %}
+    {% set chapters = get_section(path="chapters/_index.md") %}
+    {% set mt = get_section(path="mushoku-tensei/_index.md") %}
+    {% set mt_all = [] %}
+    {% for sub in mt.subsections %}
+      {% set vol = get_section(path=sub) %}
+      {% set_global mt_all = mt_all | concat(with=vol.pages) %}
+    {% endfor %}
+    {% set math_n = math.pages | length %}
+    {% set ch_n = chapters.pages | length %}
+    {% set mt_n = mt_all | length %}
+    {% set all_n = math_n + ch_n + mt_n %}
+    <div class="stat-card">
+      <div class="value">{{ all_n }}</div>
+      <div class="label">Notes</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">{{ mt_n }}</div>
+      <div class="label">MT Chapters</div>
+    </div>
+    <div class="stat-card">
+      <div class="value">─</div>
+      <div class="label">Last Updated</div>
+    </div>
+  </div>
+</section>
+
+</main>
 {% endblock content %}

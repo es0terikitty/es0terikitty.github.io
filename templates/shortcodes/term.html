@@ -1,0 +1,9 @@
+<div class="terminal"{% if style %} style="{{ style }}"{% endif %}>
+  <div class="terminal-bar">
+    <span>{{ title | default(value="term") }}</span>
+    <span>{{ right | default(value="") }}</span>
+  </div>
+  <div class="terminal-body"{% if body_style %} style="{{ body_style }}"{% endif %}>
+    {{ body | markdown | safe }}
+  </div>
+</div>

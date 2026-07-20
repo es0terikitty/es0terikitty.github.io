@@ -3,68 +3,34 @@
 {% block title %}{{ page.title }} — {{ config.title }}{% endblock title %}
 
 {% block content %}
-{% if page.components[0] == "mushoku-tensei" %}
-  {% set section_base = page.components | slice(end=2) | join(sep="/") %}
-  {% set section_path = section_base ~ "/_index.md" %}
-{% else %}
-  {% set section_path = "chapters/_index.md" %}
-{% endif %}
-{% set section = get_section(path=section_path) %}
-{% if page.components[0] == "mushoku-tensei" %}
-  {% set all_pages = section.pages %}
-{% else %}
-  {% set all_pages = section.pages | sort(attribute="extra.chapter") %}
-{% endif %}
-{% set first_page = all_pages | first %}
-{% set last_page = all_pages | last %}
-{% set prev_path = "" %}
-{% set next_path = "" %}
-{% set found = false %}
-{% for p in all_pages %}
-  {% if found and next_path == "" %}
-    {% set_global next_path = p.path %}
+<nav class="back-link wrap">
+  {% set parent_path = page.ancestors | last %}
+  {% if parent_path %}
+    {% set parent = get_section(path=parent_path) %}
+    <a href="{{ parent.path }}">&larr; Back</a>
+  {% else %}
+    <a href="/">&larr; Back</a>
   {% endif %}
-  {% if p.path == page.path %}
-    {% set_global found = true %}
-  {% endif %}
-  {% if not found %}
-    {% set_global prev_path = p.path %}
-  {% endif %}
-{% endfor %}
-{% if prev_path == "" %}
-  {% set_global prev_path = last_page.path %}
-{% endif %}
-{% if next_path == "" %}
-  {% set_global next_path = first_page.path %}
-{% endif %}
+</nav>
 
-<article lang="en" itemscope itemtype="https://schema.org/Article">
-  <header class="page-header">
-    <nav class="page-nav-top">
-      <div class="nav-prev">
-        <a href="{{ prev_path | safe }}">&#x276E;</a>
-      </div>
-      <h1 class="chapter-title">{{ page.title }}</h1>
-      <div class="nav-next">
-        <a href="{{ next_path | safe }}">&#x276F;</a>
-      </div>
-    </nav>
-  </header>
-
-  <div class="chapter-body entry-content article-body" itemprop="articleBody">
-    {{ page.content | safe }}
+<header class="page-header">
+  <h2>{{ page.title }}</h2>
+  <div class="page-nav-top">
+    {% if page.earlier %}
+    <a href="{{ page.earlier.path }}">&#8592; prev</a>
+    {% endif %}
+    {% if page.later %}
+    <a href="{{ page.later.path }}">next &#8594;</a>
+    {% endif %}
   </div>
+</header>
 
-  <nav class="page-nav-bottom">
-    <div class="nav-prev">
-      <a href="{{ prev_path | safe }}">&#x276E;</a>
-    </div>
-    <div class="nav-up">
-      <a href="/">Home</a>
-    </div>
-    <div class="nav-next">
-      <a href="{{ next_path | safe }}">&#x276F;</a>
-    </div>
-  </nav>
-</article>
+<div class="chapter-body entry-content" itemprop="articleBody">
+  {{ page.content | safe }}
+</div>
+
+<div class="page-nav">
+  <div>{% if page.earlier %}<a href="{{ page.earlier.path }}">&#8592; {{ page.earlier.title }}</a>{% endif %}</div>
+  <div>{% if page.later %}<a href="{{ page.later.path }}">{{ page.later.title }} &#8594;</a>{% endif %}</div>
+</div>
 {% endblock content %}

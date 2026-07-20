@@ -3,6 +3,16 @@
 {% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
 
 {% block content %}
+<nav class="back-link wrap">
+  {% set ancestors = section.ancestors %}
+  {% if ancestors %}
+    {% set parent = get_section(path=ancestors | last) %}
+    <a href="{{ parent.path }}">&larr; {{ parent.title }}</a>
+  {% else %}
+    <a href="/">&larr; Home</a>
+  {% endif %}
+</nav>
+
 <section class="chapter-list">
   <h2>{{ section.title }}</h2>
   {{ section.content | safe }}

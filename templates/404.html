@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block title %}404 — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<div class="wrap" style="text-align:center;padding:80px 24px;">
+  <div class="terminal" style="max-width:480px;">
+    <div class="terminal-bar">
+      <span>error</span>
+      <span>exit code 1</span>
+    </div>
+    <div class="terminal-body">
+      <div class="prompt" style="font-size:var(--text-2xl);margin-bottom:8px;">
+        <span>$</span> 404
+      </div>
+      <div style="color:var(--fg-dim);line-height:2;">
+        <p>file not found</p>
+        <p style="margin-top:16px;">
+          <a href="/" style="color:var(--red);">cd ~</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock content %}

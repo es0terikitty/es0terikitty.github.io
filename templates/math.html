@@ -1,85 +1,19 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }} — {{ config.title }}{% endblock title %}
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
 
 {% block content %}
-<nav class="back-link">
+<nav class="back-link wrap">
   <a href="/">&larr; Home</a>
 </nav>
 
-
-<section class="ref-section">
-  <h2 class="section-label">Squares &amp; Cubes</h2>
-  <div class="table-scroll">
-    <table class="num-table">
-      <thead><tr><th>Num</th><th>Square</th><th>Cube</th></tr></thead>
-      <tbody>
-        <tr><td>11</td><td>121</td><td>1331</td></tr>
-        <tr><td>12</td><td>144</td><td>1728</td></tr>
-        <tr><td>13</td><td>169</td><td>2197</td></tr>
-        <tr><td>14</td><td>196</td><td>2744</td></tr>
-        <tr><td>15</td><td>225</td><td>3375</td></tr>
-        <tr><td>16</td><td>256</td><td>4096</td></tr>
-        <tr><td>17</td><td>289</td><td>4913</td></tr>
-        <tr><td>18</td><td>324</td><td>5832</td></tr>
-        <tr><td>19</td><td>361</td><td>6859</td></tr>
-        <tr><td>20</td><td>400</td><td>8000</td></tr>
-      </tbody>
-    </table>
-    <table class="num-table">
-      <thead><tr><th>Num</th><th>Square</th><th>Cube</th></tr></thead>
-      <tbody>
-        <tr><td>21</td><td>441</td><td>9261</td></tr>
-        <tr><td>22</td><td>484</td><td>10648</td></tr>
-        <tr><td>23</td><td>529</td><td>12167</td></tr>
-        <tr><td>24</td><td>576</td><td>13824</td></tr>
-        <tr><td>25</td><td>625</td><td>15625</td></tr>
-        <tr><td>26</td><td>676</td><td>17576</td></tr>
-        <tr><td>27</td><td>729</td><td>19683</td></tr>
-        <tr><td>28</td><td>784</td><td>21952</td></tr>
-        <tr><td>29</td><td>841</td><td>24389</td></tr>
-        <tr><td>30</td><td>900</td><td>27000</td></tr>
-      </tbody>
-    </table>
+<section class="chapter-list">
+  <h2>{{ section.title }}</h2>
+  {% if section.content %}{{ section.content | safe }}{% endif %}
+  <div class="chapter-grid">
+    {% for page in section.pages %}
+      <a href="{{ page.path | safe }}" class="grid-item">{{ page.title }}</a>
+    {% endfor %}
   </div>
 </section>
-
-<section class="ref-section">
-  <h2 class="section-label">Pythagorean Triplets (Top 10)</h2>
-  <table class="num-table">
-    <thead><tr><th>a</th><th>b</th><th>c</th></tr></thead>
-    <tbody>
-      <tr><td>3</td><td>4</td><td>5</td></tr>
-      <tr><td>5</td><td>12</td><td>13</td></tr>
-      <tr><td>6</td><td>8</td><td>10</td></tr>
-      <tr><td>7</td><td>24</td><td>25</td></tr>
-      <tr><td>8</td><td>15</td><td>17</td></tr>
-      <tr><td>9</td><td>12</td><td>15</td></tr>
-      <tr><td>9</td><td>40</td><td>41</td></tr>
-      <tr><td>10</td><td>24</td><td>26</td></tr>
-      <tr><td>12</td><td>35</td><td>37</td></tr>
-      <tr><td>20</td><td>21</td><td>29</td></tr>
-    </tbody>
-  </table>
-</section>
-
-<section class="ref-section">
-  <h2 class="section-label">Prime Numbers (1 to 100)</h2>
-  <table class="prime-table">
-    <thead><tr><th>Range</th><th>Count</th><th>Primes</th></tr></thead>
-    <tbody>
-      <tr><td><strong>1–10</strong></td><td>4</td><td>2, 3, 5, 7</td></tr>
-      <tr><td><strong>11–20</strong></td><td>4</td><td>11, 13, 17, 19</td></tr>
-      <tr><td><strong>21–30</strong></td><td>2</td><td>23, 29</td></tr>
-      <tr><td><strong>31–40</strong></td><td>2</td><td>31, 37</td></tr>
-      <tr><td><strong>41–50</strong></td><td>3</td><td>41, 43, 47</td></tr>
-      <tr><td><strong>51–60</strong></td><td>2</td><td>53, 59</td></tr>
-      <tr><td><strong>61–70</strong></td><td>2</td><td>61, 67</td></tr>
-      <tr><td><strong>71–80</strong></td><td>3</td><td>71, 73, 79</td></tr>
-      <tr><td><strong>81–90</strong></td><td>2</td><td>83, 89</td></tr>
-      <tr><td><strong>91–100</strong></td><td>1</td><td>97</td></tr>
-    </tbody>
-  </table>
-</section>
-
 {% endblock content %}

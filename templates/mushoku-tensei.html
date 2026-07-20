@@ -3,12 +3,13 @@
 {% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
 
 {% block content %}
-<nav class="back-link">
+<nav class="back-link wrap">
   <a href="/">&larr; Home</a>
 </nav>
 
 <section class="chapter-list">
   <h2>{{ section.title }}</h2>
+  {% if section.content %}{{ section.content | safe }}{% endif %}
   <div class="chapter-grid">
     {% for sub in section.subsections | sort %}
       {% set vol = get_section(path=sub) %}
