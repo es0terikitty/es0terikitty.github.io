@@ -1,12 +1,11 @@
 +++
-title = "Chapter 4: The Foundations of Trust"
+title = "Chapter 4 The Foundations Of Trust"
 date = 2026-07-20
 weight = 3
 [extra]
 volume = 3
 chapter = 4
 +++
-
 If I had to describe Roxy’s former village in one word, it
 would be destitute.
 There were less than twenty households. It was a bit hard to
@@ -133,6 +132,8 @@ eyes, she was sound asleep within seconds.
 The girl must have been seriously exhausted. I took the
 opportunity to gently stroke her long, red hair, and she squirmed a
 little as she slept.
+
+![Illustration](illustration-57.jpg)
 
 After a moment, I realized that Rokkus was watching me from
 across the hearth. There was a warm, amused smile on his face. I

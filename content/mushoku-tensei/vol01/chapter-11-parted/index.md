@@ -1,12 +1,11 @@
 +++
-title = "Chapter 11: Parted"
+title = "Chapter 11 Parted"
 date = 2026-07-20
 weight = 11
 [extra]
 volume = 1
 chapter = 12
 +++
-
 One morning, maybe a month after I told Paul that I
 wanted to start working, a letter addressed to him arrived at our
 home.
@@ -130,6 +129,8 @@ starting tomorrow, kid.”
 Starting tomorrow? What?
 “Uhm, well, okay. Nice to meet you, Ghislaine.”
 “Yeah. Same here.”
+
+![Illustration](illustration-219.jpg)
 
 At this point, I went ahead and burned away the ropes around
 me with a bit of fire magic.

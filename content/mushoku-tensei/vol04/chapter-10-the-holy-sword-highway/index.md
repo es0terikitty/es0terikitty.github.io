@@ -1,12 +1,11 @@
 +++
-title = "Chapter 10: The Holy Sword Highway"
+title = "Chapter 10 The Holy Sword Highway"
 date = 2026-07-20
 weight = 9
 [extra]
 volume = 4
 chapter = 10
 +++
-
 The eve before we left the Doldia Village, Eris and Minitona
 had a fight. It went without saying, I’m sure, but Eris won easily. Of
 course she did. She was able to keep up with Ruijerd’s training, after
@@ -358,6 +357,8 @@ their conversation had never happened.
 Eris looked dumbfounded for a moment, but she recovered
 quickly and yelled, “Why not?!”
 
+![Illustration](illustration-223.jpg)
+
 “’Cause I don’t want to.”
 “So, why not?!”
 Geese let out a big sigh. “Okay, Miss. All a swordsperson needs
@@ -618,3 +619,5 @@ long, arduous journey out of the Great Forest. Straight from there
 was the Holy Country of Millis. We had finally returned to the
 domain of men, a fact which made my heart leap as I continued my
 journey.
+
+![Illustration](illustration-233.jpg)

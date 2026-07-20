@@ -1,12 +1,11 @@
 +++
-title = "Chapter 7: Friends"
+title = "Chapter 7 Friends"
 date = 2026-07-20
 weight = 7
 [extra]
 volume = 1
 chapter = 8
 +++
-
 I decided to try going outside. After all, Roxy had shown me
 I could do that, and I wasn’t going to let that go to waste.
 “Father,” I said, my botanical encyclopedia in one hand, “can I
@@ -299,6 +298,8 @@ clothes, those would have to be laundered at home.
 “All right, that should about do it,” I said. With the mud out of
 the way, I used fire magic to create hot wind, like an air dryer, then
 took a handkerchief to carefully wipe the rest of the boy’s face.
+
+![Illustration](illustration-123.jpg)
 
 In doing so, I could finally see his pointed, elf-like ears, as well as
 the emerald green hair he sported. I immediately remembered

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 1: Is This Another World?"
+title = "Chapter 1 Is This Another World"
 date = 2026-07-20
 weight = 1
 [extra]
 volume = 1
 chapter = 2
 +++
-
 When I opened my eyes, the first thing I saw was dazzling
 light. It grew to encompass my entire field of vision, and I squinted in
 discomfort.

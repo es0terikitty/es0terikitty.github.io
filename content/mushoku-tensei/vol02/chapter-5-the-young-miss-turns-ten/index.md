@@ -1,12 +1,11 @@
 +++
-title = "Chapter 5: The Young Miss Turns Ten"
+title = "Chapter 5 The Young Miss Turns Ten"
 date = 2026-07-20
 weight = 5
 [extra]
 volume = 2
 chapter = 6
 +++
-
 Another year passed.
 Eris’s education was progressing smoothly. Her swordplay was
 so impressive that she became Intermediate-tier before her tenth
@@ -173,6 +172,8 @@ Her heel was perched on the crown of my head. There wasn’t
 enough power behind it to be an axe kick, so it seemed she was just
 resting it there. She was in a foul mood but didn’t seem to have
 much energy.
+
+![Illustration](illustration-113.jpg)
 
 “Won’t you…go back to practice?”
 “I don’t need to know how to dance.”
@@ -500,6 +501,8 @@ Eris was enjoying herself. She was finally laughing like a girl her
 age should, rather than being sullen and pouty as she usually was.
 Just seeing that was enough to make me feel like it was worth it
 attending this party.
+
+![Illustration](illustration-125.jpg)
 
 Applause erupted when the dance finished. Sauros came running
 over, lifted the both of us onto his shoulders, and ran around the

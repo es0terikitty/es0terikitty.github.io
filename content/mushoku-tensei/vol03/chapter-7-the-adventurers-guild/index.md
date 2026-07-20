@@ -1,12 +1,11 @@
 +++
-title = "Chapter 7: The Adventurers' Guild"
+title = "Chapter 7 The Adventurers Guild"
 date = 2026-07-20
 weight = 6
 [extra]
 volume = 3
 chapter = 7
 +++
-
 The Adventurers’ Guild was a gathering place for some of
 the toughest customers in the city. Some were physically powerful;
 others were skilled, veteran magicians. Some favored the sword.
@@ -576,6 +575,8 @@ When Horseface repeated himself, Froggy paused, clicked his
 tongue bitterly, then stomped straight out of the guild. The crowd of
 onlookers promptly lost interest and began dispersing in groups of
 two and three.
+
+![Illustration](illustration-128.jpg)
 
 Man. I’d given some thought to the possibility that we’d get into
 a fight here, but that was more nerve-wracking than expected.

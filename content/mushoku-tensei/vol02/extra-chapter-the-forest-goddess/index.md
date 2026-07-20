@@ -1,12 +1,11 @@
 +++
-title = "Extra Chapter: The Forest Goddess"
+title = "Extra Chapter The Forest Goddess"
 date = 2026-07-20
 weight = 9
 [extra]
 volume = 2
 chapter = 10
 +++
-
 Directly east of Asura Kingdom and just over the
 mountains, right in the middle of the Central Continent, was a sphere
 of many tiny nations fighting each other for dominion over the
@@ -541,6 +540,10 @@ survive that battle and go on home to Asura Kingdom? Was she able
 to meet that precious Young Mistress of hers again?
 Bigott Mercenal had no way of knowing.
 
+![Illustration](illustration-238.jpg)
+
+![Illustration](illustration-239.jpg)
+
 Resides in Gifu Prefecture. Loves fighting games and cream
 puffs. Inspired by other published works on the website Let’s Become
 Novelists, they created the web novel Mushoku Tensei. They
@@ -556,3 +559,5 @@ Get the latest news about your favorite Seven Seas books and brandnew licenses d
 Sign up for our newsletter!
 Or visit us online:
 gomanga.com/newsletter
+
+Just Light Novels

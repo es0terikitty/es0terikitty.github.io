@@ -1,12 +1,11 @@
 +++
-title = "Chapter 3: A Textbook of Magic"
+title = "Chapter 3 A Textbook Of Magic"
 date = 2026-07-20
 weight = 3
 [extra]
 volume = 1
 chapter = 4
 +++
-
 It had been roughly two years since I’d been reincarnated.
 My legs had finally developed enough that I could walk.
 Also, I was finally able to speak this world’s language.
@@ -185,6 +184,8 @@ fingers spread. In that instant, the ball of water came into being.
 “Whoa, what?”
 Splish.
 In my moment of shock, the ball of water plopped to the floor.
+
+![Illustration](illustration-44.jpg)
 
 “Wait.” I hadn’t shouted an invocation, had I? But then… why?
 All I’d done was put myself into the same mental space as the last

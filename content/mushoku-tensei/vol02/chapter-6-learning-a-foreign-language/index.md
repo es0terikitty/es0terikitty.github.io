@@ -1,12 +1,11 @@
 +++
-title = "Chapter 6: Learning A Foreign Language"
+title = "Chapter 6 Learning A Foreign Language"
 date = 2026-07-20
 weight = 6
 [extra]
 volume = 2
 chapter = 7
 +++
-
 Eris became better behaved after her tenth birthday. She
 took her lessons seriously and punched me less frequently than
 before. More relaxed after being released from the fear of domestic

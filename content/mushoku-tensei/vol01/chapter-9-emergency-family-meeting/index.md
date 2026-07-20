@@ -1,12 +1,11 @@
 +++
-title = "Chapter 9: Emergency Family Meeting"
+title = "Chapter 9 Emergency Family Meeting"
 date = 2026-07-20
 weight = 9
 [extra]
 volume = 1
 chapter = 10
 +++
-
 Zenith had learned she was pregnant. I was going to have a
 little brother or sister. Our family was growing. Oh, Rudy, you lucky
 guy!
@@ -277,6 +276,8 @@ leave!”
 And that seemed to be the final word on the matter. Paul’s eyes
 went wide; Lilia brought her hand to her mouth, holding back her
 tears.
+
+![Illustration](illustration-176.jpg)
 
 All right, then. That was all done and settled.
 ***

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 11: A Smooth Start"
+title = "Chapter 11 A Smooth Start"
 date = 2026-07-20
 weight = 10
 [extra]
 volume = 3
 chapter = 11
 +++
-
 When we made our way to the front door of the
 Adventurers’ Guild the next morning, a lizard-man immediately
 approached me.

@@ -343,14 +343,11 @@ main {
   color: var(--text);
 }
 
-.chapter-body::before {
-  content: "";
+.chapter-body img {
+  max-width: 100%;
+  height: auto;
   display: block;
-  width: 60px;
-  height: 2px;
-  background: var(--green);
-  margin: 0 auto 32px;
-  border-radius: 1px;
+  margin: 1.5em auto;
 }
 
 .chapter-body p {

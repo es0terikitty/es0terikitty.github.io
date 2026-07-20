@@ -1,12 +1,11 @@
 +++
-title = "Chapter 8: Obliviousness"
+title = "Chapter 8 Obliviousness"
 date = 2026-07-20
 weight = 8
 [extra]
 volume = 1
 chapter = 9
 +++
-
 I was now six. My day-to-day life hadn’t changed much.
 Mornings, I worked on my sword training. In the afternoon, if I had
 time, I’d do some fieldwork, or practice magic under the tree on the
@@ -285,6 +284,8 @@ And as I thought that, my mischievous streak suddenly sprang to
 the fore. After all, it was hardly fair that I was the only one naked.
 “Gotcha!” I snatched hold of his underwear with my hands, then
 yanked them down in one fell swoop. Come to me, Zenra Pendulum!
+
+![Illustration](illustration-151.jpg)
 
 Sylph shrieked. A moment later, he squatted and curled up into
 himself to hide his body from sight—but in that moment, what

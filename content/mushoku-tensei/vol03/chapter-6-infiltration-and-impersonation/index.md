@@ -1,12 +1,11 @@
 +++
-title = "Chapter 6: Infiltration and Impersonation"
+title = "Chapter 6 Infiltration And Impersonation"
 date = 2026-07-20
 weight = 5
 [extra]
 volume = 3
 chapter = 6
 +++
-
 The city of Rikarisu is one of the three largest settlements
 on the Demon Continent. At the time of the Great Human-Demon
 War, it served as a home base for the forces of the Demon Empress

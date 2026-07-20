@@ -1,12 +1,11 @@
 +++
-title = "Chapter 4: Staff Meeting and Sunday"
+title = "Chapter 4 Staff Meeting And Sunday"
 date = 2026-07-20
 weight = 4
 [extra]
 volume = 2
 chapter = 5
 +++
-
 Half a year passed. Eris, who I thought had finally cooled
 down, began returning to her violent ways.
 Why, how, who did this?! I panicked, until I realized something.

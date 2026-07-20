@@ -1,12 +1,11 @@
 +++
-title = "Extra Chapter: Guardian Fitz"
+title = "Extra Chapter Guardian Fitz"
 date = 2026-07-20
 weight = 10
 [extra]
 volume = 4
 chapter = 11
 +++
-
 By the time he realized what was happening, he was in
 mid-air.
 “Huh?!”
@@ -803,3 +802,5 @@ Get the latest news about your favorite Seven Seas books and brandnew licenses d
 Sign up for our newsletter!
 Or visit us online:
 gomanga.com/newsletter
+
+Just Light Novels

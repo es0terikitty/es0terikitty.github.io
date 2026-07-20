@@ -1,12 +1,11 @@
 +++
-title = "Chapter 2: The Creeped-Out Maid"
+title = "Chapter 2 The Creeped Out Maid"
 date = 2026-07-20
 weight = 2
 [extra]
 volume = 1
 chapter = 3
 +++
-
 Lilia used to be a royal handmaiden for the Asura Palace
 harem. In addition to her usual duties as a lady-in-waiting, the role
 also called for her to act as a guardswoman. She’d been expected to

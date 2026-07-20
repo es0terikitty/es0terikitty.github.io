@@ -1,12 +1,11 @@
 +++
-title = "Chapter 9: Slow Life in the Doldia Village"
+title = "Chapter 9 Slow Life In The Doldia Village"
 date = 2026-07-20
 weight = 8
 [extra]
 volume = 4
 chapter = 9
 +++
-
 We were welcomed into the Doldia village as heroes for
 saving the children and protecting the village against Gallus’ attack.
 They wanted us to spend the rainy season living with them.
@@ -102,6 +101,8 @@ saying, the sorrow in her voice conveyed the meaning well enough.
 And she was also expressing my emotions.
 “Ghislaine is…hic…guh…not someone you can just…hic…” Eris
 tried her best to not punch anyone, even through her tears.
+
+![Illustration](illustration-193.jpg)
 
 That’s right, she couldn’t punch Gyes here. Ghislaine had been
 violent during her time in this village. If Eris swung a fist here, Gyes

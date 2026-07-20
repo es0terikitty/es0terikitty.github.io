@@ -5,6 +5,7 @@
 {% block content %}
 <section class="chapter-list">
   <h2>{{ section.title }}</h2>
+  {{ section.content | safe }}
   <div class="chapter-grid">
     {% if "/chapters/" in section.path %}
       {% set pages = section.pages | sort(attribute="extra.chapter") %}

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 6: Reasons for Respect"
+title = "Chapter 6 Reasons For Respect"
 date = 2026-07-20
 weight = 6
 [extra]
 volume = 1
 chapter = 7
 +++
-
 I had not left home since I’d come to this world.
 After a point, that became intentional on my part.
 I was afraid.
@@ -363,6 +362,8 @@ Once I was done, Roxy and I stood there, the two of us drenched
 to the bone. “Congratulations,” Roxy said.
 “You are now a Water Saint.” She looked stunning, her hand
 brushing aside her wet bangs, an all-too-rare grin on her face.
+
+![Illustration](illustration-108.jpg)
 
 I hadn’t achieved anything in my past life. But I’d done
 something now. As soon as I realized that, a curious sensation welled

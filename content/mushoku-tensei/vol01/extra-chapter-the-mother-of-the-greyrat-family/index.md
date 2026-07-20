@@ -1,12 +1,11 @@
 +++
-title = "Extra Chapter: The Mother of the Greyrat Family"
+title = "Extra Chapter The Mother Of The Greyrat Family"
 date = 2026-07-20
 weight = 12
 [extra]
 volume = 1
 chapter = 13
 +++
-
 My name is Zenith Greyrat.
 I was born in the Holy Country of Millis, a land noted for its long
 history, great beauty, and rigid moral code. By birth, I was a member
@@ -416,8 +415,22 @@ voice.
 “Well…thank you for having me.”
 My only reply was another chuckle of amusement.
 
+![Illustration](illustration-247.jpg)
+
+![Illustration](illustration-248.jpg)
+
+![Illustration](illustration-249.jpg)
+
+![Illustration](illustration-250.jpg)
+
+![Illustration](illustration-251.jpg)
+
+![Illustration](illustration-252.jpg)
+
 Thank you for reading!
 Get the latest news about your favorite Seven Seas books and brandnew licenses delivered to your inbox every week:
 Sign up for our newsletter!
 Or visit us online:
 gomanga.com/newsletter
+
+Just Light Novels

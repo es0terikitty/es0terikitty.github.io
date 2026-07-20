@@ -1,12 +1,11 @@
 +++
-title = "Chapter 2: The Superd"
+title = "Chapter 2 The Superd"
 date = 2026-07-20
 weight = 1
 [extra]
 volume = 3
 chapter = 2
 +++
-
 When I woke up, it was already night.
 A black sky full of stars stretched above me. Shadows cast by a
 flame danced across the ground. I could hear the crackling of burning
@@ -436,6 +435,8 @@ push. “Isn’t that right, Ruijerd?”
 “Huh? Er, of course. I would very much appreciate it, Eris.” It
 took the man a moment, but he took his cue eventually.
 “W-well, if you insist! I suppose I’ll be your friend!”
+
+![Illustration](illustration-36.jpg)
 
 The sight of Ruijerd bowing his head to her was enough to break
 through the last of Eris’s defenses. Everything was really was so

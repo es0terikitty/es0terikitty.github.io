@@ -1,12 +1,11 @@
 +++
-title = "Chapter 3: Missed Connections, the Sequel"
+title = "Chapter 3 Missed Connections The Sequel"
 date = 2026-07-20
 weight = 2
 [extra]
 volume = 4
 chapter = 3
 +++
-
 A demon eye. Most people would be shocked at receiving
 such a thing so suddenly. By chance, she happened to be in that
 alley, and by chance, she happened to give it to me. It was such a
@@ -411,6 +410,8 @@ beside her as I spoke. When I did, Eris leaned her body against mine.
 The sweet scent of sweat filled my nostrils. It was a good smell, but I
 had to rein myself in. I needed to be a gentleman in this situation.
 
+![Illustration](illustration-65.jpg)
+
 “It’s cheating, Rudeus. You got a demon eye for yourself while I
 had to work my butt off…”
 I froze. My head instantly went numb. My inner wolf receded
@@ -723,6 +724,8 @@ her chest. When was the last time she was here? It must have been
 about fifteen years ago. Now that she thought about it, she realized
 how much time had passed since she started envying the humans
 and fled from her village.
+
+![Illustration](illustration-77.jpg)
 
 When she landed in Millis Continent’s Millishion back then, and
 ate the sweets made by humans, she was shocked at how such

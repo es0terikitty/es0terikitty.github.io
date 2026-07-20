@@ -1,12 +1,11 @@
 +++
-title = "Chapter 14: The Beginning of Our Journey"
+title = "Chapter 14 The Beginning Of Our Journey"
 date = 2026-07-20
 weight = 13
 [extra]
 volume = 3
 chapter = 14
 +++
-
 For me, as a member of the Dragon Quest generation, the
 words “Demon Continent” naturally bring to mind the concept of a
 “Demon Realm.”You know…a dark land ruled over by an all-powerful
@@ -378,6 +377,8 @@ her hand like this. Almost felt like we were back in the classroom
 again.
 “Are we going to look around to see what the shops are
 charging for stuff, like you used to?”
+
+![Illustration](illustration-284.jpg)
 
 “Oh, you mean my market research…?” Hrm. Come to think of
 it, I’d slacked off on that in Rikarisu. I really had been rushing around

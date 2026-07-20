@@ -1,12 +1,11 @@
 +++
-title = "Chapter 5: The Demon in the Warehouse"
+title = "Chapter 5 The Demon In The Warehouse"
 date = 2026-07-20
 weight = 4
 [extra]
 volume = 4
 chapter = 5
 +++
-
 The layout of the city of Zant Port was similar to that of
 Wind Port. There were a number of rolling hills at its edge, and a
 harbor that was livelier than the city itself. The Adventurers’ Guild
@@ -368,3 +367,5 @@ opposite direction to the room where the children were being held.
 “Shit! He’s holding a spear!”
 “It’s a demon! Aaaah, it’s a demon, aaah!”
 The screams from downstairs started just as I reached the door.
+
+![Illustration](illustration-125.jpg)

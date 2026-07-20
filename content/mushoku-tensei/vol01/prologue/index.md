@@ -6,7 +6,6 @@ weight = 0
 volume = 1
 chapter = 1
 +++
-
 I was a thirty-four-year-old man with no job and nowhere
 to live. I was a nice guy, but I was on the heavy side, didn’t have good
 looks going for me, and was in the midst of regretting my entire life.
@@ -69,6 +68,8 @@ Summer was over, bringing with it the autumn chill. My wornout, years-old sweats
 my body of precious heat.
 “If only I could go back and do it all over again,” I muttered, the
 words slipping unbidden from my mouth.
+
+![Illustration](illustration-14.jpg)
 
 I hadn’t always been a garbage excuse for a human being. I was
 born to a well-off family, the fourth of five children, with two older

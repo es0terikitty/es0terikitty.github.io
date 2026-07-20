@@ -1,12 +1,11 @@
 +++
-title = "Chapter 2: All According to Plan?"
+title = "Chapter 2 All According To Plan"
 date = 2026-07-20
 weight = 2
 [extra]
 volume = 2
 chapter = 3
 +++
-
 When I opened my eyes, I found myself in the middle of a
 dingy storehouse. Sunlight filtered in through an iron-barred
 window.
@@ -35,7 +34,7 @@ neighboring town.
 10. I’d use the money I hid in my underwear to get us on a
 stagecoach.
 
-11. We’d arrive safely back home, and I’d get to hold my chin
+. We’d arrive safely back home, and I’d get to hold my chin
 high as I lectured the Young Mistress.
 Right now, my plan had reached step seven smoothly. All that
 remained was for me to use my magic, knowledge, wisdom, and
@@ -607,6 +606,8 @@ and nodded.
 
 The moment she put her hand to the sword at her waist, the tip
 of it cut through the air in a flash of red light.
+
+![Illustration](illustration-55.jpg)
 
 “Huh…?”
 The head of the man knee-deep in mud fell from his neck. This

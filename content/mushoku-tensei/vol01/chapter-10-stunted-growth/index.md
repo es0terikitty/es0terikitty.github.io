@@ -1,12 +1,11 @@
 +++
-title = "Chapter 10: Stunted Growth"
+title = "Chapter 10 Stunted Growth"
 date = 2026-07-20
 weight = 10
 [extra]
 volume = 1
 chapter = 11
 +++
-
 I was now seven years old.
 My two little sisters, Norn and Aisha, were growing quickly. They
 cried when they peed themselves, they cried when they pooped
@@ -701,6 +700,8 @@ as a magician, either. I’d take whatever pays best.”
 
 “I don’t think it’s in her best interest for you to do that.”
 “Maybe not. I think it’s in my best interest, though.”
+
+![Illustration](illustration-210.jpg)
 
 The room fell completely silent for a long moment. I had to fight
 the urge to squirm awkwardly in my seat.

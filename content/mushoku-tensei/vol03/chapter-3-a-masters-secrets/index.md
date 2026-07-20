@@ -1,12 +1,11 @@
 +++
-title = "Chapter 3: A Master's Secrets"
+title = "Chapter 3 A Masters Secrets"
 date = 2026-07-20
 weight = 2
 [extra]
 volume = 3
 chapter = 3
 +++
-
 Once again, I was dreaming. This time, I was watching a
 group of angels descend from the skies above. Seemed pleasant
 enough, compared to my recent nightmares.

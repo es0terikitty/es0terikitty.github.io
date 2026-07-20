@@ -1,12 +1,11 @@
 +++
-title = "Chapter 4: The Sage on Board"
+title = "Chapter 4 The Sage On Board"
 date = 2026-07-20
 weight = 3
 [extra]
 volume = 4
 chapter = 4
 +++
-
 That night, the man associated with the smuggling
 organization, Gallus, left after telling us he would be in touch. We
 were forced to wait fifteen days until he sent a man with more
@@ -316,6 +315,8 @@ My inner Merlin, however, urged me to resist. I had already
 made a decision when I promised to wait until I was fifteen. I said I
 would wait until this journey was over. I supported what Merlin was
 saying, but my ability to resist was reaching its limits.
+
+![Illustration](illustration-107.jpg)
 
 What if I tested things out by just touching her breasts? I was
 sure they would be soft. And soft wasn’t the only thing they would

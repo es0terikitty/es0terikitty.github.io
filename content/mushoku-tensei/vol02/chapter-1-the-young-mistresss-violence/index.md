@@ -1,12 +1,11 @@
 +++
-title = "Chapter 1: The Young Mistress's Violence"
+title = "Chapter 1 The Young Mistresss Violence"
 date = 2026-07-20
 weight = 1
 [extra]
 volume = 2
 chapter = 2
 +++
-
 It was evening when I arrived in the City of Roa.
 Buena Village and the City of Roa are a day’s coach ride apart, a
 journey of six to seven hours. Just the right distance, neither too near
@@ -114,6 +113,8 @@ is still young, I am sure he has not yet had the time to learn proper
 manners. Surely you can overlook a bit of his…”
 “And you, shut up!”
 That rebuke silenced the butler immediately.
+
+![Illustration](illustration-17.jpg)
 
 If this were the master of the house, that meant he was my
 employer, right? He certainly was angry. There must have been
@@ -303,6 +304,8 @@ chest as she glared down at me—both figuratively and literally, since
 she was taller than I was. Her expression turned sour as she said,
 “What’s this, he’s younger than I am! And yet he’s supposed to teach
 me? Stop joking around!”
+
+![Illustration](illustration-25.jpg)
 
 I knew it—she had a lot of pride. But I couldn’t just back down. “I
 don’t think age has anything to do with it,” I said.

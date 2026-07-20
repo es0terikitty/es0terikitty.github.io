@@ -1,12 +1,11 @@
 +++
-title = "Chapter 1: Wind Port"
+title = "Chapter 1 Wind Port"
 date = 2026-07-20
 weight = 0
 [extra]
 volume = 4
 chapter = 1
 +++
-
 My name is Rudeus Greyrat, and I’m a pretty boy who just
 celebrated my eleventh birthday a few days ago. As a skilled
 magician, I’ve gained notoriety for my ability to use magic without
@@ -184,7 +183,7 @@ Demon Continent’s cheapest currency, which was the stone coin:
 1 gold coin = 5,000 stone coins
 1 silver coin = 1,000 stone coins
 
-1 large copper coin = 100 stone coins
+large copper coin = 100 stone coins
 1 small copper coin = 10 stone coins
 A B-ranked mission in the Demon Continent netted you about
 five to ten scrap iron coins. That converted into 150-200 stone coins.

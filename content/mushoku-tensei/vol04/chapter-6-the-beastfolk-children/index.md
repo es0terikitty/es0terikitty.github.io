@@ -1,12 +1,11 @@
 +++
-title = "Chapter 6: The Beastfolk Children"
+title = "Chapter 6 The Beastfolk Children"
 date = 2026-07-20
 weight = 5
 [extra]
 volume = 4
 chapter = 6
 +++
-
 The room was dark. Within the shadows were boys and
 girls with nervous looks on their faces, their bodies writhing. There
 were four girls and three boys, seven children in total. All of them

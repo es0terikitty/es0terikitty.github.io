@@ -1,12 +1,11 @@
 +++
-title = "Chapter 9: The First Job: The Value of a Life"
+title = "Chapter 9 The First Job The Value Of A Life"
 date = 2026-07-20
 weight = 8
 [extra]
 volume = 3
 chapter = 9
 +++
-
 The Kirib house, located on Rikarisu’s Block Two, was a
 long, single-story building with four separate entrances.
 Those who lived there were far from well-off, but they weren’t

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 7: Absolute Promise"
+title = "Chapter 7 Absolute Promise"
 date = 2026-07-20
 weight = 7
 [extra]
 volume = 2
 chapter = 8
 +++
-
 After all of that, I finally turned ten.
 I dedicated most of the last two years to language studies.
 Besides the Beast God tongue and the Demon God tongue, I also
@@ -423,6 +422,8 @@ the large crystal at its tip, it was balanced well. No surprise there,
 given how expensive it was. Though the name was a bit…special.
 “Thank you. For the party, and for giving me such an expensive
 gift.”
+
+![Illustration](illustration-173.jpg)
 
 “Don’t worry about the price! Now quickly, let’s resume the party or
 the feast we prepared will get cold!” Eris was in a good mood as she

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 1: The Con Artist Who Claimed to Be a God"
+title = "Chapter 1 The Con Artist Who Claimed To Be A God"
 date = 2026-07-20
 weight = 0
 [extra]
 volume = 3
 chapter = 1
 +++
-
 I was dreaming.
 In this dream, I was soaring through the air, holding Eris in my
 arms. My mind was hazy, but somehow I knew that I was flying. The

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 7: Free Apartment"
+title = "Chapter 7 Free Apartment"
 date = 2026-07-20
 weight = 6
 [extra]
 volume = 4
 chapter = 7
 +++
-
 Hello there. My name’s Rudeus and I used to be a shut-in.
 Currently I am checking out a new, free apartment that is the
 talk of the town. No security deposit, no key payment, no rent. A oneroom space complete with two meals and spare time for a nap. The
@@ -221,6 +220,8 @@ monkey’s face wasn’t a metaphor, though. He was a demon.
 “N-no, not exactly how I’d describe it.” He looked at me in
 confusion.
 Come on, I’ll get embarrassed if you stare like that, I thought.
+
+![Illustration](illustration-154.jpg)
 
 “You’re naked, but you act awfully full of yourself.”
 “Hey, newbie, better watch your mouth. I’ve been here longer

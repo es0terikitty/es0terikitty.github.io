@@ -1,12 +1,11 @@
 +++
-title = "Chapter 8: Fire Emergency"
+title = "Chapter 8 Fire Emergency"
 date = 2026-07-20
 weight = 7
 [extra]
 volume = 4
 chapter = 8
 +++
-
 “It’s a fire!” I screamed and leaped down from Geese’s
 shoulders.
 “Mmm? Wait just a—hey!” Geese leapt to the skylight and

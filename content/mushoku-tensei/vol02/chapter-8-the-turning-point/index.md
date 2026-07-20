@@ -1,12 +1,11 @@
 +++
-title = "Chapter 8: The Turning Point"
+title = "Chapter 8 The Turning Point"
 date = 2026-07-20
 weight = 8
 [extra]
 volume = 2
 chapter = 9
 +++
-
 Shirone Kingdom.
 Roxy Migurdia looked out the window with her brows knitted.
 The color of the sky was strange. Brown, black, purple, and yellow; a
@@ -481,6 +480,8 @@ those twelve familiars. Arumanfi the Bright.
 can move at the speed of light.”
 “Rudeus, take the Young Mistress and fall back.”
 
+![Illustration](illustration-205.jpg)
+
 Just as Ghislaine asked, I used my back as a shield and escorted Eris a
 safe distance away so we wouldn’t be embroiled in the battle. I was
 careful not to go too far, staying within Ghislaine’s protective reach.
@@ -545,6 +546,8 @@ earth the light ballooned at incredible speed, violently swallowing
 everything in its path like a tidal wave. The manor, the city, the
 citadel, the flowers and the trees. Everything was devoured as it
 expanded.
+
+![Illustration](illustration-209.jpg)
 
 As soon as Arumanfi saw what was happening, he disappeared in a
 burst of gold light. Ghislaine ran toward us but was swallowed before
@@ -785,3 +788,5 @@ strengthened with each step.
 I want to sit at the table with all of them again, even just once
 more, she thought as her feet took her south.
 That was the beginning of Roxy Migurdia’s long journey.
+
+![Illustration](illustration-219.jpg)

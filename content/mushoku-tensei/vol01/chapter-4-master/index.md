@@ -1,12 +1,11 @@
 +++
-title = "Chapter 4: Master"
+title = "Chapter 4 Master"
 date = 2026-07-20
 weight = 4
 [extra]
 volume = 1
 chapter = 5
 +++
-
 I turned three years old.
 I’d recently, finally, learned my parents’ names. My father was
 Paul Greyrat. My mother was Zenith Greyrat. And my name was
@@ -212,6 +211,8 @@ library with her nose in a book.
 In one hand, she carried a bag, and in the other, she held a staff
 befitting a magician. The family came to greet her together, my
 mother carrying me in her arms.
+
+![Illustration](illustration-61.jpg)
 
 “…”
 “…”

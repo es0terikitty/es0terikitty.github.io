@@ -1,12 +1,11 @@
 +++
-title = "Chapter 10: The First Job Completed"
+title = "Chapter 10 The First Job Completed"
 date = 2026-07-20
 weight = 9
 [extra]
 volume = 3
 chapter = 10
 +++
-
 Now then…time for a little interrogation.
 Who should I try first, the man or the woman?
 The bug-eyed lady was clearly terrified at this point. She was

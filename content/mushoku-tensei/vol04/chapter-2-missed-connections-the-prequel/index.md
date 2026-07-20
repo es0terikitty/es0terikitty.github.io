@@ -1,12 +1,11 @@
 +++
-title = "Chapter 2: Missed Connections, the Prequel"
+title = "Chapter 2 Missed Connections The Prequel"
 date = 2026-07-20
 weight = 1
 [extra]
 volume = 4
 chapter = 2
 +++
-
 The next day, I went out and loaded my arms with food
 from one of the stalls before wandering the back alleys for a bit. The
 food was all roasted and skewered. There were some scallops similar
@@ -129,6 +128,8 @@ Greyrat family.
 That aside, there were no monsters within the city. In other
 words, she was no succubus. She was just some demon kid in skimpy
 clothing.
+
+![Illustration](illustration-37.jpg)
 
 “Y-you…you there, what have you…?” She was trembling like a
 fawn. “Th-this man is… He’s…!” She had a look of utter disbelief on
@@ -444,6 +445,8 @@ around’ about giving you a demon eye.”
 Dammit, my eye… My eye is… Aaaaaaah—wait, what? I paused
 in confusion. I could see. Everything looked like it was doubled,
 though…? What the heck was going on? It was nauseating.
+
+![Illustration](illustration-49.jpg)
 
 “Depending on how you supply mana to it, you should be able
 to make it as thin as possible. Well, do your best to learn how to use

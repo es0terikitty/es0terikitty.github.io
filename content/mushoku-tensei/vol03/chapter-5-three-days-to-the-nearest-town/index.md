@@ -1,12 +1,11 @@
 +++
-title = "Chapter 5: Three Days to the Nearest Town"
+title = "Chapter 5 Three Days To The Nearest Town"
 date = 2026-07-20
 weight = 4
 [extra]
 volume = 3
 chapter = 5
 +++
-
 The next morning, as the three of us were leaving the
 village, I spotted Rowin standing at his post by the gate.
 “Good morning. Are you on guard duty again?”
@@ -308,6 +307,8 @@ horizontal line, and smashed into the camouflaged Stone Treant that
 lay in wait ahead of us.
 With an ear-splitting sound, the monster blew apart into tiny
 pieces. I’d killed it extremely dead.
+
+![Illustration](illustration-80.jpg)
 
 Eris had already started running forward, but after my attack
 landed, she stopped in her tracks and turned to glare sulkily in my

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 12: Children and Warriors"
+title = "Chapter 12 Children And Warriors"
 date = 2026-07-20
 weight = 11
 [extra]
 volume = 3
 chapter = 12
 +++
-
 Three weeks later, our party hit rank D. It felt like we were
 moving up pretty fast, so I finally got around to checking out the
 specific promotion criteria.
@@ -516,6 +515,8 @@ later, she punched me.
 This was a real punch, too. I barely stayed conscious, and for a
 moment, I thought she’d snapped my neck. This girl just might be a
 world champ someday. I collapsed backward in a clumsy heap.
+
+![Illustration](illustration-237.jpg)
 
 Hmm. Wonder what was I supposed to do there…?
 As I looked up at her from the ground, Eris stared at the spot

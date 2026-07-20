@@ -1,12 +1,11 @@
 +++
-title = "Chapter 3: Her Ferocity, Unabated"
+title = "Chapter 3 Her Ferocity Unabated"
 date = 2026-07-20
 weight = 3
 [extra]
 volume = 2
 chapter = 4
 +++
-
 It had been a month since I became Eris’s tutor.
 From the moment I began giving her lessons, she wouldn’t listen
 to me. As soon as it was time for reading, writing, and arithmetic she
@@ -85,6 +84,8 @@ training. Hohoho.”
 Thank you, Wise Old Sage!
 After I had my fill, I called out to her in a quiet voice. “Young
 Miss, wake up please. Miss Eris, it’s arithmetic funtime!”
+
+![Illustration](illustration-70.jpg)
 
 She wasn’t waking up. I had no other choice.
 Don’t blame me if your panties get taken. It’s your fault for

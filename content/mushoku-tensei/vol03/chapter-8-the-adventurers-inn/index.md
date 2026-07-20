@@ -1,12 +1,11 @@
 +++
-title = "Chapter 8: The Adventurers' Inn"
+title = "Chapter 8 The Adventurers Inn"
 date = 2026-07-20
 weight = 7
 [extra]
 volume = 3
 chapter = 8
 +++
-
 By the time we left the guild, it was getting dark outside.
 The sky was still bright, but the streets of Rikarisu seemed oddly
 gloomy. After a second, I realized it was a side effect of its location;
@@ -587,6 +586,8 @@ days. No wonder she’d gotten into that stupid fight earlier. That
 should have tipped me off right away, if I weren’t a total moron.
 “Yes. Absolutely.” I gently wrapped an arm around Eris’s
 shoulders, and she promptly put her head against my shoulder.
+
+![Illustration](illustration-155.jpg)
 
 She hadn’t taken a proper bath in days, so the faint scent
 wafting from her hair was new to me. It wasn’t unpleasant though.

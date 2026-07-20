@@ -1,12 +1,11 @@
 +++
-title = "Chapter 5: Swords and Sorcery"
+title = "Chapter 5 Swords And Sorcery"
 date = 2026-07-20
 weight = 5
 [extra]
 volume = 1
 chapter = 6
 +++
-
 I was now five.
 We had a small party to celebrate my birthday. Birthdays
 weren’t a yearly celebration in these lands. At ages five, ten, and
@@ -44,6 +43,8 @@ centimeters long, set with a small red stone at the tip.
 mind, since you’ve been using magic this whole time. A master is
 supposed to create a rod or wand for a pupil who can use
 elementary magic. My apologies for forgetting.”
+
+![Illustration](illustration-86.jpg)
 
 As much as she didn’t like being called “Master,” Roxy sure
 seemed reluctant to buck the traditions of the role.

@@ -1,12 +1,11 @@
 +++
-title = "Chapter 13: Failure, Chaos, and Resolve"
+title = "Chapter 13 Failure Chaos And Resolve"
 date = 2026-07-20
 weight = 12
 [extra]
 volume = 3
 chapter = 13
 +++
-
 Having slain the Red-Hood Cobra, our party headed back
 to the Adventurers’ Guild. As always, we met up with Jalil outside the
 building itself to exchange our task cards. We also handed over the

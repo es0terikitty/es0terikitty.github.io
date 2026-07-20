@@ -1,12 +1,11 @@
 +++
-title = "Extra Chapter: The Princess of Asura and the Angel"
+title = "Extra Chapter The Princess Of Asura And The Angel"
 date = 2026-07-20
 weight = 14
 [extra]
 volume = 3
 chapter = 15
 +++
-
 Ars, the capital of the Kingdom of Asura, was the largest
 and most populous city in the world. At its very center, there stood a
 white-walled castle—naturally enough, one said to be the world’s
@@ -573,3 +572,5 @@ Get the latest news about your favorite Seven Seas books and brandnew licenses d
 Sign up for our newsletter!
 Or visit us online:
 gomanga.com/newsletter
+
+Just Light Novels
