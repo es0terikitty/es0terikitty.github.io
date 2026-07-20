@@ -1,5 +1,5 @@
 +++
 title = "Studies"
 [extra]
-glyph = "∑"
+glyph = "󰀫"
 +++
