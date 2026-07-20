@@ -387,6 +387,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   #stack.wrap { max-width: var(--content-w-wide); }
   .stack-grid { grid-template-columns: repeat(4, 1fr); }
   #stats.wrap { max-width: var(--content-w-wide); }
+  #stats.wrap .stats-grid { grid-template-columns: repeat(4, 1fr); }
   .chapter-list { max-width: var(--content-w-list); }
   .chapter-grid { display: block; columns: 3; column-gap: 24px; }
   .chapter-grid .grid-item { break-inside: avoid; }

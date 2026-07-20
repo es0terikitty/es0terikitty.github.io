@@ -124,9 +124,11 @@
     <div class="terminal-body" style="align-items:flex-start;">
       <div class="prompt"><span>$</span> cat /now</div>
       <div style="color:var(--fg-dim); font-size:var(--text-sm); line-height:1.8;">
-        <p>Reading: Mushoku Tensei volumes 8+</p>
-        <p>Building: This site — full redesign in progress</p>
+        <p>Reading: Mushoku Tensei (volumes 12+)</p>
+        <p>Building: This site — CLIAMP terminal redesign shipped</p>
         <p>Ricing: Noctalia v5, Neovim snacks.nvim</p>
+        <p>Extracted: Reverend Insanity (2,237 chapters from PDF)</p>
+        <p>Writing: Zola custom templates, font tuning</p>
       </div>
     </div>
   </div>
@@ -159,11 +161,15 @@
       <div class="label">Notes</div>
     </div>
     <div class="stat-card">
+      <div class="value">{{ ri_n }}</div>
+      <div class="label">RI Chapters</div>
+    </div>
+    <div class="stat-card">
       <div class="value">{{ mt_n }}</div>
       <div class="label">MT Chapters</div>
     </div>
     <div class="stat-card">
-      <div class="value">─</div>
+      <div class="value">{{ now() | date(format="%Y-%m-%d") }}</div>
       <div class="label">Last Updated</div>
     </div>
   </div>
