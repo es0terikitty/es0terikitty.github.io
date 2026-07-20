@@ -168,23 +168,11 @@ body::after {
 @keyframes blink { 50% { opacity: 0; } }
 
 /* ── Typewriter ── */
-.terminal-body .tagline .typewriter-text {
-  display: inline;
-}
 @media (prefers-reduced-motion: no-preference) {
   .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; width: 0; animation: type 2.5s steps(60, end) forwards; }
 }
 @keyframes type { to { width: 100%; } }
 
-/* ── Section dividers ── */
-.section-divider {
-  text-align: center;
-  padding: 32px 0 20px;
-  color: var(--fg-muted);
-  font-size: var(--text-xs);
-  letter-spacing: 0.08em;
-  user-select: none;
-}
 /* ── Section headings ── */
 .section-heading {
   font-size: var(--text-xl); font-weight: 700; color: var(--fg);
