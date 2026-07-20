@@ -38,8 +38,6 @@ and the script felt familiar, though. Where had I seen them? The
 university library, perhaps?
 As I thumbed through the pages, I came upon a number of
 sketches. Sketches of the human body, sketches of magic circles. As I
-Page | 57
-
 flipped further, I came upon one of the four-legged, four-armed doll.
 “Zanoba?”
 “Yes?” Zanoba, who had been stationed at the entrance, came
@@ -70,8 +68,6 @@ behind, there was a high possibility he’d passed away in some
 unforeseen accident.
 As for the doll, it had probably stayed asleep here on this
 pedestal until something happened that caused it to awaken. It
-Page | 58
-
 started cleaning the house and patrolling it, killing any intruders it
 discovered. It was probably programmed to return back to the
 pedestal to recharge once it was done.
@@ -100,8 +96,6 @@ another month, when the renovations would be done.
 I could just imagine the excitement on Sylphie’s face. “See, this
 is our new house!” I’d say.
 “Whoa! Rudy, it’s amazing!”
-Page | 59
-
 “There’s a lot of rooms inside, too. So we’ll have enough space
 regardless of how many kids we have!”
 “Incredible; you’re even thinking about our future together!
@@ -131,8 +125,6 @@ wooden pedestal balanced on his shoulder. It was incredibly heavy,
 but Zanoba had no issues lifting it. Just to be on the safe side, we’d
 wrapped it in cloth so it would look like a coffin to anyone watching.
 “What is it?”
-Page | 60
-
 “Might I convince you to leave the research on the moving doll
 entirely to me?”
 I met his gaze. Behind those round frames was a look of
@@ -164,8 +156,6 @@ dangerous, though, so it might be a good idea to borrow one of the
 university’s research chambers. One with a sturdy door.
 No, wait. It was possible this really was forbidden magic at work.
 Maybe we’d be better off not doing this on campus, even though
-Page | 61
-
 Nanahoshi was doing something similar with her research into magic
 circles. Maybe I’d have her put in a good word for me, just in case.
 She was an A-ranked member of the guild, after all.
@@ -193,9 +183,6 @@ doing if he accidentally hit me in the head with that?
 the middle of the street?” Cliff grumbled.
 And so, Zanoba began his search into automated dolls and I got
 my hands on a new house. Next up: renovations!
-
-Page | 62
-
 Chapter 4:
 Dramatic
 
@@ -232,8 +219,6 @@ Balda was a bit of a stubborn man, but a good one whose skills
 were undeniable. He always had a hammer by his side, and if he
 found something he didn’t like, even if it was a stranger’s house, he’d
 tear it down and rebuild it. Such was the temperament of a
-Page | 63
-
 craftsman. He’d beat anything into shape with his hammer, whether
 it be buildings or his own pupils. That was how he’d acquired another
 nickname: Balda the Hammer.
@@ -263,9 +248,6 @@ didn’t care much for that kind of attitude, but he held his feelings in.
 He’d heard that Rudeus the Quagmire was quite the terrifying
 individual if you provoked his anger.
 “So whatcha wanna do about the door?”
-
-Page | 64
-
 “What do you mean?” Rudeus asked.
 “Quality of materials, design, that kinda stuff. If you don’t got a
 preference, I’ll just use my own know-how,” Balda explained.
@@ -293,9 +275,6 @@ The artisan’s words were reassuring. Relieved, the client led him
 to a large dining area.
 “A large room, eh? Sunlight in here ain’t bad,” said Balda.
 “How about the fireplace?”
-
-Page | 65
-
 “Let’s see.” The dwarf’s eyes lit up at the fireplace that might or
 might not be useable. “This is a nice fireplace. Bit old, but probably
 best we not go makin’ adjustments to it.”
@@ -326,8 +305,6 @@ lounge, then.”
 “Aye.”
 The artisan and his client continued their exchange as they
 moved to the next room.
-Page | 66
-
 “Ya got two kitchens here, too. Though the second one’s got no
 kiln.”
 “I assume that means it wasn’t used, then?” Rudeus asked.
@@ -354,8 +331,6 @@ Early in the morning, a large door made of expensive wood
 shaved down to fit the frame was carried in. On the outside of the
 sturdy slab was a door knocker in the form of a lion, with a magic
 circle drawn into the edge of the door as a security measure.
-Page | 67
-
 “It ain’t much, but if anyone tries to force the door open, a loud
 noise will echo throughout the house,” the dwarf said. “Could be an
 alarm clock, too.”
@@ -383,9 +358,6 @@ aren’t.”
 Machinery and materials were brought into the basement to
 fulfill the client’s wishes, and the stains on the corners of the hidden
 door were completely washed away.
-
-Page | 68
-
 Two weeks later, when the renovations were finally complete,
 the client brought his wife along with him.
 “Oh, I wonder what it is you want to show me. I am so excited!”
@@ -415,9 +387,6 @@ discriminate. Ha ha ha!”
 “Old man? Ah, hey, don’t start suddenly touching me! People
 are watching!”
 “Yes, ma’am. I’m sorry.”
-
-Page | 69
-
 By the time they reached the house, the man had grown quiet,
 like a dog with its tail tucked between its legs. His wife adjusted her
 sunglasses and grumbled in frustration. “Consider the time and
@@ -448,8 +417,6 @@ Seeing this, the wife covered her mouth.
 You might not have liked your hair, but I really did.”
 “Huh? Oh, I see. Aah…” She kept her hand pressed to her
 mouth, eyes full of admiration as she looked over the house.
-Page | 70
-
 “Come on then, let’s go inside and see the rest of it.”
 The two of them went inside. A mat lay at the front entrance for
 them to wipe their feet on—a representation of the client’s feelings
@@ -480,8 +447,6 @@ He reached over and patted her on the head, an affectionate
 look on his face. No doubt the client was inwardly thinking not only
 of potential guests but of filling the seats at the table with their
 children.
-Page | 71
-
 “Okay, then! To the living room.”
 They moved to the living room. Spread out before them was a
 large, welcoming, family-oriented space. Couches were installed
@@ -511,9 +476,6 @@ a gigantic generic pot. There were also casks, jars and earthen
 containers for storage purposes.
 “It’s so normal.”
 “It sure is.”
-
-Page | 72
-
 As her husband’s expression turned solemn, the wife in turn
 gave her own solemn nod. Once that was over with, they were on to
 the next area—the washroom. They walked down the hallway and
@@ -543,8 +505,6 @@ is, then?”
 “Oh, yes. I had a little experience with them when I lived in the
 royal palace. But this is the first time I’ve ever seen one this big
 before. Is this what you call a hot spring?”
-Page | 73
-
 “It’s a little different from a hot spring.”
 She couldn’t mask her surprise. The client watched her with a
 curious expression. You could almost hear his sinister inner voice
@@ -574,9 +534,6 @@ being dripped on when it rained. The client took his wife straight to
 the door furthest in.
 “Right now, this is the only room I’ve remodeled on the second
 floor.”
-
-Page | 74
-
 “Ah, it’s amazing.” His wife’s eyes widened with surprise as she
 entered. The most conspicuous thing in the room, of course, was the
 massive bed wide enough for three people to comfortably sleep in.
@@ -591,5 +548,3 @@ She sat on the bed and cuddled with me. She was in a good
 mood, a big smile on her face. I was glad she liked the place. I
 wanted to push her down and get to husband-and-wife business, but
 there was a little something I wanted to talk about first.
-
-Page | 75

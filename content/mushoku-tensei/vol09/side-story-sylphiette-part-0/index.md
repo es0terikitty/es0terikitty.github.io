@@ -41,9 +41,6 @@ time we met, too. Rudy could use Saint-tier Water magic, so people
 tended to expect him to rely on that. But he’d favored using clever
 tricks like blasting himself around with shockwaves, or summoning
 bogs to slow down his opponents.
-
-Page | 253
-
 I explained to Princess Ariel that Quagmire Rudeus was almost
 certainly the boy who’d taught me magic—my old friend who’d been
 missing for many years.
@@ -75,8 +72,6 @@ when he was shipped out of the village by his parents.
 definitely him.”
 “Perhaps so. But I must say, in all honesty, that these rumors are
 rather difficult to believe.”
-Page | 254
-
 Princess Ariel and Luke hadn’t been convinced by my claims.
 They trusted that I wasn’t deliberately lying to them, but they didn’t
 fully buy the story either. I couldn’t blame them. I knew Rudy
@@ -107,8 +102,6 @@ To be fair, Luke usually softened the blow in the end: “I suppose
 that’s the reason that we’re friends, though.”
 It was nice to know that he thought of me as a friend. Still, the
 constant insults about my appearance weren’t exactly doing
-Page | 255
-
 wonders for my self-esteem. I knew my looks were unremarkable
 compared to Princess Ariel’s, but that was a really high bar to clear.
 “That’s not even what I meant, Luke!”
@@ -140,8 +133,6 @@ Imperial-tier, let alone that of the Seven Great Powers, but I could
 probably hold my own against a Sword Saint. I was no match for the
 King-tier warriors some of the other contenders for the throne could
 call on, but right now I was the strongest weapon in the arsenal of
-Page | 256
-
 Princess Ariel’s faction. There were a good number of people at the
 University who’d decided to support her because she’d won the
 loyalty of someone as strong as “Fitz.” If word got out that I was
@@ -170,9 +161,6 @@ care of the rest without any further nudging.
 A few months later, the day I’d been waiting for finally arrived. I
 was in a practical skills class in the training hall when the viceprincipal walked in with someone right behind him. When I saw who
 it was, I very nearly shouted out in joy.
-
-Page | 257
-
 It’s Rudy! It’s really Rudy!
 There was no doubt about it. His face looked a little gloomier
 than before, but it was definitely Rudy. There was no mistaking him.
@@ -201,9 +189,6 @@ behavior, but he didn’t complain or push her away.
 …Huh? Huh?
 As I stood there watching, stunned and bewildered, I lost my
 chance to run over and greet him.
-
-Page | 258
-
 A few minutes later, I was called over to help administer Rudy’s
 “entrance exam.” I guess they wanted to verify that he really could
 cast spells silently.
@@ -233,9 +218,6 @@ I’d gotten too far inside my own head. I’d recognized him, so I
 just assumed he’d recognize me. I hadn’t been thinking straight,
 plain and simple. All I had to do was take off my sunglasses and tell
 him who I really was. Princess Ariel had already given me permission.
-
-Page | 259
-
 I couldn’t do it in public, but I could always call him somewhere
 private later.
 But even as I was thinking this, another thought flashed through
@@ -266,8 +248,6 @@ the name.
 Rudy’s amazing…
 I’d known that from the start, of course. But he’d really driven it
 home. I couldn’t help feeling a little awed by him. I’d worked my butt
-Page | 260
-
 off for years to get where I was, but he’d somehow grown far more
 than I had.
 As I stared at Rudy, he slowly bowed to me. “Thank you, sir! For
@@ -298,8 +278,6 @@ into each other very often. After the entrance exam, I’d discussed
 the matter with the others, and we’d decided that I shouldn’t
 approach Rudy too aggressively if he didn’t remember me. Princess
 Ariel and Luke said all sorts of things to justify their opinion on this,
-Page | 261
-
 but they mostly just seemed upset that Rudy had forgotten me. That
 cheered me a little. I could tell they cared about me as a friend.
 Ultimately, the princess said she’d leave the matter up to me. It
@@ -330,9 +308,6 @@ time before our next class. Still, I’d been visiting it for three years
 now, so I had a good idea where to find books on any particular
 subject. It only took me a moment to picture where I’d find the
 material she needed.
-
-Page | 262
-
 Once I made it over there, I moved quickly through the aisles,
 grabbing one book after another. At this rate, I’d be back in no time.
 But then I saw a certain someone standing in front of a nearby
@@ -362,9 +337,6 @@ it later.
 “Just a bit of research.”
 “Into what?”
 “The Displacement Incident.”
-
-Page | 263
-
 Those words brought me up short for a moment. Was there any
 chance he’d been thinking something along the same lines as me?
 “The Displacement Incident? Why?”
@@ -394,9 +366,6 @@ If I’d been in his shoes, I would have collapsed in exhaustion the
 moment I made it back home and spent the next couple years
 hanging around a refugee camp.
 “And what, might I ask, are you doing here?”
-
-Page | 264
-
 The question snapped me out of my reverie. I’d forgotten all
 about the reference books I was supposed to be bringing back to
 Princess Ariel. I wanted to keep talking to Rudy, honestly, but I
@@ -427,8 +396,6 @@ the fact that they had been worn by an Asuran princess added
 considerably to their value. In other words, you could sell them for
 quite a lot of money on the black market. There’d been an incident
 not long after we enrolled here, actually. Some of her panties had
-Page | 265
-
 been stolen after we sent them off to be washed. Of the five that
 were washed, four disappeared; three of these were subsequently
 sold, and the male student responsible kept one for his own private
@@ -459,9 +426,6 @@ stolen, and although it wasn’t that time of year yet, there was also
 the mating season to consider. What was this boy thinking, coming
 here at this hour? Maybe he was just taking a shortcut back to his
 own dorm. But even if that was the case, he’d probably be
-
-Page | 266
-
 surrounded by the “self-defense committee” from the first floor
 soon enough.
 Should I tip them off right now, actually? The first person who
@@ -491,9 +455,6 @@ I needed to warn him right now. If he stood outside our dorm
 holding a pair of panties, somebody was definitely going to get the
 wrong idea.
 “Gyaaaah! Panty thief!”
-
-Page | 267
-
 My fears became reality almost instantly. A girl screamed from
 below, the self-defense committee that lived on the first floor came
 running out, and Rudy was quickly surrounded.…Well, it’s Rudy,
@@ -524,9 +485,6 @@ But even as that thought crossed my mind, I remembered
 something from my childhood. When Rudy chased off Somal and
 those other bullies, his legs had been shaking. And then, a little
 later…after he found out I was a girl, and things got kind of awkward
-
-Page | 268
-
 for a while… he’d trembled slightly as he said, “Man. I feel like you’re
 really cold lately, Sylphie.”
 Yeah. He was scared because he thought I hated him. Just like a
@@ -558,8 +516,6 @@ remains that this boy violated the dorm rules. We’ll make an
 example out of him by punishing—what?!”
 The instant I heard the word punishing, something snapped
 inside me. I wasn’t about to let them make an example of someone I
-Page | 269
-
 cared about just because he’d been unlucky. I pulled out my rod,
 pointed it at Goliade, and channeled mana into it. “Didn’t I just say
 he did nothing wrong? Enough. Now let go of his hand.”
@@ -590,8 +546,6 @@ me a little differently. And then all the pieces came together.
 …Rudy was wary of me until now, wasn’t he?
 His attitude had seemed a bit strange from the start, now that I
 thought about it. He was always bowing to me, for one thing. But
-Page | 270
-
 now I understood why. It made sense, of course. I was Silent Fitz
 now, not his old friend. Why wouldn’t he be wary of me?
 It seemed like I’d earned a little trust now, though. That makes
@@ -622,8 +576,6 @@ And so, all I said was “That’s a secret.”
 Rudy just blinked in confusion.
 I returned to the dorm after that. Naturally, I had Rudy return
 the panties first. Since he’d caught them in mid-air, they weren’t
-Page | 271
-
 dirty or anything, but Rudy was a man. I was a little uncomfortable
 with making Princess Ariel wear underwear that he’d held in his
 hands. “I guess I should wash them again, huh…?”
@@ -649,9 +601,6 @@ legs.
 We actually did it…
 It was something I’d dreamed of for years, if not in graphic
 detail. But now it was reality. The more I remembered from last
-
-Page | 272
-
 night, the more I wanted to squeeze a pillow to my chest and roll
 around kicking my legs in mingled embarrassment and ecstasy.
 Gah…
@@ -682,8 +631,6 @@ mind, too.
 asked my question tentatively, my heart racing with anxiety. I felt
 like everything was probably fine now. But I still wanted to hear the
 answer.
-Page | 273
-
 “Thank you.” That was all Rudy said.
 I didn’t understand why he’d thanked me in the cave, but now I
 did. This time, I’d been able to help him out. Maybe I wasn’t his
@@ -691,5 +638,3 @@ equal, in some respects. But I’d still managed to support him.
 You’re welcome.
 The dream I’d been chasing all these years had finally come
 true. From now on, Rudy and I were a team.
-
-Page | 274

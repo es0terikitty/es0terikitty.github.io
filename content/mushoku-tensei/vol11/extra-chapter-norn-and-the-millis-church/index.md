@@ -28,13 +28,7 @@ make it back together.
 “Thank you. Really.”
 This time, I put more feeling into the words.
 In reply, Elinalise just patted me on the shoulders.
-
-Page | 301
-
 ![Illustration](illustration-302.jpg)
-
-Page | 302
-
 Despite the awkward atmosphere, our party moved steadily
 onward.
 Balibadom was surprisingly calm and collected, considering we’d
@@ -61,8 +55,6 @@ apparently got to sleep inside too.
 the man you lost?” Galban asked.
 “Shouldn’t be necessary, Galban. These two are more useful
 than your average warrior. I think it’s smarter to head to Rapan with
-Page | 303
-
 our current group, then hire some new folks there. We shouldn’t be
 running into any more bandits, anyway.”
 “I see. All right then, let’s do that. Still, it’s a pity we lost that
@@ -91,9 +83,6 @@ I tried not to let it get to me. We’d be going our separate ways
 once we reached Rapan anyway. Still, I had to empathize with what
 she was going through. I couldn’t imagine what it felt like to lose the
 father of your child so suddenly.
-
-Page | 304
-
 I knew how much it would hurt if Sylphie up and died on me, at
 least. I’d been overwhelmed with joy when I learned she was
 pregnant. If I lost her suddenly, the despair would be even more
@@ -122,9 +111,6 @@ like me was always going to make mistakes, no matter how hard he
 tried.
 There was no telling what the future held.
 This was the first time I’d ever directly gone against the ManGod’s advice. Up until now, I’d done well for myself by following his
-
-Page | 305
-
 lead. Did that mean this choice was going to end in disaster, no
 matter what I tried?
 Nah. I wasn’t buying that. I knew there was danger ahead, so it
@@ -139,9 +125,6 @@ could to keep my family safe.
 That, at least, I could promise myself.
 Two weeks later, we finally reached the Labyrinth City of Rapan.
 We’d made it to our destination. Now it was time to get started.
-
-Page | 306
-
 Extra Chapter:
 Norn and the Millis Church
 
@@ -177,8 +160,6 @@ sigh. It was something she did regularly these days.
 Outside, she spotted a few students walking in the direction of
 the school gates.
 “Oh, right… I’m supposed to be going home today…”
-Page | 307
-
 Once every ten days, she was required to make an appearance
 at the Greyrat family house. Today was that tenth day.
 Rising reluctantly to her feet, Norn started to get ready to leave.
@@ -208,8 +189,6 @@ It wasn’t built exactly like the churches in Millis, so it felt a bit
 odd to her. But its white color and basic design still made its function
 obvious.
 “Come to think of it, I haven’t said many prayers lately…”
-Page | 308
-
 Norn was a member of the Millis faith. Back in the Holy Country,
 when she was in the care of her mother’s family, they’d brought her
 along to church on a regular basis. She’d learned the basics quickly
@@ -239,8 +218,6 @@ Norn felt a brief stab of worry that she might be asking too
 much by naming everyone individually like this. Saint Millis never
 interceded on behalf of the greedy. It was important to keep your
 wishes modest.
-Page | 309
-
 And yet, she decided only to rephrase her prayer.
 “Please help everyone make it back safely.”
 If Millis saw fit to grant this plea, Norn’s family would finally be
@@ -265,9 +242,6 @@ When she murmured the same words she always did, a tear
 trickled from her eye. It ran slowly down her cheek before dropping
 off her chin. A second followed it, then a third; and all of a sudden,
 the dam had broken.
-
-Page | 310
-
 Norn knew, of course, that she was only consoling herself by
 coming here. Praying made her feel like she was doing something,
 but she wasn’t, really. There wasn’t anything she could do.
@@ -295,9 +269,6 @@ don’t recognize me? I’m Cliff Grimoire. I’m a novice at this church.
 Just started here this year.”
 For a mere novice, this young man seemed a little full of himself.
 But that arrogant tone helped spur Norn’s memory. She’d met him
-
-Page | 311
-
 once before. He was a friend of her brother’s, and a somewhat
 notorious student at the University of Magic.
 Now that she thought about it, she’d seen him at this church as
@@ -328,8 +299,6 @@ right?”
 Norn had no way of knowing this, but Cliff tended to use these
 quiet afternoon hours to get a bit of studying done inside the
 confession booth while waiting for the rare visitor. Normally, he
-Page | 312
-
 stayed in there unless he had some chore to take care of, but he’d
 revealed himself when he saw Norn crying.
 “…”
@@ -358,9 +327,6 @@ would be heartbroken, of course. She loved Rudeus very much, and
 they were about to have a child and start their own family. If Sylphie
 lost him now, it would be a crushing blow. Norn knew how badly it
 would hurt.
-
-Page | 313
-
 And if this happened, it would all be her fault. Her brother
 wouldn’t have gone off on this dangerous journey if she hadn’t
 pressed the issue.
@@ -391,8 +357,6 @@ thing for them. I’m a lot like you, in other words.”
 “Why are you asking me? I don’t know…”
 She didn’t have an answer to that question. That was why she’d
 been crying. That was why she’d turned to him for advice.
-Page | 314
-
 “I see. Fortunately, I’m something of a genius, so I know the
 answer. Would you like to hear it? Hmm?”
 “…Yeah. Please.”
@@ -423,9 +387,6 @@ This last point was something Cliff had only come to realize fairly
 recently, after falling in love with Elinalise and making friends with
 Rudeus. But there weren’t many people out there who could tolerate
 his attitude, so he hadn’t expanded his own social circle very much as
-
-Page | 315
-
 of yet. Apart from Rudeus and Zanoba, there was maybe Nanahoshi,
 but that was about it.
 “So you’re training yourself, basically?” asked Norn. “For what?”
@@ -454,9 +415,6 @@ left behind. If we tried to go and help, we’d only get in the way.”
 effectively. We need to focus on the few things we can do, and we
 need to grow stronger. This happens to be a teaching of the Millis
 Church, by the way.”
-
-Page | 316
-
 Cliff reached into his robe and took out a small copy of the holy
 scriptures. He proceeded to recite a passage from memory, without
 even opening the book.
@@ -487,9 +445,6 @@ was Peter Dolior, said to be Saint Millis’ closest friend, and he died in
 the fighting. Pained as he was by this loss, Millis kept his focus on the
 future.”
 “You mean he abandoned his friend? He left him to die?”
-
-Page | 317
-
 “No. Millis trusted his friend, and his friend trusted him. It was
 for that very reason that Peter fought to the death to slow the
 demons’ advance, rather than retreating in defeat. And thanks to
@@ -520,8 +475,6 @@ all.
 “I think I understand. I’ll focus on doing what I can for now.”
 “I’m very glad to hear that. If you run into any trouble or need
 help with your studies, feel free to seek me out. I’m usually here at
-Page | 318
-
 this time of day, but you can also find me at my laboratory on
 campus.”
 “All right.”
@@ -530,9 +483,6 @@ mind.
 She had a goal now. She would follow the teachings of her faith
 and grow stronger in her brother’s absence. It wasn’t much, but it
 was a start.
-
-Page | 319
-
 About the Author:
 Rifujin na Magonote
 
@@ -544,9 +494,6 @@ the site’s combined popularity rankings within the first year of
 publishing.
 “It’s kind of tricky to improve your relationship with a sibling,”
 said the author, generalizing somewhat.
-
-Page | 320
-
 Thank you for reading!
 Get the latest news about your favorite Seven Seas books and brandnew licenses delivered to your inbox every week:
 
@@ -554,11 +501,5 @@ Sign up for our newsletter!
 Or visit us online:
 
 gomanga.com/newsletter
-
-Page | 321
-
 Download all your fav Light
 Novels at
-
-
-Page | 322

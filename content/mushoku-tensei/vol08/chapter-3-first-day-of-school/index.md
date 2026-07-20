@@ -43,8 +43,6 @@ The enrollment period for students was seven years. You could
 take a year abroad twice, for a maximum of nine years of study. If
 you became a researcher affiliated with the Magicians’ Guild, you
 could continue using the university’s equipment after graduation.
-Page | 67
-
 The school had a massive five-story dorm, but staying there was
 optional. Those who had a house in the city commuted from home.
 In general, however, most students lived in the dorm. A room was
@@ -75,9 +73,6 @@ their own robes probably just bought whatever they wanted.
 I had the robe I’d been wearing for a while now, so I didn’t need to
 buy another.
 “Well, does it look good on me?”
-
-Page | 68
-
 Elinalise, in her new school outfit, was currently modeling for
 me. The way her hair was shaped in lustrous rolls made the robe she
 was wearing look more like cosplay, but the uniform actually suited
@@ -104,9 +99,6 @@ up in an orderly fashion. If this were a Japanese school, the civic
 guidance teacher would no doubt be screaming their head off. The
 principal stood before our motley bunch, atop a podium constructed
 of magic resistant brick, giving his speech.
-
-Page | 69
-
 “Ladies and gentlemen, many moons have passed since those
 known as magicians were considered inferior to swordsmen. It is
 true that the styles of swordplay created by the Sword Gods are
@@ -137,9 +129,6 @@ clothes—a brand new school uniform—were the same as mine, but
 even the way she walked brimmed with grace. Completely unlike the
 joke of a young lady beside me. Granted, while Elinalise’s actions
 lacked grace, they had their own charm.
-
-Page | 70
-
 “My, my, isn’t that the kid you made cry not so long ago?”
 Elinalise mused.
 At her words, I looked to the two boys walking behind the girl.
@@ -170,9 +159,6 @@ hand to wave back. Tch, and he’s got a name like some male adult
 film star.
 “My, my, that’s a nice man.” It seemed Elinalise wasn’t a good
 judge of character, either.
-
-Page | 71
-
 “Silence! Princess Ariel has something to say!” At (presumably)
 Luke’s order, the clamor fell into silence. Quite impressive given that
 he hadn’t used a mic. “Go ahead, Princess Ariel.”
@@ -202,9 +188,6 @@ It was at that moment that I suddenly caught Fitz’s gaze. I
 shouldn’t have been able to tell he was staring at me through his
 sunglasses, but I was certain because of how strong his gaze was.
 This is bad. I better hurry up and buy that cake.
-
-Page | 72
-
 Once the ceremony was over, I parted ways with Elinalise and
 headed for my designated classroom. There was homeroom once a
 month and I had to participate. From what I’d heard, there were only
@@ -237,8 +220,6 @@ hair hid his eyes. He glanced briefly in my direction, before losing
 interest immediately and returning to his book. Further in and
 closest to the windows sat two girls, both of whom were beastfolk.
 One was chewing at a stringy piece of meat on the bone. A dog-type.
-Page | 73
-
 Her eyes regarded me suspiciously. The other, a cat-type, had her
 legs resting on the desk and both hands folded behind her head as
 she leaned back, glaring my way.
@@ -268,9 +249,6 @@ He grabbed me by my waist and tried to hoist me to the ceiling.
 your shoulders, relax, calm down! Knock it off!”
 His arms had enough power to send me flying into the ceiling,
 but fortunately, he just lifted me up.
-
-Page | 74
-
 “Master! Have you forgotten me? It is I, Zanoba!” Zanoba was
 grinning from ear to ear as he carefully wrapped his arms around me
 in a hug.
@@ -299,9 +277,6 @@ junior high, who’d latched onto me the same way when I bragged
 about having built my computer myself.
 “Also, while we’re here at school, you’re an upperclassman.
 What year are you right now?”
-
-Page | 75
-
 “Second year. Ha ha, please don’t refer to me as ‘Your Majesty’
 or as an upperclassman. You can just call me Zanoba. You are my
 master, after all.”
@@ -332,8 +307,6 @@ motion in my direction.
 “No, it’s fine.” I approached the cat-eared girl as I was told.
 A cat-eared girl and a dog-eared girl. Their piercing gazes would
 have made my legs tremble in the past, but they didn’t feel scary at
-Page | 76
-
 all now. Their glares needed a little bit more… well you know, right?
 They needed some murderous intent in there, right? That was how
 truly scary people—like Ruijerd—glared.
@@ -364,9 +337,6 @@ In contrast to her earlier spiel, spitting out word after word like
 a machine gun, Linia was left staring at me dumbfounded. Not that it
 really mattered, but the force with which she’d kicked the table
 made a certain article of clothing super visible. Aqua blue, huh?
-
-Page | 77
-
 Beside her the girl who was gnawing away at the meat bone
 twitched her nose and pulled a face. “It stinks.”
 That was rude. She was referring to me, right? Still, I didn’t let
@@ -380,13 +350,7 @@ girls like her talked that way, it actually turned older men on.
 Regardless, this had been a successful preemptive attack. At
 least, I wanted to believe my efforts had been good enough to avoid
 getting caught up in something outrageous later on.
-
-Page | 78
-
 ![Illustration](illustration-79.jpg)
-
-Page | 79
-
 Zanoba had a conflicted look on his face as he watched me
 interact with the two of them. Once we stepped away, he spoke in a
 hushed voice. “Master, why are you acting so submissive toward
@@ -417,8 +381,6 @@ at this school.”
 “That’s amazing,” I praised him sincerely. It made sense now
 why he called himself a genius. What did it take to become an
 advanced user of all seven types of magic in only two years? I could
-Page | 80
-
 still only use intermediate healing magic and basic detoxification
 magic.
 So this was the special student class. I’d known there would
@@ -449,8 +411,6 @@ way…she wasn’t here at the University?!
 “She’s at this school, too?”
 “What? Of course she isn’t,” he retorted curtly.
 “Um, so… where did you meet her then?”
-Page | 81
-
 He just glared at me without answering. Was that a bad
 question? Ah, don’t tell me he was one of the people she’d punched
 a long time ago? I’m sorry, I really am, I apologize on her behalf, I
@@ -481,8 +441,6 @@ The teacher arrived soon after, I introduced myself, and after a
 short conversation, homeroom was over. Though we were missing
 one person.
 “Huh? I heard there was one more special student?”
-Page | 82
-
 When I tried asking Zanoba, he just shook his head. “Master
 Silent is exempt from the monthly homeroom.”
 “And why’s that?”
@@ -507,9 +465,6 @@ meet them,” Zanoba said. He also mentioned that Silent was a thirdyear student
 respect.
 And just like that, I was absorbed into the ranks of the special
 students.
-
-Page | 83
-
 Once homeroom was over, Zanoba and the others went off to
 their classes. It was only natural for someone as serious as Cliff to
 attend classes in earnest, but Linia and Pursena, who seemed more
@@ -541,9 +496,6 @@ lined with leather breastplates and masks that looked like kendo
 masks, and in the corner was what looked like an umbrella bin
 stuffed with magic staves. There was an iron scarecrow and some
 unidentifiable white powder sitting in a jar.
-
-Page | 84
-
 Apparently, classes here didn’t involve high jumps or floor
 gymnastics, so there were no mats. In fact, the name of the room
 wasn’t even Gym Storehouse, it was Practice Equipment.
@@ -571,9 +523,6 @@ the what to be careful of when using the library.
 Usage of magic was forbidden in the library.
 In general, taking books out of the library was strictly prohibited,
 but there was a certain section you could borrow from.
-
-Page | 85
-
 For the latter, you needed the permission of the librarian and
 were required to have your name recorded.
 And, of course, you’d be penalized for any books you destroyed
@@ -605,8 +554,6 @@ I remembered the Man-God’s advice:
 There, you must investigate the Displacement Incident in the Fittoa
 Region. If you do this, you will be able to regain your abilities and
 confidence as a man.”
-Page | 86
-
 Phew--I’d almost completely forgotten about that first bit. But
 this was perfect. With the sheer volume of books here, I was bound
 to find something about teleportation. However—where should I
@@ -638,8 +585,6 @@ with so many things…”
 “Guh?! N-no, it’s fine, please don’t bow.”
 There was a guy in my previous life whom I really respected,
 named Masa. A working man who could ride out whatever life threw
-Page | 87
-
 at him by prostrating himself on his hands and knees. One his edicts
 was, “Whenever you’ve made a made a mess of something, find an
 innocuous place like the bathroom to give an earnest apology, so you
@@ -670,8 +615,6 @@ I wasn’t sure what was so ‘amazing after all’, since I hadn’t
 discovered anything yet. Perhaps he’d recognized my power after
 our mock battle the other day. Well, whatever. “And what, might I
 ask, are you doing here?” I said.
-Page | 88
-
 “Oh yeah. I’m carrying some documents with me. I have to go
 now. I’ll see you again, Rudeus.”
 “Yeah, sure, see you.”
@@ -703,8 +646,6 @@ three types of traps. The first was a fixed one-way teleporter. It
 would send people to the same location every time, but there was
 no way to return from there. Another was a fixed two-way
 teleporter. There would be a magic circle at the destination, and you
-Page | 89
-
 could use it to come back. Finally, there was the random teleporter,
 which transported you to a random destination.
 The basic strategy adventurers employed in the Teleportation
@@ -736,9 +677,6 @@ crystal was located, but it wouldn’t surprise me if there was at least
 one trick labyrinth out there without a real end point.
 The back of the book was filled with theories about random
 teleportation. The nomenclature wasn’t entirely accurate, since the
-
-Page | 90
-
 teleport range of the random traps was predetermined to a degree.
 Also, while you could teleport into the middle of a cave, it was
 exceedingly rare to be teleported into the earth itself. Animus
@@ -766,9 +704,6 @@ and demon folk, it would only fan the fires of potential conflict. The
 school had probably reasoned that if the human nobility ate
 alongside the adventurers and demon folk, it would only fan the fires
 of potential conflict.
-
-Page | 91
-
 As an adventurer myself, I was fine with dining on the first floor,
 but…
 “Come, come, this way.”
@@ -799,8 +734,6 @@ briefly.”
 being able to see you again until now, Master? You can at least eat a
 meal with me.”
 “Don’t ask your master to suffer in your stead.”
-Page | 92
-
 We were arguing at the head of the staircase, and despite its
 width, the students passing by made it seem like we were blocking
 them. Suddenly a burst of noise came from below: a chorus of shrill
@@ -829,9 +762,6 @@ turned grim. “You’re Fitz’s…”
 I bowed my head. So he knew about my match against Fitz. Fitz
 didn’t seem angered by what happened, but perhaps his companions
 were pissed on his behalf.
-
-Page | 93
-
 “A pleasure to meet you, I’m Rudeus Greyrat. I’ll be under your
 guidance during my time here at the school, since you’re an
 upperclassman. I hope you’ll look out for me.”
@@ -861,9 +791,6 @@ that couldn’t be. Paul had long ago disavowed the name Notos. Luke
 had to be a cousin or something.
 “Master, you’ve caught the eye of an unpleasant character.”
 “I guess I have, huh? If that exchange was anything to go by.”
-
-Page | 94
-
 “That was Luke, one of the Asura Kingdom’s upper nobility. He’s
 technically a student, but he’s one of Princess Ariel’s guards.”
 “Regardless, let’s forget about eating here,” I said.
@@ -895,8 +822,6 @@ studying abroad, she escaped to this school.
 The Princess brought two guards with her. One of them was Fitz.
 Silent Fitz, as he was nicknamed. A magician who used voiceless
 casting and had killed an assassin targeting the princess. People
-Page | 95
-
 knew he was an elf, but it was a complete mystery where he was
 born and raised. Only a handful of people could teach voiceless
 casting, but his master was unknown.
@@ -927,8 +852,6 @@ That’s all.”
 Zanoba looked slightly conflicted, even as he spoke flatly. If he
 was fine with his circumstances, that was one thing. But the effects
 of bullying were often easily overlooked by others. I wanted to help
-Page | 96
-
 him… but I didn’t know the extent of my would-be opponents’
 power. Beastfolk were often quick to jump to conclusions, and I
 didn’t want to make enemies of them.
@@ -956,8 +879,6 @@ the subject matter to make sense of it.
 “If I’m going to hunker down and research this, I’d like to have a
 notebook.” There was a limit to what I could hold in my memory. I
 decided to leave the books for tomorrow and left the library.
-Page | 97
-
 Outside, the sun was setting and students who’d finished classes
 were gradually making their way back to the dorm. Some seemed to
 be headed for the library. I went in the opposite direction to the
@@ -988,8 +909,6 @@ embellishments on it, but they were subtle and elegant. The proper
 name for this particular item was “panties,” and fairly high-quality
 ones at that. At the very least, they looked more expensive than the
 ones Elinalise normally wore.
-Page | 98
-
 Perhaps someone was trying to hang them out to dry? I looked
 up and saw someone peeking over the edge of one of the verandas.
 Probably the person who’d dropped them. I thought our eyes met,
@@ -998,13 +917,7 @@ them somewhere before.
 “Um, you dropped—”
 “Gyaaaah! Panty thief!”
 Huh?
-
-Page | 99
-
 ![Illustration](illustration-100.jpg)
-
-Page | 100
-
 The scream of a female student came not from above, but from
 behind me. Panicked, I turned around to find the screaming person
 pointing their finger at me. This is a misunderstanding!
@@ -1035,8 +948,6 @@ everyone’s hostile gazes on me, and my legs began to tremble.
 “Aren’t those Princess Ariel’s? I don’t care how much you might
 admire her, it’s a brazen act to do something like this at this hour.
 You should be ashamed!”
-Page | 101
-
 The other girls chimed in at the gorilla’s biting words, saying,
 “That’s right!” and, “You pervert!” and, “Drop dead!” Enough was
 enough. I already felt like crying.
@@ -1067,8 +978,6 @@ against me—and this one would be true, too. It might even get me
 expelled.
 “Wait! Don’t do anything to him!” A boy’s voice, slightly highpitched, rang out.
 “Lord Fitz!”
-Page | 102
-
 “What! Lord Fitz?!”
 “Such a beautiful voice…”
 “What’s he doing here?!”
@@ -1099,8 +1008,6 @@ rules. We’ll make an example out of him by punishing—what?!”
 As she spoke, she’d tried to pull me along, but then froze. Fitz
 had whipped out his wand and thrust the tip of it right into the
 gorilla’s face.
-Page | 103
-
 “Didn’t I just say he did nothing wrong? Enough. Now let go of
 his hand.”
 “F-Fitz… sir?”
@@ -1131,9 +1038,6 @@ reliable, young, and his glasses made him seem all the more dashing,
 though I’d call him cute rather than handsome.
 Crap. My heart was pounding, even though the person in front
 of me was a guy.
-
-Page | 104
-
 To put it nicely, I might be falling in love. To put it crudely, I was
 ready to lick his feet.
 “You haven’t done anything wrong. You helped me,” I said.
@@ -1163,9 +1067,6 @@ path again—not even in the middle of the day. I still couldn’t bear
 having the hostile glares of an entire crowd trained on me.
 “At any rate, thanks for helping me,” I said. “If you hadn’t come
 to rescue me, I don’t know what would’ve happened.”
-
-Page | 105
-
 “Don’t worry about it. I only did what anyone else would do.”
 What anyone else would do… really?
 In hindsight, I had a lot of memories of being misunderstood or
@@ -1190,9 +1091,6 @@ When I bowed my head, he bashfully scratched at his cheek.
 When I asked, he just grinned wide, showing his teeth. The smile
 caught me off guard. “That’s a secret.”
 And just like that, my first day at the school ended.
-
-Page | 106
-
 Side Story:
 Sylphiette
 (Part 1)
@@ -1225,9 +1123,6 @@ I donned a giant hat that completely covered my hair and ears,
 and stepped from the room.
 The room next to mine was a luxurious suite. It contained a
 canopied bed, tucked within which was the Princess with her
-
-Page | 107
-
 beautiful golden hair. Her face looked angelic as she slept, and there
 was no indication she’d wake soon. It was still too early for that.
 I crept in quietly, so I didn’t wake her, and went to the room
@@ -1257,9 +1152,6 @@ He was very dedicated to his job, after all.
 I left, slipping into the deathly-still hallway, which was currently
 blanketed in a kind of quiet that was characteristic of the morning
 hours. I loved this kind of quiet. This place was always bustling and
-
-Page | 108
-
 noisy, but during this particular time, it was still. It was silent at night
 too, but that felt eerie, like something was lurking out of sight.
 I moved stealthily down the hall so as not to wake anyone else,
@@ -1287,8 +1179,6 @@ thought Rudy might do if he were in my position.
 I ran through the Workshop District. It bustled with commerce
 and with people noisily unloading their goods, but this part of it was
 quiet. Although…when I looked in the direction where I sensed
-Page | 109
-
 people moving, it seemed the craftsmen had already begun their
 work. In which case, perhaps, they’d actually going to be going to
 bed right after this.
@@ -1318,9 +1208,6 @@ When I got back to the dorm, the Princess had just woken up.
 Still half-asleep, she sat up in bed, sluggishly crawling out of it.
 “Sylphie… morning,” she greeted me, stretching her arms wide.
 “Yes, good morning.”
-
-Page | 110
-
 That was the cue for my sleepless friend from the next room
 and I to start dressing the Princess. I’d struggled with the duty at
 first; her clothes were fundamentally different from what I was
@@ -1353,8 +1240,6 @@ best friend. She wasn’t like Rudy, but I was glad to have a friend like
 her. Seeing her true colors hadn’t made me hate her. She was lonely
 now, too, and struggling in a foreign country, and it was my turn to
 help her.
-Page | 111
-
 “Sylphie, what’s wrong?”
 “You look more natural when you don’t smile, Princess.”
 “Oh my… you’re the only person who would ever say that to
@@ -1384,8 +1269,6 @@ one well-endowed ancestor? My originally green hair meant there
 was demon blood in my family line, and my mother was halfbeastfolk, so she’d been blessed in the chest department.
 To be perfectly honest, I wanted them to get a little bigger. Even
 just a little. My unfeminine body hadn’t bothered me in the past, but
-Page | 112
-
 it might make a difference to my future. It would be devastating to
 meet someone I liked and be mistaken for a man.
 “Hmm,” I sighed as I wiped my body down and got dressed. I
@@ -1413,8 +1296,6 @@ magic?”
 “Oh, that… if you take a stone from a campfire that’s turned
 red-hot and put it in a pot, the water heats up too, right? It’s the
 same concept.”
-Page | 113
-
 As I listened in on the boring lectures and recalled Rudy’s
 teachings, the Princess would occasionally ask me questions and I
 would answer. She was passionate about her studies, even if these
@@ -1445,9 +1326,6 @@ was a… complicated feeling.
 “What is it, Princess?”
 “The next class is practical skills. What are you spacing out for?”
 “Oh, yes. I understand.”
-
-Page | 114
-
 The student body of this university was diverse. Many came
 from the Ranoa Kingdom, the Duchy of Basherant, and the Duchy of
 Neris, but there were also those humans, like the Princess, that came
@@ -1480,8 +1358,6 @@ about their abilities, and it didn’t necessarily get them far. The
 former adventurers were different. Every action they took, even
 ones that might seem pointless or futile at a glance, led them to
 victory.
-Page | 115
-
 “You’re as strong as ever, Master Frict. If it’s not too much
 trouble, would you mind giving me some advice?”
 “You’re about a half-step too slow at taking the initiative. You
@@ -1511,8 +1387,6 @@ during mock battles.
 Incidentally, Master Frict’s goal was to become a professor at
 the university. I admired people who knew what they wanted out of
 life.
-Page | 116
-
 Once class was finished, I was back to looking after the Princess.
 She and the others were constantly working toward the fulfillment of
 her ambitions, and though I didn’t fully understand what was going
@@ -1542,8 +1416,6 @@ looked to those around us.
 “Come on, please hurry.”
 A handful of us accompanied her as we left the university and
 walked down the main road. It drew the attention of those around
-Page | 117
-
 when the Princess, her Knight, and her Attendant all moved as a
 group. The Princess was beautiful, the Knight was dashing, and the
 Attendant was striking.
@@ -1575,8 +1447,6 @@ possibility of invasion from the other countries.
 Luke.”
 “No, that’s just something I picked up from a girl I went on a
 date with the other day. Some of them are well-informed.”
-Page | 118
-
 The Knight was gathering info about the city in a different way
 than I was. I didn’t think much of his methods, but the constant
 dates with girls were likely a part of his own self-care.
@@ -1607,9 +1477,6 @@ along with her. If there were more than three of us, I’d act as a
 mediator to keep them all from fighting—wait, no, no, no. Wife?
 Why was I assuming Rudy and I would get married in the first place?
 “Sylphie, what’s wrong?”
-
-Page | 119
-
 “No, it’s nothing. Uh, this way.” I escaped from my wild
 delusions when the Princess asked me a question. I couldn’t believe
 what a fool I was, dreaming about a future that would never come. A
@@ -1636,9 +1503,6 @@ They’d forced me to try the items on in the store. It might sound
 arrogant to say as much, but I thought the underwear, with its pale
 green fabric and lace flowers, suited me really well. My body was still
 so thin I could be mistaken for a boy, so you couldn’t quite say I
-
-Page | 120
-
 looked sexy in them, but… maybe if Rudy saw he’d at least think I
 look cute.
 “Rudy, huh?”
@@ -1659,5 +1523,3 @@ tight.
 “What should I do…?”
 I closed my eyes after blurting out those words.
 I didn’t sleep very well that night.
-
-Page | 121

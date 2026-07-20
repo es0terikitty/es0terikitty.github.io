@@ -37,8 +37,6 @@ It was all true. I could do this if I wanted to.
 I’d been weighing the pros and cons of going for days now, but
 that was because I could afford to choose. Norn didn’t have that
 choice. She wanted to go help, but she couldn’t. I, on the other hand,
-Page | 160
-
 had the ability to reach the Begaritt Continent, help our parents, and
 make it back safely.
 That was the whole reason Geese had sent me that letter and
@@ -63,9 +61,6 @@ dumped me over this one, I wouldn’t blame her. But that wasn’t how
 I should be thinking about this. I needed to trust my wife.
 “I’ll go to the Begaritt Continent, then.”
 I’d made up my mind now. I was going to save my parents.
-
-Page | 161
-
 Chapter 8:
 Farewells
 
@@ -101,9 +96,6 @@ Kingdom of Shirone entirely on my way through the Central
 Continent. Lilia and Aisha would still be captives there, and I never
 would have met Aisha. I guess that might have kept me from running
 into Orsted, though.
-
-Page | 162
-
 Where would I be now if things had played out that way? We’d
 probably have made it to the refugee camp without too much
 trouble. Things might have ended just as terribly with Eris, though.
@@ -134,8 +126,6 @@ When I told her what I was planning, she grimaced unhappily.
 “You know, there’s still a chance Geese just jumped to
 conclusions.”
 “What do you mean?”
-Page | 163
-
 “You know the man, Rudeus. He rarely thinks anything through
 before he acts. It’s all hunches and intuition with him.”
 Well, she wasn’t wrong about that. Geese liked to keep the facts
@@ -166,8 +156,6 @@ were.”
 “Either Geese decided to send the letter all on his own, or my
 dad’s stubborn pride got in the way.”
 “Oh. I see…” Elinalise put a hand to her chin, considering this.
-Page | 164
-
 In Paul’s last letter, he’d assured me that he could handle
 Zenith’s rescue by himself. That would have made it harder for him
 to ask for my help, even if he needed it.
@@ -196,9 +184,6 @@ way there. As I’d anticipated, there were two potential approaches.
 “To start, I think we want to arrive at Rapan as quickly as
 possible.” Elinalise was pointing at the shorter route, which would
 take us from Asura to the northern coast of the continent.
-
-Page | 165
-
 “But the route from the north is more dangerous, right?” I
 asked.
 There were all sorts of risks involved with this approach. We
@@ -230,8 +215,6 @@ it seemed prudent. Elinalise would handle these negotiations while I
 acted as interpreter. After that, we’d just let our guide lead us to the
 city of Rapan. Once there, we’d find Paul and the others, rescue
 Zenith, and take the same route back home.
-Page | 166
-
 “I’ve made the trip to Asura more than once, so it won’t be an
 issue,” said Elinalise thoughtfully. “The only tricky part is choosing
 what we bring with us to Begaritt…”
@@ -261,8 +244,6 @@ months. It was hard to say how long the crossing to Begaritt would
 take, but we estimated one month. Neither of us had been to the
 continent itself, but it was apparently tough terrain, so we penciled
 in another six months to reach our final destination.
-Page | 167
-
 Altogether, we were looking at maybe eight months one way.
 That was faster than I’d estimated myself. I felt like there might
 be ways to cut it down further with creative uses of my magic, but I
@@ -293,8 +274,6 @@ If a random woman walked up to me asked me to have sex with her,
 I could probably manage just fine.
 But I didn’t want to betray Sylphie.
 “I’m not going to sleep with you on this journey,” I said.
-Page | 168
-
 “Yes, that wouldn’t be a good idea.”
 “I guess we’ll have to stop by brothels or something on our
 way.”
@@ -323,8 +302,6 @@ could. Cliff stared at me with a look of blank confusion on his face.
 “What? Of course I do.” His tone suggested that I’d asked him
 the single most obvious question in the world. So far, so good.
 “Will you keep loving her, no matter what?”
-Page | 169
-
 “Naturally. I love Lise from the bottom of my heart. You’re
 aware of this, I’m sure.”
 “Well, good. That’s what I wanted to hear.”
@@ -353,9 +330,6 @@ painful thought.
 “You know, Elinalise, maybe we can bring him along?” I said. “He
 can use Barrier magic and Advanced-tier Divine spells. Even if he
 doesn’t have much stamina, he might come in handy sometimes…”
-
-Page | 170
-
 “It’s all right, Rudeus. I wasn’t useful in the slightest the last
 time I tagged along on someone else’s adventure. This wouldn’t be
 any different.”
@@ -383,9 +357,6 @@ Was Cliff deliberately ignoring what she’d just said? Maybe that
 was for the best. Elinalise sure looked overjoyed.
 “Cliff, dearest! I love you so much! More than anyone in the
 world!”
-
-Page | 171
-
 Just like that, she’d pushed him down onto the floor. Once I saw
 Cliff’s shirt fly into the air, I spun around and quickly left the room. It
 seemed like they needed some private time at the moment.
@@ -415,8 +386,6 @@ thought.
 “Well, I need to take a roughly two-year leave of absence,” I
 said. “I wanted to get the paperwork taken care of right away.”
 “Two years? That’s quite a length of time.”
-Page | 172
-
 “Yes. I’m afraid I’ve got quite a rather complex situation to take
 care of.”
 “Is that so? Hmm.” There was no reason I couldn’t explain the
@@ -445,5 +414,3 @@ over. I took the opportunity to explain the situation to them as well.
 Boss.”
 “We’re gonna graduate by the time you get back, so I guess this
 might be goodbye.”
-
-Page | 173

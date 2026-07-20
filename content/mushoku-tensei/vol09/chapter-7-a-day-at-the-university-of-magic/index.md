@@ -40,9 +40,6 @@ ticking him off.
 One morning, however, he spoke to me for once. “Hm. I find
 your training fascinating, boy, but I have to ask… is there some point
 to it?”
-
-Page | 134
-
 Ouch. That’s a harsh way to start a conversation. “Uh, well… I
 don’t think staying in shape is pointless, but—”
 “You have an absurd amount of mana,” Badigadi interrupted. “I
@@ -73,8 +70,6 @@ probably just the placebo effect at work.
 “Well, that’s odd. You’ve got no talent for this, boy!”
 Badigadi went on to bluntly explain the reason for my failure.
 Normally, battle aura was something people began to automatically
-Page | 135
-
 generate after spending some time doing physical training. On the
 other hand, I’d put in a good amount of effort on that front, but I still
 couldn’t cloak myself in the aura even when I tried. That meant I just
@@ -106,8 +101,6 @@ you know!”
 Channeling too much mana at once could apparently destroy a
 magician from the inside out. On an intuitive level, that did make
 sense to me. Infusing yourself with magic felt a little bit like
-Page | 136
-
 stretching your arm out as far as it could possibly go. If you kept
 pushing things beyond that limit, you’d probably end up with the
 equivalent of a broken bone or two.
@@ -139,8 +132,6 @@ instead. Thanks to my condition, though, that wasn’t exactly an
 option at the moment.
 “That reminds me, your Majesty…”
 “Yes? What is it?”
-Page | 137
-
 “You wouldn’t happen to know of a cure for impotence, would
 you?”
 “…No.”
@@ -170,8 +161,6 @@ memorization skills to keep up.
 At the Saint-tier, there was supposedly less need to memorize
 things, but the amount of mana required to cast a single spell
 ramped up dramatically. And as for the King-tier spells and above…
-Page | 138
-
 you were looking at things researched and devised by one nation or
 another, and mostly guarded as state secrets. Some would create
 poisons incurable by any ordinary magic, as a threat toward other
@@ -202,8 +191,6 @@ I’d been eating outside for months, but it was getting cold out
 there these days, so I decided to make myself a little shelter. I used
 Earth magic to surround one of the outdoor tables with four walls
 and a roof, then opened a hole in the middle of the table and got a
-Page | 139
-
 fire going inside it. Once I added a hole in the ceiling to let the smoke
 out, I had myself a comfy little hut. It was actually really nice sitting
 around that table, since the fire warmed the stone nicely.
@@ -234,8 +221,6 @@ three punches… but whatever. This wasn’t a bad feeling, although I
 had to make sure it didn’t go to my head. Orsted had taught me a
 very painful lesson about the dangers of getting overconfident. If my
 ego got too big, I’d just end up faceplanting again.
-Page | 140
-
 I followed the path opened by the crowd, and found myself led
 directly to a table at the very back of the dining hall.
 “Bwahahahaha! I see it’s finally gotten too cold for you to eat
@@ -265,9 +250,6 @@ that, but apparently, I was the only one who felt that way.
 “Hm. Sir Badi, would you mind if she had a little?”
 “Not at all! There’s no joy in drinking all alone, you know? Have
 as much as you please! Bwahahahaha!”
-
-Page | 141
-
 Julie took a cup Badi had filled to the brim with beer, and began
 sipping steadily away. Was this really a good idea? She had to be a
 little young for this, right? I mean, sure, we could always use
@@ -280,13 +262,7 @@ good idea.”
 “Ah. If you say so, Master. My apologies, Sir Badi.”
 “Bwahahahaha! You can’t even drink when you please? The life
 of a student must be an unhappy one!”
-
-Page | 142
-
 ![Illustration](illustration-143.jpg)
-
-Page | 143
-
 With this boisterous conversation running in the background, I
 ate my lunch and set out for my next class. This one was a course on
 Advanced Healing, located in a fifth-year classroom.
@@ -316,8 +292,6 @@ picked it up relatively smoothly back in the day, but maybe it was
 one of those things that got harder to learn as you got older.
 Today, I took some time to try and teach Linia about combining
 fire and water magic. It put me in a kind of nostalgic mood, honestly.
-Page | 144
-
 I started off by trying to explain the cycle of evaporation,
 condensation, and precipitation, but the concept just seemed to
 confuse her.
@@ -347,8 +321,6 @@ Sandstorm.
 It was basically a more powerful version of the Advanced-tier
 spell Duststorm. That might not sound too impressive on its face, but
 when I’d actually tried it out, an astonishingly fierce torrent of sand
-Page | 145
-
 and wind blanketed a wide area around me. Anyone caught inside
 was essentially rendered blind; it was a struggle just to breathe. And
 even when the spell’s effect finally expired, the entire battlefield
@@ -379,9 +351,6 @@ When I asked the professor, he said I could call myself anything I
 wanted. Sensing a slight edge to that remark, I decided not to do so.
 It was hard to imagine any good would come from advertising myself
 as some master mage, anyway.
-
-Page | 146
-
 In the early afternoon, I often headed over to Nanahoshi’s
 laboratory. The University had given her quite a lot of space to work
 with. But since she’d filled up the front room with a jumble of junk, it
@@ -412,9 +381,6 @@ underneath. However, sometimes one of them would suck quite a
 lot of mana out of me, and something strange would appear out of
 nowhere—typically something like a dirty black bird wing, or the leg
 of an insect.
-
-Page | 147
-
 When I asked Nanahoshi if we’d succeeded, she replied, “Of
 course not.”
 The idea was that we’d try out tens of thousands of these
@@ -445,9 +411,6 @@ matter what we do. I’m very aware of the risks, all right? That’s why
 I’m taking things so cautiously.”
 I couldn’t say that I completely followed, but I did understand
 that she was building up to something slowly and methodically.
-
-Page | 148
-
 Maybe it would be best if I learned the basics, at least. “You know,
 I’d like to learn some Summoning magic myself…”
 “Summoning is my lifeline. I can’t go around handing out my
@@ -476,9 +439,6 @@ realized that these experiments were actually pretty grueling work.
 He ran out of mana entirely after working through only twenty
 scrolls or so. “This is crazy, Rudeus. Activating one of these things
 consumes as much mana as casting an Advanced spell…”
-
-Page | 149
-
 Fitz was a silent spellcaster like myself, but evidently his mana
 capacity was considerably smaller. And he had more mana than most
 people, from the sound of things. It did seem like my capacity was
@@ -510,8 +470,6 @@ Nanahoshi, either.
 Fitz’s voice sounded downright dejected. I shook my head
 quickly. “That’s not true.”
 “It isn’t?”
-Page | 150
-
 “Of course not. It’s reassuring just to have you around.”
 Fitz had helped me out in many ways over the last year. Maybe
 he couldn’t contribute much to this particular task, but I didn’t want
@@ -541,8 +499,6 @@ I’d been accused of stealing underwear shortly after enrolling at this
 university. Ever since that day, I’d been careful not to wander down
 into that vicinity. “Come on, Master Fitz. Are you trying to get me
 attacked by a shrieking horde of angry girls again?”
-Page | 151
-
 “Hehe. I’m not sure that’s how it would go this time. You’ve
 gotten kind of popular in the girls’ dorms, you know?”
 “Huh? Wait, seriously? Am I the prince from the tennis club
@@ -574,8 +530,6 @@ here. From the way Fitz described it, they hadn’t mentioned that
 whole “impotence” thing, either. I should treat Pursena to a nice
 steak sometime soon. What about Linia, though? I don’t even know
 what she wants. Status? Honor? Cash?
-Page | 152
-
 “Of course, there are some girls who are still afraid of you. Like
 Goliade, for example.”
 “Ah, right. That makes sense. She was at the head of that group
@@ -605,9 +559,6 @@ bullying, so we still had to be careful here.
 “Okay. As long as it’s all in good fun, that’s fine. But for the
 record, I’m not holding a grudge or anything. Could you keep an eye
 on things and make sure they don’t take it too far?”
-
-Page | 153
-
 “You really are a nice guy, Rudeus. Sure. I’ll let Goliade know,
 too.”
 That last part might not be necessary. The last thing I needed
@@ -636,9 +587,6 @@ like a sponge. She was also rather dexterous, and could use her
 fingers to do precision work when her magic failed her. Not to be
 crass or anything, but Zanoba had gotten a real bargain when he
 picked her up.
-
-Page | 154
-
 Still, this was only her first year in training. Her mana capacity
 was just too low for sustained work, and her accuracy wasn’t up to
 par either. Although she was skillful with her hands, she’d only just
@@ -669,8 +617,6 @@ summoned many fearsome Fiends for various reasons. In the end,
 she used an enormous offering and a huge amount of mana to call
 forth a creature that was stronger than she was, which promptly
 killed and ate her. Her student, bitterly lamenting this tragedy, swore
-Page | 155
-
 an oath to never summon anything beyond his ability to control.
 There was a moral to the story and everything. It felt a little bit like a
 fairy tale.
@@ -692,5 +638,3 @@ urgently for an answer, and tried all sorts of things…
 As it happened, though, my worries proved to be unfounded.
 Shortly after this very day, things moved quickly toward an
 unexpected resolution.
-
-Page | 156

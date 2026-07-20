@@ -40,9 +40,6 @@ Well, maybe he’d just been pursuing two goals at once.
 Finally, we arrived back at the front gates of the University. By
 this point, I was back in my usual attire—the costume I wore when I
 was “Fitz.”
-
-Page | 232
-
 “Okay then,” I said. “I’m going to go report to Princess Ariel, I
 guess.”
 “Sure,” said Rudy, with a slightly embarrassed smile. “I’ll…see
@@ -69,9 +66,6 @@ Rudy didn’t seem too interested in my body, though…
 Wh-What am I supposed to do about that?
 When I stepped into the student council room, Princess Ariel
 took one look at my face and sighed. “It didn’t work after all, I see.”
-
-Page | 233
-
 “Huh? Uhm, Princess Ariel…?”
 “It seemed like a perfect plan at first, but in retrospect…even if
 there was some risk of you freezing to death, it was silly to expect
@@ -101,8 +95,6 @@ he came to the University to find a cure for his condition, actually.”
 “Huh? Uh, you know. He was looking for a way to cure his, uh,
 impotence.”
 “I see. Pardon me. I was a little startled, that’s all.”
-Page | 234
-
 Princess Ariel had pressed a hand to her mouth, a disbelieving
 expression on her face. I could tell what she was thinking: I’d heard
 the rumors, but never thought they might be true. Why would you
@@ -133,9 +125,6 @@ this way. I couldn’t remember him ever speaking to her this firmly
 before, in fact.
 The princess seemed a little taken aback. “…My apologies. I
 suppose I went a bit too far.”
-
-Page | 235
-
 “It’s all right, Princess Ariel. I wouldn’t expect a woman to
 understand these things.” With a small nod, Luke turned to face me.
 “Sylphie, do you want to cure Rudeus’ condition?”
@@ -165,9 +154,6 @@ the type to take the man’s side in a situation like this.
 “Well, Luke seems to have a plan of some sort in mind… but I do
 know of a few cures for impotence myself, as it happens.”
 “Really?”
-
-Page | 236
-
 “Indeed. It’s one of those little things you’re taught as a member
 of the royal family.”
 That made some sense. When a princess got married off to
@@ -199,8 +185,6 @@ outlines of a plan. He listened to us talk for a few seconds in silence,
 then abruptly interrupted. “What sort of a fool complains about the
 heat in this frigid weather? Your whole approach is misguided,
 anyway. Sylphie’s not curvy enough to tempt a man with her body.”
-Page | 237
-
 “Ah…”
 I found myself at a loss for words, and Princess Ariel shot Luke a
 reproachful look. “Did you have to put it so bluntly, Luke? The poor
@@ -230,9 +214,6 @@ its sale. Following the Fittoa region’s disappearance, all production
 ceased. I’m afraid no one knows how to make it anymore. This is very
 rare stuff, in other words. Its current street price exceeds a hundred
 gold coins per bottle.”
-
-Page | 238
-
 Back when Luke bought it, it had been worth about fifteen
 Asuran gold coins. He’d bought five at the time, and had already
 used two of them himself. The effect was supposedly remarkable.
@@ -263,8 +244,6 @@ Since arriving at the University of Magic, we’d put a lot of effort
 into securing financial resources, and we had a good stash of money
 by now. But those were our war funds, reserved for our future plans.
 We kept it separate from our day-to-day spending money. Princess
-Page | 239
-
 Ariel was well aware that both she and Luke tended to get careless
 with their spending, so she’d agreed to strictly limit their access to
 our funds.
@@ -292,8 +271,6 @@ I’d also changed into a new set of underwear before coming
 over. I was wearing the set that Princess Ariel had picked out for me
 a little while ago. It felt like a good time to give my Steelsilk Bustier
 the night off.
-Page | 240
-
 Of course, I also had a certain small bottle in the pocket of my
 uniform.
 “Okay…” Everything was ready. I was going to be fine.
@@ -323,9 +300,6 @@ with a little snack I’d made—some mixed nuts with spicy flavoring.
 I’d also picked up some smoked meat in case Rudy didn’t care for
 them.
 “What’s all this?”
-
-Page | 241
-
 “Well, I thought we could… celebrate our reunion or something,
 you know?”
 “…Right, of course. Yeah, we really should commemorate the
@@ -354,9 +328,6 @@ expensive ones.”
 Was he worried about how much I’d spent on these? I’d have to
 keep it to myself that Princess Ariel had given me the money for
 them. Knowing Rudy, he’d probably feel like he owed her something.
-
-Page | 242
-
 In any case, I’d poured the drinks and put out our snacks. So far
 so good. The aphrodisiac… was supposed to come out later in the
 evening. Right.
@@ -386,9 +357,6 @@ Slightly reluctant, I took a tentative sip. The painfully strong
 smell that had lingered in the back of my nose was washed away,
 replaced by a gentler and more pleasant aroma. This was actually
 pretty good.
-
-Page | 243
-
 “That reminds me…that hot water trick was the reason I started
 learning magic from you, wasn’t it?”
 “Hmm. Was it?”
@@ -419,8 +387,6 @@ Snapping out of my nostalgic haze, I took the little bottle out of
 my breast pocket and slowly placed it on the table.
 Rudy tilted his head quizzically. “What’s this?”
 “Uhm, well… it’s a special kind of medicine. For your problem.”
-Page | 244
-
 I’d been really unsure about the best way to get Rudy to drink
 the aphrodisiac. I could have mixed it into his drink without him
 noticing, but that felt like a pretty nasty trick to play on someone you
@@ -451,9 +417,6 @@ okay?”
 Rudy’s eyebrows twitched at that. His gaze was fixed on my
 upper body. It was kind of embarrassing when he stared at me this
 openly. But I guess I was… seducing him, wasn’t I? Hopefully I wasn’t
-
-Page | 245
-
 coming off as totally shameless… It was going to be okay, right? He
 wouldn’t mind, would he?
 I felt like I was getting more nervous than he was. I’d been
@@ -483,9 +446,6 @@ For a while after that, the two of us ate and drank in silence. The
 smoked meat turned out to be too salty and not particularly good,
 but for some reason I couldn’t stop nibbling at it. After a while, my
 whole body started to get hot. The area just above my thighs, in
-
-Page | 246
-
 particular, was practically throbbing. The stuff sure seemed to be
 working.
 Was it doing anything for Rudy, though?
@@ -516,8 +476,6 @@ was strong enough that I knew he wasn’t planning to let go. Not that
 I had any intention of running from him, of course. “Sylphie…”
 Staring at me with bloodshot eyes, Rudy rose to his feet. He
 circled around the table to come beside me, still grasping my hand.
-Page | 247
-
 And then, a little hesitantly, he tugged me upward. I let him pull me
 up out of my chair, making no effort to resist.
 “You, uh… can’t contain yourself, huh?”
@@ -531,13 +489,7 @@ then. Go ahead and eat me up, Rudy…”
 The instant those words left my mouth, he pushed me onto the
 bed.
 And then—
-
-Page | 248
-
 ![Illustration](illustration-249.jpg)
-
-Page | 249
-
 Rudeus
 
 I
@@ -572,8 +524,6 @@ fine, I love you, and it feels good on a running loop. I hadn’t paid any
 attention to her body language. I hadn’t spared a thought for how
 she was feeling. The way she’d whispered in my ear just got me more
 excited. I hadn’t taken it easy on her at all.
-Page | 250
-
 This was only the second time in my long life that I’d slept with
 someone. I wasn’t at all confident that I’d done a good job. In fact, I
 was convinced I’d behaved even worse than I did on my first time.
@@ -603,9 +553,6 @@ Sylphie was lying there next to me, all right. No doubt about it.
 And thanks to the softness of her body, my monolith was rising
 toward the skies once again. Imposing and manly, it towered above
 its surroundings, as it was always meant to do.
-
-Page | 251
-
 Gazing down at it in awe, I was convinced of something very
 important. “I’m cured.”
 I hugged Sylphie. I hugged her very tightly. And I started crying…
@@ -625,5 +572,3 @@ notch.” Or, god help me, “You’re vewy, vewy kyoot!”
 I didn’t want to make a total fool of myself. So instead, I just
 hugged her tightly to express my gratitude.
 At long last, my struggle had come to an end.
-
-Page | 252

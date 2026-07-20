@@ -33,8 +33,6 @@ Poor Luke, though.
 “Yeah.” Sylphie nodded cheerfully.
 So Elinalise was Sylphie’s grandmother, after all. Laws’ mother,
 in other words. Elinalise had birthed half-elf children all over the
-Page | 130
-
 world and, due to the curse and her own personality, trouble
 followed her everywhere. Her conflict-resolution abilities were
 something she’d only mastered in recent decades; prior to that,
@@ -65,9 +63,6 @@ time.
 “It’s about Lise,” he continued.
 “Okay.”
 “Honestly, she’s not the person I thought she was.”
-
-Page | 131
-
 “Uh-huh. And?”
 I’d understand if he felt disillusioned. After all, the person he’d
 loved all this time actually had not only children but grandchildren as
@@ -99,8 +94,6 @@ circumstances are or how far she is from my picture-perfect ideal,
 she loves me and I have a duty to make her happy.”
 He said it. I trembled. Oh crap. Maybe I really had
 underestimated him. I should probably call him Lord Cliff from now
-Page | 132
-
 on. Well, maybe it wasn’t necessary to go that far. I’d just call him
 Master Cliff like I always did. “Okay, I understand. I am happy to be
 of assistance with whatever I can.”
@@ -128,8 +121,6 @@ leaned all of her weight against me. I buried my face in her hair and
 took a deep breath, drawing in her smell. Mmm, such a sweet scent.
 “Rudy, that tickles.”
 But she didn’t rebuff me. I kept on sniffing.
-Page | 133
-
 “I’m thinking about growing my hair out,” she suddenly
 declared.
 I’d suggested she do that many times long ago, only to be
@@ -159,8 +150,6 @@ she cut her hair.
 Why’d she have to say it like that? Now I felt teary-eyed. How
 did I get to be so loved? I’d have to work hard too, so her feelings for
 me would never fade. Apparently the smug asshole type wasn’t quite
-Page | 134
-
 what she had in mind, so I’d quit being thick-headed and aim for
 being clever instead. I wasn’t sure if I could actually do it, but I had to
 at least try.
@@ -169,9 +158,6 @@ at least try.
 Since we were both exhausted, I decided we’d just hit the bath
 and then relax.
 That was how Sylphie and I got married.
-
-Page | 135
-
 Chapter 8:
 Life With a House
 
@@ -208,8 +194,6 @@ would greet us with breakfast. Badigadi would disappear as soon as
 he ate his portion. The man was truly a mystery to me. I wondered
 what he was thinking. Some days, it didn’t seem like he was thinking
 at all.
-Page | 136
-
 On days when Badigadi wasn’t there, Sylphie and I would
 lovingly feed each other. When breakfast was over, we would head
 to the university, which was about a thirty-minute walk away.
@@ -241,8 +225,6 @@ him, but I didn’t really think there was much I could do to assist.
 Afternoons brought with them a high likelihood that Elinalise
 and Cliff would be all over each other, so I refrained from visiting him
 during that period.
-Page | 137
-
 Zanoba often spent his entire day in his own research room.
 Generally, he’d be trying to decipher the writing we’d discovered in
 the manor, or affectionately rubbing his cheek against that of the
@@ -271,9 +253,6 @@ proficiency with it. Therefore, I had her focus on using only earth
 magic. If Sylphie’s theory was correct, then Julie would soon be an
 expert in earth magic. We could move onto the next phase once
 she’d progressed some more. There was no need to rush.
-
-Page | 138
-
 I still went to the cafeteria for lunch. For various reasons, I’d
 decided to not bring food from home. The seats in the corner of the
 first floor were for our exclusive use—“our” being Zanoba, Julie,
@@ -304,8 +283,6 @@ magic.
 “You haven’t been touching us lately, mew.”
 “You still stink of arousal, but I can’t get over how weird it feels
 that you don’t try to touch us.”
-Page | 139
-
 The two of them couldn’t hide their surprise at my good
 behavior, but I had pledged my fidelity to Sylphie, and I wasn’t going
 to touch other girls. Pursena would tease me with flirty giggles, but I
@@ -335,8 +312,6 @@ Her bodyguard duties continued on the same schedule as before, but
 since we were newly married, the Princess let her go home for a
 while once class ended. She did still have to guard the Princess at
 night, so after eating dinner, doing a bit of cleaning and taking a
-Page | 140
-
 bath, she’d immediately head back to the school. It seemed like
 twice the effort. I was putting her through a lot.
 Sylphie, however, didn’t seem to feel that way. “I like having a
@@ -367,9 +342,6 @@ kitchen. It made me want to take her in my arms from behind. I once
 tried to help her cook, but she politely turned me down. Apparently,
 there was something about making food that she didn’t want to
 share with anyone else, even though it wasn’t like she was a chef or
-
-Page | 141
-
 anything. I thought of suggesting that she wear nothing but an
 apron, but had the feeling she’d turn me down.
 We occasionally had guests when dinnertime rolled around, and
@@ -400,8 +372,6 @@ everything I’d ever dreamed about. Still, Sylphie was my wife.
 Respect—that’s right, I wanted to respect her.
 Or so I thought, but when she looked at me with those
 shimmering eyes and said, “You don’t have to restrain yourself,” it
-Page | 142
-
 felt stupid to even try. I was a weak man. There were words I wanted
 to try saying at least once in my life, or have said to me. There were
 things I wanted to try doing at least once in my life, or have done to
@@ -432,9 +402,6 @@ It was true that I couldn’t cast healing magic without
 incantations, anyway, so I gratefully accepted her instruction. I could
 keep an eye out for anything else I wanted to learn from her in the
 meantime.
-
-Page | 143
-
 “Um, I don’t think it’s all that different from casting other types
 of magic without an incantation,” Sylphie said at one point.
 I used to think so, too, and yet the fact remained that I couldn’t
@@ -465,8 +432,6 @@ essentials of Disturb Magic in no time. She still needed practice, but I
 was sure she’d be able to use it in battle eventually. Sylphie really
 was an exceptional student. I’d taught magic to a number of
 people—Eris, Ghislaine, Zanoba, Julie, Linia—but I felt like Sylphie
-Page | 144
-
 was the quickest among them to learn. She might even be a kind of
 genius herself.
 “But this is kind of unfair, isn’t it? A magician can’t do anything if
@@ -496,9 +461,6 @@ that, I was the messy type. Sylphie would clean on her days off, but
 this manor was too huge for the two of us to keep spotless. I did
 think cleaning was a necessity, but the house was just way too big.
 Maybe we needed to hire a maid.
-
-Page | 145
-
 Thinking about a maid reminded me of Lilia, and I wondered if
 Paul and the others had already reunited with Zenith. It had been
 three years since Elinalise and her comrades had located my mother.
@@ -522,9 +484,6 @@ In any case, to think that a former shut-in like me might be
 looking after my parents! It was kind of moving…though it would be
 difficult to give up the privacy of my two-person love nest with
 Sylphie.
-
-Page | 146
-
 Chapter 9:
 The Letter
 
@@ -560,9 +519,6 @@ and replaced it with a pillow.
 “Mm. Rudy, you’re not supposed to drink from that…” Sylphie
 stirred, curling up in a ball. Her sleeptalking was cute. I wondered
 what she was letting me drink from in her dreams?
-
-Page | 147
-
 Somehow, I found myself stroking her chest. I’d wake her if I
 wasn’t careful, so I did so very gently. Like touching silken tofu. Very
 discreet. I had to be the happiest man in the world, getting to
@@ -589,5 +545,3 @@ answered to me. If someone could beat my Circle of Six, then they
 earned the right to challenge me. Sounded like the setup for a
 shounen manga. They weren’t going to call it a Fistival (Fist Festival)
 or something like that, were they?
-
-Page | 148

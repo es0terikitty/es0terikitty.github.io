@@ -36,9 +36,6 @@ matter yourself.”
 “I-I know that!” His face went red as he regained his composure.
 Perfect, Elinalise. I knew I could count on you. But can you save
 the bedroom stuff for later? We’re kind of busy right now.
-
-Page | 177
-
 “Master Cliff. If we used the same technique that was used for
 the doll, do you think it would solve Silent’s problem with her
 circle?”
@@ -65,9 +62,6 @@ those of Christianity’s. Monogamy, no adultery, etc. etc. Very
 austere.
 “If you say so.” Nanahoshi just drifted unstably and took a seat.
 Then she slumped back in her chair.
-
-Page | 178
-
 “Master Cliff, Zanoba, let’s just talk about what we came up
 with yesterday.”
 Nanahoshi listened with disinterest as I showed her a version of
@@ -98,9 +92,6 @@ changed for the better and he, of course, still can’t read it.
 “Then how about this? What should I do here? I’ve been unsure
 about this part for a while.”
 “Uh, hold on a sec.”
-
-Page | 179
-
 Cliff and Nanahoshi…were working well together. They stood
 shoulder to shoulder, jotting things down on a sheet of paper. I
 glanced at their work, but it just looked like a child’s scribbles to me.
@@ -128,8 +119,6 @@ creating a magic circle that looked as if it were made of cardboard.
 “Now then, let’s begin.”
 As Cliff and Zanoba looked on I began pouring my mana into the
 circle.
-Page | 180
-
 The circle began to emit a vibrant light that illuminated the
 room like it was noon. As the mana flowed from me, something
 gradually began to take shape in its middle. Once the light dissipated,
@@ -158,13 +147,7 @@ two or three of the layers, I can most likely …”
 Nanahoshi suddenly snapped back to reality. She averted her
 eyes, looking a bit awkward. “Sorry. F-for causing you so much
 trouble.”
-
-Page | 181
-
 ![Illustration](illustration-182.jpg)
-
-Page | 182
-
 “It’s give and take, right? Next time I’m in a bind, lend me a
 hand, okay?”
 “I-I’d already planned on that.”
@@ -193,8 +176,6 @@ with my own research next time!”
 Elinalise giggled.
 And so our group headed to the pub that afternoon. For some
 reason, Linia and Pursena joined us as we were making our way
-Page | 183
-
 through the school building, saying things like, “We don’t want to be
 left out,” and “Take us along too, mew.” How in the world had they
 managed to sniff us out?
@@ -226,8 +207,6 @@ vampire from a popular manga series.
 Acting as if it were the most natural thing in the world, Badigadi
 planted himself at the biggest table in the pub. There he demanded,
 “Bring all the food you have on your menu!”
-Page | 184
-
 Once in my life, I wanted to try using that line myself. Since I
 wasn’t the one paying, I was fine with him ordering whatever he
 wanted, but were the twelve of us really going to be able to eat all
@@ -255,8 +234,6 @@ those people felt. Sometimes, I thought, you just needed to let loose
 and have fun.
 My belief in that felt especially justified as I looked at
 Nanahoshi, who was stroking Linia’s ears as she sang anime theme
-Page | 185
-
 songs in Japanese. If you didn’t occasionally cut loose and forget
 your troubles, you wouldn’t be able to go on. Life was full of pain,
 after all. If you didn’t try to find the good where you could, you’d
@@ -286,9 +263,6 @@ me?
 “Yes, yes, I’m going to hug your hips tight.”
 “Hee hee. I’m so happy.” The way she laughed sounded so
 naughty somehow. Ahh, just thinking about going home with her and
-
-Page | 186
-
 making love to her made me feel like I understood why the world
 was so full of love songs.
 “Rudy, um, you know what, lately, well, I’ve been feeling
@@ -319,8 +293,6 @@ you’re going to make out.”
 some fun together.”
 “Besides, I’ve been wanting to say this to you for a while now.
 Even from inside my room—smooch smooch, creak creak. What the
-Page | 187
-
 hell is marriage anyway? Huh? What is it? I mean it’s fine, whatever.
 But what the hell? There I was, totally down in the dumps, and you
 two were having sex. I could even hear your voices echo at night,
@@ -350,9 +322,6 @@ All that aside, it was a familiar song. I couldn’t quite place where
 it came from…ah, that’s what it was. “Gandhara,” the ending theme
 to the TV series Monkey. That definitely wasn’t something I’d expect
 her generation to know. Then again, it was pretty famous, though.
-
-Page | 188
-
 That said, she sucked. Badly. Horribly. Maybe it was because she
 wasn’t syncing with the accompaniment. Nah, they both sucked and
 that was why they couldn’t even sync up with one another.
@@ -380,8 +349,6 @@ change once we got home.
 “Hm?” Now that she mentioned it…
 I strained my ears. I could hear the sound of someone banging
 on something, and voices arguing. Sounded almost like when cats
-Page | 189
-
 fought. As we approached our house, we saw a group standing at the
 door, noisily banging on it. From afar, all I could see were their
 silhouettes. Some neighborhood brats, maybe, or thieves of some
@@ -412,8 +379,6 @@ after that would be stupid!”
 Screeching voices. Children’s voices, ones that sounded a bit
 familiar to me. And in the midst of their exchange, I heard names
 that I knew. Then finally…
-Page | 190
-
 “Both of you, calm down. This is definitely the place. There’s a
 familiar presence here.” A composed man’s voice. The instant I heard
 it, a whirlpool of indescribable emotion rose within me.
@@ -444,8 +409,6 @@ seen him last, three years ago.
 “It has been a while, Mister Ruijerd.”
 I was hit with a wave of nostalgia, remembering the days we
 traveled together, just the three of us. How we met, how we parted.
-Page | 191
-
 What I should say? While I was searching for words, Ruijerd suddenly
 looked behind me. “I heard at the Adventurers’ Guild that you’d
 gotten married, but…I see it wasn’t to Eris.”
@@ -456,9 +419,6 @@ don’t we invite them inside?”
 gestured them in.
 It had barely been a month since the letter arrived. They were
 here much, much earlier than I’d expected.
-
-Page | 192
-
 Chapter 12:
 Nostalgia and Frustration
 
@@ -492,9 +452,6 @@ Aisha and Norn’s bodyguards for life, if that were possible.
 At any rate, it had been a long time since the two of us had
 talked. What had we even talked about, back then? Ruijerd was
 quiet, not the kind who went in for small talk.
-
-Page | 193
-
 “By the way, what happened to Eris?” Ruijerd asked, bluntly. It
 was a question I didn’t really want to answer, but he deserved to
 know.
@@ -524,8 +481,6 @@ keep a cool head and talk to her about it.”
 Had I gotten it all wrong? When she said we weren’t wellbalanced, did she just mean that she wasn’t at my level? Had she left
 to get stronger, so she could achieve that balance and then return?
 In which case, maybe her meaning had been, Wait for me.
-Page | 194
-
 Even so, it was too late to be told that now. No matter what
 she’d meant, I’d still spent three years suffering. Three years in which
 I hadn’t heard a peep from her. The person who finally saved me was
@@ -556,5 +511,3 @@ along the coast and arrived at East Port. He’d planned to catch up on
 the information coming out of Millis there, then head north to search
 the Conflict Zone. However, as luck would have it, he ran into Paul.
 After that, everything happened just as Paul had written in his letter.
-
-Page | 195

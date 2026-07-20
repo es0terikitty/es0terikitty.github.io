@@ -36,9 +36,6 @@ remembering what they said.”
 “Whoa, seriously? Didn’t know you were even interested!”
 “Ya never really flirted back, so we figured we weren’t your
 type.”
-
-Page | 174
-
 The two of them seemed surprised, but also more than a little
 amused.
 Of course, sleeping with them would have meant cheating on
@@ -69,8 +66,6 @@ probably a first for us, actually. Some people like to say it’s
 impossible for men and women to really be friends, but that isn’t
 true. You can be friends with someone you’re attracted to; it’s a just
 a matter of setting the right boundaries.
-Page | 175
-
 “Let’s meet again someday, all right?” I said. “Even if it’s ten or
 twenty years from now.”
 “Sounds good, Boss. We’ll both be big shots ten years from now,
@@ -100,8 +95,6 @@ Nanahoshi looked up from her desk as I stepped into the room.
 Nanahoshi’s expression turned suspicious. I spent a few seconds
 debating how to begin, before deciding that it didn’t really matter.
 Best to get straight to the point.
-Page | 176
-
 “I’m going on a lengthy journey. My parents are in danger, and I
 need to help them. They’re in the Labyrinth City of Rapan in the
 Begaritt Continent. It’s going to be about two years before I’m back.”
@@ -132,8 +125,6 @@ There wasn’t much else I could say here. Nanahoshi knew I’d
 been helping her out of the goodness of my heart. She probably
 wanted to change my mind about leaving but was choosing to bite
 her tongue.
-Page | 177
-
 I turned around to leave…
 “Hold on just a minute,” she said.
 And then I stopped in my tracks.
@@ -163,20 +154,12 @@ Once again, I peered at the map. At the characters B3
 specifically. Could that mean—
 “That right there is a teleporter that will take you to the Begaritt
 Continent.”
-Page | 178
-
 “Wha—”
 Come to think of it…Nanahoshi had mentioned something like
 this once, when she was telling me about her travels with Orsted.
 Something about how he used teleportation circles to jump all
 around the world…
-
-Page | 179
-
 ![Illustration](illustration-180.jpg)
-
-Page | 180
-
 “But you said…you didn’t remember where they were!”
 I remembered that part clearly. She’d told me she had no idea
 where to find them.
@@ -208,8 +191,6 @@ remember where it is too. There’s a place called Bazaar close to this
 teleporter, and Rapan is about a month’s journey to the north from
 there. I’m positive.”
 “It’s that close?”
-Page | 181
-
 I flipped back to the page Nanahoshi had shown me first. It
 covered the area from the city of Sharia to the southwestern forest.
 The scale was a bit unclear, but it looked like a journey of ten days or
@@ -240,9 +221,6 @@ was for sure.
 “I just want you to get back here as quickly as possible, that’s
 all,” she said with a dismissive snort. The girl really was pure
 tsundere.
-
-Page | 182
-
 Carefully closing the journal, I lowered my head to her in
 gratitude, then turned to leave.
 “Oh, I almost forgot,” she called. “On the first page, I sketched
@@ -272,8 +250,6 @@ It did occur to me that she’d make a pretty sexy figurine, though.
 Cliff was sitting slumped in a corner of the room, looking a bit
 like an Egyptian mummy. There was a big smile on his face, but he
 was obviously passed out. He actually looked more like a
-Page | 183
-
 masterpiece than his girlfriend. What would you title a statue like
 this? Blissful Demise?
 “I can’t bear to be parted from Cliff for two whole years!”
@@ -303,8 +279,6 @@ I showed Elinalise the journal and gave her a quick explanation,
 making sure to emphasize that Nanahoshi had sworn us to secrecy.
 She flipped through it a few times, unable to hide her astonishment.
 “Can we really make it there that quickly…?”
-Page | 184
-
 “That’s right. If we do it this way, I might even make it back in
 time to see my child born.”
 “…This could work.”
@@ -334,8 +308,6 @@ someone like Ruijerd. He was both a powerful fighter and as tightlipped as they 
 thousands of years, so it was very possible he already knew about
 the teleportation circles. And he seemed to be familiar with Orsted,
 so it would be easy to explain the situation to him.
-Page | 185
-
 Unfortunately, I hadn’t seen either of those two in some time.
 No one else came to mind as a likely candidate. Zanoba might be
 strong in a brawl, but he definitely wasn’t a seasoned traveler.
@@ -365,8 +337,6 @@ here.”
 promised not to,” I said.
 “You’re not breaking your promise, Rudy. This isn’t sudden, and
 you aren’t disappearing.” Sylphie smiled at me, but it looked forced.
-Page | 186
-
 No matter what she said, she was obviously struggling with this. It
 made my heart hurt just to look at her. “Uhm, how long do you think
 you’ll be gone? About two years, right?”
@@ -396,8 +366,6 @@ nearby. “Aisha.”
 Her expression was even more uncertain than Sylphie’s at the
 moment.
 “Can I leave things here to you?”
-Page | 187
-
 “I…think so. Mom taught me all about caring for pregnant
 women.”
 “If it gets to be too much for you, get help from anyone you can.
@@ -427,8 +395,6 @@ might happen. It couldn’t hurt to get this settled beforehand.
 What sort of a name would be best? People tended to like
 cringe-inducingly “cool” names here, so…hmm. If it was a girl, maybe
 Ciel or Sion… If it was a boy, maybe Nero or Wallachia…
-Page | 188
-
 Nah, this wasn’t a video game.
 Our names were Rudeus and Sylphie, so we could sort of
 combine parts of them. Maybe something like Sirius if it was a boy,
@@ -459,8 +425,6 @@ went on to become a magnificent magician in his own right.
 That was how the tale went, at least. I’d also heard a version
 where the kid actually turned out to be a good-for-nothing nobody.
 At any rate, the story was so well-known that everyone now thought
-Page | 189
-
 naming an unborn child before setting off on a journey would bring
 terrible disaster. It wasn’t like that decision had actually caused
 Feroze’s death, of course, but people can be superstitious about
@@ -490,9 +454,6 @@ seemed more common here.
 Hm? Wait a second, though.
 What if it was a girl, and I never made it back? Would she be
 stuck with Rudeus Junior forever? What if she got picked on? What if
-
-Page | 190
-
 she turned into a furious little monster who had to beat everyone
 senseless to defend her stupid name?!
 I tried to convince myself that was unlikely. The world didn’t
@@ -523,8 +484,6 @@ Well, it couldn’t hurt to indulge her just this once. This was a
 special occasion.
 I kissed Sylphie deeply—and listened to my little sister squealing
 softly in delight.
-Page | 191
-
 Chapter 9:
 To Begaritt
 
@@ -561,4 +520,3 @@ After arriving in Rapan, we’d rescue my mother as quickly as
 possible, then return home by the same route. It would mean telling
 more people about the teleportation circles, but we didn’t have
 much choice. I couldn’t tell my parents to take the long way back.
-Page | 192

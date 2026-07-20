@@ -42,8 +42,6 @@ avoids settling down with any one specific man, preferring to get by
 on a steady diet of one-night stands and casual flings.
 She says she’s given birth to multiple children as well…although
 she’s never told me much about where they are now. To be honest, I
-Page | 30
-
 used to wonder if she just abandoned them by the roadside or sold
 them off to slave traders. But she later explained that she raises
 them herself until they’re ready to be independent, whatever that
@@ -74,9 +72,6 @@ calling her a slut who’d put out for anyone who asked, and
 encouraging each other to take a turn. Cliff overheard this and got
 very upset. He chastised the older men for speaking ill of someone
 they didn’t know based on nothing but rumors. Of course, those men
-
-Page | 31
-
 probably had it on pretty good authority that Elinalise slept around,
 but Cliff has no way of knowing that.
 All six of them were upperclassmen with some muscle on their
@@ -108,8 +103,6 @@ with lots of false bravado are “just adorable.” She also loves
 watching how they learn new things and grow over time.
 I guess I can understand the appeal. I played plenty of porn
 games with a “training” theme back in the day. Not to jump to any
-Page | 32
-
 assumptions, but Cliff is almost certainly a virgin. Elinalise would
 probably be all too happy to pull him into bed.
 What about Cliff, though?
@@ -136,9 +129,6 @@ turned to my trusty friend Fitz.
 “What?!” Fitz spun around and leaned over the table. There was
 something like a grimace on his face. “A-Are you in love with
 someone, Rudeus?!”
-
-Page | 33
-
 I was a little surprised by how interested he was. Despite his
 large, dark sunglasses, I felt like I could see his eyes gleaming with
 curiosity. Maybe it wasn’t that strange, though. Most people Fitz’s
@@ -168,9 +158,6 @@ sunglasses. “Does your friend know about this woman’s issues?”
 …Hm? Did I say it was a woman? Maybe the Princess Ariel thing
 had just gotten Fitz thinking along those lines? It didn’t really matter,
 since Elinalise really was a woman, but…
-
-Page | 34
-
 Wait, did he still think this was about me? “Sorry to repeat
 myself, but the friend in this story isn’t me. I’m only saying this
 because I trust you, but it’s Cliff from the special class.”
@@ -201,8 +188,6 @@ course, Elinalise was apparently amazing in bed, so I wouldn’t turn
 down a night of fun with her… but starting a serious relationship with
 her wasn’t too appealing. For one thing, I had the feeling she’d cheat
 on me within a day or two.
-Page | 35
-
 “I see. But that might just be you, Rudeus. Cliff might end up
 loving her, warts and all.”
 That seemed a bit unlikely. A guy who fantasized about marrying
@@ -232,9 +217,6 @@ the rest’s up to them.”
 Ooh. That was true enough. After I set up the initial meeting, it
 was up to them what happened next. In other words, I could wash
 my hands of the whole thing. If I could make that very clear
-
-Page | 36
-
 beforehand, so much the better. “Okay then. I’ll try working out
 something along those lines. Thanks for the advice, Master Fitz.”
 “Y-You’re welcome… I’m always happy to help…”
@@ -261,9 +243,6 @@ That’s not because I’m trying to deceive you or anything. I just think
 you should meet her in person, talk to her, and then decide that for
 yourself.”
 “What do you mean?”
-
-Page | 37
-
 “Basically, I don’t want this to become an issue down the road.
 Don’t come complaining to me later acting like I misled you or tried
 to trick you, okay?” Hopefully, this would offer me some insurance if
@@ -292,9 +271,6 @@ impatiently for the sun to finish setting. Once night fell, the bars out
 in town would open their doors. And inside those bars, she’d find
 lots of men ready and willing to have some fun. That was the only
 sort of thing she ever thought about. Still, from the perspective of
-
-Page | 38
-
 someone who didn’t know any better, I guess she would have looked
 a lot like an angel.
 “Oh. Hello there, Rudeus. Did you actually come to see me for
@@ -324,9 +300,6 @@ aback. After a long moment, she slowly straightened up, took me by
 the arm, and pulled me over to one side of the classroom.
 “All right, Rudeus,” she whispered in my ear. “How much do you
 want?”
-
-Page | 39
-
 It took a few seconds for me to process what she meant by this.
 Did she think I was going to charge her for bringing her a new boytoy? Ugh. Now I just felt gross. “I don’t want any money.”
 “What is this, then? What do you want?”
@@ -356,8 +329,6 @@ before, hadn’t she? She put more thought into this than I’d given her
 credit for. It sounded like Cliff was probably going to leave
 disappointed.
 “That’s a shame. Go ahead and turn him down, then.”
-Page | 40
-
 “Are you sure? Isn’t he going to resent you if I do?”
 “It’s fine.” It’s not like I had to worry about my reputation so
 much anymore. If he went right back to hating me, I could live with
@@ -384,9 +355,6 @@ The gratitude in his voice made my chest ache.
 A week later, I showed up at my monthly homeroom to find a
 certain couple engaging in a brazenly public display of affection. A
 tall woman sat on her boyfriend’s lap, gazing lovingly into his eyes.
-
-Page | 41
-
 “Combined magic isn’t too hard once you’ve memorized all the
 fundamental physical phenomena. Even if you can’t use two schools
 of magic yet, you can imitate the effects of one by taking advantage
@@ -416,9 +384,6 @@ marry me!”
 “Oh, you should have seen him in the inn that night, too. So
 innocent, so eager… Oh no, I’m getting horny just remembering it…”
 “Come on, seriously… W-We’re in public, Elinalise…”
-
-Page | 42
-
 Cliff’s face was bright red. For all his protestations, he didn’t
 seem to be particularly upset.
 Well, congrats on losing your virginity, I guess. This was all mildly
@@ -448,9 +413,6 @@ the classroom’ guy? I felt like he should rethink that one. Elinalise
 was saying all the right things, but I couldn’t help feeling like she was
 keeping him around as a convenient backup snack. Had love left the
 poor guy blind or what?
-
-Page | 43
-
 I sucked in a breath, about to speak my mind, but forced myself
 to stop. I’d agreed to introduce them on the condition that nobody
 got to complain about the outcome. It would be ridiculous for me to
@@ -481,9 +443,6 @@ man had promised to devote his life to her, and to helping her
 escape her curse. If someone just threw a fastball like that at you out
 of nowhere… might it actually work? Would you really fall in love
 with them, just like that?
-
-Page | 44
-
 I could see that line hitting hard, at least. This curse had afflicted
 Elinalise for many, many years. There was no telling if Cliff could
 really lift it, but he’d promised to do his best to make that happen.
@@ -514,8 +473,6 @@ something…?” asked Linia, her voice hesitant and nervous.
 you tied us up, and stripped us down, but didn’t even mate with us,
 you know? Mew… We were saying that your sausage probs don’t
 even work right.”
-Page | 45
-
 Little jerks. I oughta teach them both a lesson…
 When I glanced over at Pursena, she averted her eyes
 immediately. “W-We weren’t making fun of you or nothing, Boss. It’s
@@ -544,9 +501,6 @@ cheerfully, thumping me on the shoulder. “We have our figurines!
 Let us live for their sake!”
 Julie tilted her head uncertainly. “Master, what does impa-tent
 mean?”
-
-Page | 46
-
 “Well, I suppose it means that you can’t perform the role
 expected of a man… but it’s hardly important. It has no relevance to
 the creation of figurines.”
@@ -575,14 +529,9 @@ sleep around. And I was positive that Cliff wouldn’t be able to put up
 with that for long. It was all good for now, but the relationship was
 obviously going to fall apart eventually.
 Not that I was going to say so, of course.
-
-Page | 47
-
 On a different note, the other special students were now aware
 of my condition. The conversation had been extremely awkward, but
 at least they’d offered me their cooperation.
 Maybe I’d taken my first actual step forward here. Maybe. I just
 really wanted to get this thing taken care of so I could swap spit with
 someone, too.
-
-Page | 48

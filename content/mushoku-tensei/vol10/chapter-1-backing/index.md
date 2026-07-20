@@ -37,9 +37,6 @@ As usual, Nanahoshi was nowhere to be seen.
 Zanoba and Julie greeted me as soon as they saw me. It hit me
 then that Julie was pretty cute. She would be seven this year—still
 just a child, but already cute, with her orange hair that curled
-
-Page | 11
-
 outward at the ends. I patted her head. She looked at me in surprise,
 but immediately lowered her gaze and trembled.
 It seemed she was still afraid of me. It wasn’t like I was going to
@@ -70,8 +67,6 @@ They covered their noses when I approached. Huh? That was
 kind of a shock. It was probably that scent they were always talking
 about—the scent of arousal. I was finally back in business after
 several long years, so the smell was probably intense.
-Page | 12
-
 “What should we do?” Pursena asked. “Looks like the Boss can’t
 control himself anymore.”
 “I thought he wasn’t working down there, mew?”
@@ -102,8 +97,6 @@ changed men. Though it wasn’t like this was my first time. “Different
 in what way?” I asked.
 “Almost like…you’re overflowing with confidence? That’s how it
 seems, I guess?”
-Page | 13
-
 I glanced at Zanoba, who nodded in agreement. Confidence,
 huh? Come to think of it, the Man-God had said something about
 reclaiming my confidence as a man. So this was what he was
@@ -130,9 +123,6 @@ chastity of all female students is in peril now, mew.”
 pregnant.” Linia and Pursena were making obscene claims.
 “How rude. I’m a gentleman.” And I wasn’t going to put my
 hands on anyone other than Sylphie, thank you very much.
-
-Page | 14
-
 Once homeroom was over, I headed to the staff room to sign up
 for supplementary lessons. I wanted to make up for the time I took
 off for our trip the other day. There was a chill in the air as I entered.
@@ -164,8 +154,6 @@ stay until graduation, but I wondered what she had planned after
 that. If she meant to return to the Asura Kingdom, would it be right
 for me to accompany them? Now that my illness was cured, I felt like
 I should touch base with Paul before I went running off across the
-Page | 15
-
 land. I’d been periodically sending him letters since enrolling here. I
 had no way of knowing if any had made it to him, but if even one
 had, and he responded, I’d miss his reply if I left the university.
@@ -192,8 +180,6 @@ In our previous world, she had been seventeen and I’d been
 thirty-four. That made me twice her age. She’d also come to this
 world ten years after I did, so our cumulative ages were even further
 apart now.
-Page | 16
-
 There was nothing I could do about it. It really was just a
 generation gap. As for not knowing Sailor Moon, that might just be a
 given, considering the show’s airdates on television. Still, it took me
@@ -225,8 +211,6 @@ apologize or continue their fight, she still had to go home.
 In fact, now that I thought about it, there was a high possibility
 that those other two had been transported here as well. But I’d
 heard no rumors of people like that outside of Nanahoshi, so it was
-Page | 17
-
 equally possible they hadn’t. Then again, the likelihood of survival
 after being thrown into this world all alone and mana-less would be…
 No, I shouldn’t say that. Perhaps Nanahoshi had already made those
@@ -253,9 +237,6 @@ was my bad.
 “E-enter!”
 At Luke’s slightly flustered command, I opened the door and
 strode in.
-
-Page | 18
-
 Princess Ariel sat atop an expensive-looking chair, her beautiful
 blonde hair braided behind her head. Although she was obviously
 gorgeous, her body was quite average for her age. She had the same
@@ -278,13 +259,7 @@ embarrassing Sylphie, however, so I remained kneeling. It would be
 wise to remain humble in front of my partner’s boss.
 “So, what brings someone as widely renowned throughout this
 school as you, Master Rudeus, before me today?”
-
-Page | 19
-
 ![Illustration](illustration-20.jpg)
-
-Page | 20
-
 I could feel my brain tingling as I listened to her voice. It was
 pleasant. This was what people called charisma, wasn’t it? Or
 perhaps she was a Blessed Child as well. I could easily believe there
@@ -316,8 +291,6 @@ around?”
 than that, not particularly.”
 Something about this conversation wasn’t right. Ah, wait! Had
 they assumed I hated the Boreas family? That wasn’t the case at all.
-Page | 21
-
 They’d treated me very well, and I owed them a debt of gratitude.
 Well, Eris had abandoned me, but that was a different issue.
 “Although…Master Luke seems to dislike me,” I added.
@@ -347,9 +320,6 @@ lunch when I arrived.
 “Please be quiet, both of you,” the Princess said.
 Sylphie and Luke went silent. I got the sense this was a familiar
 sort of exchange for them both.
-
-Page | 22
-
 “Rudeus Greyrat. It would comfort me greatly to know that we
 can count on your aid.”
 “I’m glad to hear it,” I said.
@@ -380,8 +350,6 @@ had assured me wasn’t in danger.
 talking about. I’d just told her what I was going to do, hadn’t I? Did
 we somehow go back in time? Was this a new Stand user?! “What do
 you mean?”
-Page | 23
-
 “Don’t tell me that now that your impotence has been cured,
 you’re just going to bid Sylphie goodbye and leave to find your
 father?”
@@ -411,4 +379,3 @@ This was fast, of course. I’d only recently realized that Master
 Fitz was actually Sylphie. Part of me felt like we should date for
 several months, get to know each other better first. Also, if we got
 married, I couldn’t take off at a moment’s notice even if I got an
-Page | 24

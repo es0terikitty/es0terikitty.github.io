@@ -34,17 +34,12 @@ together, and the three of us ate dinner. Then we practiced magic in
 the living room and talked about our days.
 After Aisha went to bed, I worked on the baby-making project
 with Sylphie, then fell into a sound sleep with my wife as my body
-Page | 137
-
 pillow. Each day went much like the one before it, but I still felt like I
 was making steady progress toward my goals.
 Maybe this was what happiness felt like?
 It wasn’t something I’d gotten much of in my first try at life. But
 assuming Paul made it back safe and sound in a year or so, things
 should only get better from here.
-
-Page | 138
-
 Chapter 7:
 The Third Turning Point
 
@@ -79,9 +74,6 @@ It’s actually…been two months now. Since my last, uh, you know…”
 Her last…? Oh. Oh, wow.
 “And, well, I haven’t been feeling so well lately, and I was
 starting to wonder.”
-
-Page | 139
-
 I couldn’t help myself from staring at Sylphie’s stomach. It didn’t
 look any different at the moment. Was this really happening?
 “So I went with Aisha to the neighborhood doctor, and…they
@@ -111,8 +103,6 @@ touch and surprisingly soft. The same as always, in other words. But
 when I focused closely, I felt like I could feel a slight hint of a bump.
 That was probably just my imagination, right? The kid wouldn’t
 be that big yet.
-Page | 140
-
 “Right… Our kid’s in here…”
 When I spoke those words out loud, I felt a sudden surge of
 emotion building up inside me. What was this feeling? I had to
@@ -141,9 +131,6 @@ Maybe. Maybe he was that stupid.
 beautiful girl pregnant. Me, of all people.
 The more I thought about it, the more my emotions threatened
 to overwhelm me. I was actually starting to tear up.
-
-Page | 141
-
 “I’m sorry… I don’t, uh…think I know what to say. Sorry,
 Sylphie…”
 “Oof! Uhm, Rudy?”
@@ -154,13 +141,7 @@ her belly. I needed to be very, very gentle with her.
 “Hehehe. You did want children pretty badly, didn’t you?”
 My wife wrapped her arms around me as well, and started to
 pat me on the back.
-
-Page | 142
-
 ![Illustration](illustration-143.jpg)
-
-Page | 143
-
 I gave her one more gentle squeeze, then finally released her.
 Stepping back, I stared down into her eyes. I could see my face
 reflected in them, and it wasn’t a pretty sight. I had tears running
@@ -189,9 +170,6 @@ She pouted a little at that. It was nice of her to offer and all, but
 even putting all the moral issues aside, I just wasn’t attracted to her.
 That suited me fine, anyway. The last thing I needed was to destroy
 my marriage by messing with the maid.
-
-Page | 144
-
 “Well, then, brother dear, I’m going to go inform Princess Ariel
 of this development. I expect Miss Sylphie will need to put her work
 on hold for some time, after all.”
@@ -220,8 +198,6 @@ that didn’t make much sense.
 “Yes, Rudy?”
 “I know this might be tough, but…we’ll do it together.”
 “Well, I think I’ll be doing most of the work.”
-Page | 145
-
 Laughing softly, Sylphie laid down on the couch and put her
 head in my lap. I used my free hand to stroke her head and rub
 behind her ears.
@@ -251,8 +227,6 @@ either way.
 Just like in my old world, having children was a major reason
 why people got married here. Sylphie had probably been a little
 anxious about that part of things, since it was harder for her people
-Page | 146
-
 to get pregnant. Not that I would have left her over something like
 that, of course.
 “Anyway, I guess this is going to be kind of rough on you too,
@@ -281,8 +255,6 @@ That got Norn smiling as well. She didn’t seem to mind being
 petted as much as you might think. Maybe she actually enjoyed it,
 coming from the right person. In any case, it was nice to see the two
 of them getting along so well.
-Page | 147
-
 “Everyone wanted to come by and congratulate you, but I
 convinced them to postpone their visits for a few days,” said Aisha in
 a calm tone of voice. She’d apparently assumed I would want to keep
@@ -313,9 +285,6 @@ Miss Pursena indicated they’d wander by sometime, but I don’t have
 any details as to when that might be. Miss Nanahoshi offered a brief
 message of congratulations to you both. I wasn’t able to find Lord
 Badigadi, but I left a message for him.”
-
-Page | 148
-
 Aisha had rattled off the whole list of our friends quickly and
 efficiently, in a steady tone of voice. It was like we had a personal
 secretary or something. The girl was definitely good at her job.
@@ -344,9 +313,6 @@ overjoyed,” I said. “He was really sweet when you two were born
 too.”
 Aisha and Norn both looked a little nonplussed for a moment.
 Neither of them had any memory of those days, of course.
-
-Page | 149
-
 “Well, anyway! I’m really looking forward to it, Rudeus!” Norn
 announced. Those unusually cheerful words put a smile on
 everyone’s face.
@@ -371,9 +337,6 @@ What the hell is going on?
 “What are you talking about?”
 That letter. The one from Geese. He said the rescue isn’t going
 well. What’s the deal?
-
-Page | 150
-
 “Well, I expect it means the rescue isn’t going well. What do you
 want from me?”
 But that’s not what you told me! You said I’d regret it if I went
@@ -404,9 +367,6 @@ am I going to end up regretting? I can’t make this decision unless I
 know the risks and rewards!
 “Most people have to make their decisions blind, you know.
 You’re awfully demanding.”
-
-Page | 151
-
 I don’t care if I’m being unreasonable. I don’t want to regret
 my choices.
 “Well, if you actually think it through, a few of the consequences
@@ -437,9 +397,6 @@ Yeah, sure. Can’t hurt, I guess.
 comes around. Linia and Pursena will pursue you aggressively.
 Choose one of them and begin a relationship with her. This will bring
 you greater happiness in the end.”
-
-Page | 152
-
 What the hell?! You’re telling me to cheat on my wife now?!
 I’m happy with Sylphie! And those two are just good friends, damn it!
 His last words echoing dramatically in the air, the Man-God
@@ -467,8 +424,6 @@ seemed likely Geese had found Zenith on his own.
 The letter was written six months ago. It was possible he’d been
 alone and feeling helpless at the time but had met up with Paul and
 the others since then. Maybe he’d even sent a similar letter to Paul.
-Page | 153
-
 They might have joined forces and rescued my mother a couple
 weeks later.
 All of these were just possibilities, of course. I had absolutely no
@@ -499,8 +454,6 @@ for her just to get up and down the stairs. And there was a chance I
 might die on this journey. I might never come back to her.
 She’d fought down that fear to speak those words.
 “…I’m not going anywhere. I’ll stay with you, Sylphie,” I said.
-Page | 154
-
 When I said that, she smiled, though she still looked a little
 conflicted.
 The words of the Man-God continued to linger in my mind. No
@@ -530,8 +483,6 @@ when things might take a dangerous turn. That was the whole point
 of having bodyguards. But of course, that was Ariel’s decision to
 make, and Elinalise had basically volunteered herself as a goodwill
 gesture. I doubted the princess would object to her backing out.
-Page | 155
-
 “What about Cliff?”
 “I’ll have to leave him. He might hate me forever, but I don’t
 have much choice.”
@@ -559,9 +510,6 @@ Next, I turned to Zanoba for advice. His expression didn’t even
 change as I laid out the story.
 “I see,” he said calmly. “Well, I’m sure you’ll deal with this
 matter easily enough and be back before too long. I will remain here
-
-Page | 156
-
 and continue to pursue my research, but I do hope you’ll return as
 quickly as possible.”
 “I kind of thought you’d ask me not to go, Zanoba. Or demand
@@ -591,9 +539,6 @@ There was real conviction in Zanoba’s words. It made sense that
 royalty would have a different perspective on this sort of thing,
 though. Most kings probably didn’t rush to watch their concubines
 giving birth.
-
-Page | 157
-
 “I would of course prefer to have you at my side constantly,” he
 said, “but the choice is yours.”
 “You make some decent points, Zanoba. Thanks for the advice.”
@@ -622,9 +567,6 @@ On the other hand…I had to admit that I’d been putting off my
 responsibility to help Paul for a long time now. I’d put my own
 happiness first for years. Hell, I’d prioritized fixing my “performance”
 problems over the search for my mother.
-
-Page | 158
-
 Maybe this was a wake-up call. Maybe it was finally time for me
 to pay the piper.
 …I couldn’t make up my mind. Both options would cost me
@@ -654,4 +596,3 @@ Norn didn’t answer, so I repeated myself. “Where are you going,
 Norn?”
 Biting her lip, she finally looked me in the eye. “W-well… if
 you’re not going to help, Rudeus, I guess I have to go instead.”
-Page | 159

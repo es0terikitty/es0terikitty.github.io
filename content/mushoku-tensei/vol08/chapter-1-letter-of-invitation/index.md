@@ -41,9 +41,6 @@ my current body was keeping up well.
 No point in overthinking it. I should just be grateful I can train
 like this everyday, I told myself as I changed and headed out to start
 running.
-
-Page | 25
-
 Today was a holiday, so I’d set myself a slightly difficult course.
 First, I did a lap around the city. The compacted snow was slippery,
 raising the risk of slipping and twisting my leg; this would be
@@ -74,8 +71,6 @@ Once I finished my lap, I started practicing with the wooden
 sword I’d carried with me. I knew this wasn’t really necessary for a
 magician, but I still made it part of my daily routine. It seemed to be
 largely accepted that magicians were physically powerless, but that
-Page | 26
-
 didn’t sit right with me. I might not be a swordsman, but there were
 plenty of occasions when a bit of upper body strength came in
 handy, like when hauling my luggage. I could always entrust the duty
@@ -102,9 +97,6 @@ morning.”
 aah!”
 I was sure there was a guy inside that room, giving her youknow-what from behind. Opening a window for some fancy kinks
 when it was this cold outside… Lively, indeed.
-
-Page | 27
-
 “It’s freezing outside, so please be careful not to catch a cold.” I
 pulled my gaze away from her and went inside, heading toward my
 room.
@@ -136,9 +128,6 @@ let’s just stop there.
 It had been quite the shock. I’d been an absolute wreck. I’d
 pulled myself together with time, and tried again, to no avail. My
 useless friend had remained unusable. I still appreciated the sight of
-
-Page | 28
-
 an attractive woman, but no ripples went up and down my spinal
 cord, and my lower half remained silent. As time went on, I was
 overcome by a pervasive sense of loneliness and helplessness, and
@@ -168,9 +157,6 @@ your woman.”
 “No, it’s not what you think, Soldat. She is absolutely not my
 woman. Besides, you know that mine isn’t in working condition,
 right?”
-
-Page | 29
-
 “Oh, yeah, that’s right, uh… sorry, for rubbin’ salt in your
 wounds, then. I didn’t mean to start somethin’. Besides, you made
 me a lot of money not too long ago.”
@@ -201,8 +187,6 @@ entanglements that issued around other people’s crotches.
 “Of course.”
 “Hey, what’s that all about?” Based on his expression, Soldat
 had no idea what we were talking about.
-Page | 30
-
 Elinalise planted a kiss on his cheek and guided him down the
 stairs. “Nothing at all. Come, let’s go have something to eat.”
 What a cruel woman.
@@ -231,8 +215,6 @@ she first approached me, and I thought, oh? Has she fallen for me?
 Her prowess in the bedroom was clearly impressive, too, because
 almost all the men who spent a night with her were completely
 exhausted the next day.
-Page | 31
-
 That said, she didn’t ignore or condescend to other women. She
 played the part of an older sister to the younger girls, giving them
 relationship advice, teaching them how to draw men in, and
@@ -263,9 +245,6 @@ up.
 “Mister Soldat, you can’t do that. Rudeus is watching.”
 “Come on, can’t I? Just a little.”
 “My, my, such a naughty boy…”
-
-Page | 32
-
 Currently, she was getting all lovey-dovey with Soldat in front of
 me. Why were we even eating at the same table? I bet she just
 wanted to show off. Dammit, it’s not like I’m envious or anything!
@@ -290,9 +269,6 @@ a letter arrived for me. Written on the firmly sealed envelope were
 the words Ranoa University of Magic.
 What the heck is this? I thought to myself as I broke the seal and
 peeked at the contents.
-
-Page | 33
-
 To Lord Rudeus Greyrat,
 Greetings. I am Jenius, the Vice Principal of Ranoa University of
 Magic.
@@ -322,8 +298,6 @@ Jenius Halphas,
 Vice Principal of Ranoa University of Magic
 A special student… in other words, on scholarship? I knew that a
 Magicians’ Guild existed in this world, but had no idea what they did.
-Page | 34
-
 I did know, however, of a Thieves’ Guild that sold items on the black
 market and traded in slaves. Based on that, I assumed the Magicians’
 Guild was probably involved with the buying and selling of books on
@@ -355,8 +329,6 @@ seemed to deem it permissible.
 “I’m not going out to take on quests. I’ll be coming right back.”
 “A long time ago, Paul said the same thing before he went off to
 the Adventurers’ Guild to pick up girls.”
-Page | 35
-
 “He did, huh? Well, that does sound like him,” I acknowledged.
 “What does that have to do with me?”
 “If you’re going fishing to hook up, we’ll have better odds with
@@ -387,8 +359,6 @@ even make someone like Elinalise live in fear of her displeasure.
 “That’s not my fault,” I said.
 “Certainly true. But what’s wrong with picking up girls? All
 healthy young boys do it.”
-Page | 36
-
 “I’m not a healthy boy.”
 “My, my, that was well played.”
 And so, I somehow wound up taking Elinalise with me as I set off
@@ -415,9 +385,6 @@ extended the invitation several times now. According to him,
 offensive magic users who could also use Intermediate-tier healing
 magic were a rare commodity.
 “Hmph. I’m a lone wolf.”
-
-Page | 37
-
 “What are you trying to act all cool for? You’ve already got a
 party, don’t ya? With that woman over there.”
 I glanced back to see Elinalise picking up some young
@@ -448,8 +415,6 @@ classes as long as the University can list them as a student.”
 “How come?” I asked.
 “Simple. If those guys make a name for themselves in the future,
 it’s free advertising for the University, right?”
-Page | 38
-
 Or so he said. Scholarship students, huh? We’d had those at
 schools in my former life, though this seemed a little different.
 Exactly how did this special student status work? At any rate, if
@@ -480,9 +445,6 @@ aid if you were only F-ranked. The guidelines for advancing through
 the ranks weren’t as clear as the Adventurers’ Guild’s were, either,
 meaning that it was mostly rich people or skilled brown-nosers who
 quickly got promoted.
-
-Page | 39
-
 “Oh, yeah—Quagmire, you didn’t go to school, did ya?”
 “I had a private tutor.”
 “You must come from quite the wealthy household, then.”
@@ -512,9 +474,6 @@ feelings for Sara, so why couldn’t I forget Eris?
 No, just stop thinking about it, I told myself.
 “Well, anyway, since they went out of their way to welcome
 you, isn’t it worth going and seeing what they’ve got to offer?”
-
-Page | 40
-
 When Conrad said that, I remembered being Eris’s tutor. Back
 then, I’d thought I was doing it to save up for attending the
 University of Magic alongside Sylphie. Boy, that was a trip down
@@ -546,8 +505,6 @@ can go see them there,” she reasoned.
 “But they might continue living in Millishion instead, you
 know?”
 “It’s not the best place for a man with two wives to live.”
-Page | 41
-
 Monogamy was one of the teachings of the Millis faith, and the
 majority of the Holy Country of Millis’s citizens were followers of the
 faith. She had a point.
@@ -573,9 +530,6 @@ Yeah, I knew it. Man-God.
 “What’s that supposed to mean?”
 Nothing. Don’t worry about it.
 “I’m not. I’m used to you saying strange things, after all.”
-
-Page | 42
-
 Is that so? Well, it’s been a while since I had this dream, but I
 don’t feel as disgusted as usual.
 “You must’ve gotten used to it, right?”
@@ -605,9 +559,6 @@ are you trying to say?
 “Isn’t it important for you to hone your abilities right now? Go
 to the University of Magic, and you’ll learn so much that your time as
 an adventurer will pale in comparison.”
-
-Page | 43
-
 What the hell? You running a cram school or something?
 …wait. Is this what I think it is? Your usual advice?
 “Yeah, something like that.”
@@ -634,9 +585,6 @@ My words left only an echo as my consciousness faded.
 I opened my eyes to find Elinalise’s face right beside mine.
 Dumbfounded, I stared at her in amazement as I recalled the events
 of the previous night. In a rare turn of events, her manhunting had
-
-Page | 44
-
 ended in failure. When day turned to night, she said, “It’s too cold, I
 can’t sleep,” and slipped into bed with me.
 It was true that winter nights in the north were bitterly cold.
@@ -663,9 +611,6 @@ emptiness, a loneliness, and a sense of inferiority.
 Tears welled up in my eyes. “So… this will finally go away…”
 That was how I quietly came to my decision to attend the
 University.
-
-Page | 45
-
 Three months later, when the snow began to melt, I announced
 my departure to Soldat and his group. Although I considered myself a
 solo adventurer, I’d travelled often with the members of Stepped
@@ -695,13 +640,8 @@ panicked when I saw him and Elinalise together, nor would he be
 looking so awkward right now. “But, well, good for you. You’re finally
 gonna get that fixed, right?”
 “Nothing’s certain yet.”
-
-Page | 46
-
 “Ah, okay. Well, I’m sure our group will eventually have a reason
 to head out that way. When that happens, let’s go out for drinks and
 women again,” Soldat said with a grin, smacking on the back.
 Feeling grateful for that parting nudge, I set out for the Ranoa
 Kingdom.
-
-Page | 47

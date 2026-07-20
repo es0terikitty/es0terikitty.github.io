@@ -43,8 +43,6 @@ some pre-cut firewood just in case something like this happened. It
 was possible to keep a fire going using nothing but magic, of course,
 but it would be immediately extinguished if I had to turn my
 attention to some passing monster. That could be dangerous, since it
-Page | 213
-
 would deprive us of our main source of light, and I’d have to get a
 new one going afterward. It was smarter to just carry the basics with
 you.
@@ -75,9 +73,6 @@ off his outer coat, but was still wearing his cloak and everything
 underneath it. The guy was going to give himself hypothermia at this
 rate.
 “Shouldn’t, uh…”
-
-Page | 214
-
 Shouldn’t you take those off to dry? was the sentence I had in
 mind, but I cut myself short. Fitz might claim to be a young man, but I
 suspected he was actually a girl who was hiding her real identity.
@@ -109,8 +104,6 @@ was really odd. Did he have some way of changing his clothes
 without making any noise at all?
 Come to think of it, there had been a girl at my elementary
 school who could change into her swimsuit without taking her
-Page | 215
-
 clothes off first. That was a pretty cool trick. That school wasn’t
 equipped with actual changing rooms, so the boys and girls were
 forced to change clothes together in the classrooms. Those were
@@ -141,9 +134,6 @@ As I turned toward the entrance, Master Fitz called out to me.
 He stared at me for a moment, still trembling. And then, standing up
 on quivering legs, he slowly walked over and looked at my face.
 “……”
-
-Page | 216
-
 “…”
 He was just…looking at me. Like there was something he wanted
 to say. But what was it? What was he trying to tell me? “You’re, uh…
@@ -173,9 +163,6 @@ old one.
 “U-Uhm, Master Fitz…to be honest, I’m aware of the fact that
 you’re a woman.”
 “Okay. But if you don’t take my clothes off, I might die, right?”
-
-Page | 217
-
 “R-Right…”
 This did not compute. I couldn’t figure out her thought process
 here. She was obviously plotting something, though. Could this be
@@ -206,9 +193,6 @@ Somehow, even that felt weirdly familiar. I peeled off her white shirt,
 exposing the pale skin underneath. For a moment, I just stared at her
 delicate shoulders and her slender neck. She was thinner than I’d
 expected.
-
-Page | 218
-
 Seeing her up close…and touching her directly…was having an
 effect on me. Some invisible knight was lifting my “sword” steadily
 upward as part of some holy ceremony.
@@ -239,9 +223,6 @@ hand into a stove once and burned herself. I remembered wondering
 if that accident had anything to do with her struggle to learn Fire
 magic.
 “Rudy…”
-
-Page | 219
-
 Fitz wasn’t looking me in the eye anymore. Her gaze was turned
 slightly downward, at a different part of my body. The tent I’d
 pitched a few minutes earlier was still going strong. Fitz really was a
@@ -271,8 +252,6 @@ to, for one thing.
 “Is your real name… Sylphiette, by any chance?”
 “…Yes.”
 Fitz—or rather, Sylphie—smiled shyly and nodded.
-Page | 220
-
 “Yes… it is. I’m Sylphiette. Sylphiette… from Buena Village…”
 After only a few seconds, she was overcome with emotion, and
 her smile crumpled and disappeared. Before she broke down
@@ -302,8 +281,6 @@ to her.
 “I’ve always…”
 Sylphie knew what she wanted to say, though. She looked me
 right in the eyes and said her piece. “I’ve always loved you.”
-Page | 221
-
 All I could do was stare down at her in stupid, blank surprise.
 “I loved you so much back then, Rudy. And now I love you even
 more. Don’t leave me again… please? I want to stay with you
@@ -334,9 +311,6 @@ and I’d tried to get her into bed… but I felt like “love” wasn’t quite
 the right word for what I’d felt.
 Okay then. How about Fitz… or Sylphie, rather? What did I think
 of her?
-
-Page | 222
-
 To be honest, I wanted to take some time to think it over
 carefully. I wanted to double-check my own thoughts, and work out
 a clear, precise answer. But unless I gave her an answer right now…
@@ -367,9 +341,6 @@ But this wasn’t the time to be thinking about any of that. Right
 now, I just had to make sure I didn’t screw everything up again. “…Is
 this your first time, Sylphie?”
 “Huh? Uhm, yeah. It is. Is that a problem…?”
-
-Page | 223
-
 “Of course not.” Far from it, really
 Still…that did mean I had to be careful with her. If I messed this
 up, things might turn out just like last time. I didn’t want to feel that
@@ -398,9 +369,6 @@ turn of events as well, if not quite as devastated as me. There was an
 awkward little half-smile on her face.
 “It’s not your fault, Rudy. My breasts are pretty small, aren’t
 they? I know I’m not really sexy or anything…”
-
-Page | 224
-
 “Don’t be ridiculous, Sylphie. You’re beautiful. The thing is… it’s
 been like this with me for three years now, actually.”
 “R-Rudy…”
@@ -431,8 +399,6 @@ scraping by default for a while now. I tended to slip back into that
 mode automatically when I wasn’t thinking straight.
 “…Still, is it that weird for me to be a little formal with you? I
 mean, I’ve been calling you Master Fitz for months now.”
-Page | 225
-
 “Yeah, I guess… but when you talk like that, it kind of feels like
 you’re keeping people at a distance.”
 Really? This was the first I’d heard of it. Had Eris and Ruijerd felt
@@ -463,8 +429,6 @@ anyway… can I ask why you were crossdressing all this time, Sylphie?
 What happened to you after the Displacement Incident?”
 I wanted to know why she was Princess Ariel’s bodyguard, why
 she’d dyed her hair white, and why she was hiding her identity. I
-Page | 226
-
 didn’t know if it was okay for me to ask those questions, but it
 seemed worthwhile to try.
 “Oh, right. Uhm… where do I even start…?”
@@ -494,9 +458,6 @@ Somehow, her hair had lost its original color when she was
 teleported. And the people of the royal capital were so different
 from what she was used to in their outlook and ambitions that every
 day left her with a stomachache. She’d been forced to fend off
-
-Page | 227
-
 assassins sent to kill Ariel, as the members of the royal family and
 their supporters struggled for power.
 Eventually, they’d been driven from the capital and set off on a
@@ -527,9 +488,6 @@ worried about her, you really couldn’t blame her for hesitating,
 right? Yeah, you couldn’t. All sorts of circumstances had gotten in the
 way. And in the end, she’d opened up to me. That was what really
 counted.
-
-Page | 228
-
 I wrapped my arms around Sylphie’s shoulders and she leaned
 her head against me. Her body was still a little chilly. I decided to
 keep her pressed up against me until that improved.
@@ -561,8 +519,6 @@ read the signals coming from her more clearly. Did all those dumbass
 harem protagonists just need a Viagra prescription too? That would
 explain a lot, actually.
 “So I guess I ended walking right into your trap, huh?”
-Page | 229
-
 “Uhm, yeah. Sorry. I feel a little bad about tricking you like that.”
 “It’s fine. I don’t think it would have worked unless you took
 things that far.”
@@ -593,8 +549,6 @@ have you on her side… but you don’t want to get mixed up in Asuran
 politics, right? Don’t force yourself, Rudy.”
 Sylphie smiled shyly at me once again. Her cuteness really was
 amplified by a hundred when she didn’t have those giant sunglasses
-Page | 230
-
 on. For the second time today, I felt a surge of heat down in my
 groin. Unable to restrain myself, I leaned over and licked her ear.
 “Aah?!”
@@ -607,5 +561,3 @@ All thanks to Sylphie, of course.
 “Huh? For what…?” Sylphie tilted her head at me in confusion.
 We hadn’t made it all the way yet, but this was good enough for
 now. Rome wasn’t built in a day, right?
-
-Page | 231

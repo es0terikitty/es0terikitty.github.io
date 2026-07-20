@@ -35,9 +35,6 @@ that…but you had to keep feeding it mana, or it would crumble. If I
 tinkered with it a little, maybe I could create a simple igloo-style
 structure that would hold itself together. Then we could make a fire
 inside to warm ourselves up. Yeah, that seemed like a plan.
-
-Page | 215
-
 For tonight, though, we decided to just wrap ourselves up in our
 sleeping bags on the floor. I took some time to recharge Elinalise’s
 magical implement before turning in. This involved putting both my
@@ -66,9 +63,6 @@ And if I gave in to that kind of pressure, it might end up ruining
 our lives. I mean, what if she got pregnant? Cliff would hate me for
 the rest of my life, and Sylphie might never forgive me either. Not to
 mention what my little sisters might think.
-
-Page | 216
-
 I just couldn’t imagine a single good thing coming of me sleeping
 with Elinalise. If we really couldn’t stop ourselves, maybe I could at
 least convince her to stop at oral…
@@ -97,9 +91,6 @@ And wasn’t she supposedly really, really good in the sack, too…?
 “Hah…haah…”
 All of a sudden, my log had grown into a towering oak, and my
 thoughts were clouded with desire.
-
-Page | 217
-
 “Mm…”
 Elinalise wriggled around in her sleep. Her blanket slipped off,
 and I got a good look at her thighs and tight leather shorts.
@@ -130,8 +121,6 @@ Had Elinalise followed me outside? Looking around me, I
 spotted a very sexy woman standing not too far away.
 It was freezing cold out here, but she was dressed up like a
 dancing girl. Her clothes were skimpy enough that they’d probably
-Page | 218
-
 be transparent in the light of day. She had short curly hair, probably
 black in color. It was hard to make out her skin tone in the darkness,
 but her body shone palely against the inky sky.
@@ -161,8 +150,6 @@ shield and charging at the woman.
 “Keeeaaah!”
 The woman let out a high-pitched shriek, and her nails grew to
 an unnatural length. Her body itself was changing shape. Fully
-Page | 219
-
 formed wings burst from her back and she beat them fiercely, trying
 to lift off the ground.
 Elinalise was already on her. Swinging her shield sharply into the
@@ -190,9 +177,6 @@ Oh. Now that I looked more closely, her skin was actually bright
 blue. And her face wasn’t quite human either.
 She did have a really nice body, though. Before she died, at
 least. Maybe I could still cop a feel.
-
-Page | 220
-
 “Yes. This is the first one I’ve ever seen, but I’m positive,”
 Elinalise said. “I guess that foul stench they omit wasn’t just an urban
 legend.”
@@ -222,8 +206,6 @@ the sand, bright lights flashing before my eyes.
 That didn’t matter, though. I had more important things to
 worry about. Like having sex with Elinalise.
 “Haah… haah… Come on, babe. You won’t regret it, I promise…”
-Page | 221
-
 “Oh, good lord. Rudeus, use Detoxification magic on yourself.
 And keep using it until you count to ten.”
 “Detoxification magic? If I do that, will you let me screw you?”
@@ -252,9 +234,6 @@ careful next time.” Elinalise was already turning around to return to
 the ruins.
 Fidgeting awkwardly in embarrassment, I called out to her.
 “Uhm, Miss Elinalise… I’m very sorry about all that.”
-
-Page | 222
-
 Elinalise looked back at me suspiciously, but then grinned in
 amusement at the look on my face. “What was that line again? I’ve
 always dreamed about making love to a girl like you?”
@@ -283,9 +262,6 @@ feeling guilty about the way I’d treated her, but there wasn’t much I
 could do about it now.
 I needed to burn the Succubus’s body and bury its bones. Up
 close, it wasn’t quite as attractive—its features were kind of bat-like,
-
-Page | 223
-
 actually. I guess it looked human enough if you squinted, but I
 couldn’t understand why I’d been so turned on by it before.
 I could have sworn it looked like a beautiful girl at first. Maybe it
@@ -306,9 +282,6 @@ relieve myself before I go back in there.
 …keeping an eye out for Succubi, of course.
 It was only our first night on the Begaritt Continent, and this
 journey was already proving to be a real challenge.
-
-Page | 224
-
 Chapter 11:
 The Desert Ecosystem
 
@@ -344,8 +317,6 @@ for instance. We had to play this carefully.
 “Yeah, please do.”
 Nanahoshi’s map indicated that the nearest town lay in that
 direction, although it was rough at best.
-Page | 225
-
 Elinalise didn’t need a compass to orient us—a relatively wellknown elven ability. They never lost their sense of direction, even in
 forests so thick you couldn’t see the sun. With that ability, along with
 the skills she’d picked up over the years, I was confident she would
@@ -374,9 +345,6 @@ a few hours later, I found myself growing increasingly exhausted. The
 sun beating down on us was the main issue… That and the scorching
 winds that kept blowing in my face. I could tell my temperature was
 elevated, and I was starting to feel a little dizzy.
-
-Page | 226
-
 I was rehydrating as often as I could, but that sense of fatigue
 was still building fast. Maybe I ought to have summoned up a cloud
 or two above us after all.
@@ -405,9 +373,6 @@ about five degrees Celsius. It was still brutally hot, though. The sun
 was just too powerful; I had a thick hood on, but it still felt like the
 top of my head was on fire. Maybe we should have brought parasols
 or something.
-
-Page | 227
-
 For now, I supplemented my cooling spell by magically freezing
 the water inside one of my canteens and slipping it inside my
 clothing. I could just freeze it again when the ice melted.
@@ -437,8 +402,6 @@ Continent, wasn’t it?”
 “Yeah, I guess you’re right.”
 The monsters of the Begaritt Continent weren’t supposed to be
 comparable to those of the Demon Continent. It was a bit odd that
-Page | 228
-
 the first one we encountered was so large. I’d been expecting
 something maybe half this size.
 “Maybe the scorpions are just unusually big?” Elinalise
@@ -467,8 +430,6 @@ might be helpful in its own right, but we already have our magic.”
 By now, Elinalise could use basic water magic spells herself. I’d
 assumed she was skipping all her classes, but I guess she managed to
 learn what she needed to.
-Page | 229
-
 The next threat arrived suddenly and without warning.
 “We’re under attack!” shouted Elinalise, leaping back to my
 side.
@@ -498,8 +459,6 @@ of them when you’re on your own.”
 It seemed the Sandworms here were unusually large too. I’d
 caught a glimpse of five meters of its body, but the rest was still
 underground; it might be as much as ten meters long in total. That
-Page | 230
-
 made them large enough to swallow a man whole. If you happened
 to wander over one without noticing, it was the equivalent of
 stepping on an instant death trap.
@@ -529,8 +488,6 @@ next instant, Elinalise threw me down to the ground. We ended up
 sliding halfway back down the hill we’d just climbed.
 “Hey! What are you doing?”
 “That’s an army of Phalanx Ants!”
-Page | 231
-
 That didn’t mean much to me. But I followed Elinalise’s lead,
 slowly crawling back up the dune. This involved staring at her butt
 for quite a while. Always a sight for sore eyes. Would Sylphie end up
@@ -562,8 +519,6 @@ colonies but spent their lives in constant motion, eating everything in
 their path. They did have a number of natural predators, but their
 sheer numbers made them capable of overwhelming any terrestrial
 foes—even stray dragons. At certain intervals, they would pause
-Page | 232
-
 their journey to make a temporary nest, where they bred,
 replenishing their numbers with the next generation. Similar to the
 behavior of normal army ants.
@@ -595,8 +550,6 @@ millimeters in size. These things had to be, what, fifty times larger?
 That was scary, all right. There were lots of monsters that traveled in
 large groups here, and they tended to be very good at working
 together in battle. If I threw out an attack spell, they’d probably form
-Page | 233
-
 up into perfect Roman army formations and charge me from all
 sides. For all we knew, there might even be some with long-range or
 magical attacks.
@@ -626,8 +579,6 @@ army of ants finished marching past our position.
 In the desert, the sun turned red as it set. The sand began to
 glow crimson, and pools of shadow formed underneath the dunes,
 transforming the scene from a monotonous sandy brown into a
-Page | 234
-
 striking pattern of vivid red and blacks. It felt like we’d stepped into a
 different world.
 Still, a desert was a desert. The Sahara back in my old world had
@@ -656,9 +607,6 @@ Elinalise. They didn’t seem to be attacking her, but they had her all
 but surrounded. Were those all males, maybe?
 “Hey! Rudeus! Don’t just watch. Help me!”
 “Yeah, sure.”
-
-Page | 235
-
 Nimble as Elinalise was, she couldn’t very well keep moving with
 a wall of bats surrounding her. I’d have to knock them all away with a
 little tornado or something.
@@ -689,5 +637,3 @@ rank instead. Its ability to mesmerize made it powerful.
 Good thing I wasn’t a virgin anymore. If I didn’t have those
 sweet memories of my nights with Sylphie to fall back on, I wouldn’t
 stand a chance against those things.
-
-Page | 236

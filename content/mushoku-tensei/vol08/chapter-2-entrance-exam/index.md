@@ -42,9 +42,6 @@ Lodging District, which welcomed those entering the city, including
 adventurers. Looking at the map, I realized that its layout was based
 off Millishion’s. Not that there was anything useful about that
 discovery.
-
-Page | 48
-
 Elinalise and I booked an inn in the Lodging District. This time,
 we picked an A-ranked one equipped with a fireplace. Elinalise would
 come diving into my bed whenever it got cold, and the temptation of
@@ -75,9 +72,6 @@ this Magic University as well.”
 “Why? Are you interested in magic?”
 “Nope, but I’m interested in young men.”
 “Ah, so that’s it.”
-
-Page | 49
-
 In other words, her usual motivation. Still, though they called it
 a university, there were a lot of children around. I had no idea what
 Ranoa’s laws were like—her activities wouldn’t be considered
@@ -105,8 +99,6 @@ campus filled with massive brick buildings, including one in the
 center that looked almost like a castle. To the untrained eye, it might
 look like a fortress. It reminded me of Tsukuba University in Ibaraki
 Prefecture, though I’d only ever seen pictures.
-Page | 50
-
 I passed my letter to the pair standing guard at the front gate.
 “Excuse me, this is the letter I received.”
 The guard took a look at it, grunted, and nodded. “Do you know
@@ -137,9 +129,6 @@ expensive that the only place they were used in the Asura Kingdom
 was the capital. I hadn’t seen any in the Holy Country of Millis or the
 King Dragon Realm, but you saw them a lot in the Magic Nations.
 They were even used in the walls of the Adventurers’ Guilds here.
-
-Page | 51
-
 The process of their creation was a well-guarded secret, but maybe
 the raw materials themselves weren’t that costly.
 We came into a somewhat large plaza, in the center of which
@@ -170,9 +159,6 @@ the Millishion Adventurer’s Guild before, too. Granted, I’d seen even
 larger buildings in my previous life so it didn’t really impress me.
 “You’re such a party pooper,” she said. “When I saw the
 Millishion Adventurers’ Guild for the first time, I was so excited that I
-
-Page | 52
-
 almost threw my arms around Paul without even thinking… tch.
 Those are memories I’d rather forget.”
 As Elinalise mumbled to herself, her expression contorted in
@@ -202,9 +188,6 @@ If I had to rank this reception area, I’d give it a C. The room was
 sparse and the couch was hard. Maybe that made it a suitable place
 to welcome adventurers.
 “Sorry to keep you waiting. I’m Vice Principal Jenius.”
-
-Page | 53
-
 The vice principal appeared after about twenty minutes,
 responding quickly, despite our lack of an appointment. He was old
 and fussy-looking, with a receding hairline. As he was wearing a deep
@@ -233,9 +216,6 @@ forward in excitement, I hesitantly nodded.
 “Ah, where are my manners? Most magicians who work solo
 tend to be very prideful, particularly ones as young as yourself.”
 “I see.”
-
-Page | 54
-
 “I heard that you downed a Red Wyrm straggler the other day. I
 never expected someone like you would actually agree to enroll at
 our university.”
@@ -267,8 +247,6 @@ hoping you could explain it for me.”
 Jenius nodded, then stopped, as if he’d suddenly remembered
 something, and gave me a strained smile. “Before that, would you be
 willing to take a small test first?”
-Page | 55
-
 “A test?” Like an entrance exam? Crap. I hadn’t prepared
 anything at all. It’d been ten years since Roxy first taught me about
 magic, too. Uhh, if memory served me correctly, then combination
@@ -296,8 +274,6 @@ matter what course a person is in, they will still be learning magic.”
 So they tailored their course offering to people’s social standing
 and personal interests? It was just as Roxy had said: this school could
 accommodate anyone. No wonder it was enormous.
-Page | 56
-
 “Of course, we don’t have anyone at this school who can teach
 Emperor-tier magic, but we do boast a host of professors whose
 magical skills surpass those of the Asura Royal Academy’s staff.”
@@ -327,9 +303,6 @@ five meters each. Crowded around their edges were some twenty
 boys and girls all wearing similar robes. They stepped into the circles
 in groups of two and began launching offensive magic at each other.
 Weren’t they going to get hurt doing that?
-
-Page | 57
-
 “Those are the fourth-year students. I believe this class is mostly
 of noble ancestry. Our school emphasizes combat experience, so we
 conduct battle simulations such as these.”
@@ -360,8 +333,6 @@ teacher of voiceless magic and he passed last year. Old age.” He
 fretted over what to do for a moment, then, smacked his fist into his
 palm. “Aha, this is perfect. There’s actually someone else who can
 use voiceless magic in this class! They may not be any match for you,
-Page | 58
-
 but they’re our prized pupil. They’re also involved in this year’s
 Student Council—but, well, that’s not really important.” Jenius ran
 off to the other magic circle, calling out to the teacher there.
@@ -381,13 +352,7 @@ you’ll help guide and encourage me along.”
 finished my introduction. After all, the first person to introduce
 themselves was the victor! His mouth kept opening and closing but
 finally, he managed, “I’m Fitz. A pleasure.”
-
-Page | 59
-
 ![Illustration](illustration-60.jpg)
-
-Page | 60
-
 His voice was a bit awkward and high; it seemed he hadn’t yet
 hit puberty. Definitely younger than me, but an upperclassman was
 still an upperclassman. Afraid of leaving a bad impression, so I
@@ -417,9 +382,6 @@ Empty space yawned between us as Fitz took his stance. He held
 in his hand a single small wand. That brought back memories: I’d
 once used an instrument just like that. I readied my staff, the one I’d
 been using for the past ten years—Aqua Heartia. I used it so much
-
-Page | 61
-
 that I was debating giving it a name, like Charlene. Though honestly,
 giving it a girl’s name wouldn’t really make it more powerful.
 “Now then…”
@@ -449,9 +411,6 @@ cheek and bursting through the barrier with a beautiful crash. It
 stopped when it hit the wall of magic-resistant bricks, spraying debris
 everywhere.
 “…!”
-
-Page | 62
-
 A rivulet of blood trickled down Fitz’s cheek as he stood frozen
 in place. The wound closed almost immediately, thanks to the
 healing circle. Fitz wiped off the blood with a finger and looked back
@@ -481,9 +440,6 @@ He was going to have it out for me, wasn’t he? He’d probably try
 to trip me during mealtimes, spill his drinks on me and shower me
 with derisive laughter. I would be miserable. I was sure of it.
 I had to avoid that at all costs.
-
-Page | 63
-
 Okay, then!
 “Thank you, sir! For purposefully losing so I could look good in
 front of everyone else!” I beamed radiantly and said loud enough for
@@ -510,8 +466,6 @@ yourself in work. You could occupy a room in the practice building
 and spend all your time training. You could head to the library and
 spend days with your nose in a book. You could sit in the cafeteria
 and eat to your heart’s content. You could even go off-campus and
-Page | 64
-
 become an adventurer, or head to the pleasure district to cut loose
 and have fun—though, of course, you would be held liable for any
 actions you took off-campus. Still, I’d been given an extraordinary
@@ -542,9 +496,6 @@ section on penalties for sexual infractions, which was particularly
 detailed. “Miss Elinalise, it seems that as long as you don’t force
 yourself on anyone against their will, you’re given a certain level of
 freedom to do what you want.”
-
-Page | 65
-
 “This is an incredible school. Did you know? Such acts are
 completely forbidden at Millishion’s school.”
 I hadn’t even mentioned the word ‘sex’, and she’d answered
@@ -565,5 +516,3 @@ yeah, let’s do it! Let’s get my little guy up and running!
 Just kidding, of course. I had the Man-God’s word that my
 condition would be cured someday. There was no need to get
 impatient.
-
-Page | 66

@@ -41,12 +41,7 @@ nose, sniffing, and her expression turned to one of unease. Her sense
 of smell told her what it was I was looking at and thinking about. In
 contrast, Linia seemed clueless, still glaring me down and huffing at
 me. It seemed Pursena had the better nose.
-Page | 183
-
 ![Illustration](illustration-184.jpg)
-
-Page | 184
-
 In all actuality, given the illness that plagued me, there
 should’ve been almost no scent of arousal coming from me.
 “Hm.”
@@ -77,9 +72,6 @@ either.
 Pursena looked confused when I released her. She sniffed the
 air again and her expression turned to one of relief, before a
 conflicted look came over her face.
-
-Page | 185
-
 “Master? Is that how you’re going to punish them?” Zanoba
 asked.
 I looked at Linia. The moment our eyes met, she glared at me
@@ -110,9 +102,6 @@ creepy?! The Roxy that I’d poured such care into?! The one that sold
 instantly because it was such a masterpiece—that was creepy?!
 No, calm down. Let’s be cool about this. Deep breaths. Breathe
 in… and out. Breathe in… and out!
-
-Page | 186
-
 “This is a symbol of my God.”
 “Y-your God?”
 “That’s right. I was able to go out and discover the world
@@ -142,9 +131,6 @@ I told her to knock it off.”
 “Mm?!”
 Instead of apologizing, she made excuses. Very well then. This
 seemed like it’d make for an interesting spectacle, so I removed
-
-Page | 187
-
 Linia’s gag. When I did, the two of them started screeching at each
 other in shrill voices.
 “Pursena’s the one who said, ‘You don’t need something like
@@ -176,8 +162,6 @@ inside a cell for seven days. Right, then. Why don’t we do the same
 thing to you two?”
 Just to be clear, I wasn’t holding a grudge over that stuff at all.
 I’d been a bit peeved about it at the time, but it’d been an overall
-Page | 188
-
 enjoyable experience in the end, despite the circumstances—not
 that Linia and Pursena knew that. They were speechless, their faces
 turning ghostly white. Apparently, that method of punishment was
@@ -208,8 +192,6 @@ despair I felt at that time. The feeling of having my only source of
 support shattered into pieces!
 “We’ll apologize, mew. We’ll even show our bellies to you,
 mew.”
-Page | 189
-
 “That’s right, it’s embarrassing but I’ll do it!”
 Show me their bellies? Ah, that beastfolk form of kowtowing
 that Gyes did for me. An insincere kowtow wouldn’t be enough to
@@ -240,8 +222,6 @@ surely just do the same thing again! I needed to drill this lesson into
 them so that they understood! Upon my name as a follower of Roxy!
 But now that I’d cooled down, I couldn’t think of any satisfyingly
 diabolical forms of punishment.
-Page | 190
-
 “Zanoba, do you have any ideas?” I asked.
 “Let’s have them face the same fate as my figurine!” He had a
 ruthless look in his eye. . It seemed his heart was still full of anger,
@@ -272,8 +252,6 @@ consequences later.”
 are, you still have the mind to think of self-preservation.”
 Hmm. What to do with them? I wouldn’t feel satisfied just
 releasing them as-is. In fact, it might be better to just keep them like
-Page | 191
-
 this forever as a feast for the eyes. They weren’t really my type, but
 they were still beautiful women.
 No, no, no. I might have already gotten myself into trouble by
@@ -301,8 +279,6 @@ Master Fitz’s face was bright red as he looked at me, eyes filled with
 disapproval.
 Oh no, it seemed he’d misunderstood. “No, no, I haven’t done
 anything perverted to them.”
-Page | 192
-
 “R-really?” Master Fitz asked.
 “The worst I did was grope their chests,” I assured.
 “S-so you did touch their chests…!”
@@ -332,9 +308,6 @@ every day since my release playing with a dog and creating figurines.
 and yet, Master Fitz let out a breath of astonishment as I finished.
 What part was he impressed by? “For the Sacred Beast to take such a
 liking to you… That’s amazing.”
-
-Page | 193
-
 Oh, that part. Now that I thought about it, why had the Sacred
 Beast come to see me all the time? Surely, it wasn’t just because it
 liked me.
@@ -361,9 +334,6 @@ well. Master Fitz and I set off together toward my room.
 An acrid smell drifted through the air in my room. The floor was
 damp, the room stank, and Linia and Pursena were limp with
 exhaustion. Perhaps I should’ve let them use the bathroom.
-
-Page | 194
-
 They both looked uncomfortable, so I used magic to clear up the
 mess and opened the window to let in fresh air. I stripped them of
 their soiled skirts and underwear and wiped them down. Their
@@ -395,8 +365,6 @@ alleviate whatever emotions you’re feeling right now. It’s rough not
 being able to move for a whole day. You must’ve been scared stiff,
 stuck in a dorm full of sex-hungry men.”
 “That’s right, mew.”
-Page | 195
-
 “Every time I heard footsteps, I thought it was the end…”
 Actually, as far as I knew, there weren’t any such men here. It
 wasn’t like the dorm residents were being confined within these
@@ -427,8 +395,6 @@ With the immediate danger gone, and their clothes returned,
 the girls regained some of their usual spirit.
 “Even though I said we’d do whatever you say, anything that
 might result in a child is off the table, mew,” Linia told me. “I want to
-Page | 196
-
 date someone properly first, then get married and have children,
 mew.”
 “Agreed,” said Pursena. “But I’ll allow you to feel up Linia’s
@@ -458,9 +424,6 @@ water, mew.”
 What the heck? Now they were making me sound like the bad
 guy. Maybe they still hadn’t learned their lesson, after all.
 “You haven’t learned your lesson, have you?” Master Fitz said.
-
-Page | 197
-
 “Fitz, this has nothing to do with you, mew.”
 “That’s right. Fuck off.”
 Master Fitz looked stunned.
@@ -487,8 +450,6 @@ marks will become permanent.”
 Such paint actually existed? Must be this world’s version of a
 tattoo. Come to think of it, I was pretty sure I’d seen something
 similar in my time as an adventurer.
-Page | 198
-
 “Even water will never wash it off. If you ever turn on Rudeus,
 I’ll use the incantation and you’ll have those marks on your faces
 forever!”
@@ -519,8 +480,6 @@ fast Eris grew, I felt like I wasn’t growing at all. But maybe it was just
 that we were growing at different speeds, and I had gotten stronger
 in my own right, after all.
 “Who is your master, mew?”
-Page | 199
-
 “Uh, that’d be Ghislaine, I guess.”
 “Ghislaine? Do you mean Ghislaine of the Doldia tribe, mew?
 The Sword King Ghislaine?”
@@ -546,8 +505,6 @@ He giggled as he spoke. Almost like a child who’d successfully
 pranked someone. It was incredibly endearing.
 Master Fitz stayed in my room for a while. He was fidgety for
 some reason, as if he couldn’t calm down. He wandered aimlessly
-Page | 200
-
 about, only pausing when he found something peculiar so he could
 ask me about it.
 “What is that? Is there something in it?” His discerning eyes
@@ -577,9 +534,6 @@ Master Fitz put the pillow down and settled upon on the bed.
 “You’re the only one who’s ever said that.” Admittedly, the only
 other person who’d tried it out was Elinalise, who said, “I’d prefer a
 man’s arm over a pillow.”
-
-Page | 201
-
 Fitz kept his sunglasses on even as he lay on the bed. He must
 be particular about them. I wondered if eventually he’d let me see
 his face some day. Unless those sunglasses were just a part of him. I
@@ -590,13 +544,7 @@ I thought. I didn’t want him to hate me.
 Silence fell between us for a while. Realizing that I was looking
 at him, Master Fitz lifted himself up. For some reason, I thought that
 his cheeks looked red, but it was probably just my imagination.
-
-Page | 202
-
 ![Illustration](illustration-203.jpg)
-
-Page | 203
-
 “You want to see?”
 My heartrate accelerated the moment he said that. What was
 this? Did I want to see what? What was it that he thought I wanted
@@ -627,9 +575,6 @@ chameleon’s! Yeah, that had to be it. No doubt.
 Princess Ariel’s orders. I’m not allowed to show my face to anyone. I
 have a baby face, and it would destroy the reputation I’ve built as
 the fearsome Silent Fitz.”
-
-Page | 204
-
 I was wrong. It was royal orders, apparently. Well, that made
 sense. What kind of nonsense had I been dreaming up?
 “O-oh, so that’s it. Well, I have no intention of forcing your
@@ -657,9 +602,6 @@ I’d put myself in some pretty arousing situations with the
 kidnapped girls, but still seen no signs of recovery. The erotic vistas,
 the groping…none of it had helped. In fact, being alone with Master
 Fitz had more effect than anything else. I felt like crying.
-
-Page | 205
-
 The next day, we showed Zanoba the graffiti we’d left on the
 two before erasing it. The expression on his face said that wasn’t
 enough to mollify him, but I chided, “It’s not like you really helped
@@ -674,9 +616,6 @@ mew!”
 “What she said. Nothing happened. Really, nothing. Brrrrr…”
 If that was the version of the story they wanted to tell, so be it.
 A happy ending for all.
-
-Page | 206
-
 Side Story:
 Sylphiette
 (Part 2)
@@ -712,9 +651,6 @@ he used to do with me, so long ago. They might be sharing the same
 textbook, leaning in close… Ugh! Just the thought made me
 depressed.
 “What’s wrong?”
-
-Page | 207
-
 I snapped out of it when the Princess called out to me. At some
 point, we’d reached the student council room. We were alone now,
 not a soul around us.
@@ -743,9 +679,6 @@ your name?”
 “Oh… You told me that he didn’t remember you, so I just
 assumed…” The Princess looked bewildered, glancing over at her
 Knight.
-
-Page | 208
-
 The Knight had a complex expression on his face, as well. “You
 haven’t even told him your name?”
 “Well, it’s not like I have a choice. What if I tell him and he still
@@ -775,9 +708,6 @@ Princess and her Knight looked right at me that I it hit me—I had
 shouted. I instinctively put a hand over my mouth, then apologized
 for raising my voice at two people higher in status than me. “I’m
 sorry.”
-
-Page | 209
-
 Neither of them criticized me for it. Instead, they traded
 complicated looks and began whispering to each other. This time
 their voices were so hushed that I couldn’t hear the contents of their
@@ -806,9 +736,6 @@ couldn’t answer her honestly. It would be like betraying her if I did.
 fake, doll-like smile, but a relieved one, the kind I only saw once or
 twice a year. No, not even that often. When had I last seen her smile
 like that?
-
-Page | 210
-
 As I stood there, bewildered, the Princess said, “I won’t rush you
 on the Rudeus matter. I don’t mind if you use Fitz, either. Do
 whatever you like.”
@@ -838,8 +765,6 @@ I knew the answer. I didn’t want Rudy to become just like
 everyone else. I didn’t want to see him become her follower, take a
 knee and receive her commands. I knew that was why she’d
 summoned him to the school, and I hadn’t objected at the time. But
-Page | 211
-
 Rudy was special to me, and I wanted him to remain that way. I
 didn’t want him to be with someone else. I didn’t want him to serve
 my friend.
@@ -854,5 +779,3 @@ embarrassment. I instinctively hugged the blanket tightly around
 myself and curled into a ball. I could feel my cheeks heating up as I
 shut my eyes.
 I wanted to have an exclusive relationship with Rudy.
-
-Page | 212

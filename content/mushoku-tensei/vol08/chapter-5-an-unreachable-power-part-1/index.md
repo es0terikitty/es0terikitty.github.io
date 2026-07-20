@@ -42,9 +42,6 @@ such dedication.
 Still, I could actually understand where he was coming from.
 After all, I’d done similar things in my previous life. That said, I would
 never forgive him if he tried it with God’s statue (Roxy’s figurine).
-
-Page | 135
-
 Come to think of it, I didn’t see her figurine in his room. I
 wondered if he’d left it behind in Shirone.
 Or so I’d thought, until the events of that day.
@@ -74,8 +71,6 @@ or two a day.
 I had an ulterior motive as well. This man’s love for figurines was
 genuine, and he also happened to be a royal, which meant he was
 rich. Although I’d once given up on the idea, his aid might allow me
-Page | 136
-
 to add color to my figurines and begin mass-producing them. This
 world had the technology to create bronze and western-style
 statues. If we reappropriated that technology, we would be able to
@@ -101,9 +96,6 @@ upon you!”
 Our figurine creation had just begun.
 Let’s just skip to the conclusion. He couldn’t do it. Zanoba was
 incapable of using voiceless earth magic to create figurines.
-
-Page | 137
-
 There were two reasons for this. One was that he couldn’t wield
 magic without incantations, and the other was because his total
 mana capacity was nowhere near enough.
@@ -135,9 +127,6 @@ Anyway, me aside—I’d never dreamed that Zanoba wouldn’t
 even be able to construct a single part for a figurine. He tried hard.
 He woke up in the morning, exhausted his mana until he passed out,
 then woke up and used it again until he passed out. His cheeks
-
-Page | 138
-
 hollowed out so much that his face looked like a skull with tears and
 snot streaming down it. The thing he wanted to do the most was a
 thing he had no talent for. That fact was clear to see.
@@ -166,9 +155,6 @@ without mana. The only problem was that we didn’t have chiseling
 tools, but we should be able to find those by searching for magic
 items on the marketplace. I’d seen a knife somewhere before that
 could carve through boulders as if they were butter.
-
-Page | 139
-
 “Now I understand, Master. With this method, even I should be
 able to create figurines!” Zanoba’s raised his voice in excitement. His
 face was full of hope.
@@ -196,9 +182,6 @@ crafted.
 sobbed, as if so stricken with grief that he no longer had the will to
 stand. He’d grown even more skeletal in the last two months, but
 despite noticing that, there was nothing that I could do for him.
-
-Page | 140
-
 “And that’s what happened.”
 I had decided to look to Master Fitz for support. It was truly
 wretched for me, as Zanoba’s master, to disclose his failings and seek
@@ -228,8 +211,6 @@ able to do it if he practiced. He could use voiceless magic, after all.
 concluded.
 “True. As an alternate method I thought it might be possible to
 try chiseling down a clump of clay, but…”
-Page | 141
-
 “But his fingers aren’t dexterous enough to do it,” Master Fitz
 concluded. He hummed and put his hand on his chin as he thought.
 He had a habit of doing that when he was mulling over something.
@@ -260,8 +241,6 @@ himself, right?” Fitz clarified.
 “Um, that’s how it sounded to me?”
 Really, was that the case? Well, while the normal figurine
 enthusiast might remodel or paint a figurine, they wouldn’t think
-Page | 142
-
 about trying to make one from scratch. The most I’d done in my
 previous life was enjoy a little bit of nude remodeling.
 “I’m sure that Zanoba would like you to become his personal
@@ -289,8 +268,6 @@ a widely-accepted method in this world.
 Still, since we were in a master-pupil relationship, Zanoba said
 he felt it rude to request that I teach a slave instead of him. This was
 the man, after all, who’d swore from the beginning that he’d learn
-Page | 143
-
 how to do it himself even if he vomited blood. That was why he
 never propose this method himself, yet felt relieved when I
 suggested it.
@@ -321,4 +298,3 @@ market. Next time: A flower in both hands?! A heart-pounding
 shopping adventure with the smiling elf and the prince with
 supernatural strength!
 Just kidding.
-Page | 144

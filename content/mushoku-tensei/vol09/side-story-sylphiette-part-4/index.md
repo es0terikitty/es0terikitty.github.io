@@ -43,8 +43,6 @@ I’d been with Rudy back in Buena Village? Maybe.
 Since Rudy started helping out with Silent’s experiments, he was
 spending less time looking into the Displacement Incident with Fitz.
 And spending more time with her, of course. And when you spend
-Page | 131
-
 enough time with someone, it’s not unusual for something like
 romantic feelings to develop almost out of nowhere.
 Back when he’d befriended Linia and Pursena, I hadn’t been that
@@ -76,8 +74,6 @@ This wasn’t going well at all. But what was I supposed to do?
 The answer was obvious enough. I had to come out and tell him
 who I was, and then tell him how I felt. At least that would be a step
 forward, one way or another.
-Page | 132
-
 But no matter obvious that was, I couldn’t get my legs to move.
 The thought What if he says no? kept flashing through my head, and
 keeping me from moving.
@@ -87,5 +83,3 @@ pretty timid as a child, sure, but I thought I’d grown braver than this
 over the last few years.
 Had my courage fallen out of my pocket somewhere?
 I really wished someone would bring it back to me.
-
-Page | 133

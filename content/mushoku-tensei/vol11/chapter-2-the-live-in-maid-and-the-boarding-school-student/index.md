@@ -42,8 +42,6 @@ struck me as a little bizarre, but I couldn’t exactly back out of the
 bargain now.
 “Well, all right. In that case, uh… make sure you do what I tell
 you from now on, okay?”
-Page | 32
-
 “But of course! I’m at your disposal, Master!”
 It was kind of nice to hear a girl calling me that for once, rather
 than Zanoba. If it wasn’t my little sister saying it, I’d probably have
@@ -73,9 +71,6 @@ No point in pushing the issue for now. Sylphie might look at me
 a little funny for a while, but I felt like Aisha had earned the right to
 do what she wanted. “Okay, then. Make sure you consult Sylphie
 before you take on any jobs for yourself, got it?”
-
-Page | 33
-
 “Of course. My mother taught me all about the duties of a maid,
 I assure you. Leave everything to me.”
 Folding her hands in front of her, Aisha bowed deeply to me.
@@ -106,8 +101,6 @@ us, but I had no idea where to start.
 guess,” I said. “But I think you usually start off with two or three
 years of general classes before you have to pick a department,
 anyway. The University has a lot of interesting introductory courses,
-Page | 34
-
 so maybe you can try a bunch and see if there’s a subject you like?
 Oh, and if nothing particularly interests you, you could always go
 with healing magic. Our mom used to be a healer too, remember?
@@ -139,8 +132,6 @@ Personally, I would have liked to get to know my sister better by
 living with her. But from the looks of things, forcing her to stick
 around might just make her resent me even more than she already
 did.
-Page | 35
-
 In my previous life, I’d spent many years as a shut-in. I’d refused
 to engage with the rest of the world, locking myself up in my room
 instead. For a while, my family tried all sorts of schemes to get
@@ -172,8 +163,6 @@ running away from home someday. And I knew how badly that might
 turn out, especially for a young girl. Some sick bastard might take her
 in and start demanding favors or something. Compared to that, she’d
 be much better off moving into a safe dorm room now.
-Page | 36
-
 Sylphie spent a lot of time in those dorms too. She did come
 back to stay here every third night, but in between those visits, she
 stayed with Princess Ariel. If something came up, she’d be right there
@@ -203,9 +192,6 @@ make that happen.
 Norn, on the other hand, hadn’t done much of anything, but I’d
 decided to give her what she wanted, anyway. It must have seemed
 blatantly unfair.
-
-Page | 37
-
 What had my parents in my past life said when I kicked up a fuss
 about things like this? I couldn’t remember exactly, but I felt like it
 was mostly just variations on “You’ll do what you’re told” or “We
@@ -235,9 +221,6 @@ family, and I’m here for you no matter what. But it seems like Norn
 isn’t happy here, and I think living in the dorms might help her find
 her footing.”
 “…”
-
-Page | 38
-
 Now it was Aisha’s turn to hang her head in sullen silence. For
 some reason, there were tears in her eyes.
 “Are you being nicer to her because my mom’s just the
@@ -268,9 +251,6 @@ actions.
 “Do you like her better…because I’m just your half-sister…?
 Hic…” Aisha was sobbing now, rubbing her fists against her crumpled
 face.
-
-Page | 39
-
 But whatever their reasons, they’d still hurt an innocent child.
 I’d been operating under some mistaken assumptions here.
 Neither of my sisters was going to be easy to take care of.
@@ -299,9 +279,6 @@ stay here and do housework instead of going to school, I wouldn’t
 allow that. You earned the right to do that with your score on that
 test.”
 Aisha frowned and fell silent.
-
-Page | 40
-
 And after a painfully long pause, she finally replied, “Okay.” My
 arguments clearly hadn’t satisfied her, but she’d ultimately accepted
 them.
@@ -329,8 +306,6 @@ dorm and then forgot about her.
 did at least agree.
 Now that we’d finally worked out an initial plan, it was time for
 us to rearrange our lives to accommodate it.
-Page | 41
-
 I arranged to have Norn enrolled at the University of Magic, and
 I applied to secure her a spot in the dorms. Of course, I also
 explained the situation with Sylphie and asked her to help Norn out if
@@ -361,8 +336,6 @@ could.
 Sylphie was still in charge of the grocery shopping and the
 cooking, at least. That was one role she wanted to hold on to. But
 Aisha was always there to help her out.
-Page | 42
-
 Apart from these primary tasks, my new maid also began to deal
 with a number of things that had never even occurred to me before.
 She went around greeting our neighbors, for example, and arranged
@@ -392,9 +365,6 @@ something for me as a reward: the magic circle for a specific
 Summoning spell that I might find helpful. She promised to hand it
 over and explain how to use it before we moved on to the second
 stage of her experiments.
-
-Page | 43
-
 Aisha had jumped at the chance to lavish her hospitality on our
 guest. She’d drawn a bath for Nanahoshi, prepared her a change of
 clothes, and even helped her wash up in there.
@@ -426,8 +396,6 @@ yourself.
 “Ooh! Are you going to teach me, Rudeus?! Really?!”
 Aisha trotted over to me with a big smile on her face. For all her
 discipline, the kid tended to let the “cool-headed maid” character
-Page | 44
-
 drop whenever she got emotional about something. She still had a
 ways to go before she’d be a match for Lilia.
 “Yeah, I think it’s a good idea for you to learn a little more. I
@@ -444,13 +412,7 @@ learn that particular skill.
 I ran through a few things, then gave her a simple homework
 assignment: to use as much magic as she could every day, until her
 supply of mana ran dry.
-
-Page | 45
-
 ![Illustration](illustration-46.jpg)
-
-Page | 46
-
 That night, Aisha clambered onto my bed and asked, “Can I
 sleep with you tonight, Rudeus?”
 After seeing her break down in tears the other day, I couldn’t
@@ -480,8 +442,6 @@ off on our intimate activities for a while. But when I had a beautiful
 woman lying next to me, it proved impossible to resist.
 Normally, I could have contained myself. But normally, I had the
 opportunity to blow off some steam on my own. Unfortunately,
-Page | 47
-
 Aisha tended to follow me all around the house. I had no privacy
 these days, and I wasn’t about to start pleasuring myself in the
 school bathrooms or something. The idea was kind of depressing,
@@ -513,8 +473,6 @@ lack of explicit sexiness only made it more exciting.
 You wouldn’t get this effect with flashy red lingerie, like the set
 Eris had. Or with a curvier girl like Linia or Pursena. Plainer clothes
 just worked on Sylphie, for some reason.
-Page | 48
-
 “…”
 “Hm? What’s up, Rudy?”
 At some point while I was thinking all this, I’d started running
@@ -544,8 +502,6 @@ I was still hoping to improve our relationship, of course. I’d
 actually tried inviting her to take a bath with me the other day,
 thinking it might be a decent way to break the ice. Unfortunately, she
 just grimaced and said, “No.”
-Page | 49
-
 Aisha promptly popped her head into her room and volunteered
 to go with me instead. She ended up washing my back and giving me
 a nice little massage.
@@ -571,8 +527,6 @@ gang. The last thing I wanted was for my reputation to scare kids
 away from making friends with her.
 No point in worrying about that now, anyway. Trying to fix all
 Norn’s problems for her would be way too overbearing. If I needed
-Page | 50
-
 to, I could always turn to Sylphie, Luke, and Ariel. They were
 incredibly popular and always seemed to draw a crowd wherever
 they went. Spending time with them might help Norn learn some
@@ -602,4 +556,3 @@ me. Was she ever going to start looking me in the eyes? I was
 starting to feel kind of anxious about it.
 “Remember to brush your teeth when you wake up and before
 you go to bed.”
-Page | 51

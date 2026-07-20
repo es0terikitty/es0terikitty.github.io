@@ -37,8 +37,6 @@ my footprints and followed them to our house.
 “So that’s what happened,” I said. “I must convey my gratitude.
 Thank you.”
 “There’s no need to thank me.”
-Page | 196
-
 I couldn’t help but smile at his words. One of my greatest
 sources of pride was being recognized as a friend by this man.
 “Anyway, you guys sure got here fast,” I said. The letter had only
@@ -69,8 +67,6 @@ have been for a while now. But…”
 “It was the first time in a while that I felt like I was being
 ordered around.” He gave a thin smile as he said that. Perhaps he
 was recalling the time of the Laplace War.
-Page | 197
-
 Aisha, that little stinker. “Well, I’m not really sure what to say,
 but it seems my little sister caused you a great deal of—”
 “It’s just a funny story.” As usual, Ruijerd was soft when it came
@@ -100,9 +96,6 @@ with Zanoba by now. How would she react when she saw Julie? I
 wished I could be there to see it.
 “She intends to resume serving the Prince, apparently,” Ruijerd
 confirmed.
-
-Page | 198
-
 “I see. By the way, how long do you plan to stay here?” I asked
 nonchalantly. I assumed the answer would be about a week. It
 wouldn’t take that long for me to introduce him to all of my friends. I
@@ -132,9 +125,6 @@ foundation that kept us together.
 I lifted my head when he called my name. Apparently, I’d
 averted my eyes at some point. Ruijerd gave me a thin smile. “Don’t
 make that face. I’ll come back again.”
-
-Page | 199
-
 It was all I could do to force a smile in return. I didn’t regret the
 fact that I had married Sylphie. However, I did feel as if I’d made
 some kind of mistake, here.
@@ -163,8 +153,6 @@ Sylphie and Ruijerd awkwardly shook hands. They’d both
 suffered for their green hair in the past, though neither of them
 sported that color anymore. Ruijerd had shaved it all off, while
 Sylphie’s had turned white during the Displacement Incident.
-Page | 200
-
 “Umm, Mister Ruijerd, what would you prefer in terms of a
 room?”
 “Anything is fine.”
@@ -195,8 +183,6 @@ look.
 I’d skipped dinner that night, but I wasn’t even hungry. Oh, I
 should’ve at least provided Ruijerd something to snack on, I thought
 as I put out the fireplace and checked the lock on the front door. We
-Page | 201
-
 already had the most useful security system in the house, but I still
 wanted to be safe.
 After turning off the lights, Sylphie and I headed up to the
@@ -224,8 +210,6 @@ A chilling scene awaited me.
 Someone else was already standing at our front entrance. Two
 towering figures, actually: one a bald warrior, a man who’d shaved
 his hair in order to hide its green hue. He wore none of the arctic
-Page | 202
-
 clothing common in the region, but was dressed in civvies, bearing a
 lance. It was Ruijerd.
 Then there was the other man. He had a large and brawny body,
@@ -257,8 +241,6 @@ of the Superd Tribe had led them to attack any who crossed their
 path, be they friend or foe, and that had to have included some of
 Badigadi’s people. Regardless of how uncommitted he was to ruling,
 he was still a king.
-Page | 203
-
 I wondered what their relationship had been like after the war?
 I couldn’t picture someone as optimistic as Badigadi seeking revenge
 on the Superd. If anything, he’d probably championed the powerless
@@ -289,8 +271,6 @@ rouse her, I headed upstairs. I knocked on the door and immediately
 began reaching for the doorknob, but a sense of foreboding stopped
 me from opening it. Instead, I called out to her. “It’s about time for
 breakfast, so please come downstairs.”
-Page | 204
-
 There was no answer, but when I strained to listen, I heard the
 rustling of clothes. Apparently, she was in the midst of changing. I’d
 avoided triggering a surprise naked scene! I wasn’t a dull-witted
@@ -321,9 +301,6 @@ But the thought of Eris held me back, as expected. I didn’t want
 to cause Ruijerd discomfort. It wasn’t any fault of Sylphie’s; it was
 just that I felt like I couldn’t really talk to Ruijerd until I’d cleared the
 air with Eris. Yet, right now, I didn’t even know where she was.
-
-Page | 205
-
 As I debated these things, we arrived at the city entrance. “Well
 then, stay safe,” Ruijerd told me.
 “You as well,” I said.
@@ -354,8 +331,6 @@ Ruijerd looked troubled as he stroked her head, saying nothing.
 However, as the seconds passed, Norn’s eyes quickly filled with
 tears.
 “Rely on Rudeus from now on, not me,” he said.
-Page | 206
-
 “But I can’t! He and Father—”
 “That’s in the past. He’s already reflected on his actions. Your
 father did as well. I told you about the hardship he’d been through as
@@ -382,9 +357,6 @@ I watched him go until I couldn’t see him anymore. There was a
 time when I’d watched as his figure receded into the distance, filled
 with gratitude toward him. I was sure that right now, Aisha and Norn
 felt the same.
-
-Page | 207
-
 Side Story:
 The Sharpening of Fangs
 
@@ -421,8 +393,6 @@ couldn’t produce an answer that satisfied her.
 Compared to that, her second teacher, Ruijerd, had been much
 better. “Do you understand?” he would ask. He would knock her
 down, then just ask whether she understood or not. Over and over
-Page | 208
-
 again, he would keep going until she finally got it. Without her having
 to use her head, as if they were equals.
 Eris respected Ghislaine. She also respected Ruijerd.
@@ -453,9 +423,6 @@ sword was difficult. When she was younger, she’d thought swordplay
 so much simpler and more suited to her than studying. Well, that
 part was still true: Swordplay suited her far better than book learning
 ever had. But it definitely wasn’t simple at all. In fact, you might even
-
-Page | 209
-
 say book learning was simpler, as long as you had someone else
 teaching you.
 All she did was raise her sword and bring it back down again. Yet
@@ -487,8 +454,6 @@ to that, she felt like she could withstand anything. Pain meant
 nothing to her; not the ache in her hand, not her frustration. Not
 even the fact that she was by herself right now, without him by her
 side.
-Page | 210
-
 “Rudeus.” She breathed out his name.
 Eris didn’t think about it any further. She was bad at thinking.
 She also wasn’t very good at staying positive. The more she thought,
@@ -518,8 +483,6 @@ between her and her nest.
 “Wh-what in the world is this creature…?” At first, the man
 didn’t even understand that words had come out of her mouth. For a
 moment, all he saw was a starved beast looking for a meal. Then Eris
-Page | 211
-
 drew a blade of her own, and he finally realized she was human, and
 a swordfighter at that.
 “You may refer to me as Auber, the Peacock Blade,” he said. “I
@@ -538,13 +501,7 @@ in her path by force. Shkt! Her blade whizzed through the air. She
 was using Sword of Light, an ability honed through all of her practice.
 A normal opponent had no hope of countering the Sword God Style’s
 most lethal technique.
-
-Page | 212
-
 ![Illustration](illustration-213.jpg)
-
-Page | 213
-
 “Hmph!”
 That was only if they were a normal opponent, however. Auber
 gripped both swords in his hands and used them to brush off the
@@ -574,9 +531,6 @@ Auber tried to stop her by using the weapon in his left hand.
 hilt. Auber felt a chill run down his spine as he realized she was trying
 to steal his sword from him. This beast wouldn’t stop until he killed
 it.
-
-Page | 214
-
 He gave the woman coiled around him a hard kick, sending her
 hurtling through the air. Then he readjusted his grip on his weapon,
 so the blade was now facing her.
@@ -607,4 +561,3 @@ entered the training hall, vanishing into the building without a
 second glance at the man who was left dumbfounded in her wake.
 She wiped at the wound on her cheek as she headed down the
 hall toward her room, not bothering to brush off the snow clinging to
-Page | 215

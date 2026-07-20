@@ -36,9 +36,6 @@ some ugly drama.
 “Once we make it to Rapan, I’m sure he’ll fall over himself to
 apologize,” I said.
 “…I’m not going to forgive him no matter what he says.”
-
-Page | 257
-
 Elinalise was scowling again. Whatever happened must have
 been seriously ugly.
 Paul really was a good-for-nothing bum. But that exactly was
@@ -63,9 +60,6 @@ like a savannah, without much in the way of grass.
 In the distance was a large lake—with white roofs clustered all
 around it.
 We’d found the city of Bazaar.
-
-Page | 258
-
 Chapter 13:
 Bazaar
 
@@ -100,9 +94,6 @@ didn’t swoop down to attack us, though, and there weren’t any
 Succubi accompanying them. They were just ordinary bats. Still,
 there might be other monsters lurking around, even if we were close
 to the city now. We stayed alert as we approached it.
-
-Page | 259
-
 Just as we were getting close, there was a piercing cry from
 somewhere nearby. Recognizing the call of a Gryphon, the two of us
 instantly tensed up.
@@ -131,9 +122,6 @@ mouth. I didn’t see any reason not to ride to the rescue.
 “Got it!”
 Elinalise was already rushing forward. As she approached, I fired
 off a shock wave blast at a Gryphon that was currently in the air.
-
-Page | 260
-
 My spell was a direct hit—the monster had been focused on the
 enemies in front of it. The blast wasn’t enough to kill it instantly, but
 it did send it tumbling to the ground, spraying feathers in all
@@ -163,9 +151,6 @@ looking!”
 The warrior he’d addressed nodded and immediately ran off.
 “Good grief, what a disaster,” the man muttered. “What on
 earth was a pack of Gryphons doing all the way out here, anyway?”
-
-Page | 261
-
 Shaking his head, he turned and approached us with the other
 two warriors at his side.
 “Your assistance was most kind, travelers. Allow me to express
@@ -196,8 +181,6 @@ against larger monsters.
 Still, such heavy arms and armor wasn’t ideal for fighting agile
 monsters like Gryphons. Maybe that was part of the reason they’d
 been struggling.
-Page | 262
-
 “Don’t see mages too often in these parts.”
 The one who spoke up first was a huge man with a patch over
 his left eye and a tattoo covering his face. He was nearly six feet tall
@@ -226,9 +209,6 @@ It took some effort to understand what she was saying. Maybe
 her accent was just really strong? I could make out the words, but it
 wasn’t easy.
 “This is exactly why they call you Bonehead, kid.”
-
-Page | 263
-
 The man, on the other hand, spoke more clearly. I didn’t know if
 he was more fluent in Fighting-God Tongue or what, but I
 understood him much easier.
@@ -256,9 +236,6 @@ again. “…My name’s Balibadom. Thanks again for your help,
 stranger.”
 “I’m Rudeus Greyrat, and this is Elinalise.”
 “Got it. Well, if you ever need anything—”
-
-Page | 264
-
 “Hey! What’s the hold-up, you two?” shouted the mustached
 man we’d spoken to earlier, interrupting the warrior mid-sentence.
 “We need to find that cargo now!”
@@ -288,9 +265,6 @@ this Continent?”
 Since their party had vanished, I burned the bodies with my
 magic and buried them myself. It did seem a little heartless, the way
 they’d left them here.
-
-Page | 265
-
 That Balibadom guy had promised we’d be rewarded later, but
 we didn’t even know the name of that guy with the mustache. And
 how were they supposed to come find us if they didn’t know who we
@@ -318,9 +292,6 @@ really mattered.
 Watching everyone feasting all around us got our stomachs
 growling quickly enough. Still, we had to find ourselves a place to
 stay first.
-
-Page | 266
-
 As I was looking around for an inn, though, a man came up and
 called to us. “Hey, you two! Looking for a meal? I can squeeze you in
 for just three Cinsha right now!”
@@ -351,8 +322,6 @@ out the right move almost instantly.
 “I’m glad I’ve got you around, Elinalise. You really know your
 stuff.”
 “There’s no need for flattery, dear.”
-Page | 267
-
 We settled down on the carpet to wait for our food. This
 brought back some very old memories from my previous life in
 Japan. I hadn’t been doing much sitting on the ground lately.
@@ -384,8 +353,6 @@ into an agricultural worker for my own pleasure.
 “Oh? You’re not whining about the food for once, Rudeus.
 That’s unusual.”
 “Well, it was better than I was expecting, honestly.”
-Page | 268
-
 I even ended up asking for seconds. I never complained about
 Sylphie’s cooking or anything, just to be clear…but rice definitely held
 a special place in my heart. If I only had some eggs and soy sauce to
@@ -416,8 +383,6 @@ ourselves a shelter with my magic, though.
 “Okay, then, let’s set ourselves back a little bit from the crowd.”
 The two of us picked our way around for a while, then found a
 nice open spot midway between two larger tents. There were guards
-Page | 269
-
 hanging around outside them, so we probably wouldn’t have to
 worry about any thieves.
 I made our shelter on the larger side this time. It took longer to
@@ -447,9 +412,6 @@ What? Is she running to the convenience store or something?
 Elinalise smiled at the question. “To pick up a man.”
 In other words, she was going to reset the timer on her curse.
 “You’ve still got a little more time, don’t you?”
-
-Page | 270
-
 Elinalise’s curse kicked into full gear every two to four weeks.
 Cliff’s magical implement more than doubled that deadline, so she
 was good for at least a month in between encounters. It had only
@@ -479,8 +441,6 @@ and Norn demanding that I carry them on my shoulders. When I
 hefted Norn up there, Aisha would sulk, and when I switched to
 Aisha, Norn started bawling. But eventually, Sylphie showed up and
 seized their prize—my shoulders—for herself.
-Page | 271
-
 I’d gently chided her, explaining that everyone should take
 turns, but she replied, “Too bad! This is my seat now! Nobody else
 gets to use it!” My poor sisters started wailing miserably, of course.
@@ -510,8 +470,6 @@ quarrels between merchants, rather than anything really dangerous.
 further east! Anybody need to stock up?!”
 Glass products, in particular, seemed to be a focus of trade. I
 had to assume it was a major industry in this region. One merchant
-Page | 272
-
 had shelves and shelves full of rectangular containers with intricate
 symbols carved into their surface; they looked a bit like fancy whisky
 bottles. Some were brightly colored, but they were all remarkably
@@ -543,8 +501,6 @@ cash in your pocket.
 The things we’d brought from the Central Continent fetched
 very good prices. To my surprise, a few cheap cuts of jerky sold for
 three times what we’d paid for them. We might have been able to
-Page | 273
-
 negotiate them even higher if we’d tried. I felt like there was an
 opportunity to rake in some real cash by selling off meat here and
 buying up glass to sell back in Ranoa…but trying to make money off
@@ -576,8 +532,6 @@ patches of desert. I got the basic message that there were two
 routes to choose from, but if we tried to follow either, we’d probably
 get ourselves lost.
 “Are there maps of this area for sale or anything?” I asked.
-Page | 274
-
 Maps weren’t always reliable, but they helped. You could
 usually at least get a general sense of where you were. That was
 always reassuring.
@@ -607,9 +561,6 @@ had thrown us off.
 Things already weren’t going as planned.
 Still, there was no point in panicking. Life always throws some
 curveballs at you. We’d only been out here for two weeks, and the
-
-Page | 275
-
 journey would normally have taken an entire year. That was some
 impressive progress, no matter how you looked at it.
 “What would you normally do in a situation like this, Elinalise?”
@@ -640,4 +591,3 @@ for its labyrinths, which produced a steady stream of valuable magic
 items; if you stocked up on those, you could sell them at higher
 prices in other cities. Some merchants made their living that way.
 Most of them brought magic stones and crystals from the southwest
-Page | 276

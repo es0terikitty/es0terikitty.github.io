@@ -43,8 +43,6 @@ the noon bell chimed, Zanoba and I would have lunch together. He’d
 ask me questions about things he didn’t understand in class, and I’d
 answer to the best of my abilities. Zanoba was only taking earth
 magic classes, but he was still working hard, in his way.
-Page | 122
-
 We ate our meals outside. Elinalise sometimes came by, but
 apparently Zanoba didn’t look like a “good man” in her eyes, so she
 would quickly scamper off. I asked her how she was dealing with her
@@ -76,8 +74,6 @@ through ghosts. No need for analysis. I’d seen a number of ghosttype beasts wh
 swordfighter who could cut through them.
 Barrier magic was, as the name implied, magic where you
 created a protective wall. These were basically constructed using
-Page | 123
-
 magic circles, but at the Beginner-tier you could also create them
 through incantation. Magic Shield had the power to isolate flames or
 cold and reduce their effect. The magic-resistant bricks of the
@@ -109,9 +105,6 @@ informative to review and have someone re-explain them for me.
 I returned to the library once class was over. There, I spent my
 time researching teleportation until it became dark outside. I did
 technically go hunting through the literature, but as a result of
-
-Page | 124
-
 teleportation magic being labeled a forbidden art, there wasn’t
 anything listed in detail. The book that Master Fitz had told me
 about, An Account of the Exploration of the Teleportation Labyrinth,
@@ -138,9 +131,6 @@ sat down. He seemed like someone who was adept at responding to
 social situations. Once I moved seats and continued my reading, he
 peeked over to see what I had in my hands.
 “Are you making progress?”
-
-Page | 125
-
 It’d been a week since we’d last spoken about it. I had been
 digging through books about teleportation every day. “I now know
 that there were apparently other incidents in the past that resemble
@@ -172,8 +162,6 @@ deceased back at the Refugee Camp—how many hundreds of names
 had been listed on it. It had been five years since the disaster. The
 chance of survival for those still missing was basically zero. I was sure
 Master Fitz’s acquaintance and anyone else still missing was
-Page | 126
-
 probably already deceased. I was one of the lucky ones since my
 entire family was still alive.
 “Oh, I recently found out they’re still alive, actually,” Fitz
@@ -205,8 +193,6 @@ be possible for you to tell me what you’ve found, Master Fitz?”
 “Yeah, sure. I can gather my findings and bring them tomorrow.
 Just don’t expect much. I’m not really good at looking things up, so I
 can’t discover things as quickly as you do.”
-Page | 127
-
 He didn’t seem very confident. Fitz had said he was a fourthyear, right? He was attending classes, acting as a bodyguard, and,
 according to what I’d heard the other day, also carrying out routine
 tasks for Princess Ariel. He’d also mentioned being involved in the
@@ -237,8 +223,6 @@ It might bother me if someone who barely spent any time
 helping came in just to lambast my progress, but he didn’t seem the
 type to do that. Besides, it was probably better to have someone
 with a different perspective weigh in rather than work on it all by
-Page | 128
-
 myself, right? I wasn’t that smart anyway, and Fitz was considered a
 genius, so he might be able to find something in the data I gathered.
 “It doesn’t bother me. I look forward to working together.”
@@ -267,8 +251,6 @@ all. Which made sense: someone who could pull off a person’s head
 with their bare hands wouldn’t be bullied so easily.
 “Although he did quiet down eventually, after Linia and
 Pursena—two ill-behaved students—did him in.”
-Page | 129
-
 So Linia and Pursena were the leaders of the delinquents,
 apparently. They challenged the new student Zanoba, who was
 lashing out all the time, and rather easily managed to defeat him,
@@ -299,8 +281,6 @@ favor. If he’d known I was going to use Disturb Magic when we
 fought, there was no guarantee I would’ve still won.
 “I’m sure you’ll be fine, though,” Fitz said.
 “Well, who knows about that.”
-Page | 130
-
 “There isn’t a person here who can defeat me one-on-one. I’d
 never lost a fight, not until you,” he said, praising me.
 I should be the one praising him for his attitude. Here was
@@ -331,8 +311,6 @@ you here.”
 “I don’t have any free time tomorrow, but I will stop by the
 library,” Fitz said, before walking off toward the girls’ dormitory. He
 had free entry into that palace full of women. Probably the only
-Page | 131
-
 reason why I didn’t feel jealous was because I could still remember
 that muscular terror from the other day.
 Or perhaps, just maybe, I could use my connection with Master
@@ -359,9 +337,6 @@ am Princess Ariel’s bodyguard, after all.”
 would cause Princess Ariel problems.”
 You could keep a slave with you in the dorms if you got the
 permission to do so. It didn’t even have to be a slave. If you were a
-
-Page | 132
-
 powerful royal or noble, then a little bit of financial compensation
 would work in your favor. There were, after all, some nobles in the
 boys’ dormitory that brought maids with them. However, if either
@@ -392,9 +367,6 @@ knowledge at this school that Master Fitz was shockingly quiet. He’d
 even earned the nickname “Silent Fitz” or “Silent Magician”. Though
 that was probably partially because he was a magician who used
 voiceless magic.
-
-Page | 133
-
 “Actually, your last name wouldn’t happen to be Ryback, would
 it?” I asked.
 “Huh? Ryback? Isn’t that the last name of the second North
@@ -417,5 +389,3 @@ Master Fitz. Judging by my experience with the Man-God up ’til now,
 things would wind up the same no matter what actions I took. In
 other words, by associating with Master Fitz I would eventually find
 out how to cure my illness. There was no need to rush.
-
-Page | 134

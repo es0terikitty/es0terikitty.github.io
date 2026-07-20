@@ -43,8 +43,6 @@ without even saying hello… and I felt like I should probably apologize
 for our last encounter, too.
 As I walked over, though, Goliade twitched and averted her
 eyes. She squeezed in her broad shoulders to make herself as small
-Page | 92
-
 as possible, and looked into the distance with a fearful expression,
 consciously trying not to see me.
 “Uh, hi, Goliade. I’ve been meaning to talk to you about what
@@ -75,8 +73,6 @@ At this exact moment, Linia and Pursena happened to show up.
 They pushed through the crowd, and spotted me and Goliade. After
 studying her tearful face for a moment, they smiled and nodded to
 each other, then pushed their way confidently in between us. “Hey,
-Page | 93
-
 Boss. Why don’tcha leave it at that, mew? Goliade didn’t mean to
 tick you off, really. Could you cut her a break for us? We gotta look
 out for the other beastfolk girls.”
@@ -107,8 +103,6 @@ remember establishing any kind of gang, and I didn’t care which of
 them was which hand. That aside, they’d just bailed me out of
 trouble. I should get them something to express my gratitude. Would
 raw fish and a slab of meat do the trick?
-Page | 94
-
 “Anyway, that Goliade sure was stupid to tick you off, Boss.
 What’d she do to you, mew?”
 “Uh, she mistook me for an underwear thief on my first day
@@ -138,9 +132,6 @@ What was it with beastfolk and wanting to seize power,
 anyway? Seriously, they were all a bunch of fuzzy Decepticons. “Let’s
 say I did seize power over the dorms and everything. What would I
 even do with that authority?”
-
-Page | 95
-
 I couldn’t care less about being at the top of things. I was
 fundamentally trying to avoid conflict where possible, and taking on
 a leadership position basically guarantees somebody’s going to hate
@@ -170,9 +161,6 @@ settled at last! I won’t be tempted again. Get behind me, Satan…
 “I’m not at all interested in the panties of some random girls. If
 you want to steal their underwear, do it yourselves. But if you cause
 Master Fitz any trouble, I won’t be taking your side.”
-
-Page | 96
-
 Phew. There we go. That was a close one, girls of the
 University. If it wasn’t for my condition, you might have ended up in
 some serious trouble.
@@ -203,9 +191,6 @@ muscles did get bigger, but that was about it. All I really had going for
 me was my attack power. I did supposedly have the mana capacity of
 a Demon God, for whatever that was worth, and thanks to my Eye of
 Foresight, I could go toe-to-toe with enemies a bit above my level.
-
-Page | 97
-
 But my body itself remained totally ordinary. I’d basically stand no
 chance against a truly powerful adversary.
 But I couldn’t expect the students here to figure all that out.
@@ -237,8 +222,6 @@ my tracks. What if the guys who’d bullied me in my previous life had
 started off this exact same way?
 That realization took all the fun out of it instantly. Whatever I’d
 accomplished so far in this life, the fact was that I’d spent my entire
-Page | 98
-
 last one at the very bottom of the totem pole. That was never going
 to change, even if my condition did cure itself. And if I forgot about
 it, I’d probably end up repeating the exact same mistakes I’d made
@@ -267,8 +250,6 @@ bragged about the quality of the staff here, but evidently he was all
 talk.
 Then again, maybe this was just how things were. I hadn’t
 encountered any magicians who specialized in Summoning during my
-Page | 99
-
 time as an adventurer, either. It seemed possible there weren’t
 many of them at all. Or maybe it was more like Barrier and Divine
 magic, where one specific country essentially monopolized the
@@ -298,8 +279,6 @@ experiments.
 “Hmm, sort of. They are an A-ranked member of the Guild,
 supposedly.”
 “Wow…” Based on what I’d learned about their structure, an Aranked member of the Magicians’ Guild was the equivalent of a
-Page | 100
-
 branch manager, while being S-ranked meant you were part of the
 central leadership group. Principal Georg was an S-ranked member,
 and the vice-principal was ranked B. “Doesn’t that mean they’re
@@ -331,8 +310,6 @@ Silent was also the one who’d proposed our official school
 uniforms. They had connections with designers and manufacturers
 back in Asura, and had arranged for them to be created there. The
 introduction of a universal uniform allowed the University to present
-Page | 101
-
 its student body as a single group with a common purpose, rather
 than a chaotic mixture of different tribes and races that happened to
 be occupying the same campus. It improved their public image
@@ -363,9 +340,6 @@ much more. I knew how badly hearing that would hurt.
 But when I heard Fitz speak Silent’s name, I quickly decided that
 the time had come. “Got it. Thanks, Master Fitz. I’ll see if I can track
 them down.”
-
-Page | 102
-
 I’d probably gotten a little cocky, in retrospect. I’d won the
 loyalty of a Blessed Child, beaten the two top delinquents in the
 school, earned the sympathy of its foremost genius, and even made
@@ -393,8 +367,6 @@ The back of the room was dominated by countless scattered
 piles of books and papers. Strange magic implements of unclear
 purpose were everywhere; magic stones and crystals lay in giant
 heaps. This was a laboratory, all right.
-Page | 103
-
 Someone sat near the very back of this cluttered space. When
 they turned to face me, I was struck speechless.
 “…Ah. We meet again.”
@@ -418,13 +390,7 @@ first idea where I was going.
 When I turned around, though, I found the girl following me. I
 didn’t understand why. Why hadn’t I gotten away from her by now?
 Was she that fast?
-
-Page | 104
-
 ![Illustration](illustration-105.jpg)
-
-Page | 105
-
 That wasn’t it, of course. I was just slow. I’d barely gotten
 anywhere, despite what my mind was telling me. It was just my heart
 dashing along at a hundred miles an hour.
@@ -450,9 +416,6 @@ embarrassing fashion.
 Someone was stroking my head gently. It was deeply
 comforting, for some reason. It almost felt like their hand was
 emitting some sort of healing energy.
-
-Page | 106
-
 I glanced upward to investigate, and found the face of Master
 Fitz. His hands were warmer than I would have expected. They were
 also oddly slender, soft, and feminine.
@@ -482,9 +445,6 @@ didn’t I? Or… ah, wait. You were nearly dead, weren’t you? I guess
 you wouldn’t remember, then.”
 That settled it. It was definitely her. This was definitely the girl
 who’d been travelling with Orsted. “W…Where’s Orsted?!”
-
-Page | 107
-
 “He’s not here,” she replied casually. “He’s a very busy man, you
 know.”
 He isn’t here? Really? Really really? It wasn’t like she had any
@@ -513,9 +473,6 @@ Dragon God. I imagine he was remembering all of that.”
 “The Dragon God…? Uh, one of the Seven Great Powers?”
 “That’s right.”
 “Are you the Dragon God?”
-
-Page | 108
-
 “Of course not. We just travelled together for a while.”
 Answering Fitz’s questions in a disinterested tone, the masked
 girl pushed back her hair with one hand. I’d only just noticed, but she
@@ -546,8 +503,6 @@ now.
 Slowly, I replied in Japanese. “I’m neither of them. I don’t
 recognize these names.”
 “I see. But you do speak Japanese, at least.”
-Page | 109
-
 “Huh?” said Fitz, peering down at the paper in confusion.
 “What… language are you two speaking? Rudeus?”
 “The two of us share a homeland, that’s all,” said Silent calmly.
@@ -578,8 +533,6 @@ nightmare of a world, but I’m stuck here for now.”
 If she’d been transported, our situations were actually rather
 different. I’d been reincarnated into a new body, with only my
 memories intact. But unless I was misunderstanding her, she’d
-Page | 110
-
 basically been warped here just as she was—in the same body, at the
 same age.
 “My name is Nanahoshi Shizuka, and I’m Japanese. I’ve been
@@ -612,8 +565,6 @@ Don’t worry, though—we’re on the same side.
 “Still, I wasn’t even sure there were others like me here until
 now. You’re the first other person from Earth I’ve met in this world,
 you know? It’s kind of comforting.”
-Page | 111
-
 Nanahoshi reached out to grasp me by the hand. Fitz frowned,
 but she didn’t even seem to notice. “Let’s find a way back home
 together, okay?”
@@ -626,5 +577,3 @@ world again.”
 “Uhm… Rudeus, Silent… would you two please talk in a language
 I can understand?” Fitz, of course, was even more lost than before.
 The mood in the infirmary was suddenly extremely awkward.
-
-Page | 112

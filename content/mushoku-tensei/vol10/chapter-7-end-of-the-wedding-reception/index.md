@@ -29,13 +29,7 @@ I wasn’t the only one flabbergasted. Cliff—and Elinalise—looked
 utterly dumbfounded, too.
 “Father told me that my grandmother was one of Rudy’s
 father’s companions,” Sylphie explained.
-
-Page | 113
-
 ![Illustration](illustration-114.jpg)
-
-Page | 114
-
 Had he really said that? Wait…that made sense, actually. Laws
 had said he and Paul became friends while he was helping guard the
 village. Maybe he’d figured out Paul’s connection to Elinalise through
@@ -65,8 +59,6 @@ He looked completely flustered, too. “Wh-what is it?”
 “Please take Miss Elinalise to one of the bedrooms on the
 second floor so she can rest.”
 “R-right. Yeah, I-I got it.”
-Page | 115
-
 “Sylphie, how about you continue your conversation with her
 after she’s calmed down?”
 “O-okay,” she said.
@@ -94,9 +86,6 @@ Time to step it up, Cliff. Do a good job comforting her, I thought.
 Badigadi never came over to congratulate us. He set himself in
 one corner of the room, bellowing out his usual “Bwahaha!” laugh,
 and kept the mood boisterous. I was grateful for his presence.
-
-Page | 116
-
 Chapter 7:
 End of the Wedding Reception
 
@@ -132,9 +121,6 @@ annoyance; she sighed in annoyance. In the end she ran to the
 bathroom just to escape him. When she re-emerged, she came
 straight over to where I was, looking agitated. “It’s about time for me
 to leave. That one’s annoying me.”
-
-Page | 117
-
 “All right, then. I’m sure you’re exhausted. Thank you for coming
 today,” I said.
 “I’ll be counting on your help again tomorrow. And one more
@@ -164,9 +150,6 @@ appropriate amount just to be sure. But it apparently hadn’t been
 enough. Before I knew it, two of the three wine casks I’d stashed in
 the basement were empty. I debated sending out for more, but
 before I could, Zanoba got hammered.
-
-Page | 118
-
 “Bwahaha! You sure are weak for a ‘Blessed Child’,” Badigadi
 chortled.
 “Ha ha ha…urgh, I’m ashamed. It seems I got carried away.”
@@ -196,9 +179,6 @@ depart. While they were doing that, I decided to check on Elinalise. I
 went up to the second floor and peeked into the guest room.
 I was greeted by an exciting display—no no, not the sexual kind.
 Just Elinalise using Cliff’s lap as a pillow. Apparently, he was done
-
-Page | 119
-
 comforting her, and they’d moved on to the lovey-dovey bits. I felt
 kind of envious. I’d have to do the same with Sylphie later.
 “Um, Mister Cliff, I’d like to talk to grandmo—I mean, Miss
@@ -228,9 +208,6 @@ chastity.
 “In any case, this is the perfect opportunity. Lord Rudeus, may I
 have a moment of your time?”
 Her words hinted at an ulterior motive, but I nodded anyway.
-
-Page | 120
-
 “Very well, then. Come this way.” As she spoke, Ariel quickly cut
 across the room and moved into the hallway. From there she
 proceeded to the front entryway, opened the door and headed
@@ -261,8 +238,6 @@ someone in the wrong spot and the worst came to pass, they could
 die. It wasn’t something you should hit someone with “for fun.”
 “Don’t worry,” Ariel said. “This is something Luke requested.”
 “Luke did?”
-Page | 121
-
 “I don’t mind if you use your full power to beat him senseless.”
 Without my magic, I was just an average swordsman. There was
 no guarantee I could beat him senseless.
@@ -293,8 +268,6 @@ killed.
 “Please,” Ariel said. Her voice was somber.
 What was this match going to prove? Maybe it was some kind of
 Asura Kingdom tradition. I could easily picture old man Sauros
-Page | 122
-
 saying, “If you want to take Eris as your wife, you must defeat me
 first!”
 But Sauros was dead.
@@ -324,14 +297,7 @@ in my simulations.
 After hearing my confirmation, Ariel said sharply, “Begin!”
 “Haaaaah!” Luke bellowed and kicked off from the ground. As
 the snow scattered, he launched his body toward mine.
-Page | 123
-
-Page | 124
-
 ![Illustration](illustration-125.jpg)
-
-Page | 125
-
 He was slow. No—compared to the average person, he probably
 wasn’t that slow. He was probably about as quick as Linia, but still,
 slow enough that I could predict his movements. He was nowhere at
@@ -360,9 +326,6 @@ at him.
 “Grr!” Luke punched the ground with his broken hand, then
 groaned in pain and cradled his arm.
 “Ellemoi, heal him.”
-
-Page | 126
-
 At the Princess’ command, one of her attendants raced over to
 him. She held his broken arm so close that her enormous breasts
 threatened to swallow it whole, and then cast healing magic.
@@ -393,8 +356,6 @@ situations together, we share a powerful bond.”
 “My apologies. It was a rude thing to ask.”
 “As long as you understand.” Ariel’s expression regained its
 usual composure. She looked toward the house, where Sylphie and
-Page | 127
-
 Elinalise were likely still talking. “Eventually I will return to the Asura
 Kingdom. There are only two paths from that point: Either I take the
 throne, or I die. There is a significantly higher probability that it will
@@ -426,8 +387,6 @@ chose to follow Ariel, I would be proud of her. But if I thought it was
 a fight she had no chance of winning, I would want to stop her.
 “Sylphie intends to stick with me to the end,” Ariel said. “But
 she’s married now, and if the two of you try your hardest, I’m sure
-Page | 128
-
 you’ll eventually have children. When that happens, I expect her
 resolve to follow me will wither of its own accord.”
 I wasn’t so sure about that. When that time came, would I even
@@ -457,4 +416,3 @@ front of me. “Luke suddenly challenged Rudeus to a duel! But leave it
 to Rudeus. He countered Luke with a single blow. Ahh, I wish I could
 show you the way that insufferable jerk cowered as he held his
 broken arm.”
-Page | 129

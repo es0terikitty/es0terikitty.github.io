@@ -33,9 +33,6 @@ nag?”
 “Since before I came back here!”
 “So you ain’t gonna listen to what your master tells you
 anymore?”
-
-Page | 216
-
 “But—ugh!”
 Ghislaine suddenly had a sword thrust at her. To an ordinary
 person it would have seemed as if the weapon just magically
@@ -67,8 +64,6 @@ He’s a monster beyond imagination. She cannot beat him with my
 teachings alone.”
 The man had a nostalgic look on his face as he finished speaking.
 He had actually fought the Dragon God himself, back before he was
-Page | 217
-
 called the Sword God, back when he was just a strong, yet arrogant
 Sword Saint. He lost miserably—to the point where he still wasn’t
 sure why his life had been spared, or more importantly, why all of his
@@ -100,8 +95,6 @@ his pupils.”
 Her expression turned more suspicious as she questioned the
 Sword God. “Why someone from the North God Style? I don’t see
 how their underhanded tricks would suit Eris.”
-Page | 218
-
 “Because the Dragon God will use them against her.”
 The doubt on Ghislaine’s face only deepened. She had never
 heard anything about the Dragon God being a swordsman of the
@@ -130,9 +123,6 @@ amicable relationship during my time here.” Auber also put a hand to
 his chest and returned the gesture.
 With that, Eris’ training moved on to the next stage. A year later,
 she would be recognized as a North Saint.
-
-Page | 219
-
 Extra Chapter:
 The Master Babysitter
 
@@ -164,9 +154,6 @@ Four girls occupied a table in the dining hall of an inn: Lilia, Norn,
 Aisha and Roxy. One of them was an adult, while two were young
 children. The last of their group looked like a child herself, but was
 actually a full-fledged adult.
-
-Page | 220
-
 “I don’t want to.” One among their number, Norn, was sulking.
 She carved up the food on her plate with her fork, but refused to
 carry it to her mouth. “I’m going with Father.”
@@ -198,8 +185,6 @@ her mind that the fight between Rudeus and Paul had been Rudeus’
 fault. Norn wouldn’t accept anything else.
 “You’re always like that. As soon as things aren’t going your
 way, you start pouting and whining. You wait for everyone else
-Page | 221
-
 around you to give in, and if anyone says anything you don’t like, you
 yell at them. How idiotic.”
 Norn clenched her teeth. She could do nothing but glare at her
@@ -231,8 +216,6 @@ Lilia refrained from pressing Aisha further. Her daughter was right,
 this time.
 “Miss Norn, the Begaritt Continent is an incredibly dangerous
 land,” Lilia said. “Of course, the master will act cautiously and do as
-Page | 222
-
 much as he can to ensure your safety. However, mistakes do happen.
 If you were to get injured as a result, I am sure it would cause him
 immeasurable grief.”
@@ -259,9 +242,6 @@ disappeared outside. Roxy also scrambled after the two, but it was
 too late. By the time they emerged from the inn, the petite Norn had
 already disappeared into the crowd.
 “Hmph.” Left behind, Aisha snorted in displeasure.
-
-Page | 223
-
 Norn ran through an undulating mass of people, her eyes full of
 tears threatening to spill at any moment. She was frustrated,
 irritated, and she felt pathetic. This wasn’t the first time that things
@@ -293,8 +273,6 @@ of alcohol. He was drunk.
 people did. She’d seen Paul drunk often enough when he was
 running from his problems. Although his anger was never directed at
 her, it was still enough for a young Norn to understand. Drunk people
-Page | 224
-
 are terrifying; drinking is bad. She’d accepted the fact that Paul
 couldn’t function without his liquor, but her father was the only
 exception.
@@ -323,9 +301,6 @@ The passerby grabbed the man’s arm, the one keeping Norn
 suspended in the air. He had such strength in his grip. The bearded
 man’s arm was almost as thick as a normal person’s torso, and yet
 the passerby twisted it back like there was no resistance at all.
-
-Page | 225
-
 “Ow, ouch, ouch, ouch!” Unable to withstand the pressure, the
 bearded man relinquished his grip on Norn. She landed on her butt,
 looking up at the man who had saved her.
@@ -355,8 +330,6 @@ bowed at her accuser. “I-I’m sorry.”
 “Tch. It’s fine; it was my fault for bothering with you. Come on,
 let’s get out of here.”
 “R-roger that, Boss!”
-Page | 226
-
 The two men disappeared into the crowd. Norn slowly slid to
 the ground. All the strength in her body fled when the cloud of fear
 finally lifted and a wave of relief swept in.
@@ -384,4 +357,3 @@ father as quickly as possible, but when he mentioned it, she shook
 her head firmly. Ruijerd thought that there might be some issue
 between her and Paul, so he decided instead to hear out her side of
 the story.
-Page | 227

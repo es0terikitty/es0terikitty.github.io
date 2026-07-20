@@ -37,8 +37,6 @@ some free space in my bags to work with. I could technically bring
 along some things I didn’t really need.
 That didn’t mean it was smart to weigh myself down with
 nonsense, though. It was probably best to travel light. We’d be
-Page | 193
-
 reaching Bazaar in a week, so it wasn’t like we’d be wandering the
 wilderness for long. Still, I decided to bring along a book that
 contained some specifics on teleportation magic, given the potential
@@ -66,9 +64,6 @@ Sylphie and my sisters.”
 could even assign Ginger to protect them in your absence.”
 I snorted. “Is it just me, or are you trying to get her out of your
 hair?”
-
-Page | 194
-
 Zanoba glanced over in Ginger’s direction, then leaned over to
 whisper in my ear. “The woman is something of a nag, Rudeus. Ever
 since I was a child, she’s lectured me about every single mistake I
@@ -97,9 +92,6 @@ while I’m gone, okay, Julie?”
 “Yes, Grandmaster. I’ll do my best.”
 Julie wasn’t stumbling over her words much at all lately. We had
 Ginger to thank for that as well.
-
-Page | 195
-
 At this point, the woman in question came back over to us,
 leading a horse along by the reins. “Here you are, Sir Rudeus. I
 believe this one should serve your needs.”
@@ -128,9 +120,6 @@ wasn’t around, but there wasn’t anything I could do about that.
 Well, whatever. I’d checked every item off my to-do list, and I’d
 sworn everyone who knew about the teleportation circles to secrecy.
 We were good to go.
-
-Page | 196
-
 On the day of our departure, my wife and two sisters saw me off
 at the front door.
 “I’ll be back before you know it, Sylphie.”
@@ -141,13 +130,7 @@ was small and radiated warmth. It felt like hugging an affectionate
 little animal sometimes.
 But today, her shoulders were trembling, and she was sniffling
 softly. This wasn’t making it too easy to leave, honestly.
-
-Page | 197
-
 ![Illustration](illustration-198.jpg)
-
-Page | 198
-
 …Should I just stay behind after all? Maybe I could wait for my
 child to be born before I help the old man.
 I mean, think about it. Normally, it would have taken me
@@ -178,9 +161,6 @@ Elinalise chose this moment to ride up dramatically on our
 horse. He was carrying two full weeks of provisions on his back, but
 didn’t even seem to feel the weight. Our Matsukaze really was a
 beast.
-
-Page | 199
-
 “Be brave, dear, you’ll be all right! You don’t need a husband
 hanging around to give birth, anyway. Trust me, I’m speaking from
 experience on this one.”
@@ -207,9 +187,6 @@ anything fishy! Really! I had to hold on tight so I wouldn’t fall off—
 that was all.
 “All right, everyone. See you soon.”
 At last, our journey got underway.
-
-Page | 200
-
 It took five days for us to reach the forest to the southwest of
 Sharia.
 During that first leg of the journey, we were accompanied by an
@@ -240,9 +217,6 @@ that their branches blocked out the sun. Kind of a gloomy place,
 really. The ground was thick with roots, so it often felt like you were
 walking on top of a lumpy, uneven wooden floor. You had to watch
 your step constantly. The bigger trees had much larger roots, and in
-
-Page | 201
-
 some places, they even formed natural staircases of sorts. It was
 almost like an outdoor dungeon.
 Even an experienced ranger could easily get lost in a place like
@@ -272,9 +246,6 @@ Elinalise said. “Let’s take our positions.”
 Still, this wasn’t nothing to for veteran adventurers like us. We
 were alert, of course, but calm. Elinalise took the lead, and I followed
 behind her at a set distance.
-
-Page | 202
-
 As you might expect from an elf, she knew how to navigate this
 terrain. And thanks to her excellent hearing, we had advance
 warning whenever enemies tried to ambush us.
@@ -306,8 +277,6 @@ reminded me a little of the magic symbol that appeared on some
 anime character’s forehead when he powered up, although the
 specific details were totally different. Maybe they were both
 supposed to be representations of a dragon’s face.
-Page | 203
-
 Still…had I seen this crest on its own before?
 Oh, right. It looked a lot like the symbol on those papers I’d
 found in the basement of my house. There were some subtle
@@ -338,8 +307,6 @@ disappeared, leaving a stone building in its place.
 “Whoa!”
 “I’ve never seen an enchantment like this,” said Elinalise, staring
 at the structure in astonishment.
-Page | 204
-
 It wasn’t anything I’d seen before, either. But the way that
 tablet had sucked mana out of me was familiar. The thing was
 probably an oversized, stationary magical implement. If we broke it
@@ -370,8 +337,6 @@ labyrinths, do you, Rudeus?”
 an actual labyrinth.”
 “In that case, make sure you follow close behind me. Only step
 where I do.”
-Page | 205
-
 “Sure, I can do that. But, uh, I don’t think this place is a
 labyrinth, is it?”
 “It’s better to be safe than sorry.”
@@ -401,9 +366,6 @@ relatively recently. And by somebody, I mean Orsted.
 The teleportation circle was supposedly going to drop us in the
 middle of a desert, and this region was blanketed in heavy snows for
 a good part of the year. I had to imagine it would be hard to buy
-
-Page | 206
-
 appropriate clothing for that weather in Begaritt, which was
 probably why he’d left these here for his next visit.
 If I’d known we could leave things behind like this, I could have
@@ -433,8 +395,6 @@ surprised. If someone wanted to trap this place, they’d probably
 have put a few at the entrance too.
 “I’ll head down first. Watch my back, Rudeus.”
 “Got it.”
-Page | 207
-
 Elinalise took the stairs down very slowly and carefully. I made
 sure to follow exactly in her footsteps. Oddly, the ruins didn’t get any
 darker as we descended.
@@ -464,9 +424,6 @@ her days as an adventurer?
 “Ah. I suppose not.”
 Elinalise shook her head and looked at the magic circle again.
 This time, there was a grimly determined expression on her face.
-
-Page | 208
-
 “If this thing drops us in the middle of the ocean,” I added
 helpfully, “let’s make sure Nanahoshi regrets it.”
 “All right,” said Elinalise. “I’ll hold her down while you jam it in.”
@@ -496,9 +453,6 @@ these kinds of mistakes.
 without even trying to,” Elinalise sighed. “It’s simply criminal to be
 this beautiful, I suppose.”
 “Yeah. Better atone for your misdeeds by filing for divorce.”
-
-Page | 209
-
 “Hey! Come on, now you’re just being rude.”
 That was better. If we turned the awkwardness into a joke, it
 defused the sexual tension. Elinalise really knew how to handle these
@@ -506,9 +460,6 @@ sorts of situations.
 “Okay, then, shall we go?”
 “Let’s do it.”
 The two of us stepped into the teleportation circle together.
-
-Page | 210
-
 Chapter 10:
 Natural Predator
 
@@ -543,9 +494,6 @@ if it was somehow absorbing mana from the air around it? If there
 was a way to do that, I really wanted to know it.
 “Oh, wait. We should check to make sure we can get back to the
 other side, right?”
-
-Page | 211
-
 “That seems prudent, yes.”
 This was supposedly a two-way teleporter, but we had no way of
 knowing if it worked properly or had any limitations. If we’d taken a
@@ -576,8 +524,6 @@ implement, but we’d made out here easily enough. I wanted to think
 the return trip would be just as smooth.
 Five minutes passed. Then ten. Then fifteen.
 “She’s sure taking her time… Hmm?”
-Page | 212
-
 Just as I was beginning to get concerned, Elinalise finally showed
 up again. It was like watching the teleport happen in reverse: she
 popped up out of the floor in a fraction of a second.
@@ -606,9 +552,6 @@ Feeling somewhat reassured, I made my way over to the stone
 stairs leading upward.
 The instant we reached the first floor, I noticed a sharp increase
 in the temperature.
-
-Page | 213
-
 The air was brutally hot. It didn’t feel too humid, at least, which
 made sense if we were in the middle of a desert, like we were
 supposed to be.
@@ -638,5 +581,3 @@ there wasn’t anything else of note. Orsted wasn’t lurking on the
 premises either, of course.
 After exploring the ruin thoroughly, we set foot outside for the
 first time.
-
-Page | 214

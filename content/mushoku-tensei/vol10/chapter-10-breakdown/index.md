@@ -37,8 +37,6 @@ know,” I tried.
 Nanahoshi did not reply.
 Was it my fault? No, all I did was provide the mana. I didn’t
 touch anything else. Anyone could’ve done what I did as long as they
-Page | 162
-
 had the mana for it. So even if the experiment failed because of me,
 it would be Nanahoshi’s fault for not briefing me enough.
 Nanahoshi said nothing.
@@ -70,8 +68,6 @@ ground. Then she started tearing at her face and stumbled, slamming
 into a wall. She punched it, then tripped again on the spilled
 contents of the jar and finally collapsed onto the floor, where she
 grabbed fistfuls of sand that had spilled out of the jar and hurled
-Page | 163
-
 them at the ground. Then she stood and started tearing at her hair
 instead.
 Panicked, I rushed over to her and pinned her arms behind her
@@ -102,8 +98,6 @@ calm down. “Are you okay?” I asked.
 Nanahoshi didn’t respond.
 I put my arm around her shoulder and practically dragged her to
 her feet. Then I hauled her out of the research room.
-Page | 164
-
 Maybe we should lock it. I paused to consider. Nah, we’ll worry
 about that later. It should be fine for one day. Probably.
 I guided us toward the fifth-year classrooms where Sylphie
@@ -131,9 +125,6 @@ people. They split like an ocean before him. I followed behind.
 In the infirmary, we let Nanahoshi rest on one of the beds. Her
 face was vacant. What a terrible expression. It almost looked as if the
 shadow of death were upon her. We informed the resident healer
-
-Page | 165
-
 that it was nothing serious. Psychological problems couldn’t be
 solved by healing magic, after all.
 Just as my gaze began to drift to my feet, Julie grabbed the hem
@@ -164,8 +155,6 @@ research because she wants to.”
 It wasn’t like she did it begrudgingly, but she wasn’t exactly
 passionate about it, either. It was just something she had to do so
 she could go home. It had been six years since the Displacement
-Page | 166
-
 Incident, and what she’d thought would be an important step
 forward had failed. She’d looked back and realized that six years had
 already passed and she hadn’t progressed at all.
@@ -192,9 +181,6 @@ letting her rest at our house today.”
 office?”
 “I think it’d be better for her to be with someone she knows
 when she wakes up.”
-
-Page | 167
-
 At any rate, I couldn’t leave her alone. Nanahoshi was young
 and this had clearly shaken her to the core. When people were
 pushed to their limits, they could do extreme things. Things like
@@ -223,9 +209,6 @@ We left the school and hurried back to our house. Zanoba
 volunteered to transport Nanahoshi. This time he carried her
 piggyback, which seemed to suit him better, even if he was a prince.
 “Sorry for the trouble, Zanoba.”
-
-Page | 168
-
 “No, this is the only thing I can do to help.” He easily carted the
 listless Nanahoshi around on his back. Julie toddled along behind us.
 All I had to do was give Zanoba a drill and a diving suit and people
@@ -255,9 +238,6 @@ anyone. Just continuously drawing those magic circles.
 “It’s not your fault, Master. Try not to let it affect you so
 deeply.”
 “Yeah, I know.”
-
-Page | 169
-
 Apparently Zanoba had taken my sigh to mean something
 different. He had a serious expression plastered on his face as he
 looked at me. It seemed he was more worried about me than he was
@@ -289,8 +269,6 @@ Since she wasn’t moving, I went back down to the first floor.
 seem like the kind of person who’d had any experience with
 depression. He had his moments of weakness, sure, but he was
 generally an optimist.
-Page | 170
-
 “Who can say? At any rate, you were a big help, Zanoba.”
 “No, you’re the one always taking care of me, after all. This was
 the least I could do.” That was Zanoba for you. I could always count
@@ -321,12 +299,7 @@ Zanoba went home a short while after that. With nothing else to
 do, I just spent my time reading in Nanahoshi’s room as she slept. I
 would want to be left alone if I were in her position. But she’d
 already been alone up until this point. Always alone.
-Page | 171
-
 I stayed with her until Sylphie got home.
-
-Page | 172
-
 Chapter 11:
 Three Heads Are Better Than One
 
@@ -363,8 +336,6 @@ afraid she wouldn’t be able to go on living. I tried my best to
 encourage her, but she was just in a daze the entire time. I didn’t
 even know if she was listening to what I was saying.
 But just as I started to doubt that she was…
-Page | 173
-
 “I thought I’d covered everything,” she blurted suddenly one
 day.
 Instead of responding, I just listened.
@@ -396,8 +367,6 @@ The next day, I called Cliff and Zanoba to the research room.
 People said three heads were better than one, so I was going to use
 the power of three geniuses’ brains. Since I’d summoned Cliff,
 Elinalise had naturally tagged along. She seemed to frequent his
-Page | 174
-
 research room, but what about her classes? At this rate she’d be
 lucky if she weren’t expelled.
 “It’s hard to believe someone like Silent is in that kind of state.
@@ -428,8 +397,6 @@ this here…” Cliff looked at the circle and started mumbling to
 himself. “This here, that there… Maybe I could make more sense of it
 if I’d paid more attention to my theory…”
 “So, Master, what kind of magic circle is this?” Zanoba asked.
-Page | 175
-
 “This is what Silent was studying—summoning circles. But she’s
 gotten a little stuck, so I wanted to get your input to help her.”
 Zanoba tilted his head. “But summoning magic is out of our
@@ -460,4 +427,3 @@ Cliff looked doubtful. “A multi-level structure? What are you
 talking about?”
 “With the doll I’m researching, there’re several layers of magical
 circles combined together to produce a single effect. That said, I have
-Page | 176

@@ -43,8 +43,6 @@ own. I wanted to live out the rest of my life In this world.
 I didn’t enjoy hearing her talk about how “tedious” and
 “ridiculous” she found it, but I could understand how she felt. She
 just didn’t fit in, basically. She’d never found a place in this world. I
-Page | 113
-
 knew how it felt to be in that position, and I understood the
 temptation to look at everything around you with boredom and
 contempt. I wasn’t planning to try and “correct” her point of view.
@@ -75,8 +73,6 @@ Amazingly, it had only taken her a year to master the Human
 Tongue. Orsted was cursed to be hated by everyone who saw him, so
 I guess she needed to learn how to do her own talking as quickly as
 possible. Necessity can be a great motivator.
-Page | 114
-
 In total, Nanahoshi spent two years in Asura. In that time, she
 earned money with her knowledge of our world’s cuisine and
 clothing, spent that money to obtain power, and then used that
@@ -107,9 +103,6 @@ startled when he just attacked me like that.”
 going on. Also, he said it’s best to take out the Man-God’s apostles
 quickly, because they cause all sorts of trouble if you let them run
 wild.”
-
-Page | 115
-
 I could really do without people murdering me over feuds I
 wasn’t even part of. And for the record, I wasn’t that guy’s “apostle,”
 either. I’d been basically doing what he told me for a while now,
@@ -139,9 +132,6 @@ ruins that date back to the Human-Demon War.”
 Teleportation is apparently a forbidden form of magic, so he didn’t
 want me talking about this too carelessly.”
 “…Ah. Got it.”
-
-Page | 116
-
 “In any case, I was just tagging along with him. I don’t even
 remember where most of them were exactly.”
 Rather than trekking all around the world, they’d basically just
@@ -171,8 +161,6 @@ into this one. Even putting aside the “another world” bit, it was
 theoretically impossible to summon a human being from anywhere.
 Still, Nanahoshi finally had something to work off. She decided
 to set up a new base of operations at the Ranoa University of Magic,
-Page | 117
-
 where she could thoroughly research Summoning at her leisure. An
 enormous donation from her savings was enough to earn her a Branked membership at the Magicians’ Guild and her position as a
 special student.
@@ -203,8 +191,6 @@ causality” or something. “…Is there really anything like that here?”
 “I have no idea. It can’t hurt to be careful, though.”
 I felt like those issues popped up more in time-travel stories
 where you had people jumping back into the past. It didn’t seem like
-Page | 118
-
 something we really needed to worry about, since we’d landed in a
 totally different world. But whatever. It was her choice, at the end of
 the day.
@@ -234,9 +220,6 @@ Hm. What did that say about me? I’d learned almost everything I
 knew about magic from the people of this world… Maybe it didn’t
 matter that much, though. I wasn’t looking to achieve anything
 revolutionary, the way she was.
-
-Page | 119
-
 “And of course, we don’t have any mana,” continued
 Nanahoshi. “It gets frustrating when they’re constantly assuming
 that you do.”
@@ -267,9 +250,6 @@ standards were probably too high. I could see her being one of the
 cutest girls in her class back in Japan.
 “It’s been about five years since I arrived in this world, but I
 haven’t aged at all.”
-
-Page | 120
-
 Five years should have changed her at least slightly, but she still
 looked sixteen or seventeen. Apparently, her body really wasn’t
 getting any older. “Well… that sounds like a bit of a silver lining, at
@@ -301,8 +281,6 @@ of the circle.
 As a general rule, the magical paint would evaporate after a
 single use. You often needed some very specific things to make it,
 and the list of ingredients varied depending on the nature of the
-Page | 121
-
 spell. In particular, large-scale spells at the King-tier level or above
 required some very unusual catalysts. You’d usually need the
 financial backing of a country to get your hands on everything you
@@ -333,9 +311,6 @@ ancient ruin.
 This had been the state of affairs for some time, in fact… until
 Nanahoshi arrived to shake things up. She’d analyzed the patterns of
 the known magic circles, drawn up her own attempts, and carried
-
-Page | 122
-
 out countless experiments. Eventually, she’d succeeded in creating
 her own brand-new patterns.
 This was all seriously impressive. The more she talked, the more
@@ -366,8 +341,6 @@ wonderful, some painful. But I was pretty satisfied with my life right
 now, all things considered. If someone tried to drag me back “home”
 after all this time, I wouldn’t go without a fight.
 “I see. I suppose you must have had a good, long life…”
-Page | 123
-
 Nanahoshi was misinterpreting the situation slightly, but
 whatever. It wasn’t like I’d told her that I was the smelly loser who’d
 jumped in front of that truck at the last moment. All I’d said was that
@@ -398,8 +371,6 @@ that sounds good to me. I accept.”
 again.”
 “I know what you mean. Nobody gets any of my references over
 here.”
-Page | 124
-
 Nanahoshi cleared her throat and resettled herself in her seat.
 She took three rings out of her pocket and slipped them on one by
 one. Was there some point to all this?
@@ -429,9 +400,6 @@ learned from Fitz that I’d been one of those affected by the calamity.
 brought me here. In effect…” Nanahoshi paused for a moment
 before continuing. “In effect, it happened because of me.”
 Right. Not a huge surprise.
-
-Page | 125
-
 I’d been anticipating those words for a while now. Summoning
 and Teleportation were similar in many ways, and Nanahoshi had
 apparently been summoned here the moment we were teleported.
@@ -462,9 +430,6 @@ He’d lost people he loved in that disaster. After five years, he’d
 probably come to terms with that loss to some degree. But that
 didn’t mean he could stay calm when confronted by the person who
 was responsible for it.
-
-Page | 126
-
 Based on what I’d heard so far, though, the Displacement
 Incident wasn’t Nanahoshi’s fault. Apart from everything else, I was
 right there with her in the moment both of us were likely summoned
@@ -495,8 +460,6 @@ was summoned here because of it, but I have no idea who made it
 happen, what their motives were, or why it led to such an enormous
 disaster. No one does.”
 “Orsted didn’t have any theories, either?”
-Page | 127
-
 “No. He just said it was unprecedented.”
 Well, if a so-called god couldn’t figure it out, we probably
 weren’t going to find any answers, either. I seemed to remember the
@@ -526,9 +489,6 @@ what happened.”
 research.”
 “If your research progresses far enough, do you think you’ll
 figure out the truth about the Displacement Incident?”
-
-Page | 128
-
 “I should be able to explain what happened on a theoretical
 level, at least…”
 I nodded thoughtfully. The way she cautiously clarified her
@@ -554,9 +514,6 @@ I told him that she’d been brought to this world by force, and was
 desperate to make her way back home.
 Once I was finished, though, he asked me a slightly odd
 question. “Anyway, Rudeus…what do you think of her?”
-
-Page | 129
-
 The question was a slightly tricky one. It was easy for me to
 believe her story, since I’d been reincarnated here myself, but it
 must have sounded seriously outlandish to Fitz. From the way
@@ -584,5 +541,3 @@ partnership.
 There were still dozens of questions I wanted to ask her, but
 there was no need to rush things. I’d just have to work my way down
 the list one by one.
-
-Page | 130

@@ -38,8 +38,6 @@ back down. “If this is all you are capable of, then you’re not a warrior
 yet in my eyes,” he’d told his son before he left.
 It was a common mindset among warriors. They tried to keep
 their loved ones far from battle to protect them. But ultimately,
-Page | 228
-
 Ruijerd was the one who had been unworthy as a warrior. His son
 had been the true warrior. It was his son, after all, who defeated
 Ruijerd when the demonic spear he wielded made him go berserk. It
@@ -71,8 +69,6 @@ have to bear with your circumstances right now.” His words were
 clumsy. He wasn’t conveying what he wanted to very clearly.
 But Norn understood. Strange as it was, she found meaning in
 his words. They resonated differently from what Lilia, Aisha, and the
-Page | 229
-
 other adults had said to her before, perhaps because Ruijerd’s came
 from a place of positivity rather than negativity.
 “Ugh.” Norn pursed her lips and looked downwards.
@@ -101,9 +97,6 @@ hold down the hat on her head as she ran toward them.
 his hand to his side and stood up.
 Norn felt a bit sad as his warmth disappeared. She followed him
 and stood as well. “Um…” He had already turned his back toward
-
-Page | 230
-
 her, but she called out to him in a loud voice. “Please tell me your
 name!”
 He glanced over his shoulder. The knot in his headband had
@@ -131,9 +124,6 @@ is poison to the Migurd Tribe, she’d once seriously thought. She’d
 conquered that fear during her time as Rudeus’ home tutor,
 however, embarrassed by the thought of being picky about her food
 in front of him.
-
-Page | 231
-
 The second thing she hated was children. Human children
 between five to fifteen years of age, specifically. Especially males.
 They didn’t listen. They acted hastily, based on their whims, and
@@ -166,8 +156,6 @@ why she was on such high alert when she discovered someone was
 calling themselves Dead End in Wind Port.
 Now, several years later, she’d run into someone from the
 Superd Tribe, just as she’d been running around the city looking for
-Page | 232
-
 Norn and finally thought she’d found the girl. The person before her
 was the same bald man she’d spotted at Wind Port. He had a chalkwhite, three-pronged spear in his hand. In the next second, his
 headband fell away, exposing the red jewel lying beneath.
@@ -198,8 +186,6 @@ Shaken by how casually Lilia had greeted him, Roxy asked her,
 “Uh? Um, you know him?”
 “Haven’t you heard? Lord Ruijerd is the one who escorted Lord
 Rudeus back to the Asura Kingdom…”
-Page | 233
-
 “Oh.” She had heard. In fact, she’d even heard that the Dead
 End she saw in Wind Port was the very same one who’d escorted
 Rudeus. But she’d never honestly believed that he was an actual
@@ -227,8 +213,6 @@ on the path to redemption now, that didn’t mean he could be
 trusted with a complete stranger’s loved ones.
 Roxy was partially against it. She knew she shouldn’t judge
 people based on appearances or preconceived notions. It was just
-Page | 234
-
 that… this was the Superd Tribe they were talking about. Even after
 she understood that Ruijerd didn’t present them any danger, she still
 remained cautious.
@@ -260,9 +244,6 @@ leg superimposed over his vision. Norn was so shy with people that
 she hadn’t warmed up to any adults other than him. Despite that,
 there she was, leaning against Ruijerd as if he were her father
 instead.
-
-Page | 235
-
 Then again, Ruijerd was the one who saved her. When that
 drunk came at her and she was crying, desperate for help, Ruijerd
 had stepped in as if it were his duty. No doubt it was much the same
@@ -280,9 +261,6 @@ then Paul didn’t know what was real anymore.
 “Then I’ll leave it to you.” Paul extended a hand. Ruijerd took it
 and they exchanged a firm handshake.
 That was how Ruijerd became Norn and Aisha’s bodyguard.
-
-Page | 236
-
 About the Author:
 Rifujin na Magonote
 
@@ -293,9 +271,6 @@ gained readers’ support, and within one year of publishing on the
 website, became #1 on the site’s combined popularity rankings. “If
 you want to get married and be happy, it’s important to put in effort
 even after you get married,” said the author.
-
-Page | 237
-
 Thank you for reading!
 Get the latest news about your favorite Seven Seas books and brandnew licenses delivered to your inbox every week:
 
@@ -303,11 +278,5 @@ Sign up for our newsletter!
 Or visit us online:
 
 gomanga.com/newsletter
-
-Page | 238
-
 Download all your fav Light
 Novels at
-
-
-Page | 239

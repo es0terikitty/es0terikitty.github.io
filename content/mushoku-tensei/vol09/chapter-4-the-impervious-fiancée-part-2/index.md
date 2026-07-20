@@ -43,8 +43,6 @@ soldiers already garrisoned in the city of Sharia joined all the local
 adventurers and members of the Magic Guild and surrounded the
 campus. If it came to the worst, they were ordered to slow down the
 Demon King until the main forces could arrive.
-Page | 67
-
 However, the Demon King’s purpose in coming here remained a
 total mystery. It wasn’t difficulty to identify him. There was only one
 Demon King with jet-black skin and six arms: Badigadi the Immortal.
@@ -80,8 +78,6 @@ have to admit that much. But we were talking about a Demon King
 here. That was a couple levels above what pretty powerful could deal
 with. It felt like the universe was punishing me for getting cocky. I
 wanted to run screaming for the hills, honestly.
-Page | 68
-
 I looked behind us and saw that we’d attracted a huge crowd of
 rubberneckers. It seemed like an even mix of male and female
 students, with a good number of professors as well. If I turned tail
@@ -113,8 +109,6 @@ find.
 “Mm. I hurried over here because I know you humans are
 always in a rush, but you seem to be quite composed, boy. I’d expect
 no less from someone who intrigued my fiancée.”
-Page | 69
-
 “Your fiancée… by which you mean, uh… Empress Kishirika,
 yes?”
 “Indeed,” Badigadi nodded firmly.
@@ -146,8 +140,6 @@ truly hilarious joke. “Bwahahahaha! Don’t be modest, boy! I’ve heard
 all about that astonishing pool of mana you’ve got inside you.”
 Astonishing felt like a strong word. Yes, it was becoming obvious
 that I had way more mana than most people did. But surely it wasn’t
-Page | 70
-
 anything impressive enough to make a genuine Demon King jealous…
 right?
 Come to think of it, though, Kishirika had made some comment
@@ -178,8 +170,6 @@ largest ever.”
 “Oh, come on. That can’t be right.”
 Despite my mild protestations, my heart still jumped with
 excitement. After all, I was talking to a Demon King here, someone
-Page | 71
-
 with centuries of experience in battle. It almost felt like a pro athlete
 telling me I had “potential” or something.
 “I don’t know the truth of it myself. Kishirika can be a little
@@ -210,8 +200,6 @@ at your word on that one, okay? No violence, please…
 “He’s someone who appears in my dreams sometimes.”
 Folding his upper set of arms, Badigadi began to stroke his chin
 thoughtfully. “Hmm, I see. Your dreams, eh?”
-Page | 72
-
 “Do you know something about him, your Majesty?”
 Badigadi paused for a moment, apparently deep in thought,
 then shook his head. “I can’t say! I think I’ve heard the name before,
@@ -242,8 +230,6 @@ As we laughed, the group of spectators behind us started to get
 a little rowdy. I turned back to see what was going on. It looked like
 there was some sort of commotion in the middle of the crowd. I
 could barely pick out the sounds of shouting voices.
-Page | 73
-
 “Let me go! I need to give him his staff!”
 “Stop it! If you give it to him, he’ll have to start the duel!”
 “But what if the duel starts anyway? Are you just going to stand
@@ -272,9 +258,6 @@ Why did this guy have to look so damn cute when he laughed,
 anyway? He was doing weird things to my heartbeat.
 “Hah… Anyway, here you go. Good luck, Rudeus… just don’t
 push yourself, okay? If you realize you can’t win, then just apologize
-
-Page | 74
-
 and run for it. You’re up against a Demon King here. No one’s going
 to blame you. Your life’s more important than your pride.”
 Nodding, I took Aqua Heartia from Fitz. It had been a while
@@ -304,9 +287,6 @@ Did that mean he wasn’t going to kill me? No, it wasn’t safe to
 assume anything. This guy seemed careless enough he might
 accidentally knock my head off, assuming anyone with lots of mana
 could take a hit or two.
-
-Page | 75
-
 I considered saying something. Could it hurt to ask him for a
 non-lethal duel…?
 Badigadi stood there casually, hands on his hips. He wasn’t
@@ -337,8 +317,6 @@ amuse me!”
 “Well, a life’s a tragic thing to waste, don’t you think?” I said.
 “Ah, yes. You humans die so quickly as it is! I hear many of you
 feel that way!” the Demon King replied with a cackle. “But why are
-Page | 76
-
 you so sure you’ll lose? One would think such a massive pool of
 mana would lend a man some confidence.”
 “I was nearly killed by someone called the Dragon God not too
@@ -367,9 +345,6 @@ expression. “What would that be?”
 no more. Use the spell that hurt the Dragon God, perhaps. Should it
 manage to pierce my battle aura and do me harm, then you win. If I
 am undamaged, then I win. How does that strike you?”
-
-Page | 77
-
 Ooh. Sounds good to me! I couldn’t have asked for a better
 offer, really. I wouldn’t even have to get my face punched in,
 though? “Uh, sure, but isn’t that a little one-sided?”
@@ -399,9 +374,6 @@ how I made a figurine. But I focused entirely on its hardness, ignoring
 properties like toughness and resilience. I shaped it like a spindle,
 tapering to a fine point, and added a pattern of grooves.
 Modifications: Rapid rotation.
-
-Page | 78
-
 The faster it spun, the better. I focused until my bullet was just a
 blur. I had no idea how many rotations per second I was even looking
 at.
@@ -417,13 +389,7 @@ arms smacking me in the face.
 “Okay then. Here goes.”
 “Excellent! Have at me!”
 I fired off the spell.
-
-Page | 79
-
 ![Illustration](illustration-80.jpg)
-
-Page | 80
-
 My bullet tore through the air with a high-pitched whine. There
 wasn’t any recoil; for whatever reason, there never was with magic.
 But that didn’t make its power any less real.
@@ -453,8 +419,6 @@ him his best shot! He didn’t seem worried at all! What the hell?!
 I needed to calm down. And make sure I understand exactly
 what I’d done.
 Slowly, fearfully, I turned around to look at Badigadi once again.
-Page | 81
-
 “Bwahahahaha! I am REVIVED!”
 I very nearly fired off another Stone Cannon immediately.
 Badigadi was standing right in front of me, alive once again…
@@ -484,9 +448,6 @@ it up into the air like a referee announcing the winner of a boxing
 match. “Uh…”
 Well, whatever. If he says I win, I guess I win.
 “I wonnnn!”
-
-Page | 82
-
 The spectators responded to my cry with total silence. For
 whatever reason, nobody made a sound.
 After a long moment, Badigadi nodded to himself. “They aren’t
@@ -513,9 +474,6 @@ students and beastfolk alike, challenged me to a duel, allowed me to
 claim victory, and then knocked me unconscious. That was all we had
 to go on, and it wasn’t enough to make sense of the situation. Still, it
 seemed no one Badigadi knocked out had actually died from their
-
-Page | 83
-
 injuries. He was supposedly a peaceful guy by nature, so that
 probably made sense.
 A number of very important people were trying to figure out his
@@ -546,8 +504,6 @@ triumph.”
 I shook my head. “He just let me spar with him, that’s all.” My
 spell had broken through his aura, true. But he hadn’t even tried to
 evade it or defend himself. And given the fact that he could
-Page | 84
-
 regenerate completely when defeated, I couldn’t possibly have
 beaten him in a real battle.
 “You’re too modest by far!” said Zanoba with a chuckle.
@@ -575,9 +531,6 @@ be staying there for some time, so I should go ahead by myself.
 Demons like him tend not to pay much attention to the passage of
 time, you know? I thought he’d be there for another decade or so at
 least, and it’s only been two years since we parted…”
-
-Page | 85
-
 You probably would get pretty careless with time after living for
 a few thousand years, wouldn’t you? I know the years slipped by way
 faster after I passed 30 in my previous life… although that wasn’t
@@ -605,9 +558,6 @@ he was too fired up to put his thoughts into words. “You’re… You’re
 really strong, Rudeus!”
 Wow. Not very eloquent today, huh?
 “I never thought you’d take him down in one shot like that!”
-
-Page | 86
-
 “Well, we agreed that I got to fire off one free attack at him, and
 its power would determine who won. So I just used the strongest
 spell I have.”
@@ -638,8 +588,6 @@ think of it, we hadn’t discussed magic like this very often, had we?
 “Oh, I’m sorry to go on like this. You must be tired, right? I didn’t
 mean to hold you up. Go get some rest.”
 “Uh, right. Thanks.”
-Page | 87
-
 With that said, Fitz broke away and trotted off toward the
 school buildings. I’d sort of wanted to keep the conversation going,
 but he was probably busy. In the aftermath of that incident, the
@@ -663,9 +611,6 @@ once again in their seats. Badigadi had dealt with all their suitors, so
 it was apparently safe for them to venture out to class again.
 “You’re the man, Boss! Thanks again, mew. We’ll give you
 somethin’ for the trouble soon!”
-
-Page | 88
-
 “Didn’t expect a Demon King to show up, though. We’re too
 damn sexy for our own good, yeah? Well done protecting us. I’ll give
 ya my permission to squeeze Linia’s breasts.”
@@ -696,8 +641,6 @@ keeping him very busy at night. They’d probably just reached an
 agreement to cut back on the public displays of affection.
 Still, wasn’t all this fun going to give Cliff trouble with his
 studies? I wasn’t going to meddle, of course. It was his life, and he
-Page | 89
-
 could live it how he wanted. If anything, I was kind of jealous. Just a
 little.
 “…Grandmaster, I don’t have enough mana to harden this part.
@@ -727,14 +670,9 @@ uniform?!
 The Demon King Badigadi had formally enrolled at the Ranoa
 University of Magic as sort of a publicity stunt. He wasn’t studying
 much of anything, of course, but he made a habit of sitting in on
-
-Page | 90
-
 classes and speaking to students who caught his eye… which usually
 resulted in them desperately fleeing for help. Those who were brave
 enough to stick around were supposedly rewarded with tidbits from
 his vast stores of knowledge, but they were few and far between.
 One way or another, though, things had come to a relatively
 peaceful conclusion.
-
-Page | 91

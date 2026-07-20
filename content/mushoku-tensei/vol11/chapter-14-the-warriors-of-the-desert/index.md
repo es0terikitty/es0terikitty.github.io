@@ -38,8 +38,6 @@ her waist. You couldn’t see her muscles under the gear, but she
 looked pretty strong.
 It took me a few seconds to realize that this was actually
 Carmelita, the same warrior we’d met yesterday.
-Page | 277
-
 “Hey! You’re those people! From yesterday!”
 Apparently, she remembered us as well, although she looked
 surprised to see us. It seemed the mustached little man we’d saved
@@ -68,9 +66,6 @@ defeat of the Gryphons, he’d had this idea in mind from the start. I
 seemed to remember him being curled up in a ball for the entire
 battle, but whatever. This was exactly what we needed.
 “All right, sure. We’ll come with you as far as Rapan, then.”
-
-Page | 278
-
 “Ah, splendid! That’s truly wonderful. I’d even be willing to sign
 you both to a long-term exclusive contract, if you’re interested. I’ve
 never seen a magician of your caliber before! I’d make it worth your
@@ -81,9 +76,6 @@ up having to interrupt. “I’m sorry, but we’ve got something we need
 to take care of in Rapan. We’ll keep the offer in mind, though.”
 Galban accepted this easily enough. We’d found our ticket to
 Rapan. Everything was back on track.
-
-Page | 279
-
 Chapter 14:
 The Warriors of the Desert
 
@@ -118,9 +110,6 @@ rearguard, but they wanted to keep me toward the back since I was a
 magician—and it made sense to keep Elinalise closer to me, since we
 were used to working together.
 “All right, then. Let’s get moving.”
-
-Page | 280
-
 We were starting off by traveling east from Bazaar until we
 reached the major regional road. The names of the places meant
 nothing to me, but this sounded like the route that was frequented
@@ -152,8 +141,6 @@ side, a few bandits shouldn’t be an issue.”
 them.”
 “Uh, what? You want to get carried off to their base, chained up,
 and brutally—”
-Page | 281
-
 “Goodness, how extreme. As long as you go along willingly, even
 bandits will be gentle with you.”
 “Are you speaking from experience here?”
@@ -183,9 +170,6 @@ glance that he was the wily survivor type. His hair was cropped short
 on the sides and in the back; it reminded me a little of the team
 captain from that old basketball anime. I kept expecting him to
 shout, “Just tape it!” or something.
-
-Page | 282
-
 His Demon Eye was the same type as Ghislaine’s—it allowed
 him to see the flow of mana in the world around him. This was most
 useful as a means of detecting enemies.
@@ -216,8 +200,6 @@ of their craft.”
 “Well, uh, I wouldn’t say I’m a master of anything yet.”
 “In any case, it’s rare to find a magician willing to use their
 powers so freely.”
-Page | 283
-
 Many magicians made a point of not spending more than half of
 their mana supply in any given day. That was standard in the
 Northern Territories too. Since most mages weren’t too physically
@@ -247,9 +229,6 @@ I created a shelter and encouraged everyone to sleep inside it,
 but Balibadom and the others declined, saying they’d have a harder
 time noticing any monsters that might approach. That seemed like a
 legitimate reason to sleep outside, actually.
-
-Page | 284
-
 It made me feel a little awkward to use the shelter myself, but
 Elinalise intervened. “There’s no need to feel bad, Rudeus. We’ve got
 our own way of doing things, and we’ll be more useful if we’re well
@@ -280,8 +259,6 @@ seemed to be many large monsters with thick, tough shells around
 here; it made sense to use weapons that wouldn’t break easily. No
 matter how skilled a swordsman you might be, you wouldn’t want to
 try punching a hole through an iron plate with a skinny little rapier.
-Page | 285
-
 Their combat style seemed to be somewhat unique as well,
 from what I’d seen of it.
 “Your woman’s sword is too thin, though. You can’t kill anything
@@ -312,8 +289,6 @@ survive.
 Once hit by a Succubus’ pheromones, men were reduced to
 thoughtless slaves. But a single Succubus can only bring so many
 victims back to her lair at once. They tend to pick out a few choice
-Page | 286
-
 morsels, leaving any others behind. The men left behind in this
 manner then fight each other to the death. Once your mind is
 poisoned by the pheromones, every other man you see
@@ -344,9 +319,6 @@ contained at least a few women. When the party encountered a
 Succubus, they were responsible for slaying it and then sleeping with
 the men to break the spell. Some groups even had more women
 than men, since facing Succubi was safer that way. All in all, the
-
-Page | 287
-
 women of this continent did more than their fair share of the
 fighting.
 Carmelita had no objections to her role. Whenever her band
@@ -377,8 +349,6 @@ I looked over at Carmelita for a long moment, trying to
 understand things from her point of view.
 “I’m grateful to you,” she said in her halting way, “But I hate
 mages. If a Succubus shows up, go to the other woman.”
-Page | 288
-
 For some reason, it stung a little bit to get shot down in advance
 like that. Although I could deal with the Succubus thing myself
 anyway.
@@ -409,8 +379,6 @@ usually tell from a person’s name what their greatest talent was, in
 other words. But since there are only so many ways to call somebody
 “strong,” you’d sometimes run into another warrior who shared your
 name.
-Page | 289
-
 Tont was known as Greatblade, but his sword wasn’t unusually
 massive by his people’s standards. It was just a way of saying he had
 physical power. Maybe there was a “One-Cut Killer” out there too.
@@ -440,8 +408,6 @@ close to a barren desert, but we weren’t going to get the chance to
 see it this time. When we reached a large vertical rock someone had
 left behind as a landmark, Galban changed our course, and we
 started heading north.
-Page | 290
-
 After three days of traveling in that direction, we ran into the
 main regional road. It wasn’t paved, much less actively maintained; it
 looked more like the natural product of countless travelers moving in
@@ -472,8 +438,6 @@ give the signal if something’s up. You better not miss it.”
 “Roger.”
 Assuming our new positions, we set off cautiously. The bandits
 around here mostly set ambushes and waited for people to blunder
-Page | 291
-
 into them, from the sound of things; if you spotted them in advance
 and took a detour, it was possible to avoid trouble completely.
 Thanks to Balibadom’s expert scouting, we were able to detect
@@ -498,9 +462,6 @@ ground.
 Failing to understand what was happening, I started to rush
 over, intending to cast a Healing spell. But Elinalise grabbed me by
 the collar and pulled me back.
-
-Page | 292
-
 As she did so, another arrow struck the camel that Tont had
 been standing next to.
 “Run!” screamed Balibadom. “We’re under attack! They’re
@@ -530,9 +491,6 @@ behind, and the archers on the hill were readying their next volley.
 Most of their shots were falling short, but a few could really make
 their arrows fly; every now and then, one would come dangerously
 close to hitting us.
-
-Page | 293
-
 There had to be fifty of them. No, a hundred. And that was just
 the ones that we could see.
 The word bandits had misled me pretty badly. This was an army
@@ -562,8 +520,6 @@ wouldn’t be landing any shots on us now.
 But a split second after that thought ran through my head, an
 arrow thumped into the ground a few feet in front of me.
 “Gah!”
-Page | 294
-
 Startled, I nearly fell backward, but Elinalise caught me before I
 hit the ground.
 “It’s all right, Rudeus! They’ve got one brilliant archer, but he
@@ -593,9 +549,6 @@ group that large at close range.
 I summoned up a thick, two-meter wall behind us without
 slowing my pace. A galloping horse couldn’t be brought to a sudden
 halt. In this fog, many of them would probably smash right into it.
-
-Page | 295
-
 Even if they realized it was there, they’d have to slow down and go
 around.
 “Haah…haah…”
@@ -624,9 +577,6 @@ for a seasoned traveler who’d spent years on the road, running for
 two hours straight was a lot to ask. At least I wasn’t the only one.
 We’d lost only one camel in the raid. And one bodyguard, of
 course.
-
-Page | 296
-
 Poor Tont. If I’d been able to yank that arrow out right away and
 take some time to cast Healing and Detoxification spells, there was a
 chance he might have lived. Maybe the arrow hadn’t struck him right
@@ -657,8 +607,6 @@ even thought about trying that approach.
 ground! He made them run into walls! He made everything foggy!”
 “You’re not thinking this through, damn it! Use your brain for
 once!”
-Page | 297
-
 “Shut up! If he’d used his magic, we could have avenged Tont!”
 “There were too many of them, kid! That was Harimaf’s band
 out there, I’m sure of it. There were more of them behind those
@@ -688,9 +636,6 @@ waiting in reserve.
 Could I have killed a force of that size single-handedly? It was
 hard to say. But I could use Saint-tier magic and probably enough
 mana to use it repeatedly for some time.
-
-Page | 298
-
 After stopping the cavalry with a quagmire, I could have quickly
 cast a wide-range spell and decimated the archers. I could have
 knocked the riders off their horses with a blast of wind, then roasted
@@ -721,8 +666,6 @@ stalk over to where the camels were resting, crouch down next to
 them, and bury her face in her knees.
 Balibadom watched her for a moment, then sighed. “Sorry
 about that, you two.”
-Page | 299
-
 “Uhm, that’s all right…”
 “It’s just…Carmelita had a kid with Tont, you know?”
 “Huh?!”
@@ -752,5 +695,3 @@ about that either. But the idea of using magic to murder someone
 directly just made me queasy.
 …It was kind of pathetic, honestly.
 “Thanks, Elinalise.”
-
-Page | 300

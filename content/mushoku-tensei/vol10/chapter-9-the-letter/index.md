@@ -33,8 +33,6 @@ others to harass the weak. Not even if the person being bullied was
 somehow to blame.
 Then, one day, it finally arrived: a letter from Paul.
 Dear Rudeus,
-Page | 149
-
 I got your letter. So you’re enrolling in the University of Magic?
 Congratulations. I’m glad you’re walking your own path. I’m sure
 you’ve heard this from Elinalise already, but we’ve found Zenith’s
@@ -68,8 +66,6 @@ this favor.
 Come to think of it, you’re already fifteen. Though I guess you
 may be sixteen or seventeen by the time this letter gets to you. Either
 way, you’re an adult. I feel bad we couldn’t celebrate your birthday
-Page | 150
-
 together. I won’t be able to celebrate Norn or Aisha’s tenth birthdays,
 either. Ah, well. We can have one huge party when we all get back
 together—as a family.
@@ -99,8 +95,6 @@ you. But thank you.
 It was a letter full of guilt. Honestly, Paul.
 I was a bit nervous about Norn and Aisha coming here, but I
 supposed it was better than them being dragged along to the
-Page | 151
-
 Begaritt Continent. Couldn’t he have left them with Zenith’s family?
 No, maybe that presented its own problems. Norn aside, Aisha
 wasn’t related to Zenith by blood.
@@ -132,9 +126,6 @@ still young. Our lovemaking sessions wouldn’t be very good for their
 education. But then again, I supposed we could just put them in
 rooms far from ours. I was looking forward to their arrival, actually.
 I wondered how soon it would be. Two months from now, perhaps?
-
-Page | 152
-
 Wait, there was something I had to do before that.
 “This is exactly the kind of thing I need to consult Sylphie about
 first.”
@@ -164,9 +155,6 @@ I retreated from the kitchen and waited in the dining area,
 feeling restless and guilty. I sat in my chair and waited. Then, when
 Sylphie appeared from the kitchen, I lifted my head. “I deeply
 apologize for what happened just a moment ago.”
-
-Page | 153
-
 “I’m not really that angry. You can just say you’re sorry like
 normal.”
 “Okay, sorry,” I corrected.
@@ -196,9 +184,6 @@ grown out, and she was looking more and more feminine. Her
 adorable ears jutted out between smooth strands of white hair. This
 girl was my wife. It wasn’t a dream, was it?
 “Sylphie…”
-
-Page | 154
-
 I wanted to create a new family with this cute girl. This desire
 came naturally bubbling to the surface, though Sylphie was the one
 who would struggle when it came to childbirth. She had an adorably
@@ -228,9 +213,6 @@ was time to study magic. I still couldn’t cast healing spells without
 their incantations, but I could make do by memorizing the words and
 studying the theory. Voiceless casting wasn’t the only technique out
 there. I did think I was talented, but far from the most talented in
-
-Page | 155
-
 this world. Better to make sure my foundations were solid and that I
 maintained my current level of ability.
 “Nngh…!”
@@ -297,8 +279,6 @@ water snapped back into a perfect sphere. I froze it and plopped it
 into the cup in front of me.
 Sylphie bashfully rubbed her thighs together, face bright red.
 “W-we won’t know until they’re born.”
-Page | 157
-
 “And them being born is all dependent on, uh, my hard work as
 your husband, right?” I tried to laugh and play it off, but Sylphie
 started stroking my thigh. Her delicate hands tickled. I countered by
@@ -330,8 +310,6 @@ mistress if you want.”
 “But Rudy, you want children, don’t you?”
 I tried seeing it from Sylphie’s perspective. What if we
 discovered I was the infertile one? And Sylphie wanted to have
-Page | 158
-
 children no matter what, so she found a different man to knock her
 up? I might kill myself if that happened. So I couldn’t put Sylphie
 through it.
@@ -351,9 +329,6 @@ Since things had gotten so exciting, it was time to move to the
 second floor. I picked her up like a princess. Sylphie wrapped her
 arms around my neck and surrendered her body to me. It made my
 heart pound. I was glad she was still in the mood.
-
-Page | 159
-
 Chapter 10:
 Breakdown
 
@@ -388,9 +363,6 @@ and small this time. If we assume that the energy from my
 summoning was what wiped out the region, then theoretically this
 circle will, at most, only teleport people within a meter of its range. I
 honestly don’t think it’s possible, but just in case, I’ve written a
-
-Page | 160
-
 safety measure into the circle itself so I can control how much mana
 it uses.”
 I see, I see… Okay, no, I had no idea what she was talking about.
@@ -421,4 +393,3 @@ I stepped up in front of the circle. “Well then, let’s begin.”
 “Please.”
 I wasn’t sure if that word was directed at me or not. Perhaps it
 was more of a plea to God.
-Page | 161

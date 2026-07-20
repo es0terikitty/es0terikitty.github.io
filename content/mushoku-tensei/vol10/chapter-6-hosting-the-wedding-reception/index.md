@@ -37,8 +37,6 @@ supposed to display love. And by love, I didn’t mean love juices.
 I looked down at her. I could see down her slender back all the
 way to her tiny butt, as well as her thin legs kicking at the water’s
 surface. There was movement around my chest and shoulders:
-Page | 97
-
 Sylphie was clinging to me, burying herself in my neck. From that
 position, she caressed my body with her hands.
 Heh heh, go ahead and stroke me all you like. That’s what
@@ -67,9 +65,6 @@ bath with a splash. I was still in the midst of instructing her on
 bathing etiquette, but I could always resume that once we finished.
 Still sopping wet, I made for the second floor and beelined to our
 bedroom.
-
-Page | 98
-
 Chapter 6:
 Hosting the Wedding Reception
 
@@ -103,8 +98,6 @@ How early one went out to hunt, make a kill and return with it were
 all a measure of your respect for the host.
 “Incredible. But what did you plan on doing if you weren’t able
 to hunt anything down?”
-Page | 99
-
 “In that case we planned to buy something in the markets,
 mew.”
 “Yeah, we’d use money instead.”
@@ -135,8 +128,6 @@ reason you didn’t attack us was because we’re not your type, mew.”
 They spoke as if I were some kind of pervert that
 indiscriminately attacked any woman I saw. Honestly, how rude of
 them. Maybe I should thoroughly grope them in retaliation—but no.
-Page | 100
-
 I’d already sated myself with Sylphie the day before. All of my desire
 rested within her now. Today I was a sage.
 The next to arrive were, surprisingly, Zanoba and Julie. They
@@ -165,9 +156,6 @@ preoccupied, I heard Linia’s and Pursena’s boastful voices drifting
 from the living room. They were bragging about how they’d gotten
 here first. I could hear the frustration in Zanoba’s replies, but I was
 just glad they were enjoying themselves.
-
-Page | 101
-
 Third to arrive was Ariel and her group, thirty minutes before
 the start of the party. There was Ariel, Luke, and two other female
 students I’d seen somewhere before. So these two were the
@@ -197,9 +185,6 @@ expensive fabric. “A gift to celebrate your wedding.”
 “Thank you; this is very thoughtful,” I replied.
 “We brought things we thought might be of use to a married
 couple. Please see for yourself.”
-
-Page | 102
-
 At her bidding, I took a peek inside, only to find myself
 speechless. Nestled within was a familiar bottle of pink liquid and a
 wooden rod. To put it more bluntly, it was an aphrodisiac and a long
@@ -230,8 +215,6 @@ Ariel.
 “A pleasure to make your acquaintance, Princess Ariel. I am the
 Third Prince of the Shirone Kingdom and beloved pupil of Master
 Rudeus Greyrat, Zanoba Shirone.”
-Page | 103
-
 “Pleasure to see you again, Prince Zanoba. I am glad to see you
 are in good health. I paid you a visit soon after you entered the
 university. Could it be you’ve forgotten?”
@@ -261,8 +244,6 @@ pleasant mood, though, so I wasn’t going to say anything.
 incredible mask.”
 “A pleasure. Your hairstyle is amazing, too,” Nanahoshi replied
 in a completely flat tone. Watching how she interacted with them
-Page | 104
-
 made me nervous. Still, she surely wouldn’t start anything, since she
 wanted to avoid trouble.
 Honestly, I hadn’t thought she’d come. I’d sent her an invitation
@@ -293,8 +274,6 @@ behavior. Cliff meant well, but often came across as acerbic.
 Nanahoshi was generally quiet, but she responded if someone spoke
 to her. I’d thought she was a shut-in with communication issues, but
 it seemed that wasn’t the case.
-Page | 105
-
 After a while, Sylphie came to inform me that preparations were
 complete. Now we were just waiting on Badigadi. The food would
 get cold if he was too late, but just as I started to worry, Elinalise
@@ -322,8 +301,6 @@ whispered, “You can do it.”
 Ah, she makes me want to carry her off to the bedroom right
 now, I thought.
 “My, my, Rudeus’ face is bright red. Heh heh.”
-Page | 106
-
 Elinalise laughed and, for once, Cliff actually read the room.
 “Lise, be quiet.”
 Okay then, here goes.
@@ -353,9 +330,6 @@ grateful! Bwahaha!”
 You bastard, I started to think, then stopped myself. No, calm
 down. This is just how he is. You already knew that, didn’t you?
 “Ha ha ha, all right then. Thank you.”
-
-Page | 107
-
 “No need for thanks. Now then, carry on and marry yourselves
 before me. Few get to marry in the presence of a Demon King. I don’t
 provide those kinds of services, after all!” Badigadi said, before
@@ -385,9 +359,6 @@ and I will be moving forward with our relationship. I hope you’ll be
 there for us if we need you. Thank you, everyone.”
 “Okay, now let us toast to the future of the young couple!”
 “Cheers!”
-
-Page | 108
-
 Badigadi raised a wine cup that he’d swiped at some point
 without me noticing. Everyone joined him by raising theirs. A bit of
 alcohol was spilled as the party began.
@@ -415,8 +386,6 @@ and I stood.
 “Princess Ariel, thank you.” Sylphie gave her usual toothy smile
 and bowed her head.
 “So, do Rudeus and this house meet your expectations?”
-Page | 109
-
 “They’re even more amazing than I’d hoped for. The house even
 has a bath in it!”
 “Oh? Very few personal homes have baths in Asura. I’m envious.
@@ -446,9 +415,6 @@ thought you were a man. Please forgive me for making such a
 shameful mistake.”
 Sylphie hurriedly waved her hand. “Oh, no, please raise your
 head. You’re royalty. You can’t be bowing to someone like me.”
-
-Page | 110
-
 “‘Someone like you’? I deeply respect my master, and you’re his
 wife. Your holiness is second only to God.”
 “But even Rudy mistook me for a man, so it’s fine, okay?”
@@ -478,8 +444,6 @@ stopped her. “Um, Miss Nanahoshi, can I ask you something?”
 “What would that be?”
 “You said before that the two of you come from the same place.
 But what did that mean? Um, correct me if I’m wrong, but you come
-Page | 111
-
 from a different world, right?” Sylphie’s voice dropped to a whisper
 in the latter half of her question.
 Nanahoshi looked at me as if to ask what I wanted to do. I didn’t
@@ -510,4 +474,3 @@ was only by six months or so.
 “But then again, if Cliff wasn’t with me, I might have entertained
 the idea of doing it with you once.”
 “I might have felt the same way if I didn’t have Sylphie.”
-Page | 112

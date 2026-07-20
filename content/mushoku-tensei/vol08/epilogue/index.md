@@ -43,8 +43,6 @@ her clothes to wear, and a place to sleep. In fact, he treated her more
 like a younger sibling than a slave. He had tried to give her the same
 name as his deceased younger brother, so there was probably some
 real affection there.
-Page | 213
-
 Through all this, I was getting a glimpse at a more human side of
 him, which made me happy to see. Julie was also getting quite
 attached to Zanoba. She listened to him no matter what he said, and
@@ -104,9 +102,6 @@ It seemed Linia was warming up to me, too. While her speech
 patterns hadn’t changed, she did at least seem to feel remorse for
 her actions. The fact that she didn’t appear to be holding a grudge
 was also a relief.
-
-Page | 215
-
 More than anything, it was nice to have young girls around me.
 They were a sight for sore eyes, particularly compared to Zanoba. As
 an added bonus, the other delinquents had been keeping their
@@ -135,9 +130,6 @@ girls than boys. Granted, she was well past the age where you could
 call her a “girl.”
 Come to think of it, my relationship with Elinalise had changed,
 too. We hadn’t had much contact since we started attending the
-
-Page | 216
-
 school—not that we’d been particularly close prior to that, either.
 She was probably busy enjoying school life to the fullest.
 “Miss Elinalise, it’s rare for you to come all the way here. Was
@@ -164,9 +156,6 @@ the boy averted his eyes and returned to class.
 The second pair watched from above, from a closed-off room on
 the highest floor of the research building. If one were to look up and
 meet those eyes, they might tremble in fear or widen their own eyes
-
-Page | 217
-
 in shock, for the watcher had a featureless white mask covering their
 face.
 As Rudeus’s school life proceeded smoothly, there was
@@ -197,8 +186,6 @@ of an eye.
 One day, a letter arrived for him. He’d made an emergency
 request of an S-ranked adventurer, a seasoned traveler, who had
 sent the letter swiftly. The letter was concise: I found the person we
-Page | 218
-
 were looking for in one of the Three Magic Nations. In a few more
 months, we’ll be heading for the Ranoa Kingdom’s University.
 After reading it, the man stood. Having seen the contents of the
@@ -229,8 +216,6 @@ of death and rebirth. A great man with pitch-black skin and six arms.
 “Fwahahaha! Just wait!”
 He pushed his way west. One country was surprised by his
 sudden invasion and hurled Advanced-tier magic at him. Another
-Page | 219
-
 prepared tribute for him. He ignored all of them and just plunged
 forward, heading deeper west. He crossed mountains and passed
 through valleys at a speed that surpassed that of the humans’
@@ -238,5 +223,3 @@ information network. By the time each country figured out what he
 wanted, he’d already crossed their borders and left. Further and
 further west he went at a breakneck speed.
 His destination was the Ranoa Kingdom.
-
-Page | 220

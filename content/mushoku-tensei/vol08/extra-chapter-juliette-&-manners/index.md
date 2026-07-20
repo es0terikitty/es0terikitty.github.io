@@ -42,8 +42,6 @@ life, these were rather difficult to eat, with their strong vegetable
 smell and bitter taste. Even so…
 “Make sure to eat your carrots, too,” I told her.
 “Master, it’s just carrots, I don’t see the problem.”
-Page | 221
-
 “Well, I do.”
 Zanoba frowned and turned sullen, his lips pursing. “Are you
 saying that because she’s a slave? I would understand if your
@@ -74,9 +72,6 @@ I still kind of felt like it might be setting a good example, but
 then again, there was a high likelihood she’d be leading a life where
 it didn’t matter. People didn’t care about the table manners of
 craftsmen. As Zanoba’s employee, she would be doing business with
-
-Page | 222
-
 the royal family, but if her employer Zanoba said that she had no
 need for them, who’d dare say otherwise?
 “What’s wrong?” Elinalise came up to us. She’d just finished
@@ -106,9 +101,6 @@ It was Pursena. Impressively, she’d caught the bacon in her
 mouth. She proceeded to greedily stuff it in and gobble it down,
 approaching us only once it was all gone. Linia was with her, too, a
 dumbfounded look on her face.
-
-Page | 223
-
 “You may be our boss, but that doesn’t mean you can waste
 meat like that. If you’re going to fling it around because you’re full,
 give it to me instead.” Pursena’s face was angry, but the bacon
@@ -139,8 +131,6 @@ couldn’t have been more unconvincing if she’d tried.
 Linia said. “Being picky is an absolute no-no, mew.”
 “Meat is different. And you can’t talk, you left those dried
 grapes on your plate before.”
-Page | 224
-
 “Those things can’t even be considered food, mew. They’ll just
 destroy your stomach if you eat them, mew.”
 “Sounds like an excuse.”
@@ -171,8 +161,6 @@ or three times the average.
 take care of Zanoba. That’s a lot. If you force her to think about
 etiquette on top of everything else, it might overwhelm her to the
 point she struggles to master any of the things you’re teaching her.”
-Page | 225
-
 “Ah, I see.” There was some truth to that. There was also the
 idea that sleep and mealtimes were meant to be periods of
 relaxation.
@@ -203,8 +191,6 @@ like.”
 Even as I said that, I found myself thinking, Ah, maybe I screwed
 up. After all, thinking about it logically, she’d avoided the carrots
 because she didn’t want to eat them. Leaving the matter of table
-Page | 226
-
 utensils aside, if someone told you that you didn’t have to eat
 something you didn’t like, then of course you wouldn’t eat it. But oh
 well…
@@ -235,27 +221,13 @@ something she didn’t like, conquered it, and gained confidence. I felt
 as happy as if it had been my own accomplishment.
 “Then, starting tomorrow, I’ll start teaching you some table
 manners.”
-Page | 227
-
 “Yes, please, Grand Master!”
 I had no idea if teaching table manners to a slave was the right
 move. But as I watched her nod, an earnest look on her face, I did
 know she’d done the correct thing by facing her fears head-on.
-
-Page | 228
-
 ![Illustration](illustration-229.jpg)
-
-Page | 229
-
 ![Illustration](illustration-230.jpg)
-
-Page | 230
-
 ![Illustration](illustration-231.jpg)
-
-Page | 231
-
 About the Author:
 Rifujin na Magonote
 
@@ -266,9 +238,6 @@ gained the support of readers, hitting number one on the site’s
 combined popularity rankings within one year of publication. “For
 the most part, everything that can be learned in society can also be
 learned at school,” said the author, trying to sound wise.
-
-Page | 232
-
 Thank you for reading!
 Get the latest news about your favorite Seven Seas books and brandnew licenses delivered to your inbox every week:
 
@@ -276,11 +245,5 @@ Sign up for our newsletter!
 Or visit us online:
 
 gomanga.com/newsletter
-
-Page | 233
-
 Download all your fav Light
 Novels at
-
-
-Page | 234

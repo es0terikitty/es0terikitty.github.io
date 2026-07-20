@@ -38,8 +38,6 @@ popular and capricious. She might well use Cliff’s absence to have an
 affair.
 My thoughts went to Sylphie, who was probably serving as the
 Princess’ bodyguard again, just as she always did. There was nothing
-Page | 42
-
 to worry about. Wait, I did tell her that I was going out today, but I
 hadn’t mentioned I’d be staying the night. What if she came to my
 room to talk to me before bed, and I wasn’t there? She might hover
@@ -70,8 +68,6 @@ celebration here,” Zanoba said, his head slightly cocked as he
 nodded.
 Wait. Now that I’d actually said it, my uneasy feeling had gotten
 even worse. If I said something like, “A celebration, yes! That’s
-Page | 43
-
 exactly what we need!” in reply, I had a feeling I wouldn’t survive
 long enough to get married. Maybe I should put something hard in
 my chest pocket for now. Except I didn’t have a chest pocket. If a
@@ -93,9 +89,6 @@ Meanwhile, back at the girls’ dorm, Sylphie had already caught
 wind of the fact that Rudeus had gone house-shopping. She was
 currently in her bed, arms snug around her pillow, rolling around as
 she fantasized the possibilities.
-
-Page | 44
-
 Chapter 3:
 Things to Prepare Before Marriage
 (Part 2)
@@ -127,8 +120,6 @@ The perfect time for an evil spirit to appear.
 “Wake Zanoba up.” After giving Cliff that short command, I
 headed over to the door and strained my ears.
 Kree… kree…
-Page | 45
-
 Klak… klak…
 Kee… kee…
 Oh crap. I really could hear it—quite clearly, too. It sounded like
@@ -156,9 +147,6 @@ fear.”
 He took hold of his club. Cliff followed him, looking nervous.
 “Master Cliff, do you remember what you’re supposed to do?”
 “D-divine magic.”
-
-Page | 46
-
 “That’s right. I’m counting on you.” Zanoba would be our shield,
 Cliff would use divine magic, and if that didn’t work, I would use my
 Stone Cannon. We were all set. “Zanoba, let’s move out.”
@@ -181,13 +169,7 @@ behind as we made our way down the stairs. It felt like we were
 descending into hell. Finally, we arrived at the basement.
 “How is it?” I asked.
 “There’s nothing here,” Zanoba answered.
-
-Page | 47
-
 ![Illustration](illustration-48.jpg)
-
-Page | 48
-
 I used my lamp to illuminate the area. There was nothing, not
 even at the edges of the room. Besides, the previous owner had
 surely checked the basement out. It was the most suspicious place in
@@ -217,8 +199,6 @@ stairs. It had its head cocked as it looked our way. At first, I thought it
 could be human. It had eyes, a nose, a mouth, but no hair or ears.
 I also, somehow, didn’t get the sense that it was alive.
 “…”
-Page | 49
-
 It painted a haunting, pale silhouette in the darkness as it
 watched us. For a few seconds we just stared at one another.
 “Oh,” I started, trying to say something.
@@ -249,8 +229,6 @@ Exorcise!” White light from his staff struck the four-legged
 figure…but didn’t stop it from moving. So it wasn’t a spirit?
 In that case, it was time for me to use my magic. “Zanoba, get
 out of the way. I’m going to use Stone Cannon!”
-Page | 50
-
 “Please wait, Master!” Zanoba wouldn’t move. Even though the
 stake was tearing his clothes to shreds, he wouldn’t step aside. Why?
 “Enough, move! I’ll handle it!”
@@ -280,8 +258,6 @@ extremely excited. He completely ignored me as he set down our
 bound attacker, which was making unexpectedly light clattering
 noises. Zanoba grabbed a lamp to shine upon it.
 “I-It’s…a doll?”
-Page | 51
-
 Before us was a white-painted wooden mannequin, crumpled
 over. It had four arms and legs. Despite its strange shape, it was
 definitely a construct. I’d wondered why I hadn’t heard its footsteps,
@@ -312,8 +288,6 @@ flawless.”
 mine,” I said, offering my proudly grinning pupil some praise.
 That aside… A moving doll. Come to think of it, there were other
 inanimate objects in this world that moved, like armor. This doll was
-Page | 52
-
 carved from wood, but maybe I could make stone figures move as
 well? And if I could find a way to make the figures move by
 themselves…and if I could develop a substance like silicon to give
@@ -342,9 +316,6 @@ to secure this house. Not that I couldn’t kill two birds with one stone.
 “Zanoba, please release him.”
 “Grr…but, Master—”
 “Master Cliff has a point.”
-
-Page | 53
-
 As soon as Zanoba let him go, Cliff immediately chanted healing
 magic to recover. What a baby.
 “This doll is likely the ‘evil spirit’ we were looking for.”
@@ -373,9 +344,6 @@ We agreed. Before we quit for the night, however, we decided
 to move the doll to the university. We bound its arms and legs tightly
 and put it in Zanoba’s room. In better lighting, we could tell that it
 was quite old. It had looked pale white before, but I could see now
-
-Page | 54
-
 that the original white paint was beginning to peel, and there were
 patches of mold.
 “Master, is this a…new doll?” Julie asked. I’d thought she might
@@ -406,9 +374,6 @@ once more with our lamps. I left the door cracked open to ensure we
 wouldn’t run out of oxygen and lined up lamps so the space was
 thoroughly illuminated. If I were a children’s storyteller I might have
 exclaimed, See, look, it’s as bright as day in here!
-
-Page | 55
-
 There was a darkened square shape on the wall: a hidden door
 that we hadn’t noticed in the dark. When the house was first built, it
 had probably blended in, but as time passed, the wear from
@@ -437,5 +402,3 @@ pressing on the door’s left edge. There was a creak, but the door
 didn’t open. It was heavy.
 “Zanoba, push this part right here.”
 “Hrm.”
-
-Page | 56

@@ -37,8 +37,6 @@ Smacking her flushed cheeks, Elinalise shook her head
 vigorously. My mating rituals had apparently done some damage this
 time. It was the Succubus’s fault, at the end of the day, but that
 didn’t matter. She’d been justified in hitting me.
-Page | 237
-
 My jaw was going to be aching for a while, but these things
 happen.
 “Those bats seemed like they were under the Succubus’s
@@ -69,9 +67,6 @@ More quickly followed, and soon they were moving toward us.
 They weren’t especially large, but there were more than a dozen
 of them. A few made an immediate beeline for the fallen Giant Bats
 and started to feed on them.
-
-Page | 238
-
 “I’ve never seen these things before,” said Elinalise, raising her
 shield warily. I also readied my staff and watched the creatures
 carefully.
@@ -102,8 +97,6 @@ Apparently, these things were natural predators of the
 most of them and sending the others fleeing frantically. The chickens
 consumed their victims violently on the spot.
 “That’s got to be a variety of Garuda…”
-Page | 239
-
 On its own, a Garuda was considered a C-rank monster, but
 those that moved in packs were usually classified as B-rank threats.
 These ones were unusually large to boot. We were probably in Arank territory here. Since their battle with the raptors was happening
@@ -132,9 +125,6 @@ Today had taught us that the desert was a very different place at
 night. Once the sun went down, the monsters had just kept coming.
 If we’d stopped to fight the Garuda, we’d probably have found
 ourselves facing down a new threat only minutes later.
-
-Page | 240
-
 Elinalise speculated that the Succubus’ pheromones had
 attracted the other creatures to that spot. The scent was sweet to
 males and intolerably foul to females. It was hard to say if that
@@ -166,8 +156,6 @@ It was probably just a coincidence, all things considered.
 what I envisioned.” Elinalise’s yawn echoed inside our little shelter. I
 envied her ability to relax. Maybe she’d be a little less carefree if she
 had any idea what Orsted was like.
-Page | 241
-
 Still, I was just overthinking things at this point. We couldn’t
 start worrying about whether every monster we encountered was
 actually somebody’s friend. The thing had tried to eat me. We’d
@@ -190,9 +178,6 @@ me again, okay?”
 Our first day in the desert was finally over. It had felt more like a
 week, honestly.
 We had a long road ahead of us.
-
-Page | 242
-
 Chapter 12:
 Traversing the Sands
 
@@ -228,9 +213,6 @@ careless. The woman was definitely mature.
 “Don’t look so miserable, all right?” she said. “No matter how
 alert are you, sometimes things just get the better of you. We
 managed to pull through, and that’s what matters.”
-
-Page | 243
-
 The risk of failure was ever-present—as was that of death.
 Elinalise had been well aware of that from the start.
 Fortunately, that was our only brush with real danger on that
@@ -260,8 +242,6 @@ extremely tough, and given their sheer size, your average adventurer
 was barely going to scratch them. They had no particular attacks or
 natural weapons, but simply thrashing their massive bodies around
 was enough to kill most of their enemies.
-Page | 244
-
 What if you attacked them from a distance, then? Well,
 apparently the creatures were capable of burrowing deep beneath
 the sand when things started to heat up. Almost no one had actually
@@ -292,8 +272,6 @@ meddle with the weather too much, but this felt like a case where I
 was justified.
 When I turned to look back after about an hour of walking, I
 found that the sandstorm had reappeared exactly where it had been
-Page | 245
-
 before. It seemed plausible that it was a sort of magic barrier in its
 own right—a natural-looking defense of the road that led to Orsted’s
 teleporter, maybe. Nanahoshi hadn’t mentioned it, but I seemed to
@@ -321,9 +299,6 @@ landmarks, it’s supposedly easy to end up going in circles when you
 think you’re moving straight forward. It has something to do with the
 difference in the length of your stride when you’re moving your
 dominant leg.
-
-Page | 246
-
 I was confident Elinalise was keeping us on track. But I was still
 starting to feel like I’d seen some of these sand dunes before. Doubt
 crept into my mind. Could she actually be lost?
@@ -353,9 +328,6 @@ Climbing to the top would probably be challenging. And it stretched
 from one side of the horizon to the other, with no end in sight.
 “Should we try to find a way around it?” Elinalise asked.
 “No, let’s get up on top of it. I’ll use my magic.”
-
-Page | 247
-
 With a simple Earth spell, I created a pillar of stone; taking
 Elinalise into my arms, I rode it upward like a makeshift elevator.
 There was no telling what might try to ambush us up there, so I took
@@ -386,8 +358,6 @@ transaction. She could see to her needs without either of us feeling
 too guilty about it.
 “Elinalise, we’re at the top now.”
 “Yes, I suppose we are.”
-Page | 248
-
 Elinalise was still clinging to me, and she seemed to be staring at
 my shoulders with some passion in her eyes.
 “…You can get off now.”
@@ -418,8 +388,6 @@ I quickly focused my thoughts on the battle at hand. Readying
 my staff and turning to face the creature would leave me in an
 awkwardly exposed position, and Elinalise was currently behind me,
 a reversal of our usual formation. But even in a situation like this, she
-Page | 249
-
 could probably maneuver her way to the frontline without getting in
 my line of fire, and then I could fall back to safety.
 Or so I thought at first.
@@ -449,9 +417,6 @@ I ducked down and cast the advanced spell Earth Hedgehog at
 the ground. A circle of three-meter earthen spikes burst up all
 around me.
 “Kyeeaah!”
-
-Page | 250
-
 The Gryphon instantly beat its wings. But my Eye of Foresight
 was kind enough to show me what it was planning.
 It adjusts its course in mid-air, dodges to the side, and tries to
@@ -466,13 +431,7 @@ projectile whistled through the air and struck home, passing straight
 through the creature’s body with a wet crunch. The Gryphon
 staggered backward a few steps, then collapsed loudly to the
 ground.
-
-Page | 251
-
 ![Illustration](illustration-252.jpg)
-
-Page | 252
-
 The thing looked dead already, but I finished it off with a fire
 spell to be absolutely sure, and then spun around to see how
 Elinalise was faring.
@@ -503,8 +462,6 @@ of sand here and there, but for the most part, it was solid stone. At
 least we wouldn’t have to worry about anything lurking under the
 surface.
 “Let’s make sure we watch the skies from now on.”
-Page | 253
-
 “Yes, let’s.”
 With that brief battle analysis complete, we set off once again.
 On day six, we figured out that the rock shelf was a Gryphon
@@ -534,8 +491,6 @@ tended to be more tender and tastier. I did feel a little bit conflicted,
 as someone who was going to be a father himself before too long,
 but we do what we have to in order to survive. People are selfish
 creatures, at the end of the day.
-Page | 254
-
 Fortunately, I’d picked up a few tricks when it came to cooking
 monster meat—like carrying my own spices with me. The raptors
 hadn’t been particularly tasty, but the Gryphon was basically part
@@ -567,8 +522,6 @@ make his own spices and carry them around. For some reason, it was
 usually the dagger-wielding, lock-picking, trap-disarming sorts. I’d
 often noticed them squirrelling random nuts and leaves away for
 later.
-Page | 255
-
 Foraged materials weren’t just useful for cooking, though.
 Sometimes you’d run into a monster that recoiled from the strong
 tastes and smells of certain plants. Some plants also made a decent
@@ -598,5 +551,3 @@ have seen the way Paul ogled her…”
 It was hard to imagine Ghislaine being quite that shameless…but
 maybe she was just clueless. That would fit with what I knew of her.
 As for Paul, well…not to excuse the guy’s behavior, but I probably
-
-Page | 256

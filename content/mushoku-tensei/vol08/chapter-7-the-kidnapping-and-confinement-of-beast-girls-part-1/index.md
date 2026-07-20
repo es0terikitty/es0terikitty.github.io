@@ -42,8 +42,6 @@ but were expanding across the Central Continent and into the
 Begaritt Continent. They weren’t as numerous as humans, but were
 widespread enough that they couldn’t just be ignored, and they
 wielded great influence among the elves, dwarves, and hobbits.
-Page | 166
-
 There was enough military power within the Great Forest to go toeto-toe with the Holy Country of Millis, if the beastfolk so desired.
 Linia and Pursena were the granddaughters of the Doldia Tribal
 Leaders, directly descended from the Beast God. They would either
@@ -73,9 +71,6 @@ held weight here, it went to their heads. When they first enrolled,
 they’d trembled with fear around the humans, but that changed the
 moment they saw how timid those humans were around them. They
 soon realized that the combination of incanted magic they’d learned
-
-Page | 167
-
 in class, their Vocal Magic (which had been passed down through the
 Doldia Tribe), dexterity, and racial strength was enough to bring even
 the strongest upperclassman to their knees, and with that, their
@@ -106,9 +101,6 @@ The harassment continued to escalate—until their entire mob of
 delinquents were utterly beaten by Master Fitz, acting on his own.
 Rumor had it that the showdown had been a trap laid by Ariel, which
 didn’t change that fact that Master Fitz had defeated almost twenty
-
-Page | 168
-
 opponents by himself. The professors conferred, and every member
 of Linia and Pursena’s goons were expelled—except for Linia and
 Pursena themselves, protected once again by their status.
@@ -141,9 +133,6 @@ Master was using a peculiar method of training, claiming, “It’s
 an experiment.” At the beginning of each day, Julie would have to
 cast one spell using an incantation. After that, he would teach her no
 more incantations, but make her silently conjure clumps of earth
-
-Page | 169
-
 instead. I didn’t think she’d ever learn to use voiceless magic that
 way, but to my shock, she managed it after one month.
 That was right—in just one month, Julie had successfully created
@@ -174,8 +163,6 @@ Then one day, an incident occurred.
 It was late evening, and I was instructing Julie in the history and
 magnificence of figurines. She wouldn’t be able to assist me in my
 massive undertaking if she lacked passion for the craft. Julie was
-Page | 170
-
 essential to Master’s grand scheme; she needed to be able to
 appreciate how splendid figurines were.
 That particular day, I decided to use the Ruijerd figurine to
@@ -207,8 +194,6 @@ five pieces. Her head was ripped off, the parts that made up her
 clothes were smashed, her arm was broken off from the elbow, and
 her leg was bent at an odd angle. Only her sturdy staff had made it
 out safe.
-Page | 171
-
 “Explain this, Zanoba. You—I—come on, just what the hell is
 this, huh…?!” Master was angry. Master, who normally spoke in
 carefully modulated tones, using dispassionately polite speech, was
@@ -239,8 +224,6 @@ Roxy!”
 “Duel, you say?”
 I told him the rest of the story, speaking the truth with sincerity.
 One year ago, Linia and Pursena had challenged me to a duel. The
-Page | 172
-
 loser would offer up the thing most precious to them, which, for me,
 was my Roxy figurine. I had no doubt I would win, given that I was a
 Blessed Child and had never once been defeated while I was in
@@ -272,8 +255,6 @@ hidden within my Master’s heart burned fiercer than anyone else’s.
 “Let’s teach those girls a lesson.”
 Linia and Pursena were going to die tonight. I was certain of
 that.
-Page | 173
-
 I trembled with what I thought at first was fear, but soon
 realized was joy. “Yes, Master!”
 With this powerful ally at my side, I could finally exact revenge
@@ -306,9 +287,6 @@ memories of Roxy had kept me going since my ED problem arose, of
 course. So, I needed to make those mongrels realize the gravity of
 what they’d done. I was going to teach them that when they lived by
 their own selfish whims, they would reap the consequences.
-
-Page | 174
-
 “Are you listening, Mister Zanoba?”
 “Y-yes?”
 “We’re going to capture them alive. No killing them. They need
@@ -338,9 +316,6 @@ simple, but they’re both about equal in strength. If they’re attacked
 from the rear, they can immediately switch roles.”
 The one being attacked would devote their attention to
 dodging, while the other focused on using paralysis magic against
-
-Page | 175
-
 their opponent. How had Master Fitz managed to break through
 their coordination? I should’ve asked him.
 “But this time, it will be two-on-two. On a more level playing
@@ -371,8 +346,6 @@ our own.”
 Elinalise wouldn’t get involved in a personal squabble, anyway.
 Even though she’d spent time with Roxy, she’d still probably say, “It’s
 just a figurine. It’s not as though the real Roxy got beaten up.” Coldhearted woman.
-Page | 176
-
 “Very well. Let’s issue our challenge to them. In my homeland,
 it’s an ancient custom to send a letter with a knife and a single
 flower. Among the Doldia Tribes, throwing rotten fruit at your
@@ -399,8 +372,6 @@ have less mana at the end of the day.
 That aside, we were waiting a while. The girls stayed to the very
 end of their classes, completely at odds with their delinquent image.
 They should’ve been blowing off their afternoon classes and
-Page | 177
-
 gathering with the rest of their ilk in front of a convenience store.
 The evening deepened and the area around us began to grow dark,
 swallowing the shadows cast by our bodies. I started to think it might
@@ -431,8 +402,6 @@ life, someone I respected and considered a friend.
 embarrassed. They’re the ones who should be embarrassed, always
 attached at the hip like that. It’s almost like they want everyone to
 know they can’t do anything on their own.”
-Page | 178
-
 “What did you just say, mew…?!”
 The girls radiated threat and incredulity, but I wasn’t afraid. I
 knew people who overflowed with far more murderous intent than
@@ -464,8 +433,6 @@ rigid. “You bastard… I’ll strip you naked and throw water on you,
 mew!”
 I’d had that done to me before. What a pathetic excuse for a
 threat. In fact, it just sounded stupid when she said it.
-Page | 179
-
 “Tsk. Linia always loses her temper right away… fuck.” Pursena
 mumbled to herself as she bared her fangs and put her hand to her
 mouth. I flashed back to the time that Gustav did the same thing and
@@ -496,9 +463,6 @@ her chin. That was enough to make her legs jerk and wobble. I struck
 my fist against her temple, sending her to the ground, where I put
 my foot on her chest and hit her with a stone cannon. A pleasant
 boom echoed around us.
-
-Page | 180
-
 “Gyamew?!” Linia was out like a light.
 I lifted my foot off her body, now splayed like a frog on the
 ground. The impact of our battle had flipped her skirt up. Hm, so
@@ -527,8 +491,6 @@ Eris had been my opponent, she would never have taken a
 roundabout course and attacked me from the side. Her fist always
 took the shortest distance to its target. She would never have let
 herself be hit by my first counterattack, even if she did, she would’ve
-Page | 181
-
 immediately fallen back to avoid being concussed by the follow-up.
 Even if she somehow got thrown to the ground, she’d be right back
 to grappling with me and launching her next attack. I’d never
@@ -558,5 +520,3 @@ room.”
 “Julie, watch your steps.”
 “I-I a-am.” For some reason I got the impression that there was
 fear lurking in Julie’s eyes as she looked at me.
-
-Page | 182

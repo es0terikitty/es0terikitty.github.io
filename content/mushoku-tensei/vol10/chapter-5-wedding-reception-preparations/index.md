@@ -8,9 +8,6 @@ chapter = 5
 +++
 
 ![Illustration](illustration-76.jpg)
-
-Page | 76
-
 “Sylphie, it’s been approximately three weeks since I announced
 our betrothal. I realize that isn’t a long time, but we have taken a bit
 of a break from discussing it.”
@@ -40,9 +37,6 @@ Even so, I intended to be understanding about her career. “But
 what are you going to do about your work for Princess Ariel?”
 I didn’t know what the Princess thought about all of this, but I
 didn’t see how Sylphie could continue her work as a bodyguard if she
-
-Page | 77
-
 got pregnant. I supposed I or someone else could fill in on the
 battlefront, but that wasn’t the only aspect of being a bodyguard.
 “What do you mean?” she asked.
@@ -74,8 +68,6 @@ libido was finally restored, the white-hot emotion that had been
 bottled up for those two—no, three years—came bursting forth, and
 the only thought in my head was Sylphie = someone who will let me
 have sex with her.
-Page | 78
-
 I didn’t think that was necessarily a bad thing. Sylphie had
 initiated it, after all, even giving me an aphrodisiac and letting me
 have my way with her even though it was her first time. Even though
@@ -105,8 +97,6 @@ Ooops. My sexual desires had come spilling out.
 just let me grope your tiny breasts and we’ll be fine.”
 “Um, I’ll try my best, okay? I don’t want to make you restrain
 yourself, you know?”
-Page | 79
-
 “Yeah, but don’t push yourself, either. When you’re exhausted,
 you need to recuperate. If you let me just touch you a little bit either
 before we go to bed or after we get up, I’ll take care of it myself.”
@@ -136,8 +126,6 @@ whenever you like.”
 “M-mine belong to you too, but keep in mind the time and place
 when you touch them.”
 “How about now?”
-Page | 80
-
 “B-but we’re having an i-important conversation right now,
 aren’t we?”
 Oh yeah. We’d gotten a little off track.
@@ -167,8 +155,6 @@ arms and slowly pushed her down onto the bed.
 “Y-you’re not going to grope?”
 “That’s for morning and night.”
 “O-okay.”
-Page | 81
-
 We stared at each other, faces close together. I could see my
 face reflected in her moist eyes. She softly closed them. I patted her
 head and gave her an awkward kiss.
@@ -194,9 +180,6 @@ lustrous black stone, that my idol was enshrined. The dusty old
 research room had been thoroughly cleaned and transformed into a
 space of divinity. There, in the quiet of night as everything else slept,
 I offered a prayer to my god from this new holy land.
-
-Page | 82
-
 Chapter 5:
 Wedding Reception Preparations
 
@@ -231,9 +214,6 @@ informing them of my marriage, but who knew how long it would
 take it to reach them?
 “We’ve got royalty, beastmen, a demon, a slave, an adventurer,
 and some of them can’t keep their mouths shut. I foresee trouble.”
-
-Page | 83
-
 Linia and Pursena still bore Ariel a grudge, and I could very easily
 imagine sparks flying when they met face to face. If this were a
 marriage ceremony in my previous world, we could just seat them at
@@ -265,8 +245,6 @@ was Ariel, Zanoba, Linia and Pursena. A veritable crowd of royalty, or
 the equivalent thereof. Also, Cliff seemed the type who would
 complain if we put him at the end of the table. No, wait—despite his
 personality, he had been taught courtly etiquette. Surprisingly, he
-Page | 84
-
 might be just fine with it. Plus, as long as we seated Elinalise with
 him, she would cover for us.
 Julie had the lowest status of them all, as a slave, so she’d be
@@ -297,8 +275,6 @@ shows up?”
 The Christmas episode from a certain anime came to mind. A
 character had gone all out and made a cake for the occasion, but
 then lost it after no one showed up. It was a heartrending episode.
-Page | 85
-
 “I can promise you that Princess Ariel and Zanoba will be there,
 at least. Princess Ariel would like to get to know you better, and
 Zanoba knows it would absolutely destroy your trust if he doesn’t
@@ -328,9 +304,6 @@ Elinalise? I wondered why. I’d never really seen the two of them
 talk before.
 “There’s a little something I’d like to ask her,” Sylphie explained.
 “It’s not really a big deal or anything, though.”
-
-Page | 86
-
 I wondered what it was. Maybe she wanted to ask if Elinalise
 and I had slept together? Well, there was nothing between the two
 of us, so it didn’t bother me if she wanted details.
@@ -361,8 +334,6 @@ I said.
 We headed for a ritzy shop, not a place I’d ever set foot in of my
 own accord. Sylphie had put on her sunglasses and returned to her
 Fitz persona.
-Page | 87
-
 “Ah, Lord Fitz, good to see you. Thank you for your continued
 patronage.” The owner bowed deeply at Sylphie. It seemed she was
 a regular—in other words, it was Princess Ariel patronizing the place
@@ -393,8 +364,6 @@ hide of a great earthworm from the Begaritt Continent, it can
 weather even a sandstorm. The designer is the promising newcomer,
 Flone. They’re known for their highly creative use of colors. Plus, it’ll
 make it difficult for monsters to spot you.” He held up a desert
-Page | 88
-
 camouflage-patterned robe as he spoke. I wondered if naming the
 designer was an essential aspect of these fancy stores.
 I didn’t dislike the camouflage, but something about it wasn’t
@@ -425,9 +394,6 @@ That aside, I did like the robe itself. My wife had good taste.
 What concerned me was the price tag—and now that I took a look at
 it, yes, it was expensive. You could buy a house on the Demon
 Continent with how much this cost.
-
-Page | 89
-
 “Well, they do say that names represent nature,” I said. “If
 ‘lucky’ is in the name, maybe it’ll bring me good luck. I guess we’ll go
 with this.”
@@ -456,9 +422,6 @@ measuring hers.
 three days. If you’ll tell us your address, we can have it delivered.”
 Feeling happy and a bit embarrassed, we shared the address of
 our new home.
-
-Page | 90
-
 After that, we went grocery shopping. First, we purchased
 spices. Then the non-perishables. Thanks to the distribution routes
 that Nanahoshi had developed, we were easily able to get our hands
@@ -489,8 +452,6 @@ of looking at them funny.
 Then again, would I want to be married to a man with no
 confidence who did nothing but sit hunched over in the living room,
 reading the paper? Nope.
-Page | 91
-
 All right, then. I’ll act with more confidence from now, I guess.
 Starting today, I’ll be a smug asshole!
 “Hmph. Sylphie. Make sure to show how much you love me.
@@ -520,9 +481,6 @@ create something like porcelain? Though it would still be gray or
 brown, whatever I did.
 “Is there anything else we need?” I asked.
 “Um, some tea to serve our guests.”
-
-Page | 92
-
 Black tea and teacups, huh? Okay, no problem. Maybe we
 should buy a rug while we were at it. Might be a good idea to
 prepare a guest room as well, just in case.
@@ -550,8 +508,6 @@ Marriage sure was complicated.
 That night, I invited Sylphie to join me in the bath, supposedly to
 teach her how to use it. My real motivation was to spend some
 quality time together in the bath. If this were a book, it might be
-Page | 93
-
 narrated thusly: A pervert was poised to sink his fangs into an
 adorable young girl.
 I’m going to do it tonight. I’m going to do it! Just you watch,
@@ -582,8 +538,6 @@ saw printed on the buckets at public baths in Japan.
 “You’ll be pouring water over your shoulders before you get in
 the bath. So take a seat here and use this cloth and soap to wash
 your body.”
-Page | 94
-
 “Hey Rudy, why is there a hole in the middle of this chair?”
 “To make it easier to wash your body, of course.” I moistened
 the cloth with warm water, sudsed it up, and started washing
@@ -614,8 +568,6 @@ You probably don’t have to wash your hair all that often.” I
 continued to shampoo her hair as I talked. It was short and easy to
 clean. “Once you’re done, make sure to rinse all of it out with warm
 water.” I used magic to conjure water and rinse out her hair.
-Page | 95
-
 She giggled. “This kind of reminds me of when we first met.”
 Oh, yeah…I’d used warm water to rinse her off back then, too.
 That had been back in Buena Village, around the time I started being
@@ -647,4 +599,3 @@ maybe she was watching to get an outside perspective of how to
 wash one’s body before getting in the bath, but that didn’t seem to
 be it. She must’ve been intrigued by the sight of that one body part I
 had and she didn’t. Curiosity, I assume.
-Page | 96

@@ -41,9 +41,6 @@ My younger sister was wearing a maid uniform, as usual. Her
 outfit had been a bit too big for her last time we met, but it fit
 perfectly now. In fact, judging from the small patches I saw here and
 there, it was probably the exact same outfit as before.
-
-Page | 11
-
 She seemed to be curious about my house. I’d noticed her neat
 brown ponytail swaying back and forth as she shot glances around
 the living room.
@@ -73,9 +70,6 @@ formal. It was actually making me uncomfortable.
 “Could you maybe stop talking like that? Please?”
 “Oh, but I couldn’t possibly. You always speak so politely to me!
 How could I fail to do the same?”
-
-Page | 12
-
 Ah, so this was my fault. I did tend to be a bit formal in my
 speech—apparently, it had made Aisha feel like she had to do the
 same.
@@ -107,8 +101,6 @@ out.”
 Her enthusiasm was palpable. It reminded me of the way
 Pursena got when you dangled a slab of meat in front of her. I felt
 like Aisha would do anything I asked her to right now.
-Page | 13
-
 Norn, on the other hand, still wasn’t saying anything, and the
 expression on her face looked kind of gloomy. I got the feeling she
 hadn’t come to stay with me willingly. The way we’d been reunited
@@ -140,8 +132,6 @@ Of course, I didn’t specify that the illness was erectile
 dysfunction, or the means by which Sylphie had cured it. That’s not
 the sort of thing you talk about with a pair of ten-year-old girls. I did
 make sure to mention Sylphie was in a slightly tricky situation that
-Page | 14
-
 required her to dress as a man in public. Princess Ariel had already
 given me permission to explain this to anyone who I thought needed
 to know.
@@ -172,8 +162,6 @@ For some reason, the thing was secured with three large locks. It
 never hurt to take extra precautions, of course, but this just felt like
 just broadcasting to the whole world that there was something
 valuable inside. Then again, maybe the locks were just there to keep
-Page | 15
-
 Aisha and Norn from poking at the contents and possibly losing
 them.
 I used a touch of magic to snap all three locks open
@@ -204,8 +192,6 @@ advised to be strict with her. Norn was an ordinary little girl, but
 constantly being compared to her sister at school had left her sullen
 and withdrawn, putting up a tough front for all to see. I was asked to
 treat her gently and with kindness.
-Page | 16
-
 It felt like Lilia was being kind of harsh on her daughter for some
 reason. She still seemed to view herself as Paul’s mistress or lover,
 rather than his second wife. Maybe that had something to do with
@@ -235,9 +221,6 @@ letters, so she’d probably refrained out of politeness.
 “Okay then,” I said, setting down the letters. “Once you’re both
 settled in, I guess our next step will be to get you back in school.”
 “What?! No!”
-
-Page | 17
-
 For some reason, it was Aisha who immediately piped up to
 object. I was a little surprised by that. Maybe her last experience in
 the educational system hadn’t been too pleasant.
@@ -268,9 +251,6 @@ Aisha’s smile was full of confidence. She seemed convinced she
 could score top marks on any test I threw at her. Of course, if she
 could manage that, then it was probably fine for her to stop
 attending school. And I’d be able to justify my decision to our father.
-
-Page | 18
-
 “Norn, why don’t you take the test too, while we’re at it?”
 Norn’s eyes flicked toward me when I spoke, but she didn’t
 move her head. This was starting to get to me. Was the kid going to
@@ -301,8 +281,6 @@ two children. Better than one of them punching the other in the jaw,
 then straddling them for a brutal pummeling. That said, though a
 little scrap wasn’t the worst thing in the world, this one was my fault.
 I needed to intervene.
-Page | 19
-
 “Cut it out, you two.” The words came out sharper than I’d
 expected. The two of them jerked in surprise and instantly stopped
 moving their hands.
@@ -332,9 +310,6 @@ yet!”
 “Oh, shut up!”
 Norn stomped her way up the stairs. A few seconds later, a door
 slammed shut up on the second floor.
-
-Page | 20
-
 This was…going to be tricky, all right. The girl was clearly at a
 tough age, and she had a prickly personality. I wasn’t sure how well I
 was equipped to deal with her.
@@ -361,8 +336,6 @@ Early that afternoon, I left my two sisters at the house and made
 a trip to the University of Magic. I made a beeline for the faculty
 offices, tracked down Vice Principal Jenius, and quickly explained the
 situation.
-Page | 21
-
 “They were both attending other schools previously, yes? I think
 they should be able to keep up with the introductory courses, then.
 It would be best for them to take the exam at their earliest
@@ -392,8 +365,6 @@ talk with him about a mutual acquaintance of ours. I think there
 might be a misunderstanding I could clear up.”
 “Understood. Should I happen to see him, I’ll certainly let him
 know.”
-Page | 22
-
 I thanked the vice principal politely for his help, then went on
 my way.
 I’d meant to head straight home afterward, but had some spare
@@ -421,9 +392,6 @@ her in a chair, and then took her head between my hands. After
 leading off with a basic detoxification spell, I added a little healing
 magic to help with the pain.
 “Phew… Thanks, Rudeus. I owe you one.”
-
-Page | 23
-
 Shaking her head slowly, Nanahoshi pressed her fingers to her
 temples. After a moment, she turned and put on the mask she’d left
 lying on her table.
@@ -454,8 +422,6 @@ I had to watch my step around this girl. In my past life, I might
 have assumed she had a thing for me. But I wasn’t a virgin anymore,
 damn it! I wasn’t even single! She wasn’t going to mess with my head
 that easily.
-Page | 24
-
 “How old are they?” Nanahoshi asked.
 “They’re both ten, I think.”
 “I see. I’ve got a little brother about the same age, actually. But I
@@ -485,8 +451,6 @@ sounded kind of forced. Kids these days! No appreciation for the
 classics.
 At any rate, the girl clearly wasn’t in any shape to be conducting
 experiments today. Not that I had time to help out, either. We’d
-Page | 25
-
 have to resume our research later, once things had calmed down a
 bit.
 Once the school day was over, I met up with Sylphie and we
@@ -514,8 +478,6 @@ here. If you headed out further east, you’d find countries where
 there was little fresh food to be had at any price.
 Apart from the market itself, you could also find some jobs for
 adventurers posted in this area of the city. Most of these involved
-Page | 26
-
 magically freezing fresh meat—jobs popular with younger university
 students who’d learned basic magic and needed some pocket
 change.
@@ -546,8 +508,6 @@ Sylphie paused thoughtfully and put her hand to her chin, seemingly
 torn between the options I’d placed in front of her.
 Then I followed her gaze and realized she was considering two
 differently priced cuts of ham.
-Page | 27
-
 “Come on, Sylphie. I’m seriously conflicted about this. At least
 think it through with me.”
 “I am thinking! But you know, Rudy, I’m pretty sure you’re
@@ -576,9 +536,6 @@ and put Norn on rails for the moment?” I said.
 “Ah, okay. Yeah. I think that sounds good.”
 Was it really okay to treat the two of them so differently? Well,
 Aisha was much further along than Norn right now. Ignoring that fact
-
-Page | 28
-
 and treating them exactly the same wouldn’t make much sense.
 Recognizing their differences wasn’t the same as playing favorites.
 “Uhm… That said, Rudy, it’s ultimately your decision. Sorry if I
@@ -609,8 +566,6 @@ got very flustered. “Don’t get the wrong idea, Rudy! I love you very
 much—you know that! I mean, there’s more to it than that, even… I
 barely know how to explain it, to be honest. It’s this big warm jumble
 of feelings…”
-Page | 29
-
 She really was too cute when she got thrown off balance like
 this.
 “Well, I guess they’re all different kinds of love, basically. I
@@ -642,8 +597,6 @@ It was all completely ridiculous, of course.
 Instead of responding, I leaned over and planted a kiss on
 Sylphie’s cheek, prompting hoots of amusement and a few jeers
 from all around us. We’d clearly attracted some attention.
-Page | 30
-
 Blushing red out to the tips of her ears, Sylphie quickly put her
 sunglasses on.
 Master Fitz was cuter than ever these days.
@@ -666,5 +619,3 @@ fine without me around. In that respect, at least, things were no
 longer like the old days.
 One week later, Aisha took her entrance exam as
 scheduled…and earned a perfect score.
-
-Page | 31

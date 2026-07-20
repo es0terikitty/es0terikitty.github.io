@@ -35,9 +35,6 @@ weeks now. Bitterness, sadness, self-pity, anger, and who knew what
 else.
 I couldn’t hold them back anymore. I couldn’t stop myself from
 breaking down.
-
-Page | 111
-
 Marissa came back to the room a little later. She saw me crying
 into my pillow and gently asked me what was wrong, but I just said,
 “It’s nothing,” and pulled my blanket over my head.
@@ -68,8 +65,6 @@ my brother.
 At times like these, Dad was always there for me. When
 something bad happened and I curled up in bed, he’d come in and
 gently rub my back for a while. And after we were separated, Ruijerd
-Page | 112
-
 took his place. He’d put me on his lap and pat my head and tell me
 stories.
 I didn’t have anyone like that here. Marissa was nice to me, but
@@ -95,9 +90,6 @@ quiet too. For a while, we just stared at each other.
 This had to be the first time I’d looked this closely at Rudeus’
 face. He looked a little anxious. His features reminded me a little of
 my dad, which was kind of reassuring. But of course they’d look alike.
-
-Page | 113
-
 “I’m sorry, Norn. It hasn’t been easy for you here, has it?”
 Rudeus said, his voice hesitant. “I guess I don’t really…even
 understand you that well… I know this must be hard for you, but I’m
@@ -125,8 +117,6 @@ I needed to forgive him.
 There were tears rolling down my cheeks now. My throat was
 quivering.
 After a moment, I started to sob.
-Page | 114
-
 “I’m sorry, Rudeus! I’m sorry…”
 Slowly, cautiously, my brother stood up and sat down next to
 me. He gently put his hand on my head, and then he hugged me to
@@ -159,8 +149,6 @@ hello to me when we passed each other in the hall. We still didn’t
 talk that much, and she didn’t start hanging all over me like her
 sister. She was probably still getting compared to me in her classes,
 but I guess it didn’t bother her as much anymore.
-Page | 115
-
 I still didn’t understand what she was feeling. I hadn’t done
 anything meaningful at all. It made me feel a little pathetic. I knew
 how it felt to be looked down on, and I knew how it felt to isolate
@@ -190,9 +178,6 @@ managed to return to our old world someday, I’d have to ask her to
 take a message to my brother.
 “Thanks for trying to get through to me back then. And I’m
 sorry.”
-
-Page | 116
-
 Chapter 6:
 Life with the Greyrat Sisters
 
@@ -226,9 +211,6 @@ first real friends. I wanted to introduce myself to them, so I’d asked
 her to bring them over to our house sometime, but she’d flatly
 rejected the idea. I guess she found the idea of introducing them to
 her family too embarrassing.
-
-Page | 117
-
 On the bright side, it seemed the way I’d barged into her
 classroom apparently hadn’t caused her too much trouble after the
 fact. That was a bit of a relief.
@@ -260,8 +242,6 @@ was our main common interest. Not that I really minded, you know?
 I was actually happy to have someone else I could talk to about him.
 “I see… Sorry to keep pestering you, but what’s the Demon
 Continent like in general?”
-Page | 118
-
 “Well, all the monsters that live there are really big. The
 culture’s pretty different, also…but it has some similarities with this
 region, actually. Most of the people there are just ordinary folks
@@ -290,8 +270,6 @@ months learning Advanced Healing and Intermediate Detoxification
 magic. I was good at the brute memorization those subjects
 required, but they’d still kept me very busy.
 At this point, I wasn’t sure what I wanted to learn next.
-Page | 119
-
 Moving on to Advanced Detoxification seemed logical, but there
 wasn’t anything else that really caught my interest. It wouldn’t hurt
 to get my Fire and Wind magic up to the Saintly level, but that tier of
@@ -321,9 +299,6 @@ revealed as the true villain.
 Wait…wasn’t Laplace considered a legendary hero on the
 Demon Continent, though? If I made him sound totally evil, I might
 piss a lot of people off.
-
-Page | 120
-
 One afternoon, as I was struggling with these questions for the
 hundredth time, Norn peered over at my work. “What are you
 writing there, Rudeus?”
@@ -354,8 +329,6 @@ to be an adult about this.
 “That would be a huge help, Norn. Just make sure you don’t
 neglect your studies, okay?”
 “All right!”
-Page | 121
-
 From that day on, Norn and I started working on the project
 together. When she had a little extra time in between her lessons
 and her study sessions, she would use it to write down Ruijerd’s
@@ -386,8 +359,6 @@ her permission to speak her mind.
 “You know, Aisha…if there’s something you want to say, you
 don’t have to bottle it up inside.”
 “Could you be more specific, Rudeus?”
-Page | 122
-
 “Well, I don’t know. I’ve been spending a lot of time with Norn
 lately, right? Maybe you’re feeling a little attention-starved or
 something? Maybe you’ve been working too hard and need a
@@ -418,8 +389,6 @@ Sylphie got back home to discuss the specifics. When I offered her a
 relatively large amount of money, though, she actually declined and
 tried to talk me down to a smaller figure.
 Talk about mature. Was this kid really only ten years old?
-Page | 123
-
 In the end, we settled on a number we could all agree on.
 “Can I ask why you brought this up, though? Is there something
 you want to buy?” I had to admit I was curious about what had
@@ -448,9 +417,6 @@ there were no other customers to be seen. From the looks of things,
 they mainly sold secondhand goods.
 After browsing a little, Aisha bought three small flowerpots
 there.
-
-Page | 124
-
 “What are you going to do with those?” I asked. “Drop them on
 the heads of any Demon Kings who happen to be passing by?”
 “Uh, no. I was just going to plant some flowers in them,” said
@@ -480,9 +446,6 @@ sowing some seeds held a certain appeal for me. I’d have to whip her
 up some amazing soil later. The kind that lets you grow baobab trees
 from tulip seeds.
 “What kind of flowers were you thinking of planting?”
-
-Page | 125
-
 “I collected a bunch of different seeds on the way up here,
 actually. I’ll use those.”
 “Those might not actually grow, just so you’re aware.”
@@ -513,8 +476,6 @@ were pink and frilly and were definitely the expensive side.
 When she took them up to the counter, though, she proceeded
 to haggle ruthlessly with the clerk. She dropped my name and
 Princess Ariel’s and used every single card she had to play. By the
-Page | 126
-
 end, she’d managed to talk them down to an only moderately pricey
 figure.
 “Do you have enough to pay for those, Aisha? I can chip in a
@@ -545,8 +506,6 @@ The girl wasn’t just clever; she was good at playing with your
 emotions. Not only had she wrapped her arms around my waist, she
 was looking up at me with Bambi eyes. I knew it was all an act, of
 course, but it was so cute, I couldn’t bring myself to care.
-Page | 127
-
 There was only one possible reply, anyway.
 “It’s totally fine, Aisha.”
 Good thing I wasn’t a creepy old man or anything. I might have
@@ -575,8 +534,6 @@ Summon an inorganic object.
 Summon something composed of organic matter.
 Summon a living thing—a plant or small animal.
 Summon a living thing that fits certain specific criteria.
-Page | 128
-
 Return a summoned living thing to its previous location.
 The plastic bottle we’d summoned previously might not
 technically be a fully inorganic object, depending on how you defined
@@ -606,9 +563,6 @@ magic who she’d mentioned once or twice before.
 “Does this guy know a lot about this, uh, conditional
 summoning?”
 “Well…”
-
-Page | 129
-
 Nanahoshi put her hand to her chin and thought for a moment,
 then nodded to herself and began to explain. “Let me elaborate a
 little. In this world, summoning magic is generally divided between
@@ -638,9 +592,6 @@ she said.
 Barren World, and we’re just calling them to ours.”
 In other words, it was thought of as just another variation on
 fiend summoning.
-
-Page | 130
-
 Fiends were harder to control, but they could think and act on
 their own, and they could adapt to unfamiliar circumstances. By
 contrast, spirits were quite easy to control but usually only acted in a
@@ -671,8 +622,6 @@ suddenly seemed a lot more exciting. I guess I was still Japanese at
 heart.
 “Yeah. And I’ll get you something more impressive next time,
 okay? I promise.”
-Page | 131
-
 Nanahoshi pressed her hands together in a pleading gesture. I
 hadn’t seen anyone do that in a long time. It made me a little
 nostalgic.
@@ -702,9 +651,6 @@ objects from our old world now, isn’t there a chance we could bring
 over some really useful stuff?”
 It seemed like a decent idea on the face of it, but Nanahoshi
 shook her head. “At this stage, I’m only capable of summoning
-
-Page | 132
-
 simple objects composed of a single consistent substance. Although I
 suppose that does give us a fairly wide range of possibilities.”
 A single consistent substance, huh? That explained why the
@@ -734,8 +680,6 @@ stiff but respectable bow.
 “You’re welcome,” Zanoba said with a lordly nod. “Keep up the
 hard work.”
 “Yes, sir!” she replied happily.
-Page | 133
-
 Julie was speaking the Human Tongue much more fluently these
 days. It wasn’t because of anything I’d done, though. Ginger made a
 habit of correcting her whenever she slipped up, and you always
@@ -765,9 +709,6 @@ swore, in that moment, to devote myself to his service.”
 “What do you mean? That’s the story.”
 Wait, that’s it? That was enough to make you put up with all of
 this?!
-
-Page | 134
-
 Then again, swearing an oath of fealty was probably serious
 business. If you were going to break that promise when you were
 treated poorly, you probably wouldn’t make it in the first place. I’d
@@ -798,8 +739,6 @@ sumo wrestler might wear. To be honest, I would have taken it for an
 adult diaper.
 “I see. Well, the most obvious issue would be that it’s not
 exactly fashionable.”
-Page | 135
-
 “Indeed. I couldn’t ask Lise to walk around wearing this thing, of
 course.”
 The two of them had actually gotten into a fight about it—and
@@ -829,5 +768,3 @@ them full of mana before they could work. Less efficient ones
 weren’t considered especially useful for real-world applications.
 Ideally, Cliff wanted something that Elinalise could wear constantly,
 while consuming only as much mana as she could stand to spare. But
-
-Page | 136

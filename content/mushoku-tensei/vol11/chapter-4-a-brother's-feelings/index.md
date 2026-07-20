@@ -37,9 +37,6 @@ Linia and Pursena might not have meant badly, but I’d have to
 be firm with them about this. The only panties I liked were freshly
 removed ones. It didn’t do anything for me if I didn’t get to see them
 coming off.
-
-Page | 74
-
 Wait, no. That’s not the issue here.
 “Very well, then.”
 Ariel peeked briefly inside the bag, then nodded once again. It
@@ -68,9 +65,6 @@ over.
 “I’m very sorry for all the hassle Linia and Pursena caused you,
 Princess Ariel…”
 “It’s all right, Rudeus. These things happen.”
-
-Page | 75
-
 Luke held the door open and invited me to step through it. Ariel
 and Sylphie followed, after which he came out himself and locked
 the door behind him.
@@ -100,9 +94,6 @@ Poor kid. It might sound insignificant, but things like that really hurt
 when they happened to you as a kid. It seemed my concerns about
 her turning into a loner might be justified.
 “Luke, would you show her the way, please?” Ariel asked.
-
-Page | 76
-
 “Of course. This way, Norn. It’s not far.”
 Gently placing a hand on Norn’s back, Luke led her off down the
 hallway.
@@ -132,8 +123,6 @@ At first, their faces were blank with confusion. But a moment
 later, they started elbowing each other in the side and hissing at
 each other.
 “I told you so! He didn’t want ’em after all!”
-Page | 77
-
 “It’s your fault, Linia. You said the boss loved panties.”
 “What? You thought so too!”
 “I wanted us to test the waters first. By giving him yours.”
@@ -162,9 +151,6 @@ a trade!”
 ended up pretty shaken afterwards.”
 “Their new ones probably didn’t fit right, that’s all! We didn’t
 take any panties from the girls who said no, I swear!”
-
-Page | 78
-
 Hm? This sounded different from the way Ariel had described it.
 That brought me some relief. I’d feel terrible if they’d forcibly ripped
 anyone’s clothes off. I might have been tempted to make them walk
@@ -194,9 +180,6 @@ at them, which actually surprised me a bit. Maybe I was biased
 because they were my friends?
 “Tell me something, though. Why the heck did you decide to
 give me a bunch of underwear as a present, anyway?”
-
-Page | 79
-
 The two of them looked up at me in blank confusion, as if I’d
 asked the strangest question in the world.
 “I mean, you worship panties, don’tcha?”
@@ -226,8 +209,6 @@ Now I had the two of them smirking at me knowingly.
 “I knew it! You do wanna mate with us, Boss!”
 “Well, of course he does. Deep down, he’s just another dude.
 We’re irresistible.”
-Page | 80
-
 Wow, this was extremely annoying. It also didn’t make that
 much sense. Shouldn’t they be grossed out or something, instead of
 teasing me like this? Did they have a crush on me?
@@ -258,8 +239,6 @@ Linia and Pursena cringed, their ears visibly drooping. “Uh, well,
 good to see she’s got some spirit!”
 “Yeah. She’s a real cutie, too.”
 Talk about transparent.
-Page | 81
-
 With a smile, I thumped the two of them on the shoulders. “Try
 to keep an eye out for her, okay?”
 “You got it, Boss!”
@@ -288,9 +267,6 @@ quickly and put that incident behind us, but the memory probably
 still smoldered in my sister’s heart. If she ever brought it up, I’d have
 to apologize sincerely. Even if it seemed like ancient history to me,
 the pain and anger might still be fresh for her.
-
-Page | 82
-
 There was no need to rush things, though. The two of us would
 probably be living close to each other for years, or even decades. If it
 took a year or two for her to warm up to me, I could live with that.
@@ -300,9 +276,6 @@ and that might take some time.
 Only a few days after I reached this conclusion, I got some
 alarming news.
 Norn had shut herself in her room.
-
-Page | 83
-
 Chapter 4:
 A Brother’s Feelings
 
@@ -337,9 +310,6 @@ over again if I ever tried to emerge from my isolation.
 I had to address the cause of Norn’s behavior if I wanted it to
 change. Before I tried to coax her out, I had to figure out the reason
 she was hiding in her room.
-
-Page | 84
-
 A memory from my past flashed through my mind. I was in the
 cafeteria at my old school, standing patiently in line. But just as it
 was finally my turn, a bunch of scary-looking punks barged in ahead
@@ -370,8 +340,6 @@ me. I’d considered doing this by myself, but I didn’t think my face
 was especially intimidating. At least with these two standing next to
 me, everyone should recognize that I meant business.
 “Uh, Boss…”
-Page | 85
-
 “Don’t, Linia. Can’t you see how mad he is? It’s kinda scary.”
 The two of them seemed a little dubious about this. That was
 understandable. I was dragging them into a seriously embarrassing
@@ -383,13 +351,7 @@ was already underway.
 inside.
 “Uh, M-Mister Greyrat? We’re in the middle of—”
 “I’d like a moment of everyone’s time, if you don’t mind.”
-
-Page | 86
-
 ![Illustration](illustration-87.jpg)
-
-Page | 87
-
 “But—”
 “It won’t take long.”
 Shouldering the professor out of the way, I took her place
@@ -418,9 +380,6 @@ Looking more closely, I realized that one of them was that
 delinquent I’d met some time earlier. I couldn’t remember his name
 off the top of my head. Could he have been the one?
 Slow down. It’s too early to start jumping to conclusions.
-
-Page | 88
-
 “I don’t expect much of those responsible,” I said. “Maybe they
 were just playing around, or trying to get to know my sister, and
 things took a weird turn. Maybe she provoked them somehow.”
@@ -450,9 +409,6 @@ haircut. Not the kind of kid you’d expect to be a bully, honestly. It
 was easier to imagine her getting bullied.
 “I w-was actually talking to Norn the other day, and—”
 “You accidentally said something mean to her?”
-
-Page | 89
-
 As long as it was just a few nasty words, maybe I’d take it easy
 on her.
 “No, no! It’s just, uhm… I’ve heard a lot of stories about you, Mr.
@@ -481,5 +437,3 @@ Wait, what? She nearly cried?
 “Oh, wait, that reminds me…”
 All of a sudden, there were multiple people chiming in from all
 around the classroom. And all of them had similar stories to share.
-
-Page | 90

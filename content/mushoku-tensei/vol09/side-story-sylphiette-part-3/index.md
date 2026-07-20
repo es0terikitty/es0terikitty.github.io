@@ -41,9 +41,6 @@ Rudy was speaking to the new couple with an awkward little
 smile on his face. Elinalise was smiling warmly back. Cliff’s expression
 was less warm, but there was something like respect in his eyes
 when he looked at Rudy.
-
-Page | 49
-
 I seemed to remember Cliff despising Rudy. But now that Rudy
 had helped him win over Elinalise, his attitude had apparently
 changed completely.
@@ -69,5 +66,3 @@ He wasn’t waving at me, in other words. He didn’t even know I
 was here.
 Trying not to feel too sad about that fact, I followed after the
 Princess as she set off down the hall.
-
-Page | 50

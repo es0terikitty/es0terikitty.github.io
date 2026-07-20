@@ -43,8 +43,6 @@ take the chance to reconnect. Thus, he sent me this letter inviting me
 to catch up over a meal.
 The idea appealed to me as well. Soldat was a good guy, and I
 owed him a lot. He had a past with Elinalise, so I felt like it might be a
-Page | 157
-
 little awkward introducing him to her devoted new boyfriend…but he
 was made of tougher stuff than me. He’d probably get over it easily
 enough.
@@ -75,8 +73,6 @@ been around since ancient times, and were the subject of ongoing
 study throughout history, so lifting one wasn’t as easy as you might
 hope. For all of Cliff’s bravado, six months of dedicated research
 hadn’t yet brought him any major successes.
-Page | 158
-
 “Isn’t it tough, working that hard with nothing to show for it?”
 “I’m not worried in the slightest,” said Cliff, his voice full of
 genuine confidence. “I’m a genius, so I’ll figure something out
@@ -107,8 +103,6 @@ tribe of demons.”
 “Right. To be specific, the spears the Superd used during the
 Laplace War. Thanks to the curse on those weapons, they lost their
 sanity and ended up getting a reputation as mindless killers.”
-Page | 159
-
 Cliff opened his eyes wide. “What? I’ve never heard that before!
 Is that actually true?!”
 “Well, I only heard it secondhand, so I can’t say for sure.”
@@ -138,9 +132,6 @@ right? They’re all born with something strange about their mana,
 which gives them odd powers. The only difference is whether the
 effect happens to be positive or negative.”
 “…That’s news to me.”
-
-Page | 160
-
 I looked over to Elinalise for backup, but she was also looking at
 me in surprise. Evidently neither of them had heard this before.
 Maybe it wasn’t widely known? I seemed to remember someone
@@ -169,8 +160,6 @@ few minutes, we’d made our way to a nearby tavern and settled
 down around a large table.
 When they heard about Cliff and Elinalise’s relationship, the
 members of Stepped Leader were…shocked, to put it mildly. “What
-Page | 161
-
 the hell?” someone piped up, stifling a laugh. “Are you seriously
 getting married? And here I thought you were a slut for life.”
 Cliff exploded with anger, obviously. But Soldat and the others
@@ -202,8 +191,6 @@ goodies from that stray dragon…”
 It was kind of fun reminiscing about this stuff. When I’d taken
 down that Red Wyrm, the whole party had carried its meat and
 scales all the way back to town to split up equally.
-Page | 162
-
 “Oh, right. That reminds me, Quagmire! So we were up in the
 Neris Tundra the other month, and—”
 From this point on, the conversation shifted from reminiscing
@@ -233,9 +220,6 @@ In any case, we’d lost the host of our party, so it was probably
 time to call it a day. It was only early afternoon, though—maybe 2:30
 at the latest. If I went home now, I’d be left with a lot of time to kill.
 “What should we do now?” I asked, looking around the group.
-
-Page | 163
-
 “Well, actually,” said Elinalise, “I was hoping we could teach Cliff
 a thing or two about adventuring.”
 “Oh yeah?”
@@ -266,8 +250,6 @@ loner lifestyle. Of course, it seemed like she missed Japan a lot, so I
 could understand her wanting someone to speak her native language
 with. But as someone who’d decided to keep living in this world, it
 was hard to resist telling her to go outside more often.
-Page | 164
-
 “All right then. Will you let everyone know where we’re going,
 then?”
 “Yeah, no problem. You be careful out there, Elinalise. You’ve
@@ -298,8 +280,6 @@ cursed spears Laplace gave the Superd were presumably magical
 implements of some sort, after all. I hadn’t given much thought to
 magic items up until now, since the ones on sale were all incredibly
 expensive. But Fitz was apparently equipped with some, and
-Page | 165
-
 Nanahoshi had a few handy artifacts of her own. Sharia was basically
 the hometown of the Magicians’ Guild. Maybe I’d find a few
 interesting things for sale here. I wasn’t planning to actually purchase
@@ -332,8 +312,6 @@ Of course, I had more than enough mana to go around, so magic
 implements were also alright by me. Even ones that used too much
 mana to be practical for most people might prove useful to me. I was
 kind of hoping I might stumble across something like that,
-Page | 166
-
 misclassified as a “defective” product, if I searched the shops here
 thoroughly enough.
 But then, as I was walking down some random street, I noticed
@@ -365,8 +343,6 @@ As soon as the words left my mouth, Fitz twitched and looked at
 me with an expression of pure shock on his face. Was it the way he
 held himself, maybe? His body also seemed a little more…rounded
 out, somehow.
-Page | 167
-
 As I continued to study him, Fitz turned his face away from
 mine. An instant later, Luke slipped himself in between the two of us.
 “Hello there, Rudeus. What are you doing here? Did you need
@@ -397,9 +373,6 @@ ignore me completely like this…
 Fitz still wasn’t looking at me. Well, no. He was shooting me
 glances now and then, but they weren’t exactly friendly. I could tell
 he was frowning. His body language made it very clear that he was
-
-Page | 168
-
 waiting impatiently for me to leave. I can be a bit oblivious at times,
 but even I could see that he was snubbing me.
 “What’s the matter?” asked Luke calmly.
@@ -429,8 +402,6 @@ I couldn’t think of anyone else to turn to. I didn’t have that many
 friends.
 In the end, I headed straight over to the library. At times like
 these, it was best to sit somewhere quiet and lose yourself in a
-Page | 169
-
 stupid book for a couple hours. A tale of heroism or adventure might
 be nice right about now. Had any tales about Kishirika and Badigadi
 been turned into a book? That was the sort of thing I wanted right
@@ -461,9 +432,6 @@ followed here was basically the shortest possible route. How the hell
 was he sitting here right now?
 “Uh, what’s wrong? Is there something on my face?” said Fitz,
 running his hand over it anxiously.
-
-Page | 170
-
 This was the other thing, right here. Why was he acting like this?
 He’d snubbed me to my face five minutes ago, but now he seemed
 totally relaxed and trusting.
@@ -494,9 +462,6 @@ had somehow taken on Fitz’s appearance as a disguise. There was
 probably a magic item or implement involved somehow. She hadn’t
 spoken to me because her voice wasn’t affected by its powers.
 Maybe the color of her eyes didn’t change, either? That would
-
-Page | 171
-
 explain why Fitz always kept his eyes hidden. Otherwise, it would be
 a dangerous giveaway when Ariel needed to disguise herself as him.
 Yeah. The more I thought about it, the more it seemed to fit.
@@ -524,8 +489,6 @@ some task. At other times, I thought about his scent—the way I’d
 catch a whiff of it when he walked past me in the hall. Above all else,
 I thought about his smile. That bashful little grin of his just wouldn’t
 get out of my head.
-Page | 172
-
 It was no different on the days when I didn’t see him. Whenever
 I saw a crowd of students, I’d find myself searching it for him.
 In my defense, he was in the middle of a crowd more often than
@@ -555,9 +518,6 @@ might be self-conscious about that charmingly girly face of his.
 I started off by heading to the Teachers’ Building. There were
 presumably student records on file in the offices here, with the
 actual truth recorded in them. I expected them to have some policy
-
-Page | 173
-
 about protecting the students’ privacy, but maybe I could convince
 them to help me out just this once.
 After some hunting around, I managed to find the professor in
@@ -588,8 +548,6 @@ university, there were probably plenty of forms to sign off on in any
 given day. I felt a bit bad about interrupting him, but it wasn’t like
 this should take too long. “Hello, Vice Principal Jenius.”
 “Ah. Good day, Rudeus.”
-Page | 174
-
 “You seem fairly busy, I have to say…”
 “Oh, not at all. Thanks to you keeping our problem children
 under control, my life’s gotten much easier of late.”
@@ -619,8 +577,6 @@ Jenius had backed up the official story, but he was clearly under
 some pressure, and he’d thought it over for a weirdly long time. It
 was hard to say if he was truthful with me or not. Of course, he’d
 automatically used the pronouns “him” and “his” for Fitz before he
-Page | 175
-
 even heard my question… did that mean he’d told me the truth after
 all?
 No, there was no point over-analyzing it. I didn’t have the
@@ -651,9 +607,6 @@ with Fitz. “Jerk what off?” he said, tilting his head curiously to one
 side.
 “Waaaagh!” I leapt up violently, tangling my feet in the legs of
 my chair.
-
-Page | 176
-
 “Whoa! Watch out!” Fitz reached out and grabbed me by the
 hand, trying to steady me. But he wasn’t strong enough to pull me
 back.
@@ -678,13 +631,7 @@ Holy shit.
 “Ah! S-Sorry, Rudeus!” Flushing bright red, Fitz quickly tried to
 push himself up and off me.
 “Master Fitz…you really are a girl, aren’t you?”
-
-Page | 177
-
 ![Illustration](illustration-178.jpg)
-
-Page | 178
-
 He looked at me in shock, then gaped wordlessly for a few
 seconds before finally managing to shake his head. “N-No! I told you,
 I’m a man!”
@@ -713,8 +660,6 @@ desires, for that matter?
 Obviously not.
 I had no right to expose her secrets. If anything, I had a
 responsibility to respect her wishes and help her keep up the act.
-Page | 179
-
 That felt like the only safe approach, actually. If I didn’t force myself
 to think that way, I was afraid I might sneak up and whisper, I’ll keep
 my mouth shut, so come over to my room tonight in her ear. That
@@ -744,9 +689,6 @@ Fitz in the past. My one-liner at the slave market, the stuff I said
 when I captured Linia and Pursena… oh god, and that thing I made
 him say when he brought me my staff!
 I writhed in agony for a while.
-
-Page | 180
-
 Once I’d finished up with this delightful trip down memory lane,
 I found that my little soldier had resumed his lifestyle as a shut-in. No
 matter how I urged him, he stubbornly refused to emerge. I guess he
@@ -774,9 +716,6 @@ something about Master Fitz was clearly the key to curing my
 condition. The Man-God was right on the money all along. I hadn’t
 realized it for months, but the medicine I needed had been close at
 hand all along.
-
-Page | 181
-
 Still, when I slowed down to think about this rationally, one
 major problem still remained. How was I going to get myself a
 prescription?
@@ -806,9 +745,6 @@ matter how many times I looked at this face, I couldn’t think of it as
 mine, but I’d gotten used to that by now. It was a better one than
 what I had last time, and that was good enough for me.
 Did it appeal to Fitz at all, though? That was the important thing.
-
-Page | 182
-
 Okay, stop. There’s no point even thinking about this. Fitz was a
 man, and I wasn’t going to do anything to him. That was my official
 stance for now.
@@ -838,8 +774,6 @@ waiting for me in the hallway of the boys’ dormitory. I didn’t panic.
 I’d been expecting something like this to happen eventually. “Hello
 there, Master Luke,” I said as brightly as possible. “What are you
 doing here at this hour?”
-Page | 183
-
 Luke didn’t seem too chipper himself. Something about the way
 he looked at me suggested he wasn’t in the best of moods. “I need to
 speak to you regarding Fitz.”
@@ -870,9 +804,6 @@ this point. And more importantly, it would be a little scary to get on
 Princess Ariel’s bad side.”
 A look of pure surprise flashed across Luke’s handsome face,
 and he fell silent. Had I said something dangerous? Maybe it would
-
-Page | 184
-
 have been smarter to keep up the pretense that I literally didn’t
 know a thing. “Anyway, that’s all I’ve got to say.”
 “Right. Sorry to have bothered you…”
@@ -902,8 +833,6 @@ a few minutes of this, Nanahoshi muttered, “What is this? Did you
 two have a fight or something?” while drawing up a new magic
 circle.
 “N-No! We didn’t have a fight or anything!”
-Page | 185
-
 Fitz’s response was hilariously awkward. He really was adorable
 when he got flustered. Still, it was obvious that he still doubted me.
 How were you supposed to earn someone’s trust in a situation like
@@ -935,8 +864,6 @@ atmosphere was strained, to say the least.
 “…Okay, that’s it. We’re done for now.”
 After a few hours of this, Nanahoshi called it a day, her voice
 low and tired. Once again, we’d made no real progress.
-Page | 186
-
 As we made our way back toward the dorms, Fitz and I still
 couldn’t seem to start a conversation. I wanted to talk about
 something. I wanted to act like I normally did. But what was I
@@ -958,5 +885,3 @@ toward his dorm. Exhaling softly, I watched him go with an
 unpleasant hazy feeling in my chest. I’d decided not to cause him any
 trouble if I could possibly avoid it, but…to be honest, this was a little
 hard to take.
-
-Page | 187

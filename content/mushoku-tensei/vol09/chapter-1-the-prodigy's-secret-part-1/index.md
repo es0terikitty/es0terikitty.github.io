@@ -42,9 +42,6 @@ The young man knew that much was expected of him. And at
 the time, he found that reasonable enough. He was a prodigy, after
 all. Perhaps not as talented as the brilliant young swordswoman Eris,
 whom he’d seen defeat a group of trained assassins in the blink of an
-
-Page | 11
-
 eye; but a prodigy nonetheless. He’d always believed himself to
 possess special gifts.
 The Kingdom of Ranoa, which Cliff reached following a long and
@@ -76,8 +73,6 @@ Eventually, Cliff had approached Zanoba and pressed him for an
 explanation. “Why are you even bothering to learn magic, Zanoba?”
 “That’s simple enough,” the young man had responded. “I’m
 pursuing a goal that means everything to me.” Reaching into a box
-Page | 12
-
 he carried with him, Zanoba retrieved a single figurine… which he
 then proceeded to speak about at great length. The majority of this
 monologue meant nothing to Cliff, but it was clear that Zanoba had
@@ -108,9 +103,6 @@ He found himself looking at Zanoba with real respect—even
 admiration.
 “Who is this ‘master’ you keep talking about, anyway?”
 “He is a magician known as Rudeus Greyrat.”
-
-Page | 13
-
 Cliff found himself at a loss for words. Rudeus Greyrat. It was a
 name he’d filed away in a dark corner of his mind, ever since the day
 Eris had rejected him. He’d never expected to hear it again in this
@@ -141,8 +133,6 @@ movements. Linia then drew in close and beat him black and blue.
 In the aftermath of this very public defeat, Cliff retreated to his
 room to cry in solitude. He told himself that it wasn’t a fair fight.
 He’d been outnumbered, after all. He hadn’t really lost.
-Page | 14
-
 But a few days later, he learned that another student named Fitz
 had previously defeated both Linia and Pursena in an instant. And
 that news came as a real shock.
@@ -172,9 +162,6 @@ But Zanoba acknowledged Rudeus as his “master,” and the boy
 knew about Eris as well. And so, Cliff concluded that he simply had to
 be a fraud. Somehow, he had deceived both Zanoba and Eris with a
 pack of lies and a few devious tricks.
-
-Page | 15
-
 The evidence seemed to support this theory. When challenged
 by Linia and Pursena, the boy instantly bent and scraped to avoid a
 conflict. If he was a truly powerful magician, he surely wouldn’t have
@@ -206,9 +193,6 @@ But for some reason, he found himself readily able to accept the
 facts. Perhaps it was because he’d already met Zanoba, and lost to
 Linia and Pursena. He could admit, to himself at least, that this
 Rudeus was destined for greater things than he was.
-
-Page | 16
-
 This didn’t mean he liked the boy, of course. That was a very
 different matter.
 The next and final shock was of a somewhat different nature.
@@ -241,9 +225,6 @@ HE TIME HAD COME
 for my monthly appearance at homeroom. I
 
 was sitting at my desk, closely surrounded by Zanoba, Julie, Linia,
-
-Page | 17
-
 and Pursena. It felt kind of nice to be at the center of my own little
 group for once.
 As usual, Linia was leaning back in her chair with her feet on the
@@ -274,8 +255,6 @@ first.
 On the other hand, if I did bring her some meat she’d let me do
 basically anything I wanted. She seemed to have some fairly oldfashioned views about chastity, but I was a little worried someone
 might take advantage of her.
-Page | 18
-
 “Hmm… Master, look here,” said Zanoba. “I’ve made the angle
 of this ankle worse, haven’t I?”
 “Let me fix that for you, sir,” offered Julie, looking over at the
@@ -307,8 +286,6 @@ would be some time before she could discuss the finer points of
 design and technique the way Zanoba and I did.
 Just as importantly, though, she’d started to take her first
 clumsy steps as a silent spellcaster. Master Fitz was right on the
-Page | 19
-
 money when he suggested that learning magic at an early age was
 the best way to master that skill.
 “…I couldn’t do it, Grandmaster.”
@@ -329,13 +306,7 @@ her eyes when she looked at me. Apparently, I intimidated her.
 “Yeah. It’s getting warmer out and all.”
 “Hey, Boss. We’ve got a great spot for midday naps, ya know?
 How about we show you sometime?”
-
-Page | 20
-
 ![Illustration](illustration-21.jpg)
-
-Page | 21
-
 “Hmm? Can I do naughty things to you while you sleep, Linia?”
 “…Do you ever think about anything but sex, Boss?”
 “Don’t be absurd. Figurines are always first in my master’s
@@ -364,8 +335,6 @@ I immediately shut my mouth. Zanoba also stopped chattering,
 and returned to quietly instructing Julie.
 Our two ex-delinquents, however, chose to interpret Cliff’s
 outburst as a challenge.
-Page | 22
-
 “Who d’you think you’re mouthing off to, kid?”
 “From now on, your money is my meat!”
 You might expect them to be a little more hesitant to pick a
@@ -392,9 +361,6 @@ never be anything more than acquaintances.
 Or so I thought at the time, at least.
 A week later, I was researching teleportation with Master Fitz at
 one of our regular library sessions.
-
-Page | 23
-
 Recently I’d begun to understand that teleportation bore certain
 similarities to Summoning magic. The magic circles used were very
 much alike, and the color of the magical energy they released when
@@ -426,8 +392,6 @@ classes on the list of courses offered here… although Enchantment
 was technically a subcategory, from the sound of things. Had I read
 something about that in one of my textbooks? “Well, it can’t hurt to
 poke around and see what you find, at least.”
-Page | 24
-
 To be honest, a small seed of uncertainty was growing inside me
 at this point. I didn’t let it show, of course. I was probably mistaken.
 The Displacement Incident had occurred when I was ten—a whole
@@ -459,8 +423,6 @@ were all a little taller than I was, so I guess they were trying to
 intimidate me. “Who the hell are you supposed to be?”
 After a moment, though, one of them recognized me. “H-Hey,
 that’s Quagmire…”
-Page | 25
-
 “Quagmire? Wait, you mean Rudeus?!”
 “That Rudeus?! The guy who locked Linia and Pursena in a room
 and trained them?!”
@@ -487,9 +449,6 @@ The six bullies grimaced in irritation.
 “Tch…”
 “Look, uh… Mr. Greyrat. This doesn’t really have anything to do
 with you, does it?”
-
-Page | 26
-
 Guys like this loved trotting out that line. Yes, yes. This wasn’t
 any of my business. I knew that before I stuck my nose into it. “I
 don’t know what happened, but six-on-one just isn’t a fair fight.”
@@ -520,9 +479,6 @@ didn’t ask for your help!” and then stalk off angrily.
 frowned in thought. After a moment, he let out a small sigh. “…Sorry.
 I appreciate the help, Rudeus.”
 “Oh. You’re welcome.”
-
-Page | 27
-
 The young mage bowed to me just a little, then walked briskly
 off. I stood there and watched him go, feeling a little startled. It was
 true that I’d come to his rescue, but that sudden change in attitude
@@ -552,8 +508,6 @@ able to perform with the ladies lately, but that didn’t mean I was
 ready to start studying Male Anatomy 101.
 It’s tough being so sexy, heh heh.
 “S-So here’s the thing, Rudeus…”
-Page | 28
-
 “Yes?” I already knew how I’d reply, of course. It was important
 to give him a clear, definite answer. We were going to start off as
 friends. And also end that way.
@@ -577,5 +531,3 @@ well. She was a notorious troublemaker, the subject of countless
 rumors—and a voracious predator who chewed through her fellow
 students with all the vigor of a succubus.
 In other words, it was Elinalise Dragonroad.
-
-Page | 29

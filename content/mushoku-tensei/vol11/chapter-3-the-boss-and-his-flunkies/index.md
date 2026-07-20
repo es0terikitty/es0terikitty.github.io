@@ -36,9 +36,6 @@ laboratory.
 Zanoba and Julie were hard at work at their own projects, as
 always. Zanoba was sketching diagrams of the magic circles he’d
 found inside the doll, and Julie was working on her latest figure with
-
-Page | 56
-
 a small chisel. That project looked close to completion, so I headed
 over to inspect it first.
 “How’s it coming along, Julie?”
@@ -68,9 +65,6 @@ was, anyway.
 “By the way, Ginger, what are you planning to do next?”
 “I intend to stay here, at Prince Zanoba’s side.”
 “Oh. So you’re resuming your duties as his bodyguard?”
-
-Page | 57
-
 “That’s right. I’ve completed my other mission, and my family
 back home is being taken care of.”
 The woman’s loyalty really was impressive. She’d protected Lilia
@@ -101,8 +95,6 @@ Humanity was driven out of the Garden of Eden because they
 ate the fruit of knowledge. Stay ignorant, and you might be perfectly
 happy to spend the rest of your life dancing around with a fig leaf
 over your crotch, singing, “Yatta,” all day long. That’s why kings
-Page | 58
-
 prefer their subjects to be as clueless as possible. The less you
 educate them, the less likely they are to rise up against you. Of
 course, you’re also sabotaging their ability to learn new skills and
@@ -133,8 +125,6 @@ a member of the royal family of Shirone. I know he is your pupil as an
 artist, but the way you speak to him still strikes me as…less than
 respectful.”
 “Hm?”
-Page | 59
-
 Now that she mentioned it, I’d been more familiar than usual
 with him today. I was usually a bit more formal in my speech, but
 after Aisha’s remark the other day, I’d unconsciously loosened up a
@@ -165,8 +155,6 @@ against the wall.
 I quickly rushed over and healed her injuries with my magic. And
 as soon as I was done, she kneeled down in front of me and lowered
 her head.
-Page | 60
-
 “Cough…cough…my sincere apologies, Sir Rudeus…”
 She was actually apologizing to me. After Zanoba had nearly
 killed her.
@@ -196,8 +184,6 @@ deserved much better treatment than this.
 “…Zanoba.”
 “Yes, Master?”
 “I consider you a good friend.”
-Page | 61
-
 Zanoba’s face shone with happiness at those words. I paused for
 a moment to let him savor them.
 “But I owe Ginger a lot for protecting my family too. She stuck
@@ -227,8 +213,6 @@ prove difficult. Let’s see if we can recreate its arm before moving on
 to the rest.”
 We spent the rest of the session focused on disassembling and
 studying the doll’s arms. I’d suggested bringing in Cliff or Nanahoshi
-Page | 62
-
 to help out, but I was leaving those decisions entirely up to Zanoba.
 There were some things I wanted to try, of course, but it seemed like
 he was making good progress on his own so far. I didn’t feel the need
@@ -252,9 +236,6 @@ part, because of me.
 “Of course!”
 At this rate, maybe we’d have another breakthrough before too
 long.
-
-Page | 63
-
 Chapter 3:
 The Boss and His Flunkies
 
@@ -290,9 +271,6 @@ over people’s heads. I made a note to bring Jenius a few modest
 presents every once in a while.
 The real problem was this: Norn had been living in that dorm for
 about a month, but it looked like she hadn’t made a single friend yet.
-
-Page | 64
-
 When I saw her in the hallways, she was usually alone. She didn’t
 look particularly sad or anything, but it was starting to bother me.
 You can get by without friends for a while, sure. But was she at
@@ -322,9 +300,6 @@ inside.
 “Hold yer horses there, Boss! Don’t open that until you get back
 home.”
 “Unwrap it in private, ya got that? Make sure no one’s lookin’.”
-
-Page | 65
-
 This was starting to sound seriously fishy. Hopefully, this wasn’t
 a sack of happy powder or anything. I knew at least a couple kinds of
 narcotics were making the rounds of the Northern Territories and
@@ -354,9 +329,6 @@ That’s the little girl you got dolled up like a maid, right?”
 over her, Boss. Figured you were related.”
 So they’d already met Aisha, huh? She was getting into bed with
 me on a regular basis, which probably explained the scent thing.
-
-Page | 66
-
 “No, not her. I mean my other sister. She’s been living in the
 dorms for a month now.”
 “Huh?! Wait, there’s another one?!”
@@ -385,9 +357,6 @@ student, you know? I bet she’s having a hard time fitting in.”
 “W-well, it’s early, right?”
 “Yeah. Maybe, uh…she just hasn’t had the time to get to know
 people yet?”
-
-Page | 67
-
 For some reason, Linia and Pursena seemed a little anxious.
 They were stumbling over their words, and that usually meant they
 were hiding something from me.
@@ -417,8 +386,6 @@ bit unsettling, but I was definitely curious to find out what they’d
 gotten me at this point.
 “Hey, it’s the thought that counts, right? I won’t get mad, I
 promise.”
-Page | 68
-
 I wouldn’t exactly be overjoyed to find a bunch of dead mice
 inside or anything, but I wasn’t going to hold it against them.
 At this point, I noticed Cliff looking at me from his seat a few
@@ -447,8 +414,6 @@ but it’s terrible.”
 “The ingredients here aren’t as good as what we had back in
 Japan, I guess.”
 “That’s for sure.”
-Page | 69
-
 “Is there any kind of food from this world that you do like?”
 “Those potato chips I ate at your house, I guess. Those were
 good.”
@@ -477,9 +442,6 @@ All my experiment earned was a bunch of puzzled looks from
 everyone at the table. It was kind of embarrassing, to be honest. I
 guess I wasn’t cut out to fill Badigadi’s shoes.
 “What’s so amusing, if I might ask?”
-
-Page | 70
-
 Luke had popped up out of nowhere. He was looking sharp as
 ever, but no adoring fans tailed him today. Sylphie wasn’t with him,
 either.
@@ -509,8 +471,6 @@ Now she definitely had my attention. Whatever the cause of this
 was, it might be having an effect on Norn.
 “In the course of our investigation, we realized that most of the
 affected girls were quite pretty…and somewhat flat-chested as well.”
-Page | 71
-
 Crap. Norn met both of those criteria, too. I was going to have
 to cooperate fully with this investigation of theirs. If I managed to
 save the day, maybe I’d even earn some gratitude from my sister.
@@ -540,9 +500,6 @@ Unbelievable. When had I ever asked Linia and Pursena for a
 present like this? And why was I getting excited just thinking about
 it? Damn, I really was a sad excuse for a human being.
 “Rudeus, I do apologize, but—”
-
-Page | 72
-
 I decided to forestall the question. It was smarter to take the
 initiative in a situation like this. “Linia and Pursena gave me that bag
 this morning. They told me not to look inside until I was back at
@@ -573,4 +530,3 @@ Oh, god. Had Sylphie told her about those ridiculous lines I used on
 her the other night?
 “Uh, Sylphie? Are you giving Princess Ariel reports on our private
 time?”
-Page | 73

@@ -37,9 +37,6 @@ she went, she was forced to face the fact that she was the least
 talented member of her family.
 That had to be rough in itself. And then, just to top it all off,
 there’d been that incident with the panties.
-
-Page | 91
-
 No one had actually been traumatized by that whole mess,
 fortunately. Ariel did a great job following up with the victims, and by
 now, most of them could look back on it and laugh. From the sound
@@ -69,9 +66,6 @@ this could be. People don’t just stop going outside because it’s fun,
 you know? There’s always a reason why they can’t bring themselves
 to leave, and dragging them out of their room by force doesn’t
 change that. In fact, it often makes the problem worse.
-
-Page | 92
-
 That said, this wasn’t the sort of thing we could just ignore. If
 Norn stayed in there for too long, she’d end up regretting it. Even a
 wasted month or two can have serious consequences.
@@ -102,9 +96,6 @@ She was a sensitive little girl, not a fur-brained narcissist.
 “Aunt Ghislaine! She used to be a thug who went around startin’
 fights all the time. But then she started training, and she ended up
 becoming a Sword King!”
-
-Page | 93
-
 “Hmm. Okay, that’s not a bad example…”
 Ghislaine was an exceptional case, but there was definitely a
 chance that Norn had some unexpected talent we hadn’t discovered
@@ -136,8 +127,6 @@ unusual.
 That said, she was obviously struggling right now. I’d been
 telling myself she probably just needed space, but was that actually
 true? Maybe I’d just been avoiding the issue.
-Page | 94
-
 As her big brother, I could have at least tried to actively support
 Norn and help her adjust. The hands-off approach might be easier,
 but that didn’t mean it was the better choice. It might be a different
@@ -167,8 +156,6 @@ this still needed to be a secret visit.
 Linia, Pursena, and Sylphie would be handling the actual
 operational support. Sylphie was eager to help, but she seemed a
 little downcast about the situation.
-Page | 95
-
 “I’m sorry, Rudy. I promised you I’d keep an eye out for Norn,
 but she doesn’t even want to talk to me…”
 “It’s not your fault, Sylphie. I’m the only one to blame here.”
@@ -194,9 +181,6 @@ looking for a specific room. After a few moments, I spotted it—a
 window with a single flower placed up against the windowsill.
 I grabbed a small pebble and tossed it up at the window. A
 moment later, it slid open. After that, it was just a matter of lifting
-
-Page | 96
-
 myself up off the ground with the spell Earth Lance and clambering
 inside.
 “…Hm.”
@@ -225,9 +209,6 @@ I wasn’t sure what her cup size was, but from the feel of things,
 it had to be impressive.
 “Nyheh. Feel free to take that one home with you, Boss.”
 “I don’t think you get to decide that.”
-
-Page | 97
-
 I tossed aside the brassiere with a sigh. Normally, I might have
 taken this opportunity to press it to my mouth and take a few deep
 breaths, but there was no time to waste at the moment.
@@ -257,9 +238,6 @@ have coaxed me out, I didn’t know it.
 The cart reached its destination before I could reach any real
 conclusions.
 We were outside Norn’s room.
-
-Page | 98
-
 I pushed open the door as quietly as I could and stepped inside.
 The room was totally dark, so I paused to light one of the
 candles in the corner.
@@ -290,8 +268,6 @@ Not that saying sorry was going to change anything. The rumors
 about me weren’t going to go away, and Norn was going to keep
 getting compared to me.
 “Norn, I—”
-Page | 99
-
 “Uhm, Rudeus—”
 We’d both spoken up at the exact same time.
 I cut myself off mid-sentence so Norn could continue. But she’d
@@ -321,9 +297,6 @@ what a younger girl might be thinking. Maybe Elinalise could figure
 out some clever way to coax her out. There was no reason I had to
 try and solve this by myself, right?
 “…Oh.”
-
-Page | 100
-
 Suddenly, I found myself remembering something I hadn’t
 thought about in a long time.
 When I first shut myself away from the world, one of my
@@ -354,9 +327,6 @@ This might just be a crucial turning point. If I backed off now, I
 had a terrible feeling that Norn might stay in this room forever.
 I couldn’t just turn and run. Not this time.
 For a long moment, I studied my sister quietly in the darkness.
-
-Page | 101
-
 Chapter 5:
 Norn Greyrat
 
@@ -392,8 +362,6 @@ about him in glowing tones. But the more they praised him, the more
 stubbornly I despised him.
 I hated my sister almost as much as I hated Rudeus. At the
 school we went to together, Aisha insisted on constantly competing
-Page | 102
-
 with me. She challenged me in the classroom and on the field we
 used to exercise, and she always beat me soundly. She rubbed my
 nose in my failures.
@@ -423,9 +391,6 @@ household on a permanent basis.
 But I hated that idea, so I begged my dad to take me with him. I
 cried and pleaded. And eventually, I got to come along.
 And yet…in the end, my dad sent me off to live with Rudeus.
-
-Page | 103
-
 He said things would be too dangerous from now on. He said
 Rudeus was living up north, so I should go stay there and wait for
 him. He said he’d follow me up there once he found my mom.
@@ -455,9 +420,6 @@ for some reason, Ruijerd and Ginger took her seriously and even
 agreed to most of her ideas.
 It didn’t seem fair at all. Her opinions always seemed to carry
 more weight. Anything I said basically got ignored.
-
-Page | 104
-
 The main reason I could put up with it was Ruijerd. He was
 considerate of my feelings, at least. He always made the time to
 comfort me and listen to my complaints.
@@ -487,9 +449,6 @@ all. I had a vague memory of some older kid hanging around Aisha
 and Lilia, but I didn’t remember her being anything like this Sylphie
 person. She must have changed a lot over the years.
 Rudeus was clearly enjoying his life here to the fullest.
-
-Page | 105
-
 It made me angry to see that. My dad hadn’t wasted any time
 playing around with women for years and years. He said he was
 putting that on hold until he found my mom. He hadn’t even touched
@@ -521,8 +480,6 @@ to her. So what was I supposed to do?
 For now, all I could do was stay out of the way. I hid myself
 away, hoping no one would get mad at me. Hoping no one would tell
 me how inferior I was.
-Page | 106
-
 The city outside was covered in snow. I was afraid of getting
 tossed out into the cold on my own.
 Rudeus decided I had to start attending school.
@@ -550,9 +507,6 @@ Was I going to have to keep living like this, constantly flinching
 in fear?
 On the day of the exam, Rudeus told me about the dorms.
 Apparently, the University of Magic let its students live in big
-
-Page | 107
-
 buildings on the campus, to help them grow more independent. It
 sounded like the solution to all my problems.
 I had no doubt my sister would pass the exam, which meant she
@@ -582,9 +536,6 @@ nuisance, and he saw this as a golden opportunity to kick me out. For
 all I knew, he’d been planning to dump me in the dorms, regardless.
 That would be convenient, as far as I was concerned. But for
 some reason, the thought made me feel a little sad.
-
-Page | 108
-
 Everything about living in the dorms was new to me. It was
 genuinely exciting.
 For the first time in my life, I had a roommate. I was going to be
@@ -614,9 +565,6 @@ differently, compared to the ones back in Millis. It might have been
 different if I’d been there for all the lessons from the beginning, but I
 was jumping in midway. There were lots of lectures I just couldn’t
 follow.
-
-Page | 109
-
 Back in Millis, we’d had a lot of classes about religion, but that
 wasn’t even a subject here. Instead, we had practical lessons in
 magic. I wasn’t too good at those either. The professors didn’t
@@ -648,4 +596,3 @@ Rumor had it that Rudeus had ordered those two to collect a
 pair of panties from every cute girl in the school.
 Did my brother’s wife know about that? Probably not. I had no
 idea what he was planning to do with all that underwear in the first
-Page | 110

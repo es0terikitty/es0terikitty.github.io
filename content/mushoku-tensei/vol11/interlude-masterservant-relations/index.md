@@ -16,9 +16,6 @@ Let’s see, what else… Oh, right!
 “Try not to catch any colds.”
 “…”
 Well, now she was glaring at me. That was something, at least.
-
-Page | 52
-
 Interlude:
 Master/Servant Relations
 
@@ -52,9 +49,6 @@ It wasn’t just that cross-section either. Similar patterns were
 present on every single section of the arm, both the front and back
 surfaces, and they were all slightly different from each other. Even
 the ones that shared a section weren’t identical.
-
-Page | 53
-
 “Wow. Okay. I didn’t expect the arms to be packed full of magic
 circles, honestly… It’s interesting that they’re all so different from
 each other, too…”
@@ -85,8 +79,6 @@ tell without further research.
 Until I encountered it, this thing had wandered around that
 house every night, cleaning up and attacking any threats that it
 identified. Once its cleaning routine was over, it returned to its home
-Page | 54
-
 base for recharging. When you thought about it, those were some
 very complex behavioral patterns. It was smarter than your average
 robot vacuum…and significantly more violent.
@@ -114,5 +106,3 @@ meltdown later. And, thanks to that suggestion, Nanahoshi
 succeeded in the creation of her own multi-layered magic circles. She
 even realized her goal of summoning things from a parallel universe,
 which she’d very nearly given up on.
-
-Page | 55

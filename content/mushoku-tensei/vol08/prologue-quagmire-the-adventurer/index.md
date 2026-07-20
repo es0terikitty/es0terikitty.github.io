@@ -39,8 +39,6 @@ The man in question had been teleported a great distance
 during the Displacement Incident, and spent several years trying to
 return to the Fittoa Region. Upon his return, he—like many others—
 despaired at the disaster’s aftermath. He traveled to the northern
-Page | 11
-
 part of the Central Continent, also known as the Northern
 Territories, in search of a still-missing family member, where he
 scoured each country in turn while working as an adventurer.
@@ -70,8 +68,6 @@ Quagmire, a man who named his own body parts, would say this
 with a laugh—one that seemed a bit lonesome.
 Finishing his morning workout around the time the rest of the
 town was waking up, Quagmire headed to the cafeteria on the first
-Page | 12
-
 floor of his inn for breakfast. Adventurers were said to eat to double
 or triple the portions of an average person. That said, food was
 expensive in the Northern Region, so many practiced moderation—
@@ -102,9 +98,6 @@ Isn’t it about time you became one of us for real? You’re comfortable
 working with us, right?”
 However, Quagmire would simply shake his head. “No. Now that
 I’ve gotten famous here, I’ll be moving on to the next country soon.”
-
-Page | 13
-
 Quagmire was searching for his mother. He knew very well that
 finding a single person in a world this vast, five years since the
 Displacement Incident, was going to be a tough challenge. He’d
@@ -134,9 +127,6 @@ number for dragon slaying. Soldat was getting flustered. At this rate,
 the quest was going to slip right through their fingers.
 “Hey, hey, this is a Red Wyrm we’re talkin’ about here! You’re
 gonna get a thousand gold all in one go for a quest like this, so why
-
-Page | 14
-
 aren’t there more people?! Aren’t you all A-ranked?! Where the hell
 are the other S-ranked parties?!”
 “I heard a labyrinth was recently discovered in the east,”
@@ -165,8 +155,6 @@ kicking up a huge cloud of snow!”
 “How many?”
 “Eight… no, ten of them! They’ve noticed us! They’re headed
 straight for us, and fast!”
-Page | 15
-
 They weren’t here to kill grizzlies. Their target was a Red Wyrm,
 and since there were so few of them, they couldn’t afford to waste
 their energy fighting pointless monsters. Still, when your clothes
@@ -197,8 +185,6 @@ Their plan had been to spot the wyrm from afar and launch a
 surprise attack. Instead, they’d been caught off guard by a surprise
 attack themselves. They didn’t stand a chance. Red Wyrms were
 normally flying creatures, but their strong limbs made them lighter
-Page | 16
-
 on their feet than you might think, and they were powerful foes even
 on the ground.
 “Shit! Retreat! Retreat!”
@@ -229,8 +215,6 @@ launched this earthen bullet at high velocity.
 It pierced the wyrm’s scales. “Graaaah!” the creature shrieked.
 Quagmire lobbed shots at the creature, one after another. The
 red wyrm evaded several, but they were coming hard and fast, and
-Page | 17
-
 eventually, the creature turned tail and ran. It was a clever beast. It
 understood quickly there was great power hidden within the small
 vessel that was Quagmire.
@@ -261,8 +245,6 @@ burn the rest. We don’t want it turning into a dragon zombie.”
 With that, the quest that should have been a seven-day
 roundtrip had been completed in a single day. Quagmire’s share of
 the loot—scales, bones, and even meat from the red wyrm—sold for
-Page | 18
-
 a small fortune. He returned to the inn with a full coin purse, ate a
 more modest meal than he usually did for breakfast, and then retired
 to his room, where the pious man gave thanks to his God for having
@@ -292,8 +274,6 @@ instruments, and form a band to travel the world together—of
 course, the ones who did so had some martial prowess, too.
 Adventurers who could sing, dance and fight—these were what
 people called troubadours in this world.
-Page | 19
-
 I’d seen these three on stage before, at the Adventurers’ Guild.
 They were a C-ranked party called Big Boys Orchestra; a wonderful
 name that spoke to their desire for popularity. Unfortunately, their
@@ -325,8 +305,6 @@ Everyone’s gazes turned. My body shook.
 “I’ve finally found you, Rudeus the Quagmire!”
 The new arrival was an elf with long hair in thick ringlets. She
 had the look of an adventurer, but was garbed in a dress, with a
-Page | 20
-
 backpack and a sword and shield upon her hip. Her face was, in one
 word, beautiful. She had large, narrowed eyes, pointed ears, and
 radiant blonde hair. She was also incredibly thin, with a flat chest—
@@ -356,9 +334,6 @@ at the sight of the athletic physique I’d recently built up? Hehehe,
 well, I had been getting fit lately. Plus I was right in the middle of
 puberty, and starting to bulk up.
 “What’s wrong?”
-
-Page | 21
-
 “No, no, nothing at all!” The elf woman cleared her throat and
 took a seat beside me.
 The pub erupted in oohs and aahs. I hear people whisper, “To
@@ -388,9 +363,6 @@ Well, it hadn’t been an easy fight. It wouldn’t be an
 exaggeration to say it had had the least room for error of all the
 requests I’d taken in these past few years. It still paled in comparison
 to my confrontation with the Dragon God Orsted, though. Once
-
-Page | 22
-
 you’d experienced something that extreme, you found yourself being
 strangely calm about other things by comparison.
 “I’m tickled pink to hear my teacher’s been boasting about me…
@@ -420,9 +392,6 @@ miss.”
 I wasn’t going to get all flustered, like some kind of virgin. I
 slipped my finger under her chin and tilted it up. When I did so, she
 softly closed her eyes, as if she were waiting for a kiss. Just I started
-
-Page | 23
-
 to wonder just what kind of joke this was, her hand slipped around
 the back of my head.
 Seriously? I was definitely feeling some sexual vibes here, but,
@@ -443,5 +412,3 @@ matter. I had no intention of dating anyone again, anytime soon.
 Elinalise grinned at me.
 That was the day I learned that Zenith’s whereabouts had been
 confirmed.
-
-Page | 24

@@ -42,8 +42,6 @@ A kind upperclassman who looked out for his juniors.
 that, the three of us moved out.
 The slave market was in the Commerce District. The buying and
 selling of slaves was a quiet affair on the Millis Continent and in the
-Page | 145
-
 Central Continent’s southern region, but the Northern Territories
 were different. Here, most countries had legalized the buying and
 selling of slaves, and some even endorsed it. The slave trade was an
@@ -76,8 +74,6 @@ particular one had five. The less savory markets would sell off slaves
 who were sick or even on the brink of death, and though there were
 bargains to be found there, beginners like us wouldn’t know the
 difference between a good deal and a scam. So instead, we made
-Page | 146
-
 our way to a market that was both beginner-friendly and aimed at
 clientele with deeper pockets.
 “Hm, this is quite unlike the market in my home country.”
@@ -107,9 +103,6 @@ under the jurisdiction of the Rium Group. They had rows of slaves for
 purchase, ones they’d either bought or gathered from various places.
 I wondered if they kept going until they sold all of their wares, or if
 they were required to swap out with other sellers at a specific time?
-
-Page | 147
-
 The clientele gathered around them were fairly diverse: There
 were adventurers like me, people in noble attire like Zanoba and
 Master Fitz, townspeople, peasants, students, and merchants,
@@ -141,9 +134,6 @@ trying to hide his erection. Exactly the kind of reaction you’d expect
 from a virgin. I’d been like that once, though of course, I had a
 different reason for not reacting now. “S-so, Rudeus, you’re used to
 this?”
-
-Page | 148
-
 It made me feel a little triumphant to think I might have more
 sexual experience than an upperclassman, but I’d only done it once,
 myself. And my partner ran off after it. Nothing to be proud of.
@@ -173,9 +163,6 @@ magic yet, since Rudeus can always teach them that later,” Fitz said.
 “Why a young one?” I asked.
 “It’s easiest to learn voiceless magic when you’re young.”
 “Oh, really, is that true?”
-
-Page | 149
-
 “Yeah, it’s almost impossible to learn once you’re older than
 ten.”
 Seriously? Although, come to think of it, Sylphie had been able
@@ -206,9 +193,6 @@ trafficking children in this world, and even with the sunglasses on,
 Master Fitz was good-looking. “So your master can use voiceless
 magic, too?”
 “Yes. He’s amazing. I respect him deeply.”
-
-Page | 150
-
 “That’s great. I’d love to meet him,” I said. Meeting another
 teacher of voiceless magic could help me improve my own abilities.
 Master Fitz gave a bitter laugh. “Uh, I’m pretty sure that’s
@@ -238,8 +222,6 @@ One, they had to be around five years old (any younger than
 that and there was a high probability they wouldn’t have a grasp of
 language).
 “Yeah, that seems fine.”
-Page | 151
-
 Two, they had to be a dwarf (for their dexterous hands).
 “Most dwarves are good with their hands and have an
 understanding of the fine arts.”
@@ -269,8 +251,6 @@ to any old school fans of fantasy.
 Sylphie had elf blood in her, and she would be about fifteen
 right now. I bet she’d grown into a green-haired beauty, and judging
 by what Paul had said, her magic skills had really advanced, too. Her
-Page | 152
-
 fame should be spreading far and wide, and I’d know her the instant
 I saw her, I was sure. But I hadn’t heard a single whisper about
 anyone fitting her description. I wondered where she was right now?
@@ -301,9 +281,6 @@ slightly. Impressive, I thought. This tall, underfed otaku had totally
 overpowered two brawny guards without even trying. So this was
 the might of a Blessed Child, huh? Well, strength did seem to equal
 power!
-
-Page | 153
-
 Oh, wait, I shouldn’t be spectating. “Stop! Zanoba, knock it off.
 Down, boy!”
 “Yes, sir!”
@@ -334,8 +311,6 @@ mostly lived on the Millis Continent, to the south of the Great Forest
 at the base of the Blue Wyrm Mountains.
 “It doesn’t have to be a dwarf. If they’re dexterous with their
 hands, that’ll do.”
-Page | 154
-
 “Oh, we do have one. Just one.” Macho tapped his finger against
 a spot on his inventory list. “A six-year-old dwarf girl. Her parents
 were in debt, so her entire family were sold off to slavery. She’s not
@@ -364,9 +339,6 @@ bright red, but that was for an entirely different reason.
 The merchant introduced himself, extending his hand in
 Zanoba’s direction. “Greetings, I’m the branch manager for the
 Domani store, a subsidiary of the Rium Group. My name is Febrito.”
-
-Page | 155
-
 Zanoba was reaching for the man’s face, so I forcefully took his
 hand into mine and gave it a shake. “A pleasure, my name is Rudeus
 the Quagmire.”
@@ -398,8 +370,6 @@ cages, calling out to someone standing at the edge of the pathway.
 “Hey, is that one dwarf kid still alive?”
 “Yep, she’s hanging on.”
 “Where?”
-Page | 156
-
 “Over here.”
 We went deeper into the storage area. The heaters didn’t seem
 to work all the way back here, so it was a bit chilly. Febrito’s
@@ -431,8 +401,6 @@ really have any skills to speak of. Both of her parents were dwarves.
 Her father was a smith, and her mother crafted jewelry. She should
 have the dexterous hands you desire, assuming she’s inherited their
 skill, but the only language she knows is the Beast God tongue. We
-Page | 157
-
 didn’t really think we could sell her, so her health isn’t in the best
 condition, either. We’ll give you a discount on that account.”
 Master Fitz looked troubled as he approached the girl, putting a
@@ -460,9 +428,6 @@ resting at his side, but I stopped him with my hand.
 want to live anymore.”
 “You’ve seen someone like that before?”
 “Many times. Long ago.”
-
-Page | 158
-
 Both Zanoba and Master Fitz looked concerned, but I didn’t
 intend to volunteer any more information about my past life if I
 could help it. Nothing good could come of it.
@@ -491,8 +456,6 @@ was better to end it for her. If, like me, she could die and be reborn
 into a better life, it might be best for her to call this one quits and try
 harder in the next one.
 There were plenty of people out there who, for their own selfsatisfaction, believed in platitudes like “you can do it if you put your
-Page | 159
-
 mind to it.” This girl was still young. She was just a child. after all.
 Things might get better from here as long as she gave it her all—or at
 least, that was what I wanted to say. But I couldn’t do it, even though
@@ -519,9 +482,6 @@ was her price.
 We took the child to a wash area at the edge of the slave market
 to bathe her, then headed to the Commerce District to purchase
 clothes and other necessities. We finally wound up at a ritzy café—
-
-Page | 160
-
 not somewhere I’d have gone by myself, but Master Fitz was the one
 who picked it. He fit right in, while Zanoba was completely unfazed,
 as befitting of royalty. The girl we’d just purchased was wholly
@@ -552,8 +512,6 @@ after something they’re good at, something they’re attracted to, or
 something they like.”
 So that was it. Master Fitz was knowledgeable as always. “Still,
 we need something to call her,” I said.
-Page | 161
-
 “Her parents are gone. We’ll just have to name her ourselves.”
 “We’re going to decide on your name, now. Do you have any
 preferences?” I asked the girl myself, but she merely tilted her head.
@@ -583,8 +541,6 @@ a language she understood, but it just seemed more natural for her
 to stay with Zanoba, given that he was the one with all the money.
 You needed a permit to buy slaves and then have those slaves live
 with you, and such permits were easier for royalty to obtain.
-Page | 162
-
 “Well, that’s fine, but at least make it Juliette. She is a girl, after
 all.”
 “That’s fine with me. Juliette it is, then.”
@@ -595,13 +551,7 @@ Beast Tongue.
 “Julie…?”
 “Juliette.”
 “Julie,” she said with a clumsy grin. Close enough.
-
-Page | 163
-
 ![Illustration](illustration-164.jpg)
-
-Page | 164
-
 And that was how Juliette (nicknamed Julie) came into Zanoba’s
 care. As Zanoba and I started training her, she began to slowly follow
 after and support him in various aspects of his otherwise messy life.
@@ -613,5 +563,3 @@ probably because he still wanted to be able to make figurines by
 himself someday.
 In the meantime, there was still no sign that I’d achieve my true
 objective any time soon.
-
-Page | 165

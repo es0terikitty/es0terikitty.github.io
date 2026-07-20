@@ -40,8 +40,6 @@ In other words, we had outsiders wandering onto our campus.
 This was something the administration would normally have tried to
 prevent, but the mating season was a very delicate subject because
 of its importance in beastfolk culture. Any attempt to ban their
-Page | 51
-
 traditions would probably result in actual riots. As a compromise, the
 school allowed non-student beastfolk to enter its grounds under the
 pretense of “auditing classes,” as long as they applied for permission
@@ -72,9 +70,6 @@ the residents. So Linia and Pursena stayed put in their rooms, even
 skipping homeroom.
 I guess it was medical leave, in a sense. They were presumably
 in heat themselves at the moment, after all. The thought of them
-
-Page | 52
-
 writhing around in their rooms meowing and woofing passionately
 was kind of exciting. Not that it got me ready to mate or anything.
 The two of them had sent me a letter, the gist of which was
@@ -105,8 +100,6 @@ magician. His advice was to turn them down flatly, ignore their
 attempts to provoke me, and leave the area quickly without letting
 down my guard for a second.
 Girls in heat, huh…?
-Page | 53
-
 Back in the old days, I might have been tempted to duel every
 single one of them and make myself a harem. But in my current
 condition, I’d basically just be rubbing salt in my own wounds.
@@ -137,8 +130,6 @@ nice change of pace.”
 “Yeah. That wasn’t easy, by the way. I thought I was dead for
 sure.”
 “Hahaha. You’re far too modest.”
-Page | 54
-
 “Master Zanoba, what are you talking about?”
 Julie seemed to be a little curious, so I told her the story of my
 battle against a Red Wyrm straggler from back in my adventuring
@@ -170,8 +161,6 @@ implements. I still wasn’t sure what that had to with
 Summoning…but at least it would be something new.
 Of course, I was free to not take any new classes at all. I could
 just spend more time in the library instead. I started to feel like I’d hit
-Page | 55
-
 a dead end researching the Displacement Incident, but it might be
 interesting to try and teach myself more languages. If I did go that
 route, I could try asking Cliff to tutor me in Divine magic on the side…
@@ -199,8 +188,6 @@ She had a modest bust, but her muscles were impressive. She
 didn’t look like a bodybuilder or anything, but she was clearly in very
 good shape. By her side was a long, curved sword—the kind
 commonly used by swordfighters of the Sword God Style.
-Page | 56
-
 The girl was staring in my direction.
 To be more precise, she was staring in surprise at the person
 standing just in front of me—the big, hairy beastman who’d just
@@ -230,9 +217,6 @@ Following Fitz’s advice to the letter, in other words.
 “Hold on there!”
 But to my surprise, my hairy new friend leapt up, soared several
 feet over my head, and landed with a loud thump right in front of
-
-Page | 57
-
 me. The guy jumped like a Reverse-Joint mech. He would have made
 a solid Dragoon.
 “You have no right to refuse me. My name is Brook Adoldia! I’ve
@@ -262,9 +246,6 @@ animal-kingdom stuff. If I threw this fight, I’d be removed from my
 position as the boss, and Pursena would get married off to this
 random hairy guy.
 “Now then… to battle!”
-
-Page | 58
-
 Brook didn’t wait for me to say anything in response. Howling
 ferociously, he charged forward at me.
 “Quagmire.”
@@ -293,9 +274,6 @@ had probably never even seen them in person. It had to be the whole
 the leader of his tribe, after all.
 Was being number one really that important to them? What
 was this, a whole tribe of Starscreams?
-
-Page | 59
-
 From the looks of things, they’d even worked out an order to
 challenge me in. One guy tried to barge in halfway through and got
 yelled at for “cutting in line.” Maybe it was another one of those
@@ -322,9 +300,6 @@ prizes to random strangers.”
 True enough. If I had that much power over them, they wouldn’t
 be scratching me in the face every time I touched their legs. “You’re
 right. But how do I convince the people out there?”
-
-Page | 60
-
 Fitz put a hand to his chin, and nodded slowly. “You have every
 right to just ignore them, really… but it might be easier to just beat
 them in a fight. They’ll probably give up and go home.”
@@ -354,9 +329,6 @@ I shook my head, mainly so that Fitz would stop glaring at me.
 Still, I was a little intrigued. I wanted to know what she looked like, at
 least. And where she’d even heard about me. “I’m just curious, that’s
 all.”
-
-Page | 61
-
 When someone expresses interest in you, it’s perfectly natural
 to be a little intrigued in return. Not that things could move too far
 forward until my condition was cured, of course.
@@ -388,8 +360,6 @@ what happened during my entrance exam. He claimed my victory
 didn’t bother him, but if I started running from fights like this, people
 might start to think that he’d lost to a coward. That wouldn’t be
 good for his reputation, either.
-Page | 62
-
 Fitz had been helping me out a lot recently. I still wasn’t thrilled
 about any of this, but I owed it to him to make an effort. “All right
 then. For the sake of your good name, Master Fitz, I’ll go slaughter all
@@ -419,8 +389,6 @@ up in one hand.
 “I give you credit for challenging me, my young friends! It was a
 truly bad decision on your part, yes, but a brave one! The students of
 this ‘University of Magic’ clearly have some guts!”
-Page | 63
-
 Fitz and I stood frozen in place, gawking in astonishment. After a
 few seconds, I finally managed to offer a tentative “Uhm…”
 Tossing aside the last beastman warrior, the man turned to face
@@ -442,13 +410,7 @@ occasional “hero” who comes around to slay him?
 Yeah, probably not.
 The more important question right now was: what the hell was
 a Demon King doing here?
-
-Page | 64
-
 ![Illustration](illustration-65.jpg)
-
-Page | 65
-
 “I see you have the Eye of Foresight, boy! You must be Rudeus
 Greyrat, then! I’ve heard tell of you from my fiancée, the Demon
 Empress Kishirika!”
@@ -458,5 +420,3 @@ Okay. Well, he knew how to get to the point, at least.
 Unfortunately, I still had no idea what the hell was going on here.
 Maybe he’d let me off the hook if I offered him two slightly furry
 young maidens as a sacrifice…?
-
-Page | 66

@@ -37,8 +37,6 @@ man anymore. Return to dressing like a woman.”
 I broke in. “But without Master Fitz as a disguise, she—”
 “In exchange, Rudeus, I will make use of your name. There isn’t
 a person around these parts who hasn’t heard of you, and many may
-Page | 25
-
 jump to their own conclusions once they learn I’ve handed you my
 right-hand woman.”
 She probably meant that since Sylphie and I would be together,
@@ -67,14 +65,8 @@ move, but decided not to dwell on that part for now.
 Sylphie took off her sunglasses, bowed her head and said,
 “Princess Ariel, Luke…thank you for everything you’ve done for me.”
 I followed her example and bowed as well.
-
-Page | 26
-
 And so, I became a part of Ariel’s inner circle—and engaged to
 Sylphie.
-
-Page | 27
-
 Chapter 2:
 Things to Prepare Before Marriage
 (Part 1)
@@ -111,8 +103,6 @@ troops, and food to my partner’s household,” Zanoba said. It was
 customary in the Shirone Kingdom for the man to send celebratory
 gifts to the bride’s family.
 “But you’re a prince. Shouldn’t you be the one receiving gifts?”
-Page | 28
-
 “Hm? Whether you’re royalty or not makes no difference. The
 man is obviously the one who should be sending gifts.”
 That was when Cliff stuck his nose in. “It’s the opposite in Millis.
@@ -142,8 +132,6 @@ house?”
 A glance at Zanoba, who nodded along to Cliff’s words, told me
 he felt the same. Come to think of it, Paul had moved to Buena
 Village when he got married. Until that point, he’d been an
-Page | 29
-
 adventurer living in an inn, and had to enlist Philip’s help to obtain a
 house and steady work.
 “Besides, girls can’t go into the boys’ dorm. Normally, couples
@@ -174,8 +162,6 @@ ceremony, as long as you’re okay with it being informal.”
 So the Millis faith did have something like a wedding ceremony,
 then! I wasn’t a follower of Millis, though, and I was sure Sylphie
 wasn’t, either.
-Page | 30
-
 “Master, if you lack the funds, shall I assist?” Zanoba offered.
 “No, no. I’d feel super lame about relying on you for that.”
 Though I put on a brave face by saying that, I had no idea what the
@@ -203,8 +189,6 @@ addresses, plot sizes, house sizes, the number of rooms, and the
 cost. There was quite the variety—from small, single-room affairs to
 veritable mansions.
 “Hmm…”
-Page | 31
-
 To be honest, I had no idea how big a house I should buy.
 Something with a garden and room for a big dog might be best…or
 maybe a townhouse apartment? I didn’t mind living somewhere
@@ -235,8 +219,6 @@ that manor is cursed.”
 night, but if you search for the source, you’ll find nothing. The
 previous owner passed it off as the house just rattling because of the
 wind…and then the next day, they were brutally murdered.”
-Page | 32
-
 Seriously? Then again, tales about cursed manors haunted by
 evil spirits were a dime a dozen. “You didn’t perform an exorcism?”
 “We did put in a request with the Adventurers’ Guild, but…the
@@ -266,9 +248,6 @@ After taking a look, the employee went pale and retreated to
 the back. Almost immediately someone who looked like the manager
 appeared, rubbing their hands. I must be pretty famous to get this
 kind of treatment just from listing my name. Wait, maybe this was
-
-Page | 33
-
 actually the effect of using Princess Ariel’s and Badigadi’s names? Or
 maybe a combination of all three?
 After a bit of discussion, I successfully reduced the asking price
@@ -295,9 +274,6 @@ size is appropriate,” Zanoba commented.
 Cliff disagreed. “Don’t you think this is way too big for just two
 people? You know you can buy something small to begin with, and
 save up to move when it becomes too cramped for you?”
-
-Page | 34
-
 If I split the difference, that meant this place was the perfect
 size. “Thanks to its special circumstances, this place wasn’t that
 expensive. Now, let’s go in.”
@@ -329,8 +305,6 @@ frame. Without hesitation.
 “Okay, don’t just start breaking things,” I chided.
 “My apologies. The door was bent and wouldn’t open. I am sure
 you would need to repair it anyway.”
-Page | 35
-
 “Well, give me a heads-up next time, okay?”
 “Yes, Master,” Zanoba replied. At least he had his good manners
 going for him.
@@ -361,8 +335,6 @@ day?”
 The members of Stepped Leader probably hadn’t been that
 harsh on him. After all, they’d known they were dealing with a
 rookie. How the person receiving that criticism decided to interpret it
-Page | 36
-
 was a different matter. Cliff was a self-proclaimed genius. He’d
 probably never had anyone point out his flaws before.
 “What should I be doing?”
@@ -392,8 +364,6 @@ The frigid winters here made a fireplace essential. If this one
 was magical, it could heat the entire house. If it wasn’t, I’d consider
 remodeling it. Although I had a hard time giving up on the idea of
 Sylphie and I holding each other’s naked bodies for heat…
-Page | 37
-
 “I’ll blow some air through it. If there is a monster inside, it
 might come flying out at us, so stay alert.” Having put the two of
 them on their guard, I conjured magic into the fireplace’s chimney,
@@ -423,9 +393,6 @@ something to be excited about.
 No, forget that, I told myself. We were here to weed out the evil
 spirit—or whatever it was that haunted this place. This was no time
 for me to be pitching a tent in my pants.
-
-Page | 38
-
 I searched the kiln and every other place where a living thing
 might be hiding. “Okay, nothing amiss here. Next.”
 We discovered a door leading to the basement behind the
@@ -456,9 +423,6 @@ had and passed them to Zanoba and Cliff.
 “I’ll keep a lookout from the middle with my demon eye. Do not
 drop your lamp, even if you think we’re in danger. I can’t provide
 backup in the dark.”
-
-Page | 39
-
 “Ha ha ha, I’m a Blessed Child! There’s nothing to fear,” Zanoba
 declared as we headed down the stairs. What a guaranteed death
 flag.
@@ -489,8 +453,6 @@ inner bedrooms. Finally, there was also a balcony.
 “Hmm…”
 Let’s put a big bed in this bedroom, I decided. One with more
 than enough room for three people to lie in. Two normal beds
-Page | 40
-
 pushed together might be good, too. No, wait—if the bed were
 small, we’d have to huddle close to sleep, which wouldn’t be a bad
 thing. Then, when I awoke, I’d have her warmth right beside me. And
@@ -521,4 +483,3 @@ planned,” Zanoba said.
 I’d wanted to search the house ahead of time just to be sure,
 but hadn’t really expected anything to come of it. According to the
 stories, the spirit only showed itself at night, accompanied by a
-Page | 41

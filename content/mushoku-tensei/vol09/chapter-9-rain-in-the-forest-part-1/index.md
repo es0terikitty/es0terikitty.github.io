@@ -42,8 +42,6 @@ to touch your body at some length, from the sound of things.”
 “However, it seems he has no plans to tell anyone about your
 secret. He claims to be frightened of antagonizing me, but given his
 skills, that seems highly unlikely. I believe he’s simply attempting to
-Page | 188
-
 do right by a friend. Quite admirable, really.” Ariel shot Fitz a sharp
 look. “The question at this point is…what are you going to do?”
 Fitz’s shoulders twitched at Ariel’s harsh tone, but he made no
@@ -74,9 +72,6 @@ sunglasses.
 The face underneath them was distinctly feminine. It would
 have been hard to mistake it for that of a boy, in fact.
 It was the face of Sylphiette, Rudeus’ childhood friend.
-
-Page | 189
-
 “Princess Ariel, I…” she began, seemingly ready to speak her
 mind at last… but then stopped almost immediately, looking like she
 might burst into tears.
@@ -108,8 +103,6 @@ than repaid when we fled the Kingdom. Since then, we’ve been on
 equal footing. I’ve simply been manipulating you into serving me.”
 “You aren’t manipulating me!” Sylphie shouted, her eyes wide.
 “I want to help you, because we’re friends!”
-Page | 190
-
 In response, Ariel smiled in satisfaction and nodded slightly. “I’m
 sure that’s true, yes. And for the very same reason, I’d like to help
 you now. Because we’re friends, aren’t we?”
@@ -141,8 +134,6 @@ sacrificed herself obediently if Ariel ordered her to do so.
 She couldn’t quite manage to express these thoughts in this
 moment, though. Mainly because Ariel was speaking to her with
 such great kindness.
-Page | 191
-
 “Tell me, Sylphie. Do you intend to make a traitor of me, after all
 that I’ve done for you?”
 “What? No!” Surprised by Ariel’s manipulative words, Sylphie
@@ -173,8 +164,6 @@ Ariel and Luke exchanged a look and smiled wryly.
 “Let’s think that part over now, shall we?”
 With these gentle words from Ariel, an impromptu strategy
 conference was convened on the spot.
-Page | 192
-
 “Perhaps it would be best to keep things simple. Why not just
 tell him you’re Sylphiette from Buena Village?”
 “I think that’s inadvisable. If he really doesn’t remember her at
@@ -202,8 +191,6 @@ speeches and practice complex dances in order to leave at least
 some impression in the memories of their peers. There are quite a
 lot of them, you see, so it’s impossible to remember every single one
 you meet.”
-Page | 193
-
 Sylphie’s skills were certainly distinctive enough. There weren’t
 many people in the entire world who could cast spells silently, and
 none so young as Sylphie or Rudeus. But even with the benefit of
@@ -235,8 +222,6 @@ there, it was hard to take back. And her hair showed no signs of
 changing back to its original color, so she didn’t really have to.
 This was probably the ideal moment to reveal the truth she’d
 hidden from them until now… but the bullying she’d suffered in
-Page | 194
-
 childhood had left its mark on her mind, and she couldn’t bring
 herself to do so.
 “The first time I met Rudy was when he saved me from those
@@ -266,9 +251,6 @@ also didn’t strike Ariel as advisable. Rudeus probably had more
 acquaintances in that community than Ariel even suspected. Even if
 she tried to a find a group that didn’t know him, there was a good
 chance they’d have met somewhere before.
-
-Page | 195
-
 That might make things complicated. And messy. Someone
 might even end up getting hurt, and Ariel certainly didn’t want to risk
 that.
@@ -300,8 +282,6 @@ hopefully overcome her anxiety and blurt out the truth.
 “All right. Let’s go with that.” Ariel had made up her mind, and
 there wasn’t going to be any debate. “Luke, take your hands off your
 ears. We’re going to discuss our plan now.”
-Page | 196
-
 At this point, however, the princess remembered their secondbiggest problem: Sylphie’s penchant for self-sabotage. If they didn’t
 take some precautions, her cowardice would doom their plan to
 failure.
@@ -332,8 +312,6 @@ while he was eating, though. Sylphie just watched him pack it in,
 serving second helpings when he wanted one.
 Once breakfast was over, Rudy headed off to work. Sylphie
 handed him a lunch box and waved goodbye, then headed off to
-Page | 197
-
 meet up with Princess Ariel. They both had jobs, just like Rudy’s
 parents. She hadn’t come up with a specific job for Rudy, but it was
 just a fantasy, so that wasn’t too important.
@@ -365,9 +343,6 @@ clothes… and then I laugh too, and say “Better get started, then!”
 Hee hee hee!
 “—Hee hee hee!”
 “Ahem.”
-
-Page | 198
-
 “Gah!” Snapped back to reality by a tactful throat-clearing from
 Ariel, Sylphie shut off her internal monologue, flushed bright red,
 and looked at the floor while fiddling with her ears.
@@ -397,9 +372,6 @@ than an order to approach this very, very seriously.
 Seeing the tension on Sylphie’s face, Ariel slowly said her final
 words on the matter. “Give this everything you’ve got.”
 “Uh… yes, ma’am!”
-
-Page | 199
-
 “Very good.” Ariel nodded deeply one more time, and
 proceeded to outline her plan.
 Sylphie
@@ -426,9 +398,6 @@ Majesty. Here, have another drink…”
 Badigadi was guzzling down large amounts of beer. His dark skin
 looked slightly flushed. Rudy and Zanoba watched with big smiles on
 their faces, regularly refilling their mugs. This was strange. This
-
-Page | 200
-
 dining hall didn’t even serve alcohol. Had they gone out to buy some
 beforehand?
 “Incidentally, Sir Badi, what would you think about me making a
@@ -458,9 +427,6 @@ What is that you desire, then? Money? Men?”
 good word for me every now and then…”
 Rudy had his evil smile on again. It really did make him look like
 a total villain. He didn’t smile very often, but when he did, it tended
-
-Page | 201
-
 to turn out like that. That was one thing that hadn’t changed since I
 met him.
 There’d been someone who smiled like that in the royal court as
@@ -492,8 +458,6 @@ make me happy.
 “Uhm…” I hesitated for a moment. It was kind of hard to broach
 the subject with Zanoba and the Demon King watching me. “Er,
 would you mind stepping outside with me for a minute?”
-Page | 202
-
 “Not at all. Zanoba, can you handle the rest?”
 “Of course, Master! Leave all the details to me.”
 Rudy and Zanoba sure were close these days. I couldn’t help
@@ -522,9 +486,6 @@ be laughing right now? Let’s just move on… “Princess Ariel started to
 get annoyed by how much this noble boasted about this bodyguard.
 She insisted that ‘her Fitz’ was even stronger.”
 “Ahah. Got it.”
-
-Page | 203
-
 “So then the noble tells her, ‘My bodyguard braved the Forest of
 Hail with a party of only four, and brought back the flower that
 grows in its depths,’ in this really boastful tone…”
@@ -555,9 +516,6 @@ never know you didn’t go there yourself.”
 get the job done myself!”
 “Power comes in many forms. Having connections is one of
 them. I’ve got tons of adventurer friends, and I’m your friend. You’re
-
-Page | 204
-
 just putting the relationships you’ve built to use. That’s a totally valid
 way to get things done.”
 Oh wow, listen to him playing around with words. What is he
@@ -588,8 +546,6 @@ about me getting hurt, since I was an amateur at this sort of thing.
 Yeah, that had to be it. Probably.
 “Look, d-do we really need all those other people? I bet you and
 me could handle it just fine on our own, Rudeus.”
-Page | 205
-
 “…Oh, wait. Are you just asking me to be your bodyguard,
 Master Fitz?”
 Wasn’t that what I said at the start? Maybe not, actually… “YYeah, that’s right! Can you help me out, Rudeus?”
@@ -617,9 +573,6 @@ of the Demon Continent. I’d assumed it was some kind of joke at
 first, but his face was totally serious.
 The monsters known to appear in the Forest of Hail were Branked threats at worst, though. I could probably handle them just
 fine… “Sorry, Rudeus. It feels like I made you do all the prep work.”
-
-Page | 206
-
 “No need to apologize. That’s part of the job when you’re on a
 bodyguard mission.”
 Wait. If that was how he was thinking about this… was he going
@@ -649,9 +602,6 @@ by tall trees packed with snow. However, there was some sort of
 magical abnormality in this area that caused hail to fall very
 regularly. When you stepped on the snow here, it made a distinctive
 crunching sound.
-
-Page | 207
-
 “The flowers bloom on a cliff on the far side of the forest. We’ll
 head straight there while clearing the snow in our path. Follow me
 and keep an eye on our surroundings, please.”
@@ -683,8 +633,6 @@ he’d never told me much about this young lady he’d spent years
 tutoring. It felt like he didn’t want to talk about her. From everything
 I heard, she sounded like a really violent girl… maybe he had some
 bad memories from that time in his life.
-Page | 208
-
 “Do you think I could try holding it for a while? All I have is my
 beginner’s wand, you know. I’ve always wanted to use a staff like
 that.”
@@ -713,9 +661,6 @@ Okay. So far so good. Time for the next step…
 Bringing the ring I wore on my pinky to my mouth, I whispered
 the keyword, “Red tower,” as softly as I could. The small stone
 embedded in it changed from blue to red.
-
-Page | 209
-
 This ring was one of the magical implements that Princess Ariel
 always wore on her person. When you spoke the keyword, its stone
 changed color—and so did the stone in its companion ring. The
@@ -747,8 +692,6 @@ rain stopped. That was seriously tedious work. And so, I had an
 alternative proposal to offer. “Uhm, let’s see. Looking at the map, I
 think—”
 …there’s a cave just ahead, so let’s take shelter there.
-Page | 210
-
 But before I could get the words out, Rudy shook his head and
 interrupted. “Don’t worry. I’ll scatter those clouds in no time.” He
 then lifted his hands toward the sky.
@@ -779,9 +722,6 @@ fall!
 drops of rain fell upon us. “…Sorry, Master Fitz. Looks like I’m not
 performing well today.” He looked a little upset at this development,
 understandably.
-
-Page | 211
-
 “Th-That’s okay, Rudeus. It’s probably because I was holding
 your staff.”
 “Even without my staff, I should have been able to scatter those
@@ -800,5 +740,3 @@ All according to plan.
 “There it is!” Finally, shivering and soaking wet, we stumbled
 into our shelter. It was a small, natural cave, no more than ten
 meters deep. And it was also our real destination.
-
-Page | 212

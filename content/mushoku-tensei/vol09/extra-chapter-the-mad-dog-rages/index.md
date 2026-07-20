@@ -43,8 +43,6 @@ remained the youngest student to hold that rank. While he was still a
 step behind his cousin, there was no telling which of them would
 ultimately prove superior.
 And finally, there was Eris Greyrat.
-Page | 275
-
 Eris was a seventeen-year-old who struck terror into the hearts
 of everyone she encountered—a mad dog known to viciously savage
 anyone who annoyed her. She’d come to this place two years ago,
@@ -78,9 +76,6 @@ But then the Sword God said “Sit,” and they fell silent. Gall Falion
 was going to cut this insolent mutt down. All of them believed this.
 No one had ever spoken to him so arrogantly and left this place alive.
 Even Ghislaine, who was infamous for her insolence, was looking at
-
-Page | 276
-
 Eris with a shocked expression. Her ears and tail were standing on
 end.
 But for some reason, the Sword God was simply grinning.
@@ -110,9 +105,6 @@ moment, silence fell over the Ephemeral Hall. “Talk’s cheap, girl. Can
 you do it?”
 “I will,” Eris replied at once. There was no hint of hesitation or
 doubt in her voice, or in her eyes.
-
-Page | 277
-
 The corners of the Sword God’s mouth twitched upward. “Good.
 Let’s see your sword, then. Gino, dance with her.”
 “Huh?! Y-Yes, sir!” Gino Britz rose to his feet at his uncle’s call,
@@ -143,8 +135,6 @@ brought down by such a cruel sneak attack.
 There were four in the room, however, who saw the situation
 differently: one Sword King, two Sword Emperors, and the Sword
 God himself.
-Page | 278
-
 “Ah, yeah. See what I mean? The kid is soft, isn’t he?”
 “No kidding.”
 Eris shook her head disdainfully, letting her short hair swing
@@ -175,8 +165,6 @@ her fate.
 The two of them faced each other at the center of the hall and
 assumed their stances.
 “Begin!”
-Page | 279
-
 At the signal from a nearby Sword Saint, Nina swung her blade.
 She’d practiced the forms of the Sword God Style tens of thousands
 of times. Her execution was flawless. She was going to strike down
@@ -208,8 +196,6 @@ here?”
 “How… How dare you!” This time, the Sword Saints lost their
 temper. Cries of “Coward!” went up from all around the hall. Those
 ranked Sword King and above, however, looked down on their angry
-Page | 280
-
 students coldly. They understood who was in the right here. Eris had
 been fully justified once again. A true duel didn’t end when a sword
 was broken. It ended when the swordsman was.
@@ -240,8 +226,6 @@ The Sword God held it loosely in his hand, letting it dangle
 downward. The Sword Saints watched with bated breath. The Sword
 God almost never held a naked sword, except in his mock duels with
 the Sword Emperors.
-Page | 281
-
 After a moment, the Sword God casually murmured three
 words: “Okay, let’s go.”
 All but simultaneously, Eris was sent flying through the air. Her
@@ -270,9 +254,6 @@ Sword Saint. I’ll train her, starting tomorrow.”
 The smiles faded from the faces of the Sword Saints. This meant
 the girl would become a direct student of the Sword God himself.
 There had been no student so highly honored since Ghislaine herself.
-
-Page | 282
-
 “That’s absurd! Sword Saint is a special title, granted only to
 those who master the Sword of Light technique! That’s girl’s nothing
 more than a wild, vicious—”
@@ -306,9 +287,6 @@ Eris from the start. Understandable, perhaps,
 
 given the girl had beaten her so severely that she’d pissed herself in
 front of her fellow students. She’d been shamed. Humiliated.
-
-Page | 283
-
 Eris was nothing but a wild dog who wandered in off the streets.
 When her sword wasn’t up to the task, she lashed out with her fists
 like an angry child. Such behavior was unworthy of any student of
@@ -338,9 +316,6 @@ One day in the late summer, Nina was speaking with a few girls
 around her age. The topic had turned to romance—which students
 they thought were handsome, and which of the girls had spent their
 first night in bed with someone.
-
-Page | 284
-
 Nina had devoted her life to the sword from the very beginning;
 it was hard for her to imagine ever pursuing a relationship with
 anyone. She always found these conversations awkward. The only
@@ -372,8 +347,6 @@ at once that she wasn’t merely bluffing.
 with you?!” Unable to disguise her shock, Nina pressed Eris for the
 details in a flustered tone of voice.
 “A guy I knew since we were young.”
-Page | 285
-
 Normally, Eris barely spoke a word to anyone. But on the topic
 of this young man, she could babble on at some length. She spoke of
 how they’d grown up together, and how they’d travelled from the
@@ -403,9 +376,6 @@ department. The news about this boyfriend had left her reeling.
 That wild dog had a partner in her life, and Nina didn’t. That
 sounded ridiculous on its face. It had to be a lie, surely. This Rudeus
 didn’t really exist.
-
-Page | 286
-
 On the basis of this assumption, Nina used her next day off to
 travel to the nearest town, where she paid an information broker to
 look for information on Rudeus Greyrat. She fully expected—or
@@ -437,9 +407,6 @@ This line of thought led her to a deliciously wicked idea.
 How would Eris react if she tracked this Rudeus down, beat him
 in a duel, and dragged him back here as her prisoner? The look on
 her face ought to be priceless.
-
-Page | 287
-
 The plan appealed to her greatly, and so she put it into action.
 Nina was just as impetuous as her father had once been. That very
 day, she’d packed for her journey, leapt onto a horse, and set off for
@@ -470,8 +437,6 @@ who happened to be passing by. He was a muscular young beastman
 who dressed very much like a warrior. When she asked him where
 she might find Rudeus, the beastman said that he was looking for the
 very same person—and had a good idea where to find him.
-Page | 288
-
 How convenient, Nina thought, and tagged along.
 Before long, the beastman spotted a boy who wore a uniform.
 Rudeus looked more or less exactly how Nina had pictured him. He
@@ -501,9 +466,6 @@ three seconds, by Nina’s count. If you blinked your eyes, you might
 have missed it. Without so much as a backward glance in her
 direction, Rudeus promptly walked off, leaving his unconscious foe
 lying on the street.
-
-Page | 289
-
 It took a few minutes for Nina to recover from these startling
 events. She had to take some time asking around again, but
 eventually learned that Rudeus was now in the library.
@@ -533,9 +495,6 @@ his face. “Hoho! What’s this line for, friends? Is there a festival going
 on?!”
 “This is the line for those who wish to challenge Rudeus Greyrat
 to a duel!”
-
-Page | 290
-
 “Is it indeed?! And there’s so many of you, too! Bwahahaha! The
 boy’s in great demand, I see! I’m a patient man, of course, but is
 there any way I could get a shot at him first?!”
@@ -566,8 +525,6 @@ before her very eyes.
 bestow the title of Hero on anyone who defeats me!”
 Compared to many of the others, Nina’s effort was fairly
 respectable. But the Demon King was on a whole different level.
-Page | 291
-
 Before she could even think up some sort of plan, he’d caught her,
 smacked her brutally to the ground, and broke her beloved sword
 apart.
@@ -598,9 +555,6 @@ Nina saw the whole thing from start to finish. Not that it took
 very long. Rudeus took his staff, unsealed it, mouthed a few words,
 and pointed it at his foe. And a split-second later, the Demon King’s
 entire upper body exploded violently.
-
-Page | 292
-
 The man had defeated an opponent Nina couldn’t even compete
 with. The man her hated rival loved, the man she’d assumed to be
 worthless, had destroyed a Demon King with a single attack. And Eris
@@ -627,8 +581,6 @@ Rumor has it that the Sword God, who’d been sharpening his
 sword excitedly after hearing of the Demon King’s arrival, sheathed it
 with a disappointed expression after Nina reported what had
 happened.
-Page | 293
-
 About the Author:
 Rifujin na Magonote
 
@@ -639,9 +591,6 @@ gained the support of readers, hitting number one on the site’s
 combined popularity rankings within one year of publication. “Now
 that I think about it, I never paid that much attention in school,” said
 the author with a tinge of regret.
-
-Page | 294
-
 Thank you for reading!
 Get the latest news about your favorite Seven Seas books and brandnew licenses delivered to your inbox every week:
 
@@ -649,11 +598,5 @@ Sign up for our newsletter!
 Or visit us online:
 
 gomanga.com/newsletter
-
-Page | 295
-
 Download all your fav Light
 Novels at
-
-
-Page | 296
