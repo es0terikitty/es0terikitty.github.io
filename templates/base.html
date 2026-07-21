@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}document.documentElement.setAttribute('data-theme',t||(matchMedia('(prefers-color-scheme:light)').matches?'light':'dark'))})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -16,7 +17,6 @@
 
 <nav class="top wrap">
   <a href="/" class="logo">es0terikitty</a>
-  <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
   <ul class="nav-links" id="nav-links">
     <li><a href="#notes">novels</a></li>
     <li><a href="#studies">studies</a></li>
@@ -24,6 +24,13 @@
     <li><a href="#now">now</a></li>
     <li><a href="https://github.com/es0terikitty" class="ext">github</a></li>
   </ul>
+  <div class="nav-actions">
+    <button class="nav-action-btn theme-toggle" id="theme-toggle" aria-label="Toggle theme">
+      <span class="icon-sun"></span>
+      <span class="icon-moon"></span>
+    </button>
+    <button class="nav-action-btn nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
+  </div>
 </nav>
 
 {% block content %}{% endblock content %}
@@ -36,5 +43,6 @@
 </footer>
 
 <script src="/js/copy.js"></script>
+<script src="/js/theme.js"></script>
 </body>
 </html>
