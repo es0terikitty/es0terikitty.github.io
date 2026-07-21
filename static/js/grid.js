@@ -3,11 +3,11 @@
   if (!c) return;
 
   var ctx = c.getContext('2d');
-  var mx = -9999, my = -9999;
+  var mx = -9999, my = -9999, lmx = -9999, lmy = -9999;
   var pts = [];
   var SPACING = 55;
   var RADIUS = 140;
-  var STRENGTH = 18;
+  var STRENGTH = 5;
   var DAMP = 0.88;
   var SPRING = 0.04;
 
@@ -112,20 +112,34 @@
     }
   }
 
+  function pushAt(cx, cy) {
+    for (var i = 0; i < pts.length; i++) {
+      var p = pts[i];
+      var dx = p.ox - cx;
+      var dy = p.oy - cy;
+      var dist = Math.sqrt(dx * dx + dy * dy);
+
+      if (dist < RADIUS && dist > 1) {
+        var force = (1 - dist / RADIUS) * STRENGTH;
+        var angle = Math.atan2(dy, dx);
+        p.vx += Math.cos(angle) * force;
+        p.vy += Math.sin(angle) * force;
+      }
+    }
+  }
+
   function tick() {
     for (var i = 0; i < pts.length; i++) {
       var p = pts[i];
       var dx = p.ox - mx;
       var dy = p.oy - my;
       var dist = Math.sqrt(dx * dx + dy * dy);
-
       if (dist < RADIUS && dist > 1) {
-        var force = (1 - dist / RADIUS) * STRENGTH;
+        var force = (1 - dist / RADIUS) * 1.5;
         var angle = Math.atan2(dy, dx);
-        p.vx += Math.cos(angle) * force * 0.15;
-        p.vy += Math.sin(angle) * force * 0.15;
+        p.vx += Math.cos(angle) * force;
+        p.vy += Math.sin(angle) * force;
       }
-
       p.vx += (p.ox - p.x) * SPRING;
       p.vy += (p.oy - p.y) * SPRING;
       p.vx *= DAMP;
@@ -139,8 +153,22 @@
   }
 
   document.addEventListener('mousemove', function(e) {
-    mx = e.clientX;
-    my = e.clientY;
+    var nx = e.clientX, ny = e.clientY;
+    var step = 8;
+    var dx = nx - lmx;
+    var dy = ny - lmy;
+    var d = Math.sqrt(dx * dx + dy * dy);
+    if (d > step) {
+      var steps = Math.ceil(d / step);
+      for (var s = 0; s <= steps; s++) {
+        var t = s / steps;
+        pushAt(lmx + dx * t, lmy + dy * t);
+      }
+    } else {
+      pushAt(nx, ny);
+    }
+    lmx = mx = nx;
+    lmy = my = ny;
   });
 
   window.addEventListener('resize', resize);
