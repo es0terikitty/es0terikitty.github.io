@@ -11,6 +11,25 @@
   var DAMP = 0.88;
   var SPRING = 0.04;
 
+  function isLight() {
+    return document.documentElement.getAttribute('data-theme') === 'light';
+  }
+
+  function colors() {
+    if (isLight()) {
+      return {
+        fade: '#f5ede0',
+        line: 'rgba(217, 119, 6, 0.08)',
+        dot: 'rgba(217, 119, 6, 0.2)',
+      };
+    }
+    return {
+      fade: '#0F0F0F',
+      line: 'rgba(255, 140, 26, 0.06)',
+      dot: 'rgba(255, 140, 26, 0.25)',
+    };
+  }
+
   function resize() {
     c.width = window.innerWidth;
     c.height = window.innerHeight;
@@ -36,22 +55,29 @@
 
   function draw() {
     var w = c.width, h = c.height;
+    var clr = colors();
     ctx.clearRect(0, 0, w, h);
 
-    // slight fade at top and bottom
+    // hex to rgba helper
+    function hexAlpha(hex, a) {
+      var r = parseInt(hex.slice(1,3), 16);
+      var g = parseInt(hex.slice(3,5), 16);
+      var b = parseInt(hex.slice(5,7), 16);
+      return 'rgba(' + r + ',' + g + ',' + b + ',' + a + ')';
+    }
+
     var grad = ctx.createLinearGradient(0, 0, 0, h);
-    grad.addColorStop(0, 'rgba(15,15,15,1)');
-    grad.addColorStop(0.12, 'rgba(15,15,15,0)');
-    grad.addColorStop(0.88, 'rgba(15,15,15,0)');
-    grad.addColorStop(1, 'rgba(15,15,15,1)');
+    grad.addColorStop(0, clr.fade);
+    grad.addColorStop(0.12, hexAlpha(clr.fade, 0));
+    grad.addColorStop(0.88, hexAlpha(clr.fade, 0));
+    grad.addColorStop(1, clr.fade);
     ctx.fillStyle = grad;
     ctx.fillRect(0, 0, w, h);
 
     var cols = Math.ceil(w / SPACING) + 2;
     var rows_n = Math.ceil(h / SPACING) + 2;
 
-    // vertical lines
-    ctx.strokeStyle = 'rgba(255, 140, 26, 0.06)';
+    ctx.strokeStyle = clr.line;
     ctx.lineWidth = 1;
     for (var col = 0; col < cols; col++) {
       ctx.beginPath();
@@ -65,7 +91,6 @@
       ctx.stroke();
     }
 
-    // horizontal lines
     for (var r = 0; r < rows_n; r++) {
       ctx.beginPath();
       for (var col = 0; col < cols; col++) {
@@ -78,8 +103,7 @@
       ctx.stroke();
     }
 
-    // dots at vertices
-    ctx.fillStyle = 'rgba(255, 140, 26, 0.25)';
+    ctx.fillStyle = clr.dot;
     for (var i = 0; i < pts.length; i++) {
       var p = pts[i];
       ctx.beginPath();
