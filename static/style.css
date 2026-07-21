@@ -398,7 +398,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 .theme-toggle {
   background: none; border: none; color: var(--fg-dim);
   font-family: var(--font-mono); font-size: var(--text-base);
-  cursor: pointer; padding: 4px 71px 4px 6px; line-height: 1;
+  cursor: pointer; padding: 4px 26px 4px 6px; line-height: 1;
   margin-left: auto;
 }
 .theme-toggle:hover { color: var(--amber); }
@@ -407,7 +407,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 [data-theme="light"] .icon-moon { display: inline; }
 
 /* ── Mobile nav ── */
-.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: 2rem; cursor: pointer; padding: 4px 4px; line-height: 1; }
+.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: 1.5rem; cursor: pointer; padding: 4px 4px; line-height: 1; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
