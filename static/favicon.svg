@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <rect width="100" height="100" fill="#0a0705"/>
-  <rect x="4" y="4" width="92" height="92" fill="none" stroke="#3a1710" stroke-width="2"/>
-  <text x="50" y="72" text-anchor="middle" font-family="JetBrainsMono,monospace" font-size="64" fill="#ff3b1f">愛</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#0a0705"/>
+  <text x="32" y="34" text-anchor="middle" dominant-baseline="central"
+        font-family="'Noto Sans CJK SC','Noto Sans SC','PingFang SC','Microsoft YaHei','Hiragino Sans',sans-serif"
+        font-weight="700" font-size="46" fill="#ff3b1f">愛</text>
 </svg>

@@ -395,12 +395,17 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 
 /* ── Desktop enhancement (min-width, additive) ── */
 @media (min-width: 1024px) {
+  #notes.wrap, #studies.wrap { max-width: var(--content-w-wide); }
   #stack.wrap { max-width: var(--content-w-wide); }
   .stack-grid { grid-template-columns: repeat(4, 1fr); }
   #stats.wrap { max-width: var(--content-w-wide); }
+  .terminal { max-width: 820px; }
+  .terminal-body h1 { font-size: 3rem; }
+  .section-heading { font-size: 2rem; }
+  .playlist-item .title { font-size: 1.05rem; }
   .chapter-list { max-width: var(--content-w-list); }
   .chapter-grid { display: block; columns: 3; column-gap: 24px; }
-  .chapter-grid .grid-item { break-inside: avoid; }
+  .chapter-grid .grid-item { display: block; margin-bottom: 4px; break-inside: avoid; }
 }
 @media (min-width: 1440px) {
   .chapter-grid { columns: 4; }
