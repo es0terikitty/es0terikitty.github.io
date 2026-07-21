@@ -220,7 +220,7 @@ body::after {
   width: 0.6em; height: 1em;
   background: var(--amber);
   margin-left: 4px;
-  vertical-align: text-bottom;
+  vertical-align: middle;
 }
 .cursor.below {
   display: block;
