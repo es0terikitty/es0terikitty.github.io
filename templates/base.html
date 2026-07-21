@@ -13,7 +13,6 @@
 
 <nav class="top wrap">
   <a href="/" class="logo">es0terikitty</a>
-  <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
   <ul class="nav-links" id="nav-links">
     <li><a href="#notes">novels</a></li>
     <li><a href="#studies">studies</a></li>
@@ -21,6 +20,10 @@
     <li><a href="#now">now</a></li>
     <li><a href="https://github.com/es0terikitty" class="ext">github</a></li>
   </ul>
+  <div class="nav-actions">
+    <button class="theme-toggle" id="theme-toggle" aria-label="toggle theme">☀</button>
+    <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
+  </div>
 </nav>
 
 {% block content %}{% endblock content %}
@@ -33,5 +36,31 @@
 </footer>
 
 <script src="/js/copy.js"></script>
+<script>
+(function() {
+  var html = document.documentElement;
+  var btn = document.getElementById('theme-toggle');
+  var saved = localStorage.getItem('theme');
+  var prefersLight = window.matchMedia('(prefers-color-scheme: light)').matches;
+
+  if (saved === 'light' || (!saved && prefersLight)) {
+    html.setAttribute('data-theme', 'light');
+    btn.textContent = '\u263E';
+  }
+
+  btn.addEventListener('click', function() {
+    var isLight = html.getAttribute('data-theme') === 'light';
+    if (isLight) {
+      html.removeAttribute('data-theme');
+      localStorage.setItem('theme', 'dark');
+      btn.textContent = '\u2600';
+    } else {
+      html.setAttribute('data-theme', 'light');
+      localStorage.setItem('theme', 'light');
+      btn.textContent = '\u263E';
+    }
+  });
+})();
+</script>
 </body>
 </html>
