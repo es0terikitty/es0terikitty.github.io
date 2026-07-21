@@ -7,7 +7,7 @@
   var pts = [];
   var SPACING = 55;
   var RADIUS = 140;
-  var STRENGTH = 5;
+  var STRENGTH = 3;
   var DAMP = 0.88;
   var SPRING = 0.04;
 
@@ -135,7 +135,7 @@
       var dy = p.oy - my;
       var dist = Math.sqrt(dx * dx + dy * dy);
       if (dist < RADIUS && dist > 1) {
-        var force = (1 - dist / RADIUS) * 1.5;
+        var force = (1 - dist / RADIUS) * 0.8;
         var angle = Math.atan2(dy, dx);
         p.vx += Math.cos(angle) * force;
         p.vy += Math.sin(angle) * force;
