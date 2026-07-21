@@ -139,7 +139,7 @@ nav.top {
 }
 nav.top .logo { color: var(--fg); font-size: var(--text-lg); font-weight: 700; }
 nav.top .logo:hover { color: var(--red); }
-.nav-links { display: flex; gap: 20px; list-style: none; }
+.nav-links { display: flex; gap: 20px; list-style: none; margin-left: 32px; }
 .nav-links a {
   font-size: var(--text-sm); text-transform: uppercase;
   letter-spacing: 0.08em; color: var(--fg-dim);
@@ -398,7 +398,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 .theme-toggle {
   background: none; border: none; color: var(--fg-dim);
   font-family: var(--font-mono); font-size: var(--text-base);
-  cursor: pointer; padding: 4px 6px; line-height: 1;
+  cursor: pointer; padding: 4px 71px 4px 6px; line-height: 1;
   margin-left: auto;
 }
 .theme-toggle:hover { color: var(--amber); }
@@ -407,7 +407,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 [data-theme="light"] .icon-moon { display: inline; }
 
 /* ── Mobile nav ── */
-.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: var(--text-lg); cursor: pointer; padding: 4px 4px; line-height: 1; }
+.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: 2rem; cursor: pointer; padding: 4px 4px; line-height: 1; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
