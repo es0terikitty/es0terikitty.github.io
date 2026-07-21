@@ -399,7 +399,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   background: none; border: none; color: var(--fg-dim);
   font-family: var(--font-mono); font-size: var(--text-base);
   cursor: pointer; padding: 4px 26px 4px 6px; line-height: 1;
-  margin-left: auto;
+  margin-left: auto; display: flex; align-items: center;
 }
 .theme-toggle:hover { color: var(--amber); }
 .icon-moon { display: none; }
@@ -415,7 +415,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
   .terminal { max-width: 100%; }
-  .nav-toggle { display: block; }
+  .nav-toggle { display: flex; align-items: center; justify-content: center; }
   nav.top { flex-wrap: wrap; }
   .nav-links {
     display: none; width: 100%; flex-direction: column; gap: 0;
