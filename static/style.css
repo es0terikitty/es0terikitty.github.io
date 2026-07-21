@@ -227,6 +227,8 @@ body::after {
 }
 .cursor.below {
   flex-basis: 100%;
+  width: 0.6em; height: 1em;
+  max-width: 0.6em;
   margin: 6px auto 0;
 }
 @media (prefers-reduced-motion: no-preference) {
