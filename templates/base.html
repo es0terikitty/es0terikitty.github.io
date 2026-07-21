@@ -3,12 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>
-    (function() {
-      try { var t = localStorage.getItem('theme'); if (t === 'light' || t === 'dark') { document.documentElement.setAttribute('data-theme', t); return; } } catch(e) {}
-      if (window.matchMedia('(prefers-color-scheme: light)').matches) document.documentElement.setAttribute('data-theme', 'light');
-    })();
-  </script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -27,8 +21,8 @@
     <li><a href="https://github.com/es0terikitty" class="ext">github</a></li>
   </ul>
   <div class="nav-actions">
-    <button class="nav-action-btn" id="theme-toggle" aria-label="Switch to light mode">☀</button>
-    <button class="nav-action-btn nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
+    <button class="theme-toggle" id="theme-toggle" aria-label="toggle theme">☀</button>
+    <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
   </div>
 </nav>
 
@@ -46,26 +40,25 @@
 (function() {
   var html = document.documentElement;
   var btn = document.getElementById('theme-toggle');
+  var saved = localStorage.getItem('theme');
+  var prefersLight = window.matchMedia('(prefers-color-scheme: light)').matches;
 
-  function setBtn(theme) {
-    btn.textContent = theme === 'light' ? '\u263E' : '\u2600';
-    btn.setAttribute('aria-label', theme === 'light' ? 'Switch to dark mode' : 'Switch to light mode');
+  if (saved === 'light' || (!saved && prefersLight)) {
+    html.setAttribute('data-theme', 'light');
+    btn.textContent = '\u263E';
   }
-
-  var saved = null;
-  try { saved = localStorage.getItem('theme'); } catch(e) {}
-
-  if (saved === 'light') setBtn('light');
-  else if (saved === 'dark') setBtn('dark');
-  else if (window.matchMedia('(prefers-color-scheme: light)').matches) { html.setAttribute('data-theme', 'light'); setBtn('light'); }
-  else setBtn('dark');
 
   btn.addEventListener('click', function() {
     var isLight = html.getAttribute('data-theme') === 'light';
-    var next = isLight ? 'dark' : 'light';
-    html.setAttribute('data-theme', next);
-    try { localStorage.setItem('theme', next); } catch(e) {}
-    setBtn(next);
+    if (isLight) {
+      html.removeAttribute('data-theme');
+      localStorage.setItem('theme', 'dark');
+      btn.textContent = '\u2600';
+    } else {
+      html.setAttribute('data-theme', 'light');
+      localStorage.setItem('theme', 'light');
+      btn.textContent = '\u263E';
+    }
   });
 })();
 </script>

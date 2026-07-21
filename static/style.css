@@ -41,7 +41,6 @@
 }
 
 :root {
-  color-scheme: dark;
   --bg: #0a0705;
   --bg-panel: #160d09;
   --bg-panel-alt: #1f120c;
@@ -73,7 +72,6 @@
 
 /* ── Light theme ── */
 [data-theme="light"] {
-  color-scheme: light;
   --bg: #f5f0eb;
   --bg-panel: #ede4dc;
   --bg-panel-alt: #e3d6cb;
@@ -93,22 +91,14 @@
   color: var(--bg);
 }
 
-@media (prefers-color-scheme: light) {
-  :root:not([data-theme="dark"]) {
-    color-scheme: light;
-    --bg: #f5f0eb;
-    --bg-panel: #ede4dc;
-    --bg-panel-alt: #e3d6cb;
-    --border: #d4bfb0;
-    --fg: #2a1f1a;
-    --fg-dim: #6b4f3e;
-    --fg-muted: #a0806a;
-  }
+[data-theme="light"] .live-dot {
+  background: var(--red);
 }
 
 *, *::before, *::after {
   margin: 0; padding: 0; box-sizing: border-box;
   border-radius: 0 !important;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
 }
 
 html {
@@ -404,15 +394,17 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 .back-link a { font-size: var(--text-sm); color: var(--fg-dim); }
 .back-link a:hover { color: var(--red); }
 
-/* ── Nav buttons (theme toggle + hamburger) ── */
-.nav-action-btn {
+/* ── Theme toggle ── */
+.theme-toggle {
   background: none; border: none; color: var(--fg-dim);
   font-family: var(--font-mono); font-size: var(--text-lg);
-  cursor: pointer; padding: 4px 6px; line-height: 1;
+  cursor: pointer; padding: 4px 8px; line-height: 1;
 }
-.nav-action-btn:hover { color: var(--amber); }
-.nav-toggle { display: none; }
-.nav-actions { display: flex; align-items: center; }
+.theme-toggle:hover { color: var(--amber); }
+
+/* ── Mobile nav ── */
+.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: var(--text-lg); cursor: pointer; padding: 4px 0; }
+.nav-actions { display: flex; align-items: center; gap: 4px; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
@@ -423,7 +415,6 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   .nav-toggle { display: block; }
   nav.top { flex-wrap: wrap; }
   .nav-actions { margin-left: auto; }
-  .nav-action-btn { padding: 4px 8px; }
   .nav-links {
     display: none; width: 100%; flex-direction: column; gap: 0;
     padding-top: 12px; order: 1;
