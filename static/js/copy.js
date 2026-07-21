@@ -17,6 +17,23 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
+  /* copy-quote */
+  document.querySelectorAll('.copy-quote').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var el = this.parentElement.querySelector('.now-text');
+      if (el) {
+        navigator.clipboard.writeText(el.textContent.trim()).then(function() {
+          btn.textContent = 'copied';
+          btn.classList.add('copied');
+          setTimeout(function() {
+            btn.textContent = '';
+            btn.classList.remove('copied');
+          }, 1500);
+        });
+      }
+    });
+  });
+
   /* mobile nav toggle */
   var toggle = document.getElementById('nav-toggle');
   var links = document.getElementById('nav-links');
