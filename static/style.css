@@ -214,7 +214,6 @@ body::after {
   font-size: var(--text-sm); color: var(--fg-dim);
   text-align: center; max-width: 480px;
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
 }
@@ -226,9 +225,8 @@ body::after {
   margin-left: 4px;
 }
 .cursor.below {
-  flex-basis: 100%;
+  display: block;
   width: 0.6em; height: 1em;
-  max-width: 0.6em;
   margin: 6px auto 0;
 }
 @media (prefers-reduced-motion: no-preference) {

@@ -194,7 +194,10 @@ var tw = document.querySelector('.typewriter');
 if (tw) {
   tw.addEventListener('animationend', function() {
     var c = document.querySelector('.cursor');
-    if (c) c.classList.add('below');
+    if (c) {
+      c.classList.add('below');
+      c.parentElement.after(c);
+    }
   });
 }
 </script>
