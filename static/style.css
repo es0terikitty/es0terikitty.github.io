@@ -213,14 +213,18 @@ body::after {
 .terminal-body .tagline {
   font-size: var(--text-sm); color: var(--fg-dim);
   text-align: center; max-width: 480px;
-  display: flex; flex-direction: column; align-items: center;
 }
 .terminal-body .tagline span { color: var(--fg-muted); }
 .cursor {
-  display: block;
+  display: inline-block;
   width: 0.6em; height: 1em;
   background: var(--amber);
-  margin-top: 6px;
+  margin-left: 4px;
+  vertical-align: text-bottom;
+}
+.cursor.below {
+  display: block;
+  margin: 6px auto 0;
 }
 @media (prefers-reduced-motion: no-preference) {
   .cursor { animation: blink 1s step-end infinite; }
