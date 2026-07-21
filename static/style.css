@@ -398,7 +398,8 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 .theme-toggle {
   background: none; border: none; color: var(--fg-dim);
   font-family: var(--font-mono); font-size: var(--text-sm);
-  cursor: pointer; padding: 0; line-height: inherit;
+  cursor: pointer; padding: 4px 4px; line-height: 1;
+  margin-left: auto;
 }
 .theme-toggle:hover { color: var(--amber); }
 .icon-moon { display: none; }
@@ -406,7 +407,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 [data-theme="light"] .icon-moon { display: inline; }
 
 /* ── Mobile nav ── */
-.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: var(--text-lg); cursor: pointer; padding: 4px 0; }
+.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: var(--text-sm); cursor: pointer; padding: 4px 4px; line-height: 1; }
 
 /* ── Responsive ── */
 @media (max-width: 768px) {
@@ -421,7 +422,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
     padding-top: 12px; order: 1;
   }
   .nav-links.open { display: flex; }
-  .nav-links a, .nav-links .theme-toggle { display: block; padding: 8px 0; font-size: var(--text-sm); border-bottom: 1px solid var(--border); width: 100%; text-align: left; }
+  .nav-links a { display: block; padding: 8px 0; font-size: var(--text-sm); border-bottom: 1px solid var(--border); }
 }
 
 @media (max-width: 480px) {
