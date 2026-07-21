@@ -168,6 +168,13 @@ body::after {
   body::after { animation: flicker 0.15s infinite; }
 }
 
+/* ── Grid canvas background ── */
+#grid-canvas {
+  position: fixed; top: 0; left: 0;
+  width: 100vw; height: 100vh;
+  z-index: -1; pointer-events: none;
+}
+
 /* ── Terminal window ── */
 .terminal {
   border: 1px solid var(--border);

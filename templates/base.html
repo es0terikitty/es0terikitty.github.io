@@ -14,6 +14,7 @@
   <meta name="description" content="{{ config.description }}">
 </head>
 <body>
+{% block canvas %}{% endblock canvas %}
 
 <nav class="top wrap">
   <a href="/" class="logo">es0terikitty</a>
@@ -42,5 +43,6 @@
 
 <script src="/js/copy.js"></script>
 <script src="/js/theme.js"></script>
+{% block extrascripts %}{% endblock extrascripts %}
 </body>
 </html>
