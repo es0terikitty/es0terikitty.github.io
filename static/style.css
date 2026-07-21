@@ -213,6 +213,10 @@ body::after {
 .terminal-body .tagline {
   font-size: var(--text-sm); color: var(--fg-dim);
   text-align: center; max-width: 480px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 .terminal-body .tagline span { color: var(--fg-muted); }
 .cursor {
@@ -220,10 +224,9 @@ body::after {
   width: 0.6em; height: 1em;
   background: var(--amber);
   margin-left: 4px;
-  vertical-align: text-top;
 }
 .cursor.below {
-  display: block;
+  flex-basis: 100%;
   margin: 6px auto 0;
 }
 @media (prefers-reduced-motion: no-preference) {
