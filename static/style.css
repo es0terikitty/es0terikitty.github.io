@@ -404,7 +404,8 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 }
 .nav-action-btn:hover { color: var(--amber); }
 .nav-toggle { display: none; }
-.nav-actions { display: flex; align-items: center; gap: 2px; }
+.nav-actions { display: flex; align-items: center; gap: 8px; }
+.theme-toggle { font-size: var(--text-base); }
 .icon-moon { display: none; }
 [data-theme="light"] .icon-sun { display: none; }
 [data-theme="light"] .icon-moon { display: inline; }
