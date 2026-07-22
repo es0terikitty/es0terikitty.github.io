@@ -72,14 +72,14 @@
 
 /* ── Light theme ── */
 [data-theme="light"] {
-  --bg: #f5ede0;
-  --bg-panel: #ece1d0;
-  --bg-panel-alt: #e3d5be;
-  --border: #c9a878;
+  --bg: #e6d8c0;
+  --bg-panel: #dccba8;
+  --bg-panel-alt: #d0bc94;
+  --border: #b89050;
   --border-strong: #a8250f;
   --fg: #2b1810;
-  --fg-dim: #6b4530;
-  --fg-muted: #9c7a5c;
+  --fg-dim: #5a3825;
+  --fg-muted: #8a6a48;
   --red: #a8250f;
   --red-bright: #c62a12;
   --orange: #8f4a00;
