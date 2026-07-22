@@ -116,8 +116,6 @@
     if (phonetic) html += '<span class="dict-phonetic">' + phonetic + '</span>';
     html += '</div>';
 
-    var examples = [];
-
     for (var m = 0; m < entry.meanings.length; m++) {
       var meaning = entry.meanings[m];
       html += '<div class="dict-meaning">';
@@ -125,18 +123,9 @@
       for (var d = 0; d < Math.min(meaning.definitions.length, 3); d++) {
         var def = meaning.definitions[d];
         html += '<p class="dict-def">' + def.definition + '</p>';
-        if (def.example && examples.indexOf(def.example) === -1) examples.push(def.example);
       }
       html += '</div>';
     }
-
-    var ex = examples.length > 0
-      ? examples[Math.floor(Math.random() * examples.length)]
-      : 'the word "' + entry.word + '" means: ' + entry.meanings[0].definitions[0].definition.toLowerCase();
-    html += '<div class="dict-example-box">';
-    html += '<div class="dict-example-bar"><span>example</span></div>';
-    html += '<p class="dict-example-text">' + ex + '</p>';
-    html += '</div>';
 
     html += '</div>';
     output.innerHTML = html;

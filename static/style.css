@@ -498,20 +498,6 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   text-transform: lowercase; font-family: var(--font-mono);
 }
 .dict-def { color: var(--fg); font-size: var(--text-sm); line-height: 1.6; margin-top: 4px; }
-.dict-example-box {
-  margin-top: 20px; border: 1px solid var(--border);
-}
-.dict-example-bar {
-  display: flex; justify-content: space-between;
-  padding: 2px 10px; background: var(--bg-panel);
-  border-bottom: 1px solid var(--border);
-  font-size: 0.75rem; color: var(--fg-dim);
-  text-transform: uppercase; letter-spacing: 0.08em;
-}
-.dict-example-text {
-  padding: 10px 12px; color: var(--fg);
-  font-size: var(--text-sm); line-height: 1.5;
-}
 
 .dict-mock {
   text-align: center; padding: 24px 0;
