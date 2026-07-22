@@ -412,7 +412,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 .theme-toggle {
   background: none; border: none; color: var(--fg-dim);
   font-family: var(--font-mono); font-size: var(--text-base);
-  cursor: pointer; padding: 2px 26px 6px 6px; line-height: 1;
+  cursor: pointer; padding: 4px 26px 4px 6px; line-height: 1;
   margin-left: auto; display: flex; align-items: center;
 }
 .theme-toggle:hover { color: var(--amber); }
