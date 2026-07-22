@@ -1,0 +1,146 @@
+{% extends "base.html" %}
+
+{% block title %}dictionary — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<main>
+
+<div class="wrap">
+  <nav class="back-link">
+    <a href="/">&larr; Home</a>
+  </nav>
+
+  <div class="terminal">
+    <div class="terminal-bar">
+      <span>tty2</span>
+      <span></span>
+    </div>
+    <div class="terminal-body" style="align-items:stretch;">
+      <div class="prompt"><span>$</span> dict</div>
+
+      <form id="dict-form" class="dict-search">
+        <span class="dict-prompt">></span>
+        <input type="text" id="dict-input" class="dict-input" placeholder="type a word…" autocomplete="off" autofocus>
+        <button type="submit" class="dict-submit">↵</button>
+      </form>
+
+      <div id="dict-output" class="dict-output"></div>
+    </div>
+  </div>
+</div>
+
+</main>
+
+<script>
+(function() {
+  var form = document.getElementById('dict-form');
+  var input = document.getElementById('dict-input');
+  var output = document.getElementById('dict-output');
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var word = input.value.trim();
+    if (!word) return;
+
+    output.innerHTML = '<p class="dict-status"><span class="live-dot"></span> looking up…</p>';
+
+    fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word))
+      .then(function(r) {
+        if (!r.ok) throw new Error('not found');
+        return r.json();
+      })
+      .then(function(data) {
+        renderResult(data[0]);
+      })
+      .catch(function() {
+        var jabs = [
+          'nice try. did you mean to spell that correctly?',
+          'that\'s not a word. try again, genius.',
+          'spell check is free, you know.',
+          'did you hit the keyboard with your face?',
+          'not in the dictionary. shocking.',
+          'maybe try English next time.',
+          'i looked it up. it doesn\'t exist. just like— nevermind.',
+          'you call that a word?',
+          'are you sure you know how to read?',
+          'that word is as real as your plans.',
+          'congratulations. you invented a word nobody uses.',
+          'error 404: word not found. skill issue.',
+          'did you have a stroke while typing?',
+          'the dictionary said "lol no".',
+          'that\'s not a word. try harder.',
+          'are you typing with your elbows?',
+          'even autocorrect gave up on that one.',
+          'i googled it. nothing. embarrassing.',
+        ];
+        var kaomoji = [
+          '(◍•ᴗ•◍)♡ ✧*。', '(つ◉益◉)つ', '(╯°□°）╯︵ ┻━┻',
+          '(⊙_⊙)', '(¬_¬)', '(￣ヘ￣)', 'ಠ_ಠ', '(；一_一)',
+          '(▀̿̿Ĺ̯̿̿▀̿ ̿)', '( ͡° ͜ʖ ͡°)', '(ʘ‿ʘ)', 'ʕ•ᴥ•ʔ',
+          '(ノಠ益ಠ)ノ', '︵ヽ(`Д´)ﾉ︵', '┐(\'～`;)┌',
+          '(◔_◔)', '(-_-;)', '(＃￣ω￣)', '＜（－︿－）＞',
+          '(◕‿◕)', '(ᗒᗨᗕ)', 'ヽ(´ー｀)ノ', '＼(◎o◎)／',
+          '(＾▽＾)', 'ᕙ(▀̿̿Ĺ̯̿̿▀̿ ̿)ᕗ', '┬─┬ノ( º _ ºノ)',
+          '(ಥ_ಥ)', '(◞‸◟)', '〳◔Ĺ̯◔〵', '(;´Д`)',
+          '(´-ω-`)', '〜(꒪꒳꒪)〜', '(˘̩̩̩̩̩̩̩̩˘)', '(个_个)',
+          'ヽ(￣д￣;)ノ', '(￣□￣;)', '∑(O_O;)', '(╯▽╰)',
+        ];
+        var jab = jabs[Math.floor(Math.random() * jabs.length)];
+        var kao = kaomoji[Math.floor(Math.random() * kaomoji.length)];
+        output.innerHTML = '<div class="dict-mock">'
+          + '<p class="dict-jab">' + jab + '</p>'
+          + '<p class="dict-kao">' + kao + '</p>'
+          + '<button class="dict-retry">try again ↵</button>'
+          + '</div>';
+        var btn = output.querySelector('.dict-retry');
+        if (btn) {
+          btn.addEventListener('click', function() {
+            output.innerHTML = '';
+            input.value = '';
+            input.focus();
+          });
+        }
+      });
+  });
+
+  function renderResult(entry) {
+    var phonetic = entry.phonetic || '';
+    if (!phonetic) {
+      for (var i = 0; i < entry.phonetics.length; i++) {
+        if (entry.phonetics[i].text) { phonetic = entry.phonetics[i].text; break; }
+      }
+    }
+
+    var html = '<div class="dict-result">';
+    html += '<div class="dict-word-row"><span class="dict-word">' + entry.word + '</span>';
+    if (phonetic) html += '<span class="dict-phonetic">' + phonetic + '</span>';
+    html += '</div>';
+
+    var examples = [];
+
+    for (var m = 0; m < entry.meanings.length; m++) {
+      var meaning = entry.meanings[m];
+      html += '<div class="dict-meaning">';
+      html += '<span class="dict-pos">' + meaning.partOfSpeech + '</span>';
+      for (var d = 0; d < Math.min(meaning.definitions.length, 3); d++) {
+        var def = meaning.definitions[d];
+        html += '<p class="dict-def">' + def.definition + '</p>';
+        if (def.example && examples.indexOf(def.example) === -1) examples.push(def.example);
+      }
+      html += '</div>';
+    }
+
+    var ex = examples.length > 0
+      ? examples[Math.floor(Math.random() * examples.length)]
+      : 'the word "' + entry.word + '" means: ' + entry.meanings[0].definitions[0].definition.toLowerCase();
+    html += '<div class="dict-example-box">';
+    html += '<div class="dict-example-bar"><span>example</span></div>';
+    html += '<p class="dict-example-text">' + ex + '</p>';
+    html += '</div>';
+
+    html += '</div>';
+    output.innerHTML = html;
+  }
+})();
+</script>
+{% endblock content %}
