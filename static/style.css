@@ -1,42 +1,21 @@
 @font-face {
-  font-family: "JetBrainsMono";
-  src: url("/fonts/JetBrainsMonoNerdFont-Regular.ttf") format("truetype");
+  font-family: "MapleMono";
+  src: url("/fonts/MapleMono-NF-Regular.ttf") format("truetype");
   font-weight: 400; font-style: normal; font-display: swap;
 }
 @font-face {
-  font-family: "JetBrainsMono";
-  src: url("/fonts/JetBrainsMonoNerdFont-Bold.ttf") format("truetype");
+  font-family: "MapleMono";
+  src: url("/fonts/MapleMono-NF-Bold.ttf") format("truetype");
   font-weight: 700; font-style: normal; font-display: swap;
 }
 @font-face {
-  font-family: "JetBrainsMono";
-  src: url("/fonts/JetBrainsMonoNerdFont-Italic.ttf") format("truetype");
+  font-family: "MapleMono";
+  src: url("/fonts/MapleMono-NF-Italic.ttf") format("truetype");
   font-weight: 400; font-style: italic; font-display: swap;
 }
 @font-face {
-  font-family: "JetBrainsMono";
-  src: url("/fonts/JetBrainsMonoNerdFont-BoldItalic.ttf") format("truetype");
-  font-weight: 700; font-style: italic; font-display: swap;
-}
-
-@font-face {
-  font-family: "iAWriterMono";
-  src: url("/fonts/iAWriterMono-Regular.woff2") format("woff2");
-  font-weight: 400; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "iAWriterMono";
-  src: url("/fonts/iAWriterMono-Bold.woff2") format("woff2");
-  font-weight: 700; font-style: normal; font-display: swap;
-}
-@font-face {
-  font-family: "iAWriterMono";
-  src: url("/fonts/iAWriterMono-Italic.woff2") format("woff2");
-  font-weight: 400; font-style: italic; font-display: swap;
-}
-@font-face {
-  font-family: "iAWriterMono";
-  src: url("/fonts/iAWriterMono-BoldItalic.woff2") format("woff2");
+  font-family: "MapleMono";
+  src: url("/fonts/MapleMono-NF-BoldItalic.ttf") format("truetype");
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
@@ -57,8 +36,8 @@
   --link: var(--orange);
   --link-hover: var(--amber);
   --focus-ring: var(--red-bright);
-  --font-mono: "JetBrainsMono", monospace;
-  --font-read: "iAWriterMono", "JetBrainsMono", monospace;
+  --font-mono: "MapleMono", monospace;
+  --font-read: "MapleMono", monospace;
   --text-xs: 0.75rem;
   --text-sm: 0.875rem;
   --text-base: 1rem;

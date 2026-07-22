@@ -1,5 +1,0 @@
-+++
-title = "Studies"
-[extra]
-glyph = "󰀫"
-+++

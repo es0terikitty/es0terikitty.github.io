@@ -42,26 +42,6 @@
   </div>
 </section>
 
-<section id="studies" class="wrap">
-  <h2 class="section-heading"><span class="glyph">󰀫</span> ~/studies</h2>
-  <div class="playlist">
-    <div class="playlist-bar">
-      <span>▸─ Studies</span>
-      <span></span>
-    </div>
-    {% set studies = get_section(path="studies/_index.md") %}
-    {% for sub in studies.subsections %}
-      {% set shelf = get_section(path=sub) %}
-      <a href="{{ shelf.path }}" class="playlist-item">
-        <span class="glyph">{{ shelf.extra.glyph | default(value="▶") }}</span>
-        <div>
-          <div class="title">{{ shelf.title }}</div>
-          <div class="summary">{{ shelf.extra.summary | default(value="") }}</div>
-        </div>
-      </a>
-    {% endfor %}
-  </div>
-</section>
 
 <section id="stack" class="wrap">
   <h2 class="section-heading"><span class="glyph">⌁</span> ~/stack</h2>
@@ -108,10 +88,10 @@
       <div class="name">matugen</div>
       <div class="desc">Material color utility for theming</div>
     </a>
-    <a href="https://www.jetbrains.com/lp/mono/" class="stack-card" target="_blank" rel="noopener">
+    <a href="https://github.com/subframe7536/maple-font" class="stack-card" target="_blank" rel="noopener">
       <div class="kicker">Font</div>
       <div class="icon">⌀</div>
-      <div class="name">JetBrainsMono Nerd Font</div>
+      <div class="name">Maple Mono NF</div>
       <div class="desc">Monospace everywhere</div>
     </a>
   </div>
@@ -138,7 +118,6 @@
   <h2 class="section-heading"><span class="glyph">σ</span> ~/stats</h2>
   <div class="stats-grid">
     {% set ri = get_section(path="reverend-insanity/_index.md") %}
-    {% set math = get_section(path="studies/math/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
     {% set mt = get_section(path="mushoku-tensei/_index.md") %}
     {% set mt_all = [] %}
@@ -151,22 +130,12 @@
       {% set vol = get_section(path=sub) %}
       {% set_global ri_all = ri_all | concat(with=vol.pages) %}
     {% endfor %}
-    {% set math_n = math.pages | length %}
     {% set ch_n = chapters.pages | length %}
     {% set mt_n = mt_all | length %}
     {% set ri_n = ri_all | length %}
-    {% set all_n = math_n + ch_n + mt_n + ri_n %}
+    {% set all_n = ch_n + mt_n + ri_n %}
     <div class="stat-card">
       <div class="value">{{ all_n }}</div>
-      <div class="label">Notes</div>
-    </div>
-    {% set novel_n = ri_n + mt_n %}
-    <div class="stat-card">
-      <div class="value">{{ all_n }}</div>
-      <div class="label">Notes</div>
-    </div>
-    <div class="stat-card">
-      <div class="value">{{ novel_n }}</div>
       <div class="label">Novel Chapters</div>
     </div>
     <div class="stat-card">
