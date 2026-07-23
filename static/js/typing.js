@@ -63,7 +63,6 @@
     DOM.bestBadge = document.getElementById("type-best-badge");
     DOM.graph = document.getElementById("type-graph");
     DOM.punctBtn = document.getElementById("type-punct");
-    DOM.restartBtn = document.getElementById("type-restart");
     DOM.timeGroup = document.getElementById("type-time-group");
     DOM.wordsGroup = document.getElementById("type-words-group");
 
@@ -121,12 +120,6 @@
       state.punctEnabled = !state.punctEnabled;
       DOM.punctBtn.textContent = state.punctEnabled ? "ON" : "OFF";
       resetTest();
-    });
-
-    DOM.restartBtn.addEventListener("click", function() {
-      DOM.restartBtn.classList.add("spin");
-      setTimeout(function() { DOM.restartBtn.classList.remove("spin"); }, 500);
-      restart();
     });
 
     document.addEventListener("keydown", handleKeydown);

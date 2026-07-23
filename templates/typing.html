@@ -10,7 +10,7 @@
     <a href="/">&larr; Home</a>
   </nav>
 
-  <div class="terminal">
+  <div class="terminal terminal-type">
     <div class="terminal-bar">
       <span>tty3</span>
       <span></span>
@@ -19,33 +19,28 @@
       <div class="prompt"><span>$</span> typing-test</div>
 
       <div id="type-controls" class="type-controls">
-        <div class="type-controls-row">
-          <div class="type-toggle-group" id="type-mode-toggle">
-            <button class="type-toggle active" data-mode="time">time</button>
-            <button class="type-toggle" data-mode="words">words</button>
-          </div>
-          <div class="type-mode-group" id="type-time-group">
-            <button class="type-mode" data-dur="15">15</button>
-            <button class="type-mode active" data-dur="30">30</button>
-            <button class="type-mode" data-dur="60">60</button>
-          </div>
-          <div class="type-mode-group" id="type-words-group" style="display:none;">
-            <button class="type-mode" data-count="10">10</button>
-            <button class="type-mode active" data-count="30">30</button>
-            <button class="type-mode" data-count="60">60</button>
-          </div>
-          <button id="type-restart" class="type-restart-btn" title="restart" aria-label="restart">&#8635;</button>
+        <div class="type-toggle-group" id="type-mode-toggle">
+          <button class="type-toggle active" data-mode="time">time</button>
+          <button class="type-toggle" data-mode="words">words</button>
         </div>
-        <div class="type-controls-row">
-          <div class="type-mode-group" id="type-diff-group">
-            <button class="type-mode active" data-diff="easy">easy</button>
-            <button class="type-mode" data-diff="medium">medium</button>
-            <button class="type-mode" data-diff="hard">hard</button>
-          </div>
-          <div class="type-punct-group">
-            <span class="type-punct-label">punct:</span>
-            <button id="type-punct" class="type-mode">OFF</button>
-          </div>
+        <div class="type-mode-group" id="type-time-group">
+          <button class="type-mode" data-dur="15">15</button>
+          <button class="type-mode active" data-dur="30">30</button>
+          <button class="type-mode" data-dur="60">60</button>
+        </div>
+        <div class="type-mode-group" id="type-words-group" style="display:none;">
+          <button class="type-mode" data-count="10">10</button>
+          <button class="type-mode active" data-count="30">30</button>
+          <button class="type-mode" data-count="60">60</button>
+        </div>
+        <div class="type-mode-group" id="type-diff-group">
+          <button class="type-mode active" data-diff="easy">easy</button>
+          <button class="type-mode" data-diff="medium">medium</button>
+          <button class="type-mode" data-diff="hard">hard</button>
+        </div>
+        <div class="type-punct-group">
+          <span class="type-punct-label">punct:</span>
+          <button id="type-punct" class="type-mode">OFF</button>
         </div>
       </div>
 
