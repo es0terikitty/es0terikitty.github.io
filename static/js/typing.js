@@ -1,57 +1,13 @@
 (function() {
 
-  var WORDS = [
+  // Fallback word list, used only if wordlists.js fails to load.
+  var WORDS_FALLBACK = [
     "the","be","to","of","and","a","in","that","have","i","it","for","not","on","with","he","as","you","do","at",
     "this","but","his","by","from","they","we","say","her","she","or","an","will","my","one","all","would","there","their","what",
     "so","up","out","if","about","who","get","which","go","me","when","make","can","like","time","no","just","him","know","take",
     "people","into","year","your","good","some","could","them","see","other","than","then","now","look","only","come","its","over","think","also",
     "back","after","use","two","how","our","work","first","well","way","even","new","want","because","any","these","give","day","most","us",
-    "great","between","need","large","often","hand","high","place","small","under","long","right","still","house","world","last","school","never","city","tree",
-    "cross","farm","hard","start","might","story","saw","far","sea","draw","left","late","run","while","press","close","night","real","life","few",
-    "north","open","seem","together","next","white","children","begin","got","walk","example","ease","paper","group","always","music","those","both","mark","book",
-    "letter","until","mile","river","car","feet","care","second","enough","plain","girl","usual","young","ready","above","ever","red","list","though","feel",
-    "talk","bird","soon","body","dog","family","direct","pose","leave","song","measure","door","product","black","short","number","class","wind","question","happen",
-    "complete","ship","area","half","rock","order","fire","south","problem","piece","told","knew","pass","since","top","whole","king","space","heard","best",
-    "hour","better","true","during","hundred","am","remember","step","early","hold","west","ground","interest","reach","fast","verb","sing","listen","six","table",
-    "travel","less","morning","ten","simple","several","vowel","toward","war","lay","against","pattern","slow","center","love","person","money","serve","appear","road",
-    "map","rain","rule","govern","pull","cold","notice","voice","unit","power","town","fine","certain","fly","fall","lead","cry","dark","machine","note",
-    "wait","plan","figure","star","box","noun","field","rest","correct","able","pound","done","beauty","drive","stood","contain","front","teach","week","final",
-    "gave","green","oh","quick","develop","ocean","warm","free","minute","strong","special","mind","behind","clear","tail","produce","fact","street","inch","lot",
-    "nothing","course","stay","wheel","full","force","blue","object","decide","surface","deep","moon","island","foot","yet","busy","test","record","boat","common",
-    "gold","possible","plane","stead","dry","wonder","laugh","thousand","ago","ran","check","game","shape","equate","hot","miss","brought","heat","snow","tire",
-    "bring","yes","distant","fill","east","paint","language","among","grand","ball","yet","wave","drop","heart","am","present","heavy","dance","engine","position",
-    "arm","wide","sail","material","size","vary","settle","speak","weight","general","ice","matter","circle","pair","include","divide","syllable","felt","perhaps","pick",
-    "sudden","count","square","reason","length","represent","art","subject","region","energy","hunt","probable","bed","brother","egg","ride","cell","believe","fraction","forest",
-    "sit","race","window","store","summer","train","sleep","prove","lone","leg","exercise","wall","catch","mount","wish","sky","board","joy","winter","sat",
-    "written","wild","instrument","kept","glass","grass","cow","job","edge","sign","visit","past","soft","fun","bright","gas","weather","month","million","bear",
-    "finish","happy","hope","flower","clothe","strange","gone","jump","baby","eight","village","meet","root","buy","raise","solve","metal","whether","push","seven",
-    "paragraph","third","shall","held","hair","describe","cook","floor","either","result","burn","hill","safe","cat","century","consider","type","law","bit","coast",
-    "copy","phrase","silent","tall","sand","soil","roll","temperature","finger","industry","value","fight","lie","beat","excite","natural","view","sense","ear","else",
-    "quite","broke","case","middle","kill","son","lake","moment","scale","loud","spring","observe","child","straight","consonant","nation","dictionary","milk","speed","method",
-    "organ","pay","age","section","dress","cloud","surprise","quiet","stone","tiny","climb","cool","design","poor","lot","experiment","bottom","key","iron","single",
-    "stick","flat","twenty","skin","smile","crease","hole","trade","melody","trip","office","receive","row","mouth","exact","symbol","die","least","trouble","shout",
-    "except","wrote","seed","tone","join","suggest","clean","break","lady","yard","rise","bad","blow","oil","blood","touch","grew","cent","mix","team",
-    "wire","cost","lost","brown","wear","garden","equal","sent","choose","fell","fit","flow","fair","bank","collect","save","control","decimal","gentle","woman",
-    "captain","practice","separate","difficult","doctor","please","protect","noon","whose","locate","ring","character","insect","caught","period","indicate","radio","spoke","atom","human",
-    "history","effect","electric","expect","crop","modern","element","hit","student","corner","party","supply","bone","rail","imagine","provide","agree","thus","capital","won",
-    "chair","danger","fruit","rich","thick","soldier","process","operate","guess","necessary","sharp","wing","create","neighbor","wash","bat","rather","crowd","corn","compare",
-    "poem","string","bell","depend","meat","rub","tube","famous","dollar","stream","fear","sight","thin","triangle","planet","hurry","chief","colony","clock","mine",
-    "enter","major","fresh","search","send","yellow","gun","allow","print","dead","spot","desert","suit","current","lift","rose","continue","block","chart","hat",
-    "sell","success","company","subtract","event","particular","deal","swim","term","opposite","wife","shoe","shoulder","spread","arrange","camp","invent","cotton","born","determine",
-    "quart","nine","truck","noise","level","chance","gather","shop","stretch","throw","shine","property","column","molecule","select","wrong","gray","repeat","require","broad",
-    "prepare","salt","nose","plural","anger","claim","continent","oxygen","sugar","death","pretty","skill","women","season","solution","magnet","silver","thank","branch","match",
-    "suffix","especially","fig","afraid","huge","sister","steel","discuss","forward","similar","guide","experience","score","apple","bought","led","pitch","coat","mass","card",
-    "band","rope","slip","win","dream","evening","condition","feed","tool","total","basic","smell","valley","double","seat","continue","block","chart","hat","cell",
-    "self","gas","design","farm","corn","compare","poem","string","bell","depend","meat","tube","famous","dollar","stream","fear","sight","thin","triangle","planet",
-    "hurry","chief","colony","clock","mine","enter","major","fresh","search","send","yellow","gun","allow","print","dead","spot","desert","suit","current","lift",
-    "rose","arrive","master","track","parent","shore","division","sheet","substance","favor","connect","post","spend","chord","fat","glad","original","share","station","dad",
-    "bread","charge","proper","bar","offer","segment","slave","duck","instant","market","degree","populate","chick","dear","enemy","reply","drink","occur","support","speech",
-    "nature","range","steam","motion","path","liquid","log","meant","quotient","teeth","shell","neck","oxygen","sugar","death","pretty","skill","women","season","solution",
-    "magnet","silver","thank","branch","match","suffix","especially","fig","afraid","huge","sister","steel","discuss","forward","similar","guide","experience","score","apple","bought",
-    "led","pitch","coat","mass","card","band","rope","slip","win","dream","evening","condition","feed","tool","total","basic","smell","valley","nor","double",
-    "seat","arrive","master","track","parent","shore","division","sheet","substance","favor","connect","post","spend","chord","fat","glad","original","share","station","dad",
-    "bread","charge","proper","bar","offer","segment","slave","duck","instant","market","degree","populate","chick","dear","enemy","reply","drink","occur","support","speech",
-    "nature","range","steam","motion","path","liquid","log","meant","quotient","teeth","shell","neck"
+    "great","between","need","large","often","hand","high","place","small","under","long","right","still","house","world","last","school","never","city","tree"
   ];
 
   var PUNCT_SET = [".", ",", ";", ":", "!", "?"];
@@ -67,26 +23,34 @@
   };
 
   var DOM = {};
+  var idleTimer = null;
+
   var state = {
+    mode: "time",           // "time" | "words"
     words: [],
     flatChars: [],
     charIndex: 0,
     correctChars: 0,
     incorrectChars: 0,
     totalKeystrokes: 0,
-    timerDuration: 60,
-    timeRemaining: 60,
+    timerDuration: 30,
+    wordCount: 30,
+    difficulty: "easy",
+    timeRemaining: 30,
     timerRunning: false,
     timerFinished: false,
     startTime: null,
     timerInterval: null,
     punctEnabled: false,
-    wpmHistory: []
+    wpmHistory: [],
+    lastSampleSecond: 0
   };
 
   function init() {
     DOM.wordsInner = document.getElementById("type-words-inner");
     DOM.wordsArea = document.getElementById("type-words");
+    DOM.caret = document.getElementById("type-caret");
+    DOM.mobileInput = document.getElementById("type-mobile-input");
     DOM.liveWpm = document.getElementById("live-wpm");
     DOM.liveAcc = document.getElementById("live-acc");
     DOM.liveTimer = document.getElementById("live-timer");
@@ -96,16 +60,58 @@
     DOM.resultAcc = document.getElementById("result-acc");
     DOM.resultChars = document.getElementById("result-chars");
     DOM.resultRaw = document.getElementById("result-raw");
+    DOM.bestBadge = document.getElementById("type-best-badge");
+    DOM.graph = document.getElementById("type-graph");
     DOM.punctBtn = document.getElementById("type-punct");
+    DOM.restartBtn = document.getElementById("type-restart");
+    DOM.timeGroup = document.getElementById("type-time-group");
+    DOM.wordsGroup = document.getElementById("type-words-group");
 
-    document.querySelectorAll(".type-mode[data-dur]").forEach(function(b) {
+    // mode switch: time vs words
+    document.querySelectorAll("#type-mode-toggle .type-toggle").forEach(function(b) {
       b.addEventListener("click", function() {
         if (state.timerRunning || state.timerFinished) return;
-        document.querySelectorAll(".type-mode[data-dur]").forEach(function(x) { x.classList.remove("active"); });
+        var mode = b.getAttribute("data-mode");
+        if (mode === state.mode) return;
+        state.mode = mode;
+        document.querySelectorAll("#type-mode-toggle .type-toggle").forEach(function(x) { x.classList.remove("active"); });
         b.classList.add("active");
-        state.timerDuration = parseInt(b.getAttribute("data-dur"));
+        DOM.timeGroup.style.display = mode === "time" ? "flex" : "none";
+        DOM.wordsGroup.style.display = mode === "words" ? "flex" : "none";
+        resetTest();
+      });
+    });
+
+    // time duration group
+    document.querySelectorAll("#type-time-group .type-mode[data-dur]").forEach(function(b) {
+      b.addEventListener("click", function() {
+        if (state.timerRunning || state.timerFinished) return;
+        document.querySelectorAll("#type-time-group .type-mode").forEach(function(x) { x.classList.remove("active"); });
+        b.classList.add("active");
+        state.timerDuration = parseInt(b.getAttribute("data-dur"), 10);
         state.timeRemaining = state.timerDuration;
-        DOM.liveTimer.textContent = state.timerDuration;
+        resetTest();
+      });
+    });
+
+    // word count group
+    document.querySelectorAll("#type-words-group .type-mode[data-count]").forEach(function(b) {
+      b.addEventListener("click", function() {
+        if (state.timerRunning || state.timerFinished) return;
+        document.querySelectorAll("#type-words-group .type-mode").forEach(function(x) { x.classList.remove("active"); });
+        b.classList.add("active");
+        state.wordCount = parseInt(b.getAttribute("data-count"), 10);
+        resetTest();
+      });
+    });
+
+    // difficulty group
+    document.querySelectorAll("#type-diff-group .type-mode[data-diff]").forEach(function(b) {
+      b.addEventListener("click", function() {
+        if (state.timerRunning || state.timerFinished) return;
+        document.querySelectorAll("#type-diff-group .type-mode").forEach(function(x) { x.classList.remove("active"); });
+        b.classList.add("active");
+        state.difficulty = b.getAttribute("data-diff");
         resetTest();
       });
     });
@@ -117,10 +123,32 @@
       resetTest();
     });
 
+    DOM.restartBtn.addEventListener("click", function() {
+      DOM.restartBtn.classList.add("spin");
+      setTimeout(function() { DOM.restartBtn.classList.remove("spin"); }, 500);
+      restart();
+    });
+
     document.addEventListener("keydown", handleKeydown);
-    DOM.wordsArea.addEventListener("click", function() { DOM.wordsArea.focus(); });
+
+    DOM.wordsArea.addEventListener("click", function() {
+      DOM.wordsArea.focus();
+      if (DOM.mobileInput) DOM.mobileInput.focus();
+    });
+
+    window.addEventListener("resize", function() {
+      updateCaret();
+      scrollToChar(state.charIndex);
+    });
 
     resetTest();
+  }
+
+  function getWordList() {
+    if (window.TYPING_WORDLISTS && window.TYPING_WORDLISTS[state.difficulty] && window.TYPING_WORDLISTS[state.difficulty].length) {
+      return window.TYPING_WORDLISTS[state.difficulty];
+    }
+    return WORDS_FALLBACK;
   }
 
   function shuffle(a) {
@@ -132,8 +160,14 @@
   }
 
   function pickWords() {
-    var shuffled = shuffle(WORDS.slice());
-    var count = Math.max(300, Math.ceil(state.timerDuration * 2.5));
+    var list = getWordList();
+    var shuffled = shuffle(list.slice());
+    var count;
+    if (state.mode === "words") {
+      count = state.wordCount;
+    } else {
+      count = Math.max(300, Math.ceil(state.timerDuration * 2.5));
+    }
     var picked = [];
     for (var i = 0; i < count; i++) {
       picked.push(shuffled[i % shuffled.length]);
@@ -178,6 +212,7 @@
     state.incorrectChars = 0;
     state.totalKeystrokes = 0;
     state.wpmHistory = [];
+    state.lastSampleSecond = 0;
 
     var html = "";
     for (var i = 0; i < state.flatChars.length; i++) {
@@ -192,6 +227,7 @@
     var first = DOM.wordsInner.querySelector(".tc");
     if (first) first.classList.add("current");
     scrollToChar(0);
+    updateCaret();
   }
 
   function escHtml(s) {
@@ -211,6 +247,38 @@
     area.scrollLeft = targetCenter - areaCenter;
   }
 
+  function updateCaret() {
+    if (!DOM.caret) return;
+    var spans = DOM.wordsInner.querySelectorAll(".tc");
+    if (!spans.length) return;
+    if (state.charIndex >= spans.length) {
+      var last = spans[spans.length - 1];
+      DOM.caret.style.left = (last.offsetLeft + last.offsetWidth) + "px";
+      DOM.caret.style.top = last.offsetTop + "px";
+      return;
+    }
+    var target = spans[state.charIndex];
+    DOM.caret.style.left = target.offsetLeft + "px";
+    DOM.caret.style.top = target.offsetTop + "px";
+  }
+
+  function markActive() {
+    if (!DOM.caret) return;
+    DOM.caret.classList.remove("blink");
+    clearTimeout(idleTimer);
+    idleTimer = setTimeout(function() {
+      DOM.caret.classList.add("blink");
+    }, 500);
+  }
+
+  function currentWordIndex() {
+    var idx = 0;
+    for (var i = 0; i < state.charIndex; i++) {
+      if (state.flatChars[i] === " ") idx++;
+    }
+    return Math.min(idx + 1, state.words.length);
+  }
+
   function startTimer() {
     if (state.timerRunning) return;
     state.timerRunning = true;
@@ -218,16 +286,36 @@
     state.timerInterval = setInterval(tick, 100);
   }
 
+  function updateTimerDisplay(elapsed) {
+    if (state.mode === "time") {
+      var remaining = Math.max(0, state.timerDuration - elapsed);
+      DOM.liveTimer.textContent = Math.ceil(remaining);
+      DOM.liveTimer.classList.toggle("urgent", remaining <= 5 && remaining > 0);
+    } else {
+      DOM.liveTimer.textContent = currentWordIndex() + "/" + state.words.length;
+      DOM.liveTimer.classList.remove("urgent");
+    }
+  }
+
+  function sampleWpm(elapsed) {
+    var sec = Math.floor(elapsed);
+    if (sec > state.lastSampleSecond) {
+      state.lastSampleSecond = sec;
+      var minutes = elapsed / 60;
+      var wpm = minutes > 0 ? Math.round((state.correctChars / 5) / minutes) : 0;
+      state.wpmHistory.push(Math.max(0, wpm));
+    }
+  }
+
   function tick() {
     if (!state.timerRunning) return;
     var elapsed = (Date.now() - state.startTime) / 1000;
-    var remaining = Math.max(0, state.timerDuration - elapsed);
-    state.timeRemaining = remaining;
-    DOM.liveTimer.textContent = Math.ceil(remaining);
 
+    updateTimerDisplay(elapsed);
     updateLiveStats();
+    sampleWpm(elapsed);
 
-    if (remaining <= 0) {
+    if (state.mode === "time" && state.timerDuration - elapsed <= 0) {
       endTest();
     }
   }
@@ -280,6 +368,8 @@
         var nextSpan = DOM.wordsInner.querySelector(".tc[data-i=\"" + state.charIndex + "\"]");
         if (nextSpan) nextSpan.classList.add("current");
         scrollToChar(state.charIndex);
+        updateCaret();
+        markActive();
       }
       return;
     }
@@ -305,8 +395,12 @@
         nextSpan.classList.add("current");
         scrollToChar(state.charIndex);
       } else {
+        updateCaret();
         endTest();
+        return;
       }
+      updateCaret();
+      markActive();
       updateLiveStats();
       return;
     }
@@ -318,6 +412,57 @@
     return Math.round((state.totalKeystrokes / 5) / (elapsed / 60));
   }
 
+  function pbKey() {
+    var modeVal = state.mode === "time" ? state.timerDuration : state.wordCount;
+    return "typingpb_" + state.mode + "_" + modeVal + "_" + state.difficulty + "_" + (state.punctEnabled ? "on" : "off");
+  }
+
+  function checkPersonalBest(wpm) {
+    try {
+      var key = pbKey();
+      var prev = parseInt(localStorage.getItem(key) || "0", 10);
+      if (wpm > prev) {
+        localStorage.setItem(key, String(wpm));
+        return true;
+      }
+      return false;
+    } catch (err) {
+      return false;
+    }
+  }
+
+  function animateCount(el, target, duration) {
+    if (!el) return;
+    var startTime = null;
+    function step(ts) {
+      if (startTime === null) startTime = ts;
+      var p = Math.min(1, (ts - startTime) / duration);
+      var eased = 1 - Math.pow(1 - p, 3);
+      el.textContent = Math.round(target * eased);
+      if (p < 1) requestAnimationFrame(step);
+      else el.textContent = target;
+    }
+    requestAnimationFrame(step);
+  }
+
+  function renderGraph() {
+    if (!DOM.graph) return;
+    var hist = state.wpmHistory;
+    if (hist.length < 2) { DOM.graph.innerHTML = ""; return; }
+    var w = 300, h = 56;
+    var max = Math.max.apply(null, hist.concat([10]));
+    var stepX = w / (hist.length - 1);
+    var points = hist.map(function(v, i) {
+      var x = i * stepX;
+      var y = h - (v / max) * (h - 6) - 3;
+      return x.toFixed(1) + "," + y.toFixed(1);
+    }).join(" ");
+    DOM.graph.innerHTML =
+      '<svg viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="none" class="type-graph-svg">' +
+      '<polyline points="' + points + '" class="type-graph-line" vector-effect="non-scaling-stroke"/>' +
+      "</svg>";
+  }
+
   function endTest() {
     state.timerFinished = true;
     state.timerRunning = false;
@@ -325,22 +470,31 @@
       clearInterval(state.timerInterval);
       state.timerInterval = null;
     }
+    clearTimeout(idleTimer);
+    if (DOM.caret) DOM.caret.classList.remove("blink");
 
     var total = state.correctChars + state.incorrectChars;
     var acc = total > 0 ? Math.round((state.correctChars / total) * 100) : 100;
     var elapsed = Math.max(0.5, (Date.now() - state.startTime) / 1000);
     var minutes = elapsed / 60;
-    var wpm = Math.round((state.correctChars / 5) / minutes);
-    var raw = Math.round((state.totalKeystrokes / 5) / minutes);
+    var wpm = Math.round((state.correctChars / 5) / minutes) || 0;
+    var raw = Math.round((state.totalKeystrokes / 5) / minutes) || 0;
+    var chars = state.correctChars + state.incorrectChars;
 
-    DOM.resultWpm.textContent = wpm || 0;
-    DOM.resultAcc.textContent = acc;
-    DOM.resultChars.textContent = state.correctChars + state.incorrectChars;
-    DOM.resultRaw.textContent = raw || 0;
+    animateCount(DOM.resultWpm, wpm, 500);
+    animateCount(DOM.resultAcc, acc, 500);
+    animateCount(DOM.resultChars, chars, 500);
+    animateCount(DOM.resultRaw, raw, 500);
 
-    DOM.liveWpm.textContent = wpm || 0;
+    DOM.liveWpm.textContent = wpm;
     DOM.liveAcc.textContent = acc;
 
+    var isBest = checkPersonalBest(wpm);
+    if (DOM.bestBadge) DOM.bestBadge.style.display = isBest ? "inline-flex" : "none";
+
+    renderGraph();
+
+    DOM.wordsArea.classList.add("test-done");
     DOM.results.style.display = "block";
     DOM.hints.style.display = "none";
   }
@@ -350,17 +504,22 @@
       clearInterval(state.timerInterval);
       state.timerInterval = null;
     }
+    clearTimeout(idleTimer);
     state.timerRunning = false;
     state.timerFinished = false;
     state.timeRemaining = state.timerDuration;
     state.startTime = null;
-    DOM.liveTimer.textContent = state.timerDuration;
     DOM.liveWpm.textContent = "0";
     DOM.liveAcc.textContent = "100";
     DOM.results.style.display = "none";
     DOM.hints.style.display = "block";
+    if (DOM.bestBadge) DOM.bestBadge.style.display = "none";
+    if (DOM.graph) DOM.graph.innerHTML = "";
+    DOM.wordsArea.classList.remove("test-done");
     renderChars();
+    updateTimerDisplay(0);
     DOM.wordsArea.focus();
+    markActive();
   }
 
   function restart() {

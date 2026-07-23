@@ -16,28 +16,52 @@
       <span></span>
     </div>
     <div class="terminal-body" style="align-items:stretch;">
-      <div class="prompt"><span>$</span> typing-test --mode=60s</div>
+      <div class="prompt"><span>$</span> typing-test</div>
 
       <div id="type-controls" class="type-controls">
-        <div class="type-mode-group">
-          <button class="type-mode active" data-dur="30">30s</button>
-          <button class="type-mode active" data-dur="60">60s</button>
-          <button class="type-mode" data-dur="120">120s</button>
+        <div class="type-controls-row">
+          <div class="type-toggle-group" id="type-mode-toggle">
+            <button class="type-toggle active" data-mode="time">time</button>
+            <button class="type-toggle" data-mode="words">words</button>
+          </div>
+          <div class="type-mode-group" id="type-time-group">
+            <button class="type-mode" data-dur="15">15</button>
+            <button class="type-mode active" data-dur="30">30</button>
+            <button class="type-mode" data-dur="60">60</button>
+          </div>
+          <div class="type-mode-group" id="type-words-group" style="display:none;">
+            <button class="type-mode" data-count="10">10</button>
+            <button class="type-mode active" data-count="30">30</button>
+            <button class="type-mode" data-count="60">60</button>
+          </div>
+          <button id="type-restart" class="type-restart-btn" title="restart" aria-label="restart">&#8635;</button>
         </div>
-        <div class="type-punct-group">
-          <span class="type-punct-label">punct:</span>
-          <button id="type-punct" class="type-mode">OFF</button>
+        <div class="type-controls-row">
+          <div class="type-mode-group" id="type-diff-group">
+            <button class="type-mode active" data-diff="easy">easy</button>
+            <button class="type-mode" data-diff="medium">medium</button>
+            <button class="type-mode" data-diff="hard">hard</button>
+          </div>
+          <div class="type-punct-group">
+            <span class="type-punct-label">punct:</span>
+            <button id="type-punct" class="type-mode">OFF</button>
+          </div>
         </div>
       </div>
 
       <div id="type-words" class="type-words" tabindex="0">
         <div id="type-words-inner" class="type-words-inner"></div>
+        <div id="type-caret" class="type-caret"></div>
+        <input type="text" id="type-mobile-input" class="type-mobile-input"
+               autocomplete="off" autocapitalize="off" autocorrect="off"
+               spellcheck="false" aria-hidden="true" tabindex="-1">
+        <div class="type-focus-overlay">click or start typing to focus</div>
       </div>
 
       <div id="type-stats" class="type-stats">
         <span>WPM: <span id="live-wpm">0</span></span>
         <span>Acc: <span id="live-acc">100</span>%</span>
-        <span>⏱ <span id="live-timer">60</span></span>
+        <span>⏱ <span id="live-timer">30</span></span>
       </div>
 
       <div id="type-results" class="type-results" style="display:none;">
@@ -47,6 +71,8 @@
           <div><span class="type-results-val" id="result-chars">0</span><span class="type-results-label">chars</span></div>
           <div><span class="type-results-val" id="result-raw">0</span><span class="type-results-label">raw wpm</span></div>
         </div>
+        <span id="type-best-badge" class="type-best-badge" style="display:none;">&#9733; new best</span>
+        <div id="type-graph" class="type-graph"></div>
         <div class="type-results-footer">
           <span>tab: restart</span>
           <span>esc: home</span>
@@ -66,5 +92,6 @@
 
 {% block extrascripts %}
 {{ super() }}
+<script src="/js/wordlists.js"></script>
 <script src="/js/typing.js"></script>
 {% endblock extrascripts %}
