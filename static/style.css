@@ -576,7 +576,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 
 .type-caret {
   position: absolute; width: 0.65em; height: 1.45em;
-  background: var(--amber); opacity: 0.35; pointer-events: none;
+  background: var(--amber); opacity: 1; pointer-events: none;
   transition: left 0.08s ease, top 0.08s ease;
 }
 .type-caret.blink { animation: blink 1s step-end infinite; }
