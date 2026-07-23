@@ -163,6 +163,12 @@ body::after {
   max-width: 640px;
   width: 100%;
   position: relative;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.terminal:hover {
+  transform: scale(1.02);
+  border-color: var(--border-strong);
+  box-shadow: 0 0 20px rgba(255, 59, 31, 0.08);
 }
 .terminal-bar {
   background: var(--bg-panel);
