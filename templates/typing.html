@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+
+{% block title %}typing-test — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<main>
+
+<div class="wrap">
+  <nav class="back-link">
+    <a href="/">&larr; Home</a>
+  </nav>
+
+  <div class="terminal">
+    <div class="terminal-bar">
+      <span>tty3</span>
+      <span></span>
+    </div>
+    <div class="terminal-body" style="align-items:stretch;">
+      <div class="prompt"><span>$</span> typing-test --mode=60s</div>
+
+      <div id="type-controls" class="type-controls">
+        <div class="type-mode-group">
+          <button class="type-mode active" data-dur="30">30s</button>
+          <button class="type-mode active" data-dur="60">60s</button>
+          <button class="type-mode" data-dur="120">120s</button>
+        </div>
+        <div class="type-punct-group">
+          <span class="type-punct-label">punct:</span>
+          <button id="type-punct" class="type-mode">OFF</button>
+        </div>
+      </div>
+
+      <div id="type-words" class="type-words" tabindex="0">
+        <div id="type-words-inner" class="type-words-inner"></div>
+      </div>
+
+      <div id="type-stats" class="type-stats">
+        <span>WPM: <span id="live-wpm">0</span></span>
+        <span>Acc: <span id="live-acc">100</span>%</span>
+        <span>⏱ <span id="live-timer">60</span></span>
+      </div>
+
+      <div id="type-results" class="type-results" style="display:none;">
+        <div class="type-results-grid">
+          <div><span class="type-results-val" id="result-wpm">0</span><span class="type-results-label">wpm</span></div>
+          <div><span class="type-results-val" id="result-acc">0</span><span class="type-results-label">% acc</span></div>
+          <div><span class="type-results-val" id="result-chars">0</span><span class="type-results-label">chars</span></div>
+          <div><span class="type-results-val" id="result-raw">0</span><span class="type-results-label">raw wpm</span></div>
+        </div>
+        <div class="type-results-footer">
+          <span>tab: restart</span>
+          <span>esc: home</span>
+        </div>
+      </div>
+
+      <div id="type-hints" class="type-hints">
+        <span>tab: restart</span>
+        <span>esc: home</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+</main>
+{% endblock content %}
+
+{% block extrascripts %}
+{{ super() }}
+<script src="/js/typing.js"></script>
+{% endblock extrascripts %}
