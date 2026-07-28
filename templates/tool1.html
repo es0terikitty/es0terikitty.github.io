@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %}compress — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<main>
+
+<div class="wrap">
+  <nav class="back-link">
+    <a href="/">&larr; Home</a>
+  </nav>
+
+  <div class="terminal">
+    <div class="terminal-bar">
+      <span>tty3</span>
+      <span></span>
+    </div>
+    <div class="terminal-body" style="align-items:stretch;">
+      <div class="prompt"><span>$</span> compress</div>
+
+      <div id="compress-drop" class="compress-drop">
+        <div class="compress-drop-text">
+          <span class="compress-drop-icon">⬏</span>
+          drop files here or
+          <label class="compress-browse" for="compress-input">browse</label>
+        </div>
+        <input type="file" id="compress-input" class="compress-input" multiple
+               accept=".pdf,.jpg,.jpeg,.png,.webp,.gif,.bmp">
+      </div>
+
+      <div id="compress-files" class="compress-files"></div>
+
+      <div id="compress-format-row" class="compress-controls">
+        <div class="compress-control-group">
+          <span class="compress-label">format</span>
+          <select id="compress-format" class="compress-select">
+            <option value="original">original</option>
+            <option value="jpeg">JPEG</option>
+            <option value="png">PNG</option>
+            <option value="webp">WebP</option>
+          </select>
+        </div>
+        <div class="compress-control-group">
+          <span class="compress-label">quality</span>
+          <input type="range" id="compress-quality" class="compress-range" min="1" max="100" value="70">
+          <span id="compress-quality-val" class="compress-range-val">70%</span>
+        </div>
+      </div>
+
+      <button id="compress-btn" class="compress-btn" disabled>compress</button>
+
+      <div id="compress-results" class="compress-results"></div>
+    </div>
+  </div>
+</div>
+
+</main>
+{% endblock content %}
+
+{% block extrascripts %}
+{{ super() }}
+<script src="/js/compress.js"></script>
+{% endblock extrascripts %}

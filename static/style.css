@@ -637,3 +637,102 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 @media (max-width: 480px) {
   .type-results-grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ── Compressor ── */
+.compress-drop {
+  width: 100%; border: 1px dashed var(--border);
+  padding: 32px 16px; text-align: center;
+  cursor: pointer; transition: border-color 0.15s, background 0.15s;
+}
+.compress-drop:hover, .compress-drop-active {
+  border-color: var(--border-strong);
+  background: var(--bg-panel-alt);
+}
+.compress-drop-text { color: var(--fg-dim); font-size: var(--text-sm); }
+.compress-drop-icon { color: var(--fg-muted); font-size: var(--text-lg); display: block; margin-bottom: 8px; }
+.compress-browse {
+  color: var(--amber); cursor: pointer; text-decoration: underline;
+}
+.compress-browse:hover { color: var(--link-hover); }
+.compress-input { display: none; }
+
+.compress-files { width: 100%; margin-top: 8px; }
+.compress-file-row {
+  display: flex; align-items: center; gap: 8px;
+  padding: 6px 8px; border-bottom: 1px solid var(--border);
+  font-size: var(--text-xs);
+}
+.compress-file-icon { font-size: var(--text-sm); }
+.compress-file-name { flex: 1; color: var(--fg); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.compress-file-size { color: var(--fg-dim); white-space: nowrap; }
+.compress-file-remove {
+  background: none; border: 1px solid var(--border); color: var(--fg-muted);
+  cursor: pointer; font-family: var(--font-mono); font-size: var(--text-xs);
+  padding: 1px 6px; line-height: 1;
+}
+.compress-file-remove:hover { border-color: var(--red); color: var(--red); }
+
+.compress-controls {
+  width: 100%; display: flex; gap: 16px; flex-wrap: wrap;
+  margin-top: 12px; padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+.compress-control-group {
+  display: flex; align-items: center; gap: 8px;
+}
+.compress-label {
+  font-size: var(--text-xs); color: var(--fg-muted);
+  text-transform: uppercase; letter-spacing: 0.08em;
+}
+.compress-select {
+  background: var(--bg); border: 1px solid var(--border);
+  color: var(--fg); font-family: var(--font-mono); font-size: var(--text-xs);
+  padding: 3px 6px; cursor: pointer;
+}
+.compress-select:hover { border-color: var(--border-strong); }
+.compress-range {
+  -webkit-appearance: none; appearance: none;
+  width: 100px; height: 4px;
+  background: var(--border); outline: none;
+  cursor: pointer;
+}
+.compress-range::-webkit-slider-thumb {
+  -webkit-appearance: none; appearance: none;
+  width: 12px; height: 12px;
+  background: var(--amber); border: none; cursor: pointer;
+}
+.compress-range::-moz-range-thumb {
+  width: 12px; height: 12px;
+  background: var(--amber); border: none; cursor: pointer;
+}
+.compress-range-val { color: var(--fg-dim); font-size: var(--text-xs); min-width: 30px; }
+
+.compress-btn {
+  display: block; width: 100%; margin-top: 12px;
+  background: none; border: 1px solid var(--border);
+  color: var(--fg); font-family: var(--font-mono); font-size: var(--text-sm);
+  padding: 8px 16px; cursor: pointer;
+  text-transform: uppercase; letter-spacing: 0.08em;
+  transition: border-color 0.15s, color 0.15s;
+}
+.compress-btn:hover:not(:disabled) { border-color: var(--amber); color: var(--amber); }
+.compress-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.compress-results { width: 100%; margin-top: 12px; }
+.compress-result-row {
+  display: flex; align-items: center; gap: 8px;
+  padding: 6px 8px; border-bottom: 1px solid var(--border);
+  font-size: var(--text-xs);
+}
+.compress-result-name { flex: 1; color: var(--fg); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.compress-result-before { color: var(--fg-muted); }
+.compress-result-arrow { color: var(--fg-muted); }
+.compress-result-after { color: var(--amber); min-width: 80px; text-align: right; }
+.compress-result-error .compress-result-after { color: var(--red); }
+.compress-dl-btn {
+  color: var(--fg-dim); border: 1px solid var(--border);
+  padding: 1px 8px; font-family: var(--font-mono); font-size: var(--text-xs);
+  text-transform: uppercase; letter-spacing: 0.08em; cursor: pointer;
+  text-decoration: none; display: inline-block; line-height: 1.6;
+}
+.compress-dl-btn:hover { border-color: var(--amber); color: var(--amber); }
