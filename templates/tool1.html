@@ -10,7 +10,7 @@
     <a href="/">&larr; Home</a>
   </nav>
 
-  <div class="terminal">
+  <div class="terminal terminal-compress">
     <div class="terminal-bar">
       <span>tty3</span>
       <span></span>
@@ -40,10 +40,17 @@
             <option value="webp">WebP</option>
           </select>
         </div>
-        <div class="compress-control-group">
-          <span class="compress-label">quality</span>
+      </div>
+
+      <div id="compress-slider-row" class="compress-slider-row">
+        <span class="compress-label">target size</span>
+        <div class="compress-slider-wrap">
           <input type="range" id="compress-quality" class="compress-range" min="1" max="100" value="70">
-          <span id="compress-quality-val" class="compress-range-val">70%</span>
+          <div class="compress-range-labels">
+            <span class="compress-range-label">min</span>
+            <span id="compress-quality-val" class="compress-range-val">~0 B</span>
+            <span class="compress-range-label">original</span>
+          </div>
         </div>
       </div>
 

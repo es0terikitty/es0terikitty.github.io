@@ -7,12 +7,12 @@
   var compressBtn = document.getElementById('compress-btn');
   var results = document.getElementById('compress-results');
   var formatRow = document.getElementById('compress-format-row');
+  var sliderRow = document.getElementById('compress-slider-row');
 
   var files = [];
+  var totalOriginalSize = 0;
 
-  qualitySlider.addEventListener('input', function() {
-    qualityVal.textContent = qualitySlider.value + '%';
-  });
+  qualitySlider.addEventListener('input', updateSliderEstimate);
 
   input.addEventListener('change', function(e) {
     addFiles(e.target.files);
@@ -25,6 +25,15 @@
     }
     renderFiles();
     updateFormatVisibility();
+    updateTotalSize();
+    updateSliderEstimate();
+  }
+
+  function updateTotalSize() {
+    totalOriginalSize = 0;
+    for (var i = 0; i < files.length; i++) {
+      totalOriginalSize += files[i].size;
+    }
   }
 
   function renderFiles() {
@@ -47,6 +56,8 @@
         files.splice(idx, 1);
         renderFiles();
         updateFormatVisibility();
+        updateTotalSize();
+        updateSliderEstimate();
       });
     });
   }
@@ -67,6 +78,22 @@
     compressBtn.disabled = files.length === 0;
   }
 
+  function estimateSize(quality) {
+    if (totalOriginalSize === 0) return 0;
+    var q = quality / 100;
+    var ratio = 0.04 + 0.96 * Math.pow(q, 2.8);
+    return Math.round(totalOriginalSize * ratio);
+  }
+
+  function updateSliderEstimate() {
+    if (files.length === 0) {
+      qualityVal.textContent = '~0 B';
+      return;
+    }
+    var est = estimateSize(parseInt(qualitySlider.value));
+    qualityVal.textContent = '~' + formatSize(est);
+  }
+
   function formatSize(bytes) {
     if (bytes === 0) return '0 B';
     var k = 1024;
@@ -80,13 +107,14 @@
     compressBtn.disabled = true;
     compressBtn.textContent = 'compressing…';
     results.innerHTML = '';
-    processNext(0);
+    processNext(0, []);
   });
 
-  function processNext(idx) {
+  function processNext(idx, compressedResults) {
     if (idx >= files.length) {
       compressBtn.disabled = false;
       compressBtn.textContent = 'compress';
+      renderDownloadAll(compressedResults);
       return;
     }
     var file = files[idx];
@@ -94,45 +122,79 @@
     var isPdf = ext === 'pdf';
     var quality = parseInt(qualitySlider.value) / 100;
 
-    var row = document.createElement('div');
-    row.className = 'compress-result-row';
-    row.innerHTML = '<span class="compress-result-name">' + file.name + '</span>'
+    var block = document.createElement('div');
+    block.className = 'compress-result-block';
+    block.innerHTML = '<div class="compress-result-info">'
+      + '<span class="compress-result-name">' + file.name + '</span>'
       + '<span class="compress-result-before">' + formatSize(file.size) + '</span>'
       + '<span class="compress-result-arrow">→</span>'
-      + '<span class="compress-result-after">…</span>';
-    results.appendChild(row);
+      + '<span class="compress-result-after">…</span>'
+      + '</div>';
+    results.appendChild(block);
 
     if (isPdf) {
       compressPdf(file, quality).then(function(result) {
-        finishResult(row, file.name, file.size, result);
-        processNext(idx + 1);
+        finishResult(block, file.name, file.size, result, compressedResults);
+        processNext(idx + 1, compressedResults);
       }).catch(function(err) {
-        row.querySelector('.compress-result-after').textContent = 'error';
-        row.className += ' compress-result-error';
-        processNext(idx + 1);
+        block.querySelector('.compress-result-after').textContent = 'error';
+        block.className += ' compress-result-error';
+        processNext(idx + 1, compressedResults);
       });
     } else {
       var fmt = formatSelect.value;
       compressImage(file, quality, fmt).then(function(result) {
-        finishResult(row, changeExt(file.name, fmt === 'original' ? ext : fmt), file.size, result);
-        processNext(idx + 1);
+        finishResult(block, changeExt(file.name, fmt === 'original' ? ext : fmt), file.size, result, compressedResults);
+        processNext(idx + 1, compressedResults);
       }).catch(function(err) {
-        row.querySelector('.compress-result-after').textContent = 'error';
-        row.className += ' compress-result-error';
-        processNext(idx + 1);
+        block.querySelector('.compress-result-after').textContent = 'error';
+        block.className += ' compress-result-error';
+        processNext(idx + 1, compressedResults);
       });
     }
   }
 
-  function finishResult(row, name, originalSize, result) {
+  function finishResult(block, name, originalSize, result, compressedResults) {
     var ratio = ((result.size / originalSize) * 100).toFixed(1);
-    row.querySelector('.compress-result-after').textContent = formatSize(result.size) + ' (' + ratio + '%)';
-    var dl = document.createElement('a');
-    dl.href = result.url;
-    dl.download = name;
-    dl.className = 'compress-dl-btn';
-    dl.textContent = 'dl';
-    row.appendChild(dl);
+    block.querySelector('.compress-result-after').textContent = formatSize(result.size) + ' (' + ratio + '%)';
+    result.displayName = name;
+    compressedResults.push(result);
+  }
+
+  function renderDownloadAll(compressedResults) {
+    if (compressedResults.length === 0) return;
+
+    var wrap = document.createElement('div');
+    wrap.className = 'compress-download-area';
+
+    for (var i = 0; i < compressedResults.length; i++) {
+      var r = compressedResults[i];
+      var btn = document.createElement('a');
+      btn.href = r.url;
+      btn.download = r.displayName;
+      btn.className = 'compress-dl-btn';
+      btn.textContent = 'download ' + r.displayName;
+      wrap.appendChild(btn);
+    }
+
+    if (compressedResults.length > 1) {
+      var dlAll = document.createElement('button');
+      dlAll.className = 'compress-dl-all';
+      dlAll.textContent = 'download all (' + compressedResults.length + ' files)';
+      dlAll.addEventListener('click', function() {
+        for (var i = 0; i < compressedResults.length; i++) {
+          var a = document.createElement('a');
+          a.href = compressedResults[i].url;
+          a.download = compressedResults[i].displayName;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+        }
+      });
+      wrap.appendChild(dlAll);
+    }
+
+    results.appendChild(wrap);
   }
 
   function changeExt(name, newExt) {
