@@ -86,12 +86,7 @@
   }
 
   function updateSliderEstimate() {
-    if (files.length === 0) {
-      qualityVal.textContent = '~0 B';
-      return;
-    }
-    var est = estimateSize(parseInt(qualitySlider.value));
-    qualityVal.textContent = '~' + formatSize(est);
+    qualityVal.textContent = qualitySlider.value + '%';
   }
 
   function formatSize(bytes) {

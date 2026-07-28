@@ -730,6 +730,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 }
 .compress-range-val {
   font-size: var(--text-sm); color: var(--amber); font-weight: 700;
+  min-width: 36px; text-align: center;
 }
 
 .compress-btn {
