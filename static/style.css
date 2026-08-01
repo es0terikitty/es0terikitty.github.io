@@ -901,17 +901,6 @@ html.js .reveal.in { opacity: 1; transform: none; }
   50% { box-shadow: 0 0 7px 3px color-mix(in srgb, var(--accent) 20%, transparent); }
 }
 
-/* section heading block cursor */
-.section-heading { position: relative; }
-.section-heading::after {
-  content: ""; display: inline-block;
-  width: 0.5em; height: 0.9em;
-  background: var(--accent-dim);
-  margin-left: 8px;
-  vertical-align: -2px;
-  animation: blink 1s step-end infinite;
-}
-
 /* playlist arrow on hover */
 .playlist-item { position: relative; padding-left: 30px; }
 .playlist-item::before {
