@@ -11,23 +11,18 @@
   var DAMP = 0.88;
   var SPRING = 0.04;
 
-  function isLight() {
-    return document.documentElement.getAttribute('data-theme') === 'light';
-  }
-
   function colors() {
-    if (isLight()) {
-      return {
-        fade: '#f5ede0',
-        line: 'rgba(217, 119, 6, 0.08)',
-        dot: 'rgba(217, 119, 6, 0.2)',
-      };
-    }
+    var cs = getComputedStyle(document.documentElement);
     return {
-      fade: '#0F0F0F',
-      line: 'rgba(255, 140, 26, 0.06)',
-      dot: 'rgba(255, 140, 26, 0.25)',
+      fade: cs.getPropertyValue('--grid-fade').trim() || '#0a0a0a',
+      line: cs.getPropertyValue('--grid-line').trim() || 'rgba(0,0,0,0.06)',
+      dot: cs.getPropertyValue('--grid-dot').trim() || 'rgba(0,0,0,0.2)',
     };
+  }
+  var clr = colors();
+  var themeSelect = document.getElementById('theme-select');
+  if (themeSelect) {
+    themeSelect.addEventListener('change', function() { clr = colors(); });
   }
 
   function resize() {
@@ -55,7 +50,6 @@
 
   function draw() {
     var w = c.width, h = c.height;
-    var clr = colors();
     ctx.clearRect(0, 0, w, h);
 
     // hex to rgba helper

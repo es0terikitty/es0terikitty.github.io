@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}document.documentElement.setAttribute('data-theme',t||(matchMedia('(prefers-color-scheme:light)').matches?'light':'dark'))})();</script>
+  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}if(t!=='red'&&t!=='green')t='blue';document.documentElement.setAttribute('data-theme',t)})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -24,17 +24,21 @@
     <li><a href="#now">now</a></li>
     <li><a href="https://github.com/es0terikitty" class="ext">github</a></li>
   </ul>
-  <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">
-    <span class="icon-sun"></span>
-    <span class="icon-moon"></span>
-  </button>
+  <label class="theme-pick" for="theme-select">
+    <span>theme</span>
+    <select id="theme-select" aria-label="theme">
+      <option value="blue">blue</option>
+      <option value="red">red</option>
+      <option value="green">green</option>
+    </select>
+  </label>
   <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
 </nav>
 
 {% block content %}{% endblock content %}
 
 <footer class="footer">
-  <div class="rule">░▒▓█▓▒░</div>
+  <div class="rule">* * *</div>
   <div class="meta">
     <a href="https://github.com/es0terikitty/es0terikitty.github.io">source</a>
   </div>
