@@ -13,10 +13,6 @@
   var borders = null;
   var landPath = null;      // Path2D of all land, in world coords
   var strokePath = null;    // Path2D of all borders, in world coords
-  var baseTex = new Image();
-  baseTex.src = '/vendor/earth-night.jpg';
-  var texOk = false;
-  baseTex.onload = function() { texOk = true; };
 
   var W = 360, H = 180;     // world size, degrees
   var scale = 1, offX = 0, offY = 0;
@@ -32,7 +28,10 @@
   function readColors() {
     var cs = getComputedStyle(document.documentElement);
     return {
-      bgPanel: cs.getPropertyValue('--bg-panel').trim() || '#0b1120',
+      ocean: cs.getPropertyValue('--bg-panel').trim() || '#0b1120',
+      land: cs.getPropertyValue('--bg-panel-alt').trim() || '#111b30',
+      border: cs.getPropertyValue('--accent-dim').trim() || '#93c5fd',
+      graticule: cs.getPropertyValue('--border').trim() || '#1e2b47',
       accent: cs.getPropertyValue('--accent').trim() || '#3b82f6',
       accentDim: cs.getPropertyValue('--accent-dim').trim() || '#93c5fd',
       fgDim: cs.getPropertyValue('--fg-dim').trim() || '#90a6c7',
@@ -101,18 +100,28 @@
 
     // base: ocean
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    ctx.fillStyle = col.bgPanel;
+    ctx.fillStyle = col.ocean;
     ctx.fillRect(0, 0, cw, ch);
 
-    // world layer (texture + land + borders) in world coordinates
+    // world layer (plain map) in world coordinates
     ctx.setTransform(dpr * scale, 0, 0, dpr * scale, dpr * offX, dpr * offY);
-    if (texOk) ctx.drawImage(baseTex, 0, 0, W, H);
+    // faint graticule, under the land
+    ctx.lineWidth = 0.5 / scale;
+    ctx.strokeStyle = hexToRgba(col.graticule, 0.6);
+    ctx.beginPath();
+    for (var gL = -180; gL <= 180; gL += 15) {
+      ctx.moveTo(gL + 180, 0); ctx.lineTo(gL + 180, H);
+    }
+    for (var gT = -90; gT <= 90; gT += 15) {
+      ctx.moveTo(0, 90 - gT); ctx.lineTo(W, 90 - gT);
+    }
+    ctx.stroke();
     if (landPath) {
-      ctx.fillStyle = hexToRgba(col.accent, 0.06);
+      ctx.fillStyle = col.land;
       ctx.fill(landPath);
       ctx.lineJoin = 'round';
       ctx.lineWidth = 1.2 / scale;
-      ctx.strokeStyle = hexToRgba(col.accentDim, 0.5);
+      ctx.strokeStyle = hexToRgba(col.border, 0.65);
       ctx.stroke(strokePath);
     }
 
@@ -124,12 +133,13 @@
 
   function drawLabels(cw, ch) {
     if (!places) return;
-    var stateFade = clamp((scale - 3.5) / 2.5, 0, 1);
-    var countryFade = clamp((6.2 - scale) / 2.2, 0, 1);
-    if (stateFade <= 0 && countryFade <= 0) { screenLabels = []; return; }
+    function ramp(x, lo, hi) { return clamp((x - lo) / (hi - lo), 0, 1); }
+    var countryFade = ramp(scale, 3.0, 4.5) * (1 - ramp(scale, 13, 15));
+    var stateFade = ramp(scale, 4.5, 6.5);
+    if (countryFade <= 0 && stateFade <= 0) { screenLabels = []; return; }
 
-    var countrySize = clamp(10.5 - (scale - 2) * 0.2, 8, 10.5);
-    var stateSize = clamp(8.5 + (scale - 5) * 0.15, 8.5, 11);
+    var countrySize = clamp(10.5 - (scale - 3) * 0.15, 8, 10.5);
+    var stateSize = clamp(8.5 + (scale - 5) * 0.12, 8.5, 11);
     screenLabels = [];
     var i, L, p, alpha, drawn = [];
 
