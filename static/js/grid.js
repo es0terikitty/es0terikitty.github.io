@@ -120,6 +120,7 @@
   }
 
   function tick() {
+    var now = performance.now();
     for (var i = 0; i < pts.length; i++) {
       var p = pts[i];
       var dx = p.ox - mx;
@@ -131,8 +132,10 @@
         p.vx += Math.cos(angle) * force;
         p.vy += Math.sin(angle) * force;
       }
-      p.vx += (p.ox - p.x) * SPRING;
-      p.vy += (p.oy - p.y) * SPRING;
+      var ax = p.ox + Math.sin(now * 0.001 + p.ox * 0.02) * 7;
+      var ay = p.oy + Math.cos(now * 0.0012 + p.oy * 0.02) * 7;
+      p.vx += (ax - p.x) * SPRING;
+      p.vy += (ay - p.y) * SPRING;
       p.vx *= DAMP;
       p.vy *= DAMP;
       p.x += p.vx;
@@ -164,5 +167,9 @@
 
   window.addEventListener('resize', resize);
   resize();
+  if (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    draw();
+    return;
+  }
   tick();
 })();

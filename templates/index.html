@@ -6,7 +6,7 @@
 
 <!-- ── Hero ── -->
 <div class="wrap">
-  <div class="terminal">
+  <div class="terminal reveal">
     <div class="terminal-bar">
       <span>tty1</span>
       <span></span>
@@ -21,13 +21,12 @@
     ░      ▒   ▒▒ ░  ░ ▒ ▒░
   ░        ░   ▒   ░ ░ ░ ▒
                ░  ░    ░ ░</pre>
-      <div class="prompt"><span>$</span> whoami</div>
-      <div class="tagline"><span class="typewriter">{{ config.description }}</span><span class="cursor"></span></div>
+      <div class="tagline"><span class="dollar">$</span> <span class="typewriter">{{ config.description }}</span><span class="cursor"></span></div>
     </div>
   </div>
 </div>
 
-<section id="notes" class="wrap">
+<section id="notes" class="wrap reveal">
   <h2 class="section-heading">~/novels</h2>
   <div class="playlist">
     <div class="playlist-bar">
@@ -39,7 +38,7 @@
     {% set mt = get_section(path="mushoku-tensei/_index.md") %}
     {% set shelves = [ri, chapters, mt] %}
     {% for shelf in shelves %}
-    <a href="{{ shelf.path }}" class="playlist-item">
+    <a href="{{ shelf.path }}" class="playlist-item reveal">
       <div>
         <div class="title">{{ shelf.title }}</div>
         <div class="summary">{{ shelf.extra.summary | default(value="") }}</div>
@@ -50,45 +49,45 @@
 </section>
 
 
-<section id="stack" class="wrap">
+<section id="stack" class="wrap reveal">
   <h2 class="section-heading">~/stack</h2>
   <div class="stack-grid">
-    <a href="/dictionary/" class="stack-card">
+    <a href="/dictionary/" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">dict</div>
       <div class="desc">Word lookup — definitions & pronunciation</div>
     </a>
-    <a href="/tool1/" class="stack-card">
+    <a href="/tool1/" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">compress</div>
       <div class="desc">PDF & image file compressor</div>
     </a>
-    <a href="#" class="stack-card">
+    <a href="#" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">Tool 2</div>
       <div class="desc">coming soon</div>
     </a>
-    <a href="#" class="stack-card">
+    <a href="#" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">Tool 3</div>
       <div class="desc">coming soon</div>
     </a>
-    <a href="#" class="stack-card">
+    <a href="#" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">Tool 4</div>
       <div class="desc">coming soon</div>
     </a>
-    <a href="#" class="stack-card">
+    <a href="#" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">Tool 5</div>
       <div class="desc">coming soon</div>
     </a>
-    <a href="#" class="stack-card">
+    <a href="#" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">Tool 6</div>
       <div class="desc">coming soon</div>
     </a>
-    <a href="#" class="stack-card">
+    <a href="#" class="stack-card reveal">
       <div class="kicker">Tool</div>
       <div class="name">Tool 7</div>
       <div class="desc">coming soon</div>
@@ -96,7 +95,7 @@
   </div>
 </section>
 
-<section id="now" class="wrap">
+<section id="now" class="wrap reveal">
   <h2 class="section-heading">~/now</h2>
   <div class="terminal" style="max-width:100%;">
     <div class="terminal-bar"><span></span><span><span class="live-dot"></span> LIVE</span></div>
@@ -113,7 +112,7 @@
   </div>
 </section>
 
-<section id="stats" class="wrap">
+<section id="stats" class="wrap reveal">
   <h2 class="section-heading">~/stats</h2>
   <div class="stats-grid">
     {% set ri = get_section(path="reverend-insanity/_index.md") %}
@@ -133,15 +132,15 @@
     {% set mt_n = mt_all | length %}
     {% set ri_n = ri_all | length %}
     {% set all_n = ch_n + mt_n + ri_n %}
-    <div class="stat-card">
+    <div class="stat-card reveal">
       <div class="value">3+1</div>
       <div class="label">Novels and Tools</div>
     </div>
-    <div class="stat-card">
-      <div class="value">{{ all_n }}</div>
+    <div class="stat-card reveal">
+      <div class="value stat-count" data-count="{{ all_n }}">{{ all_n }}</div>
       <div class="label">Novel Chapters</div>
     </div>
-    <div class="stat-card">
+    <div class="stat-card reveal">
       <div class="value"><span id="live-clock">00:00:00</span></div>
       <div class="live-date" id="live-date"></div>
     </div>

@@ -259,7 +259,7 @@ body::after {
   font-size: clamp(0.55rem, 2.9vw, 0.95rem);
   line-height: 1.15;
   color: var(--accent);
-  overflow-x: auto;
+  overflow-x: clip;
   max-width: 100%;
   user-select: none;
 }
@@ -275,6 +275,7 @@ body::after {
   justify-content: center;
 }
 .terminal-body .tagline span { color: var(--fg-muted); }
+.terminal-body .tagline .dollar { color: var(--accent); margin-right: 6px; }
 .cursor {
   display: inline-block;
   width: 0.6em; height: 1em;
@@ -838,3 +839,120 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   .compress-slider-row { flex-direction: column; gap: 8px; }
   .compress-range { width: 100%; }
 }
+
+/* ══ Motion & effects ══ */
+
+/* scroll progress bar */
+#scroll-bar {
+  position: fixed; top: 0; left: 0;
+  height: 2px; width: 0%;
+  background: var(--accent);
+  box-shadow: 0 0 8px color-mix(in srgb, var(--accent) 60%, transparent);
+  z-index: 10000; pointer-events: none;
+}
+
+/* reveal on scroll (only when JS is available) */
+html.js .reveal {
+  opacity: 0;
+  transform: translateY(16px);
+  transition: opacity 0.55s ease, transform 0.55s ease;
+  transition-delay: var(--delay, 0ms);
+}
+html.js .reveal.in { opacity: 1; transform: none; }
+@media (max-width: 480px) {
+  html.js .reveal { transform: translateY(10px); }
+}
+
+/* smooth transforms for interactive blocks */
+.stack-card, .playlist-item, .stat-card, .chapter-grid .grid-item, .terminal {
+  transition-property: border-color, background-color, color, box-shadow, transform;
+  transition-duration: 0.2s;
+  transition-timing-function: ease;
+}
+
+/* hover lifts + nudges */
+.terminal:hover { transform: translateY(-3px); }
+.stack-card:hover { transform: translateY(-3px); }
+.stat-card:hover { transform: translateY(-3px); }
+.playlist-item:hover { transform: translateX(4px); }
+.chapter-grid .grid-item:hover { transform: translateX(4px); }
+
+/* nav link underline */
+.nav-links a { position: relative; }
+.nav-links a::after {
+  content: ""; position: absolute; left: 0; bottom: -3px;
+  width: 0; height: 1px;
+  background: var(--accent);
+  transition: width 0.22s ease;
+}
+.nav-links a:hover::after, .nav-links a:focus-visible::after { width: 100%; }
+
+/* button press feedback */
+.theme-btn:active, .nav-toggle:active, .type-mode:active, .type-toggle:active,
+.dict-submit:active, .dict-retry:active, .copy-btn:active,
+.compress-btn:active:not(:disabled), .compress-dl-btn:active, .compress-dl-all:active {
+  transform: translateY(1px);
+}
+
+/* live-dot glow pulse */
+.live-dot { animation: blink 1s step-end infinite, dotPulse 2s ease-in-out infinite; }
+@keyframes dotPulse {
+  0%, 100% { box-shadow: 0 0 0 0 color-mix(in srgb, var(--accent) 35%, transparent); }
+  50% { box-shadow: 0 0 7px 3px color-mix(in srgb, var(--accent) 20%, transparent); }
+}
+
+/* section heading block cursor */
+.section-heading { position: relative; }
+.section-heading::after {
+  content: ""; display: inline-block;
+  width: 0.5em; height: 0.9em;
+  background: var(--accent-dim);
+  margin-left: 8px;
+  vertical-align: -2px;
+  animation: blink 1s step-end infinite;
+}
+
+/* playlist arrow on hover */
+.playlist-item { position: relative; padding-left: 30px; }
+.playlist-item::before {
+  content: ">"; position: absolute; left: 12px; top: 50%;
+  transform: translateY(-50%);
+  color: var(--accent);
+  opacity: 0;
+  transition: opacity 0.2s ease, left 0.2s ease;
+}
+.playlist-item:hover::before { opacity: 1; left: 14px; }
+
+/* stack card bottom scan line */
+.stack-card { position: relative; overflow: hidden; }
+.stack-card::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0;
+  height: 2px;
+  background: var(--accent);
+  transform: translateX(-101%);
+  transition: transform 0.35s ease;
+}
+.stack-card:hover::after { transform: translateX(0); }
+
+/* theme button dropdown caret */
+.theme-btn::after { content: " \25BE"; }
+
+/* theme menu entrance */
+.theme-menu { transform-origin: top right; }
+.theme-menu.open { animation: menuIn 0.15s ease; }
+@keyframes menuIn {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  html.js .reveal { opacity: 1; transform: none; }
+}
+
