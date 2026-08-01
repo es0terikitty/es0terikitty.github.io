@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}globe — {{ config.title }}{% endblock title %}
+{% block title %}map — {{ config.title }}{% endblock title %}
 
 {% block content %}
 <main>
@@ -10,27 +10,26 @@
     <a href="/">&larr; Home</a>
   </nav>
 
-  <div class="terminal terminal-globe">
+  <div class="terminal terminal-map">
     <div class="terminal-bar">
       <span><span class="live-dot"></span>tty2</span>
-      <span>globe.gl + three.js</span>
+      <span>canvas 2d — equirectangular</span>
     </div>
     <div class="terminal-body" style="align-items:stretch;">
-      <div class="prompt"><span>$</span> globe --spin</div>
+      <div class="prompt"><span>$</span> map --world</div>
 
-      <div class="globe-wrap">
-        <div id="globe-viz" class="globe-viz"></div>
-        <canvas id="globe-overlay" class="globe-overlay"></canvas>
+      <div class="map-wrap">
+        <canvas id="map-canvas" class="map-canvas"></canvas>
       </div>
 
-      <div id="globe-status" class="globe-status" role="status">loading data...</div>
+      <div id="map-status" class="map-status" role="status">loading data...</div>
 
-      <div class="globe-hint">
-        <span>drag to rotate</span><span class="globe-hint-sep">/</span>
-        <span>scroll to zoom</span><span class="globe-hint-sep">/</span>
-        <span>click a capital to fly</span>
+      <div class="map-hint">
+        <span>drag to pan</span><span class="map-hint-sep">/</span>
+        <span>scroll to zoom</span><span class="map-hint-sep">/</span>
+        <span>click a capital to focus</span>
       </div>
-      <div class="globe-credit">place data: simplemaps world cities &middot; CC BY 4.0</div>
+      <div class="map-credit">place data: simplemaps world cities &middot; CC BY 4.0</div>
     </div>
   </div>
 </div>
@@ -40,6 +39,5 @@
 
 {% block extrascripts %}
 {{ super() }}
-<script src="/vendor/globe.gl.min.js"></script>
-<script src="/js/globe.js"></script>
+<script src="/js/map.js"></script>
 {% endblock extrascripts %}

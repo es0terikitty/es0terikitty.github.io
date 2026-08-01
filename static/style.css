@@ -945,30 +945,31 @@ html.js .reveal.in { opacity: 1; transform: none; }
   html.js .reveal { opacity: 1; transform: none; }
 }
 
-/* ── Globe tool ── */
-.globe-wrap {
+/* ── Map tool ── */
+.map-wrap {
   position: relative;
   width: 100%;
   height: clamp(320px, 62vh, 560px);
+  overflow: hidden;
 }
-.globe-viz,
-.globe-overlay {
-  position: absolute; top: 0; left: 0;
+.map-canvas {
   width: 100%; height: 100%;
+  display: block;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
 }
-.globe-viz { cursor: grab; }
-.globe-viz:active { cursor: grabbing; }
-.globe-overlay { pointer-events: none; }
-.globe-status {
+.map-canvas:active { cursor: grabbing; }
+.map-status {
   font-size: var(--text-xs); color: var(--fg-muted);
   text-align: center; min-height: 1.4em;
 }
-.globe-hint {
+.map-hint {
   font-size: var(--text-xs); color: var(--fg-muted);
   text-align: center;
 }
-.globe-hint-sep { margin: 0 6px; color: var(--border-strong); }
-.globe-credit {
+.map-hint-sep { margin: 0 6px; color: var(--border-strong); }
+.map-credit {
   font-size: var(--text-xs); color: var(--fg-muted);
   text-align: center; opacity: 0.7;
 }
