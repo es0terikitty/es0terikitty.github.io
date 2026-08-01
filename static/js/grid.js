@@ -20,10 +20,7 @@
     };
   }
   var clr = colors();
-  var themeSelect = document.getElementById('theme-select');
-  if (themeSelect) {
-    themeSelect.addEventListener('change', function() { clr = colors(); });
-  }
+  document.addEventListener('themechange', function() { clr = colors(); });
 
   function resize() {
     c.width = window.innerWidth;

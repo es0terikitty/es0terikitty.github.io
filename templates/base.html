@@ -24,14 +24,14 @@
     <li><a href="#now">now</a></li>
     <li><a href="https://github.com/es0terikitty" class="ext">github</a></li>
   </ul>
-  <label class="theme-pick" for="theme-select">
-    <span>theme</span>
-    <select id="theme-select" aria-label="theme">
-      <option value="blue">blue</option>
-      <option value="red">red</option>
-      <option value="green">green</option>
-    </select>
-  </label>
+  <div class="theme-pick">
+    <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false">theme</button>
+    <div class="theme-menu" id="theme-menu">
+      <button type="button" data-theme-opt="blue">blue</button>
+      <button type="button" data-theme-opt="red">red</button>
+      <button type="button" data-theme-opt="green">green</button>
+    </div>
+  </div>
   <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>
 </nav>
 

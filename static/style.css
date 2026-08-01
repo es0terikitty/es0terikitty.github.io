@@ -151,25 +151,42 @@ nav.top .logo:hover { color: var(--accent); }
 
 /* ── Theme picker ── */
 .theme-pick {
-  display: flex; align-items: center; gap: 8px;
+  position: relative;
   margin-left: auto;
-  color: var(--fg-muted);
-  font-size: var(--text-xs);
-  text-transform: uppercase; letter-spacing: 0.08em;
-  cursor: pointer;
 }
-.theme-pick select {
-  background: var(--bg);
+.theme-btn {
+  background: none;
   border: 1px solid var(--border);
-  color: var(--fg);
+  color: var(--fg-dim);
   font-family: var(--font-mono);
   font-size: var(--text-xs);
   text-transform: uppercase; letter-spacing: 0.08em;
-  padding: 3px 6px;
+  padding: 3px 10px;
   cursor: pointer;
 }
-.theme-pick select:hover { border-color: var(--border-strong); }
-.theme-pick select:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
+.theme-btn:hover { border-color: var(--border-strong); color: var(--fg); }
+.theme-btn:focus-visible { outline: 2px solid var(--focus-ring); outline-offset: 2px; }
+.theme-menu {
+  display: none;
+  position: absolute; top: calc(100% + 6px); right: 0;
+  min-width: 110px;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  z-index: 50;
+}
+.theme-menu.open { display: block; }
+.theme-menu button {
+  display: block; width: 100%; text-align: left;
+  background: none; border: none;
+  color: var(--fg-dim);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  text-transform: uppercase; letter-spacing: 0.08em;
+  padding: 7px 12px;
+  cursor: pointer;
+}
+.theme-menu button:hover { color: var(--fg); background: var(--bg-panel-alt); }
+.theme-menu button.active { color: var(--accent); }
 
 /* ── Scanline overlay ── */
 @keyframes scanlines {
@@ -235,13 +252,17 @@ body::after {
   padding: 24px;
   display: flex; flex-direction: column; align-items: center; gap: 12px;
 }
-.terminal-body .avatar {
-  width: 80px; height: 80px;
-  border: 1px solid var(--border);
-  object-fit: cover;
-}
 .terminal-body .prompt { color: var(--fg-dim); font-size: var(--text-sm); }
 .terminal-body .prompt span { color: var(--accent); }
+.ascii-logo {
+  font-family: var(--font-mono);
+  font-size: clamp(0.55rem, 2.9vw, 0.95rem);
+  line-height: 1.15;
+  color: var(--accent);
+  overflow-x: auto;
+  max-width: 100%;
+  user-select: none;
+}
 .terminal-body h1 {
   font-size: var(--text-2xl); font-weight: 700; color: var(--fg);
   text-align: center; line-height: 1.2;
