@@ -16,11 +16,11 @@
 <header class="page-header">
   <h2>{{ page.title }}</h2>
   <div class="page-nav-top">
-    {% if page.earlier %}
-    <a href="{{ page.earlier.path }}">&#8592; prev</a>
+    {% if page.lower %}
+    <a href="{{ page.lower.path }}">&#8592; prev</a>
     {% endif %}
-    {% if page.later %}
-    <a href="{{ page.later.path }}">next &#8594;</a>
+    {% if page.higher %}
+    <a href="{{ page.higher.path }}">next &#8594;</a>
     {% endif %}
   </div>
 </header>
@@ -30,7 +30,7 @@
 </div>
 
 <div class="page-nav">
-  <div>{% if page.earlier %}<a href="{{ page.earlier.path }}">&#8592; {{ page.earlier.title }}</a>{% endif %}</div>
-  <div>{% if page.later %}<a href="{{ page.later.path }}">{{ page.later.title }} &#8594;</a>{% endif %}</div>
+  <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; {{ page.lower.title }}</a>{% endif %}</div>
+  <div>{% if page.higher %}<a href="{{ page.higher.path }}">{{ page.higher.title }} &#8594;</a>{% endif %}</div>
 </div>
 {% endblock content %}

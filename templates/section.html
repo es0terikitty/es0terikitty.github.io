@@ -23,7 +23,7 @@
         <a href="{{ sub_sec.path | safe }}" class="grid-item">{{ sub_sec.title }}</a>
       {% endfor %}
     {% else %}
-      {% if "/chapters/" in section.path %}
+      {% if "/chapters/" in section.path or "/moby-dick/" in section.path %}
         {% set pages = section.pages | sort(attribute="extra.chapter") %}
       {% else %}
         {% set pages = section.pages %}
