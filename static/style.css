@@ -435,8 +435,6 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   max-width: var(--content-w); margin: 0 auto; padding: 24px 24px 0;
 }
 .page-header h2 { font-size: var(--text-lg); color: var(--fg); }
-.page-nav-top a { font-size: var(--text-sm); color: var(--fg-dim); }
-.page-nav-top a:hover { color: var(--accent); }
 
 .chapter-list { max-width: var(--content-w); margin: 0 auto; padding: 24px; }
 .chapter-list h2 { font-size: var(--text-lg); margin-bottom: 16px; }

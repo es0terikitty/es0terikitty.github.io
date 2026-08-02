@@ -15,14 +15,6 @@
 
 <header class="page-header">
   <h2>{{ page.title }}</h2>
-  <div class="page-nav-top">
-    {% if page.lower %}
-    <a href="{{ page.lower.path }}">&#8592; prev</a>
-    {% endif %}
-    {% if page.higher %}
-    <a href="{{ page.higher.path }}">next &#8594;</a>
-    {% endif %}
-  </div>
 </header>
 
 <div class="chapter-body entry-content" itemprop="articleBody">
@@ -30,7 +22,7 @@
 </div>
 
 <div class="page-nav">
-  <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; {{ page.lower.title }}</a>{% endif %}</div>
-  <div>{% if page.higher %}<a href="{{ page.higher.path }}">{{ page.higher.title }} &#8594;</a>{% endif %}</div>
+  <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; Chapter {{ page.lower.extra.chapter }}</a>{% endif %}</div>
+  <div>{% if page.higher %}<a href="{{ page.higher.path }}">Chapter {{ page.higher.extra.chapter }} &#8594;</a>{% endif %}</div>
 </div>
 {% endblock content %}
