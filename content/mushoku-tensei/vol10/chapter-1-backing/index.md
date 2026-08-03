@@ -6,15 +6,7 @@ weight = 0
 volume = 10
 chapter = 1
 +++
-
-Chapter 1:
-Backing
-
-I
-
-’LL PLEDGE MY FIDELITY
-
-to Sylphie, I thought as I looked at the red
+I’ll pledge my fidelity to Sylphie, I thought as I looked at the red
 
 stain left on the bedsheets. Sylphie had given me something
 precious, and now it was my turn. I would do as she wished of me.

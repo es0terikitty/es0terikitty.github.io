@@ -6,16 +6,7 @@ weight = 0
 volume = 9
 chapter = 1
 +++
-
-Chapter 1:
-The Prodigy’s Secret
-(Part 1)
-
-C
-
-LIFF GRIMOIRE,
-
-the grandson of the Millis Church’s reigning
+Cliff Grimoire, the grandson of the Millis Church’s reigning
 
 Pope, was a highly gifted young man with a particular talent for
 magic. Unfortunately, Cliff was also hot-tempered, egotistical, and a

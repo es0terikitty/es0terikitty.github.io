@@ -6,16 +6,7 @@ weight = 5
 volume = 9
 chapter = 6
 +++
-
-Chapter 5:
-The White Mask
-(Part 1)
-
-R
-
-ECENTLY, IT SEEMS LIKE
-
-some people are a little frightened of me.
+Recently, it seems like some people are a little frightened of me.
 
 And by “some people,” I mean basically every student attending the
 University of Magic.

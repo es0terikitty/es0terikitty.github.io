@@ -6,16 +6,7 @@ weight = 8
 volume = 8
 chapter = 9
 +++
-
-Chapter 8:
-The Kidnapping and Confinement of Beast Girls
-(Part 2)
-
-W
-
-E RETURNED
-
-to my room. Before us were two beast girls in
+We returned to my room. Before us were two beast girls in
 
 uniforms, one with cat ears, the other with dog ears. Their hands
 were bound behind their backs with cuffs made of earth magic, and

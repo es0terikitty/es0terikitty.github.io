@@ -6,15 +6,7 @@ weight = 12
 volume = 9
 chapter = 13
 +++
-
-Chapter 11:
-The Final Push
-
-I
-
-T TOOK THREE DAYS
-
-for me and Rudy to make it back to the city of
+It took three days for me and Rudy to make it back to the city of
 
 Sharia. In that time, we talked about all sorts of things. One of the
 major topics of conversation was what Rudy had gone through in the

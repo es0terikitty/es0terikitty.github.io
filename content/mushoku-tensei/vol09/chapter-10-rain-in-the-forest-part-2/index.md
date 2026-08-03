@@ -6,16 +6,7 @@ weight = 11
 volume = 9
 chapter = 12
 +++
-
-Chapter 10:
-Rain in the Forest
-(Part 2)
-
-I
-
-KNEW THERE WAS
-
-something fishy about this from the start.
+I knew there was something fishy about this from the start.
 
 Master Fitz had been acting strangely ever since he hired me,
 and then events had taken a really odd turn. Those rainclouds had

@@ -6,16 +6,7 @@ weight = 13
 volume = 9
 chapter = 14
 +++
-
-Side Story:
-Sylphiette
-(Part 0)
-
-T
-
-HAT NIGHT,
-
-I dreamed about the past—about Rudy’s arrival at
+That night, I dreamed about the past—about Rudy’s arrival at
 
 the University.
 It was my third year at the Ranoa University of Magic. Linia and

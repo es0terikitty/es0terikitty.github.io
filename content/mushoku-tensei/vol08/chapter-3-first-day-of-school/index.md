@@ -6,15 +6,7 @@ weight = 3
 volume = 8
 chapter = 4
 +++
-
-Chapter 3:
-First Day of School
-
-T
-
-HE RANOA UNIVERSITY OF MAGIC.
-
-The world’s greatest magic school,
+The Ranoa University of Magic. The world’s greatest magic school,
 
 occupying a vast plot of land and sponsored by three separate
 countries as well as the Magicians’ Guild. The current principal was

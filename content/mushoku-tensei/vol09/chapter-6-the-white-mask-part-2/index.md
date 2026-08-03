@@ -6,16 +6,7 @@ weight = 6
 volume = 9
 chapter = 7
 +++
-
-Chapter 6:
-The White Mask
-(Part 2)
-
-N
-
-ANAHOSHI SHIZUKA—
-
-whose names literally meant “seven stars”
+Nanahoshi Shizuka— whose names literally meant “seven stars”
 
 and “silent” in Japanese—wasn’t like me. Instead of reincarnating in
 this world as a baby, she’d simply appeared here in her original body.

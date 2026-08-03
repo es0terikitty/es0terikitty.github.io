@@ -6,16 +6,7 @@ weight = 5
 volume = 8
 chapter = 6
 +++
-
-Chapter 5:
-An Unreachable Power
-(Part 1)
-
-Z
-
-ANOBA SHIRONE,
-
-the Third Prince of the Shirone Kingdom. A
+Zanoba Shirone, the Third Prince of the Shirone Kingdom. A
 
 Blessed Child possessed of supernatural power from the moment he
 was born. And a pervert. An unmistakable pervert. You could say he

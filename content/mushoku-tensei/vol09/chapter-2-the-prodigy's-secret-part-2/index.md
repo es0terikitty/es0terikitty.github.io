@@ -6,16 +6,7 @@ weight = 1
 volume = 9
 chapter = 2
 +++
-
-Chapter 2:
-The Prodigy’s Secret
-(Part 2)
-
-H
-
-I THERE.
-
-Rudeus Greyrat speaking.
+Hi there. Rudeus Greyrat speaking.
 
 Uh, so here’s my problem. Just the other day, my classmate Cliff
 Grimoire confided in me about his love for Elinalise, and asked if I

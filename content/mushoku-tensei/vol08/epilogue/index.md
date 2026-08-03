@@ -6,14 +6,7 @@ weight = 9
 volume = 8
 chapter = 10
 +++
-
-Epilogue
-
-T
-
-HREE MONTHS HAD PASSED
-
-since I enrolled. My school life was a
+Three months had passed since I enrolled. My school life was a
 
 monotonous one. In the morning I would wake up, train, practice my
 magic, eat breakfast, go to class, eat lunch, do research at the library,

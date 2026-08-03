@@ -6,16 +6,7 @@ weight = 7
 volume = 8
 chapter = 8
 +++
-
-Chapter 7:
-The Kidnapping and Confinement of Beast Girls
-(Part 1)
-
-L
-
-INIA DEDOLDIA.
-
-The granddaughter of Gustav, the leader of the
+Linia Dedoldia. The granddaughter of Gustav, the leader of the
 
 Dedoldia, one of the Doldia tribes acting as protectors of the Great
 Forest. The daughter of the Warrior Leader Gyes, next in line to be

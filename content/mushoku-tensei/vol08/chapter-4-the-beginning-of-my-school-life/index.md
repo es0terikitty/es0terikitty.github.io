@@ -6,15 +6,7 @@ weight = 4
 volume = 8
 chapter = 5
 +++
-
-Chapter 4:
-The Beginning of My School Life
-
-A
-
-MONTH HAD PASSED
-
-since my enrollment. Rudeus the
+A month had passed since my enrollment. Rudeus the
 
 Quagmire’s school life was a monotonous one. First I woke up in the
 morning, then, as had become my daily routine, I began my training.

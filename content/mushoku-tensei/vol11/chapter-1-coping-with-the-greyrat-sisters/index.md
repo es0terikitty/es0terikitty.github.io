@@ -6,15 +6,7 @@ weight = 0
 volume = 11
 chapter = 1
 +++
-
-Chapter 1:
-Coping with the Greyrat Sisters
-
-A
-
-FTER A LONG,
-
-grueling journey, my sisters Norn and Aisha had
+After a long, grueling journey, my sisters Norn and Aisha had
 
 finally made it to my house in the city of Sharia. At the moment, they
 were sitting at the dining table, eating something I’d quickly tossed

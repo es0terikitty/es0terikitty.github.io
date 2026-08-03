@@ -6,16 +6,7 @@ weight = 2
 volume = 9
 chapter = 3
 +++
-
-Side Story:
-Sylphiette
-(Part 3)
-
-T
-
-the Princess through a hallway, I overheard
-someone speaking nearby.
-ODAY, AS I FOLLOWED
+Today, as I followed the Princess through a hallway, I overheard someone speaking nearby.
 
 “Really, Cliff, you’ve got to lighten up a little!”
 “Look, I understand the nature of your curse. And I do enjoy,

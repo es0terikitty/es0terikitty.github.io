@@ -6,15 +6,7 @@ weight = 1
 volume = 8
 chapter = 2
 +++
-
-Chapter 1:
-Letter of Invitation
-
-A
-
-WEEK AFTER I LEARNED
-
-where Zenith was, I was still at the inn in
+A week after I learned where Zenith was, I was still at the inn in
 
 Basherant. She was apparently in the Labyrinth City of Rapan,
 somewhere in the center of the Begaritt Continent, and as much as I

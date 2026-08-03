@@ -6,15 +6,7 @@ weight = 8
 volume = 9
 chapter = 9
 +++
-
-Chapter 7:
-A Day at the University of Magic
-
-I
-
-T HAD BEEN A YEAR
-
-since I’d enrolled at the Ranoa University of
+It had been a year since I’d enrolled at the Ranoa University of
 
 Magic, and I’d just turned sixteen. In this world, people only really
 celebrated their fifth, tenth, and fifteenth birthdays, so I’d kind of

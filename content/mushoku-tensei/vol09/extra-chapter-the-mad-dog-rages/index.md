@@ -6,15 +6,7 @@ weight = 14
 volume = 9
 chapter = 15
 +++
-
-Extra Chapter:
-The Mad Dog Rages
-
-T
-
-HE PLACE KNOWN
-
-only as the Sword Sanctum lay to the far north,
+The place known only as the Sword Sanctum lay to the far north,
 
 in a harsh and unforgiving region covered in snow the whole year
 round. This was where the first Sword God had chosen to establish

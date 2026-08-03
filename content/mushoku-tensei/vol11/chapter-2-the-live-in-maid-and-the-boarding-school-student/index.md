@@ -6,15 +6,7 @@ weight = 1
 volume = 11
 chapter = 2
 +++
-
-Chapter 2:
-The Live-In Maid and the Boarding School Student
-
-T
-
-HAT AFTERNOON,
-
-I walked home with Norn and Aisha from the
+That afternoon, I walked home with Norn and Aisha from the
 
 University of Magic.
 They’d both taken a standard written test. It was a general

@@ -6,15 +6,7 @@ weight = 9
 volume = 9
 chapter = 10
 +++
-
-Chapter 8:
-Clueless, but Perceptive
-
-W
-
-INTER HAD ARRIVED,
-
-and the city of Sharia in the Kingdom of
+Winter had arrived, and the city of Sharia in the Kingdom of
 
 Ranoa was covered in snow. Thanks to the city’s famous magic
 implements, the roads and major pathways were kept clear, but

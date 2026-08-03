@@ -6,15 +6,7 @@ weight = 0
 volume = 8
 chapter = 1
 +++
-
-Prologue:
-Quagmire, The Adventurer
-
-I
-
-T HAD BEEN FIVE YEARS
-
-since the calamity commonly known as the
+It had been five years since the calamity commonly known as the
 
 Fittoa Region Displacement Incident. The liege lord of Fittoa, Sauros
 Boreas Greyrat, was dead, as was his son Philip Boreas Greyrat, the

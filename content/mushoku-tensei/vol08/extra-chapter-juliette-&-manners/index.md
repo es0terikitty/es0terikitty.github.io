@@ -6,15 +6,7 @@ weight = 10
 volume = 8
 chapter = 11
 +++
-
-Extra Chapter:
-Juliette & Manners
-
-I
-
-T WAS NOON
-
-on an ordinary day, and Zanoba, Julie and I were
+It was noon on an ordinary day, and Zanoba, Julie and I were
 
 eating outside the cafeteria. We drew a bit of attention as we sat
 there, in our slightly uncomfortable chairs made by earth magic, but

@@ -6,16 +6,7 @@ weight = 10
 volume = 9
 chapter = 11
 +++
-
-Chapter 9:
-Rain in the Forest
-(Part 1)
-
-I
-
-T WAS EVENING,
-
-but there were still three people in the student
+It was evening, but there were still three people in the student
 
 conference room.
 The first was a striking beauty who turned heads everywhere

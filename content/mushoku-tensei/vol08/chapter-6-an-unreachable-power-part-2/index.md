@@ -6,16 +6,7 @@ weight = 6
 volume = 8
 chapter = 7
 +++
-
-Chapter 6:
-An Unreachable Power
-(Part 2)
-
-“N
-
-ICE TO MEET YOU.
-
-I’m, um, Fitz.”
+“Nice to meet you. I’m, um, Fitz.”
 
 Master Fitz was a bit nervous meeting Zanoba. Zanoba, on the
 other hand, marched right up to him. “I am Third Prince of the

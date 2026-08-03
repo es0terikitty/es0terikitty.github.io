@@ -6,16 +6,7 @@ weight = 7
 volume = 9
 chapter = 8
 +++
-
-Side Story:
-Sylphiette
-(Part 4)
-
-L
-
-ATELY, I’D BEEN FEELING
-
-more and more anxious about the
+Lately, I’d been feeling more and more anxious about the
 
 situation.
 Silent had turned out to be a girl. That was no big surprise in

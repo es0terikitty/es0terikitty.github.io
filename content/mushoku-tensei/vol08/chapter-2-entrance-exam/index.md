@@ -6,15 +6,7 @@ weight = 2
 volume = 8
 chapter = 3
 +++
-
-Chapter 2:
-Entrance Exam
-
-R
-
-ANOA KINGDOM
-
-was the largest country in the Central
+Ranoa Kingdom was the largest country in the Central
 
 Continent’s northern region, wielding the same kind of influence and
 power as the Shirone Kingdom in the south. However, it also had an

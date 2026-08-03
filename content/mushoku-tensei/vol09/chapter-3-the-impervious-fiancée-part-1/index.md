@@ -7,11 +7,7 @@ volume = 9
 chapter = 4
 +++
 
-Chapter 3:
-The Impervious Fiance
-(Part 1)
-
-HALF A YEAR had passed since I enrolled at the Ranoa University of
+Half a year had passed since I enrolled at the Ranoa University of
 
 Magic. It was autumn now—the harvest season. Fall never lasted for
 very long up in the Northern Territories, but it was a very important

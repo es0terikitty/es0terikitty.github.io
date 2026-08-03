@@ -6,16 +6,7 @@ weight = 4
 volume = 9
 chapter = 5
 +++
-
-Chapter 4:
-The Impervious Fiance
-(Part 2)
-
-W
-
-ORD SPREAD
-
-throughout the countries near the Ranoa
+Word spread throughout the countries near the Ranoa
 
 University of Magic with remarkable speed: A Demon King had
 appeared.
