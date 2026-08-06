@@ -1,0 +1,92 @@
+{% extends "base.html" %}
+
+{% block title %}wtc — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<main>
+
+<div class="wrap">
+  <nav class="back-link">
+    <a href="/">&larr; Home</a>
+  </nav>
+
+  <div class="terminal terminal-wtc">
+    <div class="terminal-bar">
+      <span>tty4</span>
+      <span></span>
+    </div>
+    <div class="terminal-body" style="align-items:stretch;">
+      <div class="prompt"><span>$</span> wtc</div>
+
+      <div id="drop-zone" class="wtc-drop">
+        <label for="image-loader">drag/drop, paste (ctrl+v), or browse</label>
+        <input type="file" id="image-loader" name="image-loader" accept=".jpg,.jpeg,.png,.webp" />
+      </div>
+
+      <canvas id="image-canvas" class="wtc-canvas"></canvas>
+
+      <div class="wtc-buttons">
+        <button class="compress-btn" id="download-button" type="button" onclick="downloadImage()">download</button>
+        <button class="compress-btn" id="reset-button" type="button" onclick="reset()">reset image</button>
+      </div>
+
+      <div id="palette" class="wtc-palette"></div>
+
+      <div class="wtc-options">
+        <button class="wtc-btn" id="opt-up" onclick="scrollTheme(-1)">▲</button>
+        <select name="Colour Scheme" id="theme-select" class="wtc-select">
+          <option value="Gruvbox">Gruvbox</option>
+          <option value="Nord">Nord</option>
+          <option value="Everforest">Everforest</option>
+          <option value="Solarized">Solarized</option>
+          <option value="Dracula">Dracula</option>
+          <option value="Tokyo Night">Tokyo Night</option>
+          <option value="Kanagawa">Kanagawa</option>
+          <option value="Digital Rust">Digital Rust</option>
+          <option value="Zenbones Light">Zenbones Light</option>
+          <option value="Mizuki Akiyama">Mizuki Akiyama</option>
+          <optgroup label="Catppuccin">
+            <option value="Catppuccin Latte">Catppuccin Latte</option>
+            <option value="Catppuccin Frappe">Catppuccin Frappe</option>
+            <option value="Catppuccin Macchiato">Catppuccin Macchiato</option>
+            <option value="Catppuccin Mocha">Catppuccin Mocha</option>
+          </optgroup>
+          <optgroup label="Rose Pine">
+            <option value="Rose Pine">Rose Pine</option>
+            <option value="Rose Pine Moon">Rose Pine Moon</option>
+            <option value="Rose Pine Dawn">Rose Pine Dawn</option>
+          </optgroup>
+        </select>
+        <button class="wtc-btn" id="opt-down" onclick="scrollTheme(1)">▼</button>
+        <button class="wtc-btn" id="custom-theme-button" onclick="openCustomMenu()"> + custom theme </button>
+      </div>
+
+      <div class="wtc-dither" onclick="dither()">
+        <input type="checkbox" id="dither-checkbox" />
+        <label id="dither-checkbox-label" for="checkbox">more accurate colours</label>
+        <span class="wtc-tooltip">dithering to reduce colour-banding</span>
+      </div>
+
+      <div id="custom-menu" class="wtc-custom">
+        <button class="wtc-btn" onclick="addColour()">+</button>
+        <button class="wtc-btn" onclick="removeColour()">-</button>
+        <div id="colours" class="wtc-colours"></div>
+      </div>
+
+      <button class="compress-btn wtc-convert" id="convert" type="button" onclick="initialize()">convert</button>
+
+      <div class="wtc-credit">
+        original tool —
+        <a href="https://notneelpatel.github.io/WallpaperThemeConverter" target="_blank" rel="noopener noreferrer">Wallpaper Theme Converter</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+</main>
+{% endblock content %}
+
+{% block extrascripts %}
+{{ super() }}
+<script src="/tool2/assets/convert.js"></script>
+{% endblock extrascripts %}
