@@ -508,11 +508,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   .terminal-body h1 { font-size: var(--text-xl); }
   .terminal { max-width: 100%; }
   nav.top { flex-wrap: wrap; }
-  .nav-links {
-    width: 100%; flex-direction: column; gap: 0;
-    padding-top: 12px; order: 1;
-  }
-  .nav-links a { display: block; padding: 8px 0; font-size: var(--text-sm); border-bottom: 1px solid var(--border); }
+  .nav-links { display: none; }
   .theme-pick { margin-left: 0; }
 }
 
