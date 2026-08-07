@@ -19,7 +19,7 @@
       <div class="prompt"><span>$</span> wtc</div>
 
       <div id="drop-zone" class="wtc-drop">
-        <label for="image-loader">drag/drop, paste (ctrl+v), or browse</label>
+        <label for="image-loader">drop an image</label>
         <input type="file" id="image-loader" name="image-loader" accept=".jpg,.jpeg,.png,.webp" />
       </div>
 
@@ -58,19 +58,12 @@
           </optgroup>
         </select>
         <button class="wtc-btn" id="opt-down" onclick="scrollTheme(1)">▼</button>
-        <button class="wtc-btn" id="custom-theme-button" onclick="openCustomMenu()"> + custom theme </button>
       </div>
 
       <div class="wtc-dither" onclick="dither()">
         <input type="checkbox" id="dither-checkbox" />
         <label id="dither-checkbox-label" for="checkbox">more accurate colours</label>
         <span class="wtc-tooltip">dithering to reduce colour-banding</span>
-      </div>
-
-      <div id="custom-menu" class="wtc-custom">
-        <button class="wtc-btn" onclick="addColour()">+</button>
-        <button class="wtc-btn" onclick="removeColour()">-</button>
-        <div id="colours" class="wtc-colours"></div>
       </div>
 
       <button class="compress-btn wtc-convert" id="convert" type="button" onclick="initialize()">convert</button>

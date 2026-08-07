@@ -1056,20 +1056,6 @@ html.js .reveal.in { opacity: 1; transform: none; }
   padding: 6px 10px; font-size: var(--text-xs); white-space: nowrap; z-index: 1;
 }
 .wtc-dither:hover .wtc-tooltip { display: block; }
-.wtc-custom {
-  display: none;
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 12px;
-  margin: 14px auto 0;
-  width: fit-content;
-}
-.wtc-custom .wtc-colours { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-top: 10px; }
-.wtc-custom input[type="color"] {
-  width: 40px; height: 40px; padding: 0;
-  background: var(--bg-panel);
-  border: 1px solid var(--border); border-radius: 6px; cursor: pointer;
-}
 .wtc-convert { margin-top: 16px; }
 .wtc-credit {
   margin-top: 22px;

@@ -32,21 +32,16 @@ var ctx = canvas.getContext("2d");
 const downloadButton = document.getElementById("download-button");
 const resetButton = document.getElementById("reset-button");
 const convertButton = document.getElementById("convert");
-const customMenu = document.getElementById("custom-menu");
-const colours_div = document.getElementById("colours");
 const palette_div = document.getElementById("palette");
 const menu = document.getElementById("theme-select");
 
-// Changing visibility of download/reset buttons, image canvas, and the menu for custom theme
+// Changing visibility of download/reset buttons and the image canvas
 canvas.style.visibility = "hidden";
-customMenu.style.display = "none";
 
 // Global variables
 var ogimage;
 var theme = [];
-var nodes = 0;
 var colour_palette_count = 0;
-var menuVisible = false;
 var list_of_themes;
 var themes_keys;
 var dithering = false;
@@ -110,91 +105,6 @@ function displayPalette() {
   });
 }
 
-// Opens the custom menu
-function openCustomMenu(keepClosed = false) {
-  if (keepClosed) menuVisible = true;
-
-  if (menuVisible == true) {
-    document.getElementById("custom-menu").style.display = "none";
-    document.getElementById("custom-theme-button").textContent =
-      "+ Custom Theme";
-    menuVisible = false;
-  } else {
-    document.getElementById("custom-menu").style.display = "block";
-    document.getElementById("custom-theme-button").textContent =
-      "- Custom Theme";
-    menuVisible = true;
-    createCustomPalette();
-  }
-}
-
-// Adds a colour swatch when pressed
-function addColour() {
-  const colour_node = document.createElement("input");
-  colour_node.setAttribute("type", "color");
-  colour_node.id = "node" + nodes;
-  colours_div.appendChild(colour_node);
-  nodes++;
-  createCustomPalette();
-}
-
-// Removes a colour swatch when pressed
-function removeColour() {
-  if (nodes > 0) {
-    document
-      .getElementById("colours")
-      .removeChild(colours_div.lastElementChild);
-    nodes--;
-  }
-  createCustomPalette();
-}
-
-// When the user is done with their custom theme, the colour data is loaded into the theme array
-function createCustomPalette() {
-  var hex_colour = "#FFFFFF";
-  var colour_palette = [];
-
-  for (var i = 0; i < nodes; i++) {
-    hex_colour = document.getElementById("node" + i).value;
-    colour_palette[i] = hex_colour
-  }
-
-  theme = colour_palette;
-  displayPalette();
-
-  // Apply custom theme to website
-  applyCustomWebsiteTheme(colour_palette);
-}
-
-// Apply a custom theme to the website
-function applyCustomWebsiteTheme(colourPalette) {
-  // Remove all theme classes from body
-  document.body.classList.forEach(className => {
-    if (className.startsWith('theme-')) {
-      document.body.classList.remove(className);
-    }
-  });
-
-  // If we have enough colors in the palette, create a custom theme
-  if (colourPalette.length >= 3) { // At least 3 colors
-    console.log(colourPalette)
-    // Get primary background and foreground colors
-    const bgColor = colourPalette[0];
-    const bgSecondary = colourPalette[1];
-    const fgColor = colourPalette[2];
-
-    // Apply custom colors directly to CSS variables
-    document.documentElement.style.setProperty('--bg-primary', bgColor);
-    document.documentElement.style.setProperty('--bg-secondary', bgSecondary);
-    document.documentElement.style.setProperty('--bg-tertiary', bgSecondary);
-    document.documentElement.style.setProperty('--fg-primary', fgColor);
-    document.documentElement.style.setProperty('--fg-secondary', fgColor);
-    document.documentElement.style.setProperty('--fg-tertiary', fgColor);
-    document.documentElement.style.setProperty('--accent', bgSecondary);
-    document.documentElement.style.setProperty('--border-color', fgColor);
-  }
-}
-
 // Toggle dithering
 function dither() {
   dithering = !dithering;
@@ -205,9 +115,6 @@ function dither() {
 function initialize() {
   if (theme.length == 0) {
     scrollTheme();
-  }
-  if (customMenu.style.display === "block") {
-    createCustomPalette();
   }
 
   setTimeout(function () {
@@ -389,7 +296,6 @@ function scrollTheme(scrollDirection = 0) {
     menu.value = themes_keys[0];
   }
 
-  openCustomMenu(true);
   theme = list_of_themes[menu.value];
   displayPalette();
 
@@ -409,12 +315,3 @@ menu.addEventListener("wheel", (event) => {
 document.getElementById("theme-select").onchange = function () {
   scrollTheme();
 };
-
-// Updates palette when user sets a colour in the custom menu
-document.addEventListener("click", function (event) {
-  if (event.target.type === "color") {
-    event.target.addEventListener("input", function () {
-      createCustomPalette();
-    });
-  }
-});
