@@ -501,21 +501,17 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
 .back-link a:hover { color: var(--accent); }
 
 /* ── Mobile nav ── */
-.nav-toggle { display: none; background: none; border: none; color: var(--fg-dim); font-family: var(--font-mono); font-size: 1.5rem; cursor: pointer; padding: 0 4px; line-height: 1; }
-
 /* ── Responsive ── */
 @media (max-width: 768px) {
   .stack-grid { grid-template-columns: repeat(2, 1fr); }
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .terminal-body h1 { font-size: var(--text-xl); }
   .terminal { max-width: 100%; }
-  .nav-toggle { display: flex; align-items: center; justify-content: center; }
   nav.top { flex-wrap: wrap; }
   .nav-links {
-    display: none; width: 100%; flex-direction: column; gap: 0;
+    width: 100%; flex-direction: column; gap: 0;
     padding-top: 12px; order: 1;
   }
-  .nav-links.open { display: flex; }
   .nav-links a { display: block; padding: 8px 0; font-size: var(--text-sm); border-bottom: 1px solid var(--border); }
   .theme-pick { margin-left: 0; }
 }
@@ -930,7 +926,7 @@ html.js .reveal.in { opacity: 1; transform: none; }
 .nav-links a:hover::after, .nav-links a:focus-visible::after { width: 100%; }
 
 /* button press feedback */
-.theme-btn:active, .nav-toggle:active, .type-mode:active, .type-toggle:active,
+.theme-btn:active, .type-mode:active, .type-toggle:active,
 .dict-submit:active, .dict-retry:active, .copy-btn:active,
 .compress-btn:active:not(:disabled), .compress-dl-btn:active, .compress-dl-all:active {
   transform: translateY(1px);
@@ -1014,11 +1010,6 @@ html.js .reveal.in { opacity: 1; transform: none; }
   margin: 14px auto 0;
 }
 .wtc-buttons { display: flex; justify-content: center; gap: 10px; margin-top: 14px; }
-.wtc-palette { display: flex; justify-content: center; flex-wrap: wrap; margin-top: 16px; }
-.wtc-palette .palette-node {
-  width: 22px; height: 22px;
-  border: 1px solid var(--border);
-}
 .wtc-options { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
 .wtc-btn {
   font-family: var(--font-mono);

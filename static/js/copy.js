@@ -17,14 +17,4 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-  /* mobile nav toggle */
-  var toggle = document.getElementById('nav-toggle');
-  var links = document.getElementById('nav-links');
-  if (toggle && links) {
-    toggle.addEventListener('click', function() {
-      links.classList.toggle('open');
-      toggle.textContent = links.classList.contains('open') ? '✕' : '≡';
-    });
-  }
-
 });

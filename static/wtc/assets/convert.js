@@ -32,7 +32,6 @@ var ctx = canvas.getContext("2d");
 const downloadButton = document.getElementById("download-button");
 const resetButton = document.getElementById("reset-button");
 const convertButton = document.getElementById("convert");
-const palette_div = document.getElementById("palette");
 const menu = document.getElementById("theme-select");
 
 // Changing visibility of download/reset buttons and the image canvas
@@ -41,7 +40,6 @@ canvas.style.visibility = "hidden";
 // Global variables
 var ogimage;
 var theme = [];
-var colour_palette_count = 0;
 var list_of_themes;
 var themes_keys;
 var dithering = false;
@@ -82,27 +80,6 @@ function handleImage(source) {
 // Resets the image by taking the data of the original image and calling handleImage
 function reset() {
   handleImage(ogimage);
-}
-
-// Displays the colour palette
-function displayPalette() {
-  // Deletes previous colour palette
-  if (colour_palette_count != 0) {
-    for (var i = 0; i < colour_palette_count; i++) {
-      document
-        .getElementById("palette")
-        .removeChild(palette_div.lastElementChild);
-    }
-    colour_palette_count = 0;
-  }
-  // Create new colour palette
-  theme.forEach((colour) => {
-    const palette_node = document.createElement("div");
-    palette_node.className = "palette-node";
-    palette_node.style.backgroundColor = colour;
-    palette_div.appendChild(palette_node);
-    colour_palette_count++;
-  });
 }
 
 // Toggle dithering
@@ -297,7 +274,6 @@ function scrollTheme(scrollDirection = 0) {
   }
 
   theme = list_of_themes[menu.value];
-  displayPalette();
 
   // Apply the selected theme to the website
   applyWebsiteTheme(menu.value);
