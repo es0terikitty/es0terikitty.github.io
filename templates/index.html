@@ -35,9 +35,8 @@
     </div>
     {% set ri = get_section(path="reverend-insanity/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
-    {% set mt = get_section(path="mushoku-tensei/_index.md") %}
     {% set md = get_section(path="moby-dick/_index.md") %}
-    {% set shelves = [ri, chapters, md, mt] %}
+    {% set shelves = [ri, chapters, md] %}
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="playlist-item reveal">
       <div>
@@ -118,25 +117,18 @@
   <div class="stats-grid">
     {% set ri = get_section(path="reverend-insanity/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
-    {% set mt = get_section(path="mushoku-tensei/_index.md") %}
     {% set md = get_section(path="moby-dick/_index.md") %}
-    {% set mt_all = [] %}
-    {% for sub in mt.subsections %}
-      {% set vol = get_section(path=sub) %}
-      {% set_global mt_all = mt_all | concat(with=vol.pages) %}
-    {% endfor %}
     {% set ri_all = [] %}
     {% for sub in ri.subsections %}
       {% set vol = get_section(path=sub) %}
       {% set_global ri_all = ri_all | concat(with=vol.pages) %}
     {% endfor %}
     {% set ch_n = chapters.pages | length %}
-    {% set mt_n = mt_all | length %}
     {% set ri_n = ri_all | length %}
     {% set md_n = md.pages | length %}
-    {% set all_n = ch_n + mt_n + ri_n + md_n %}
+    {% set all_n = ch_n + ri_n + md_n %}
     <div class="stat-card reveal">
-      <div class="value">4+1</div>
+      <div class="value">3+1</div>
       <div class="label">Novels and Tools</div>
     </div>
     <div class="stat-card reveal">
