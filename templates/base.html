@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}if(t!=='red'&&t!=='green')t='blue';document.documentElement.setAttribute('data-theme',t);document.documentElement.classList.add('js')})();</script>
+  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}var v=['aqua','crimson','emerald','mizuki-akiyama','gruvbox'];if(v.indexOf(t)<0)t='gruvbox';document.documentElement.setAttribute('data-theme',t);document.documentElement.classList.add('js')})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
@@ -28,9 +28,11 @@
   <div class="theme-pick">
     <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false">theme</button>
     <div class="theme-menu" id="theme-menu">
-      <button type="button" data-theme-opt="blue">blue</button>
-      <button type="button" data-theme-opt="red">red</button>
-      <button type="button" data-theme-opt="green">green</button>
+      <button type="button" data-theme-opt="gruvbox">gruvbox</button>
+      <button type="button" data-theme-opt="aqua">aqua</button>
+      <button type="button" data-theme-opt="crimson">crimson</button>
+      <button type="button" data-theme-opt="emerald">emerald</button>
+      <button type="button" data-theme-opt="mizuki-akiyama">mizuki</button>
     </div>
   </div>
   <button class="nav-toggle" aria-label="toggle menu" id="nav-toggle">≡</button>

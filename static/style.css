@@ -19,7 +19,7 @@
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
-/* ── Blue (default) ── */
+/* ── Base: aqua (fallback when JS disabled) ── */
 :root {
   --bg: #070a12;
   --bg-panel: #0b1120;
@@ -52,8 +52,30 @@
   --content-w-list: 960px;
 }
 
-/* ── Red (more red, less orange) ── */
-[data-theme="red"] {
+/* ── Aqua (default) ── */
+[data-theme="aqua"] {
+  --bg: #070a12;
+  --bg-panel: #0b1120;
+  --bg-panel-alt: #111b30;
+  --border: #1e2b47;
+  --border-strong: #3b82f6;
+  --fg: #e7eefb;
+  --fg-dim: #90a6c7;
+  --fg-muted: #4d6288;
+  --accent: #3b82f6;
+  --accent-bright: #60a5fa;
+  --accent-soft: #6ea8ff;
+  --accent-dim: #93c5fd;
+  --link: var(--accent-soft);
+  --link-hover: var(--accent-dim);
+  --focus-ring: var(--accent-bright);
+  --grid-fade: #070a12;
+  --grid-line: rgba(96, 165, 250, 0.06);
+  --grid-dot: rgba(96, 165, 250, 0.22);
+}
+
+/* ── Crimson (more red, less orange) ── */
+[data-theme="crimson"] {
   --bg: #0d0505;
   --bg-panel: #160809;
   --bg-panel-alt: #210d0d;
@@ -74,8 +96,8 @@
   --grid-dot: rgba(255, 42, 42, 0.22);
 }
 
-/* ── Green (terminal) ── */
-[data-theme="green"] {
+/* ── Emerald (terminal) ── */
+[data-theme="emerald"] {
   --bg: #05100a;
   --bg-panel: #08160e;
   --bg-panel-alt: #0d2016;
@@ -94,6 +116,50 @@
   --grid-fade: #05100a;
   --grid-line: rgba(0, 230, 92, 0.06);
   --grid-dot: rgba(0, 230, 92, 0.22);
+}
+
+/* ── Gruvbox (warm, comfortable — default) ── */
+[data-theme="gruvbox"] {
+  --bg: #1d1d1d;
+  --bg-panel: #282828;
+  --bg-panel-alt: #32302f;
+  --border: #504945;
+  --border-strong: #d79921;
+  --fg: #ebdbb2;
+  --fg-dim: #bdae93;
+  --fg-muted: #928374;
+  --accent: #d79921;
+  --accent-bright: #fabd2f;
+  --accent-soft: #ea6962;
+  --accent-dim: #8ec07c;
+  --link: #83a598;
+  --link-hover: #8ec07c;
+  --focus-ring: var(--accent-bright);
+  --grid-fade: #282828;
+  --grid-line: rgba(235, 219, 178, 0.05);
+  --grid-dot: rgba(235, 219, 178, 0.16);
+}
+
+/* ── Mizuki Akiyama (soft pink / lavender) ── */
+[data-theme="mizuki-akiyama"] {
+  --bg: #141122;
+  --bg-panel: #1d1a2d;
+  --bg-panel-alt: #292344;
+  --border: #3b3256;
+  --border-strong: #e6a6c8;
+  --fg: #f2e8f4;
+  --fg-dim: #cbbbe0;
+  --fg-muted: #8f84a8;
+  --accent: #e6a6c8;
+  --accent-bright: #f0bcd4;
+  --accent-soft: #ecb7d2;
+  --accent-dim: #afa2d8;
+  --link: #c7bce8;
+  --link-hover: #e6a6c8;
+  --focus-ring: var(--accent-bright);
+  --grid-fade: #141122;
+  --grid-line: rgba(230, 166, 200, 0.07);
+  --grid-dot: rgba(230, 166, 200, 0.20);
 }
 
 *, *::before, *::after {
