@@ -213,7 +213,6 @@ nav.top .logo:hover { color: var(--accent); }
   display: inline-block;
 }
 .nav-links a:hover { color: var(--accent); }
-.nav-links .ext::after { content: " ->"; font-size: 0.75em; }
 
 /* ── Theme picker ── */
 .theme-pick {
@@ -253,27 +252,6 @@ nav.top .logo:hover { color: var(--accent); }
 }
 .theme-menu button:hover { color: var(--fg); background: var(--bg-panel-alt); }
 .theme-menu button.active { color: var(--accent); }
-
-/* ── Scanline overlay ── */
-@keyframes scanlines {
-  0% { transform: translateY(0); }
-  100% { transform: translateY(4px); }
-}
-@keyframes flicker {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.997; }
-}
-body::after {
-  content: "";
-  position: fixed; inset: 0; z-index: 9999;
-  pointer-events: none;
-  background: repeating-linear-gradient(
-    0deg, transparent, transparent 2px, rgba(0,0,0,0.06) 2px, rgba(0,0,0,0.06) 4px
-  );
-}
-@media (prefers-reduced-motion: no-preference) {
-  body::after { animation: flicker 0.15s infinite; }
-}
 
 /* ── Grid canvas background ── */
 #grid-canvas {
