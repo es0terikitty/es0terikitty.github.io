@@ -332,9 +332,11 @@ nav.top .logo:hover { color: var(--accent); }
   margin: 6px auto 0;
 }
 @media (prefers-reduced-motion: no-preference) {
-  .cursor { animation: blink 1s step-end infinite; }
+  .cursor { animation: blink 1s step-end infinite, fade-out 0s linear 3.4s forwards; }
 }
 @keyframes blink { 50% { opacity: 0; } }
+@keyframes fade-out { to { opacity: 0; } }
+.tagline .dollar { animation: fade-out 0s linear 3.4s forwards; }
 
 /* ── Typewriter ── */
 @media (prefers-reduced-motion: no-preference) {
