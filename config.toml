@@ -1,6 +1,6 @@
-title = "Es0terkitty"
-description = "Until we turn to dust, (ﾐゝᆽ╹ﾐ)"
-base_url = "https://es0terikitty.github.io"
+title = "Hiraeth"
+description = "a long way from home — a place for books, tools & quiet code"
+base_url = "https://hiraeth-dev.github.io"
 default_language = "en"
 build_search_index = false
 generate_feeds = true

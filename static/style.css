@@ -338,9 +338,9 @@ nav.top .logo:hover { color: var(--accent); }
 
 /* ── Typewriter ── */
 @media (prefers-reduced-motion: no-preference) {
-  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; width: 0; animation: type 2.5s steps(60, end) forwards; }
+  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; width: 0; animation: type 3.4s steps(60, end) forwards; }
 }
-@keyframes type { to { width: 35ch; } }
+@keyframes type { to { width: 60ch; } }
 
 /* ── Section headings ── */
 .section-heading {
