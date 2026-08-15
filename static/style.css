@@ -1,21 +1,21 @@
 @font-face {
-  font-family: "MapleMono";
-  src: url("/fonts/MapleMono-NF-Regular.ttf") format("truetype");
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-Regular.ttf") format("truetype");
   font-weight: 400; font-style: normal; font-display: swap;
 }
 @font-face {
-  font-family: "MapleMono";
-  src: url("/fonts/MapleMono-NF-Bold.ttf") format("truetype");
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-Bold.ttf") format("truetype");
   font-weight: 700; font-style: normal; font-display: swap;
 }
 @font-face {
-  font-family: "MapleMono";
-  src: url("/fonts/MapleMono-NF-Italic.ttf") format("truetype");
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-Italic.ttf") format("truetype");
   font-weight: 400; font-style: italic; font-display: swap;
 }
 @font-face {
-  font-family: "MapleMono";
-  src: url("/fonts/MapleMono-NF-BoldItalic.ttf") format("truetype");
+  font-family: "Iosevka";
+  src: url("/fonts/Iosevka-BoldItalic.ttf") format("truetype");
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
@@ -39,8 +39,8 @@
   --grid-fade: #070a12;
   --grid-line: rgba(96, 165, 250, 0.06);
   --grid-dot: rgba(96, 165, 250, 0.22);
-  --font-mono: "MapleMono", monospace;
-  --font-read: "MapleMono", monospace;
+  --font-mono: "Iosevka", monospace;
+  --font-read: "Iosevka", monospace;
   --text-xs: 0.75rem;
   --text-sm: 0.875rem;
   --text-base: 1rem;
