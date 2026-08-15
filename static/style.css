@@ -342,6 +342,8 @@ nav.top .logo:hover { color: var(--accent); }
   overflow: hidden;
   white-space: nowrap;
   max-width: 100%;
+  min-width: 0; /* allow shrinking inside the flex container */
+  text-overflow: ellipsis;
 }
 
 /* ── Section headings ── */

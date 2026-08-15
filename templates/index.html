@@ -21,7 +21,12 @@
     ░      ▒   ▒▒ ░  ░ ▒ ▒░
   ░        ░   ▒   ░ ░ ░ ▒
                ░  ░    ░ ░</pre>
-      <div class="tagline"><span class="dollar">$</span> <span class="typewriter" id="typewriter" data-text="{{ config.description }}"></span><span class="cursor" id="cursor"></span></div>
+      <div class="tagline" aria-label="{{ config.description }}">
+        <span class="dollar" aria-hidden="true">$</span>
+        <span class="typewriter" id="typewriter" data-text="{{ config.description }}" aria-hidden="true">{{ config.description }}</span>
+        <span class="cursor" id="cursor" aria-hidden="true"></span>
+        <noscript><style>.typewriter{width:auto!important}</style></noscript>
+      </div>
     </div>
   </div>
 </div>
@@ -180,6 +185,8 @@ setInterval(tick, 1000);
 
   var msPerChar = 45;
   var i = 0;
+
+  tw.textContent = ''; // clear server-rendered fallback before typing
 
   function type() {
     tw.textContent = chars.slice(0, i).join('');
