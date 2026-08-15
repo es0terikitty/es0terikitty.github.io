@@ -21,7 +21,7 @@
     ░      ▒   ▒▒ ░  ░ ▒ ▒░
   ░        ░   ▒   ░ ░ ░ ▒
                ░  ░    ░ ░</pre>
-      <div class="tagline"><span class="dollar">$</span> <span class="typewriter">{{ config.description }}</span><span class="cursor"></span></div>
+      <div class="tagline"><span class="dollar">$</span> <span class="typewriter" id="typewriter" data-text="{{ config.description }}"></span><span class="cursor" id="cursor"></span></div>
     </div>
   </div>
 </div>
@@ -156,35 +156,47 @@ setInterval(tick, 1000);
 </script>
 
 <script>
-var tw = document.querySelector('.typewriter');
-var tag = document.querySelector('.tagline');
-if (tw && tag) {
-  function size() {
-    var textW = tw.scrollWidth;
-    tw.style.setProperty('--tw-w', textW + 'px');
-    tw.style.width = textW + 'px';
-    tag.style.width = tag.scrollWidth + 'px';
-    if (window.matchMedia('(prefers-reduced-motion: no-preference)').matches) {
-      tw.style.animation = 'none';
-      void tw.offsetWidth;
-      tw.style.animation = '';
+(function () {
+  var tw = document.getElementById('typewriter');
+  var cursor = document.getElementById('cursor');
+  var tag = document.querySelector('.tagline');
+  if (!tw || !tag) return;
+
+  var chars = Array.from(tw.dataset.text || '');
+  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  function moveCursorBelow() {
+    if (cursor) {
+      cursor.classList.add('below');
+      tag.after(cursor);
+    }
+  }
+
+  if (reduceMotion || chars.length === 0) {
+    tw.textContent = chars.join('');
+    moveCursorBelow();
+    return;
+  }
+
+  var msPerChar = 45;
+  var i = 0;
+
+  function type() {
+    tw.textContent = chars.slice(0, i).join('');
+    if (i < chars.length) {
+      i++;
+      setTimeout(type, msPerChar);
     } else {
-      tw.style.width = textW + 'px';
+      moveCursorBelow();
     }
   }
+
   if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(size);
+    document.fonts.ready.then(type);
   } else {
-    size();
+    type();
   }
-  tw.addEventListener('animationend', function() {
-    var c = document.querySelector('.cursor');
-    if (c) {
-      c.classList.add('below');
-      c.parentElement.after(c);
-    }
-  });
-}
+})();
 </script>
 {% endblock content %}
 

@@ -337,10 +337,12 @@ nav.top .logo:hover { color: var(--accent); }
 @keyframes blink { 50% { opacity: 0; } }
 
 /* ── Typewriter ── */
-@media (prefers-reduced-motion: no-preference) {
-  .typewriter { display: inline-block; overflow: hidden; white-space: nowrap; width: 0; max-width: 100%; animation: type 2.5s steps(60, end) forwards; }
+.typewriter {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  max-width: 100%;
 }
-@keyframes type { to { width: var(--tw-w, 35ch); } }
 
 /* ── Section headings ── */
 .section-heading {
