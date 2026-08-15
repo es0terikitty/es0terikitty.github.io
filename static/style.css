@@ -19,26 +19,26 @@
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
-/* ── Base: aqua (fallback when JS disabled) ── */
+/* ── Base: crimson (fallback when JS disabled) ── */
 :root {
-  --bg: #070a12;
-  --bg-panel: #0b1120;
-  --bg-panel-alt: #111b30;
-  --border: #1e2b47;
-  --border-strong: #3b82f6;
-  --fg: #e7eefb;
-  --fg-dim: #90a6c7;
-  --fg-muted: #4d6288;
-  --accent: #3b82f6;
-  --accent-bright: #60a5fa;
-  --accent-soft: #6ea8ff;
-  --accent-dim: #93c5fd;
+  --bg: #0d0505;
+  --bg-panel: #160809;
+  --bg-panel-alt: #210d0d;
+  --border: #3d1414;
+  --border-strong: #ff2a2a;
+  --fg: #f5e6e4;
+  --fg-dim: #d49a96;
+  --fg-muted: #8c4a46;
+  --accent: #ff2a2a;
+  --accent-bright: #ff5c5c;
+  --accent-soft: #ff6a5a;
+  --accent-dim: #ff7a6e;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
-  --grid-fade: #070a12;
-  --grid-line: rgba(96, 165, 250, 0.06);
-  --grid-dot: rgba(96, 165, 250, 0.22);
+  --grid-fade: #0d0505;
+  --grid-line: rgba(255, 42, 42, 0.06);
+  --grid-dot: rgba(255, 42, 42, 0.22);
   --font-mono: "Iosevka", monospace;
   --font-read: "Iosevka", monospace;
   --text-xs: 0.8125rem;
@@ -118,7 +118,7 @@
   --grid-dot: rgba(0, 230, 92, 0.22);
 }
 
-/* ── Gruvbox (warm, comfortable — default) ── */
+/* ── Gruvbox (warm, comfortable) ── */
 [data-theme="gruvbox"] {
   --bg: #1d1d1d;
   --bg-panel: #282828;

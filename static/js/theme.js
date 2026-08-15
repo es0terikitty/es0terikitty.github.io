@@ -3,7 +3,7 @@
   var btn = document.getElementById('theme-btn');
   var menu = document.getElementById('theme-menu');
   if (!btn || !menu) return;
-  var current = html.getAttribute('data-theme') || 'gruvbox';
+  var current = html.getAttribute('data-theme') || 'crimson';
 
   function setActive() {
     var opts = menu.querySelectorAll('[data-theme-opt]');
