@@ -96,14 +96,17 @@
 </section>
 
 <section id="now" class="wrap reveal">
-  <h2 class="section-heading">~/desideria</h2>
+  <h2 class="section-heading">~/now</h2>
   <div class="terminal" style="max-width:100%;">
     <div class="terminal-bar"><span></span><span><span class="live-dot"></span> LIVE</span></div>
     <div class="terminal-body" style="align-items:flex-start;">
-      <div class="prompt"><span>$</span> man desideria</div>
+      <div class="prompt"><span>$</span> cat /now</div>
       <div class="now-text">
-        <p>Desideria</p>
-        <p style="margin-top:0.6em;"><em>n.</em> — the state of longing for a home that no longer exists; an earnest, deeply felt desire for what is absent or lost.</p>
+        <p>Truth is a pathless land.</p>
+        <p style="margin-top:1em;">Truth, being limitless, unconditioned, unapproachable by any path whatsoever, cannot be organized — no organization can lead man to spirituality.</p>
+        <p style="margin-top:1em;">If you would attain to the mountain-top you must pass through the valley, climb the steeps, unafraid of the dangerous precipices.</p>
+        <p style="margin-top:1em;">The day you teach someone something, you've ruined them forever.</p>
+        <p style="color:var(--fg-muted); margin-top:1.4em;">~ J Krishnamurti</p>
       </div>
     </div>
   </div>
@@ -154,7 +157,26 @@ setInterval(tick, 1000);
 
 <script>
 var tw = document.querySelector('.typewriter');
-if (tw) {
+var tag = document.querySelector('.tagline');
+if (tw && tag) {
+  function size() {
+    var textW = tw.scrollWidth;
+    tw.style.setProperty('--tw-w', textW + 'px');
+    tw.style.width = textW + 'px';
+    tag.style.width = tag.scrollWidth + 'px';
+    if (window.matchMedia('(prefers-reduced-motion: no-preference)').matches) {
+      tw.style.animation = 'none';
+      void tw.offsetWidth;
+      tw.style.animation = '';
+    } else {
+      tw.style.width = textW + 'px';
+    }
+  }
+  if (document.fonts && document.fonts.ready) {
+    document.fonts.ready.then(size);
+  } else {
+    size();
+  }
   tw.addEventListener('animationend', function() {
     var c = document.querySelector('.cursor');
     if (c) {
