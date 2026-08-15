@@ -191,11 +191,7 @@ setInterval(tick, 1000);
     }
   }
 
-  if (document.fonts && document.fonts.ready) {
-    document.fonts.ready.then(type);
-  } else {
-    type();
-  }
+  type();
 })();
 </script>
 {% endblock content %}
