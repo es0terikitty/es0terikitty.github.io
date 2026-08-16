@@ -185,6 +185,9 @@ html {
 * { scrollbar-width: thin; scrollbar-color: var(--border) var(--bg); }
 
 body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
   background:
     radial-gradient(ellipse 120% 90% at 50% 35%, #000 0%, var(--bg) 55%, var(--bg-glow) 100%);
   background-attachment: fixed;
@@ -193,8 +196,9 @@ body {
   font-size: var(--text-sm);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
-  min-height: 100vh;
 }
+
+body > * { width: 100%; }
 
 a { color: var(--link); text-decoration: none; }
 a:hover { color: var(--link-hover); }
@@ -471,10 +475,9 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
 
 /* ── Footer ── */
 .footer {
-  border-top: 1px solid var(--border);
   padding: 24px;
   text-align: center;
-  margin-top: 40px;
+  margin-top: auto;
 }
 .footer .rule {
   color: var(--fg-muted);
