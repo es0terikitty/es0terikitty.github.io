@@ -604,6 +604,12 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
 }
 .dict-word { font-size: var(--text-lg); font-weight: 700; color: var(--fg); }
 .dict-phonetic { color: var(--fg-dim); font-size: var(--text-sm); }
+.dict-audio {
+  background: none; border: 1px solid var(--border); color: var(--accent-dim);
+  padding: 0 6px; line-height: 1.6; cursor: pointer;
+  font-family: var(--font-mono); font-size: 0.75rem;
+}
+.dict-audio:hover { border-color: var(--accent-dim); }
 
 .dict-meaning {
   margin-top: 12px; padding-top: 10px;
@@ -616,6 +622,18 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   text-transform: lowercase; font-family: var(--font-mono);
 }
 .dict-def { color: var(--fg); font-size: var(--text-sm); line-height: 1.6; margin-top: 4px; }
+.dict-example {
+  color: var(--fg-dim); font-size: var(--text-sm); line-height: 1.6;
+  margin-top: 2px; padding-left: 12px;
+}
+.dict-syn {
+  color: var(--fg-dim); font-size: 0.8125rem; line-height: 1.6; margin-top: 6px;
+}
+.dict-syn-label {
+  color: var(--accent-dim); text-transform: lowercase; margin-right: 6px;
+}
+
+.dict-input:disabled, .dict-submit:disabled { opacity: 0.5; cursor: default; }
 
 .dict-mock {
   text-align: center; padding: 24px 0;

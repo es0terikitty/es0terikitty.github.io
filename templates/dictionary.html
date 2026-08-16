@@ -33,103 +33,228 @@
 
 <script>
 (function() {
+  var API_BASE = 'https://api.dictionaryapi.dev/api/v2/entries/en/';
+  var FETCH_TIMEOUT_MS = 8000;
+
   var form = document.getElementById('dict-form');
   var input = document.getElementById('dict-input');
+  var submitBtn = form.querySelector('.dict-submit');
   var output = document.getElementById('dict-output');
+
+  // Tracks the request currently allowed to write to the DOM. Any older,
+  // superseded request checks against this before rendering.
+  var currentController = null;
+
+  var jabs = [
+    'nice try. did you mean to spell that correctly?',
+    'that\'s not a word. try again, genius.',
+    'spell check is free, you know.',
+    'did you hit the keyboard with your face?',
+    'not in the dictionary. shocking.',
+    'maybe try English next time.',
+    'i looked it up. it doesn\'t exist. just like— nevermind.',
+    'you call that a word?',
+    'are you sure you know how to read?',
+    'that word is as real as your plans.',
+    'congratulations. you invented a word nobody uses.',
+    'error 404: word not found. skill issue.',
+    'did you have a stroke while typing?',
+    'the dictionary said "lol no".',
+    'that\'s not a word. try harder.',
+    'are you typing with your elbows?',
+    'even autocorrect gave up on that one.',
+    'i googled it. nothing. embarrassing.',
+  ];
+  var kaomoji = [
+    '(◍•ᴗ•◍)♡ ✧*。', '(つ◉益◉)つ', '(╯°□°）╯︵ ┻━┻',
+    '(⊙_⊙)', '(¬_¬)', '(￣ヘ￣)', 'ಠ_ಠ', '(；一_一)',
+    '(▀̿̿Ĺ̯̿̿▀̿ ̿)', '( ͡° ͜ʖ ͡°)', '(ʘ‿ʘ)', 'ʕ•ᴥ•ʔ',
+    '(ノಠ益ಠ)ノ', '︵ヽ(`Д´)ﾉ︵', '┐(\'～`;)┌',
+    '(◔_◔)', '(-_-;)', '(＃￣ω￣)', '＜（－︿－）＞',
+    '(◕‿◕)', '(ᗒᗨᗕ)', 'ヽ(´ー｀)ノ', '＼(◎o◎)／',
+    '(＾▽＾)', 'ᕙ(▀̿̿Ĺ̯̿̿▀̿ ̿)ᕗ', '┬─┬ノ( º _ ºノ)',
+    '(ಥ_ಥ)', '(◞‸◟)', '〳◔Ĺ̯◔〵', '(;´Д`)',
+    '(´-ω-`)', '〜(꒪꒳꒪)〜', '(˘̩̩̩̩̩̩̩̩˘)', '(个_个)',
+    'ヽ(￣д￣;)ノ', '(￣□￣;)', '∑(O_O;)', '(╯▽╰)',
+  ];
+
+  function escapeHTML(str) {
+    return String(str).replace(/[&<>"']/g, function(c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function setLoading(isLoading) {
+    input.disabled = isLoading;
+    submitBtn.disabled = isLoading;
+  }
+
+  function bindRetry() {
+    var btn = output.querySelector('.dict-retry');
+    if (btn) {
+      btn.addEventListener('click', function() {
+        output.innerHTML = '';
+        input.value = '';
+        input.focus();
+      });
+    }
+  }
+
+  function renderNotFound() {
+    var jab = jabs[Math.floor(Math.random() * jabs.length)];
+    var kao = kaomoji[Math.floor(Math.random() * kaomoji.length)];
+    output.innerHTML = '<div class="dict-mock">'
+      + '<p class="dict-jab">' + escapeHTML(jab) + '</p>'
+      + '<p class="dict-kao">' + escapeHTML(kao) + '</p>'
+      + '<button class="dict-retry">try again ↵</button>'
+      + '</div>';
+    bindRetry();
+  }
+
+  function renderServerError() {
+    output.innerHTML = '<div class="dict-mock">'
+      + '<p class="dict-jab">dictionary\'s not answering right now. not your fault.</p>'
+      + '<p class="dict-kao">(￣ヘ￣)</p>'
+      + '<button class="dict-retry">try again ↵</button>'
+      + '</div>';
+    bindRetry();
+  }
+
+  function renderTimeoutError() {
+    output.innerHTML = '<div class="dict-mock">'
+      + '<p class="dict-jab">that took too long. try again?</p>'
+      + '<p class="dict-kao">(-_-;)</p>'
+      + '<button class="dict-retry">try again ↵</button>'
+      + '</div>';
+    bindRetry();
+  }
+
+  function renderResult(entry) {
+    var phonetic = entry.phonetic || '';
+    var audioUrl = '';
+    var phonetics = entry.phonetics || [];
+    for (var i = 0; i < phonetics.length; i++) {
+      if (!phonetic && phonetics[i].text) phonetic = phonetics[i].text;
+      if (!audioUrl && phonetics[i].audio) audioUrl = phonetics[i].audio;
+      if (phonetic && audioUrl) break;
+    }
+
+    var html = '<div class="dict-result">';
+    html += '<div class="dict-word-row">';
+    html += '<span class="dict-word">' + escapeHTML(entry.word) + '</span>';
+    if (phonetic) html += '<span class="dict-phonetic">' + escapeHTML(phonetic) + '</span>';
+    if (audioUrl) {
+      html += '<button type="button" class="dict-audio" aria-label="play pronunciation" data-audio="'
+        + escapeHTML(audioUrl) + '">&#9658;</button>';
+    }
+    html += '</div>';
+
+    var meanings = entry.meanings || [];
+    for (var m = 0; m < meanings.length; m++) {
+      var meaning = meanings[m];
+      html += '<div class="dict-meaning">';
+      html += '<span class="dict-pos">' + escapeHTML(meaning.partOfSpeech || '') + '</span>';
+
+      var defs = meaning.definitions || [];
+      for (var d = 0; d < Math.min(defs.length, 3); d++) {
+        var def = defs[d];
+        html += '<p class="dict-def">' + escapeHTML(def.definition) + '</p>';
+        if (def.example) {
+          html += '<p class="dict-example">“' + escapeHTML(def.example) + '”</p>';
+        }
+      }
+
+      var synonyms = meaning.synonyms || [];
+      if (synonyms.length) {
+        html += '<p class="dict-syn"><span class="dict-syn-label">synonyms</span> '
+          + escapeHTML(synonyms.slice(0, 5).join(', ')) + '</p>';
+      }
+      var antonyms = meaning.antonyms || [];
+      if (antonyms.length) {
+        html += '<p class="dict-syn"><span class="dict-syn-label">antonyms</span> '
+          + escapeHTML(antonyms.slice(0, 5).join(', ')) + '</p>';
+      }
+
+      html += '</div>';
+    }
+
+    html += '</div>';
+    output.innerHTML = html;
+
+    var audioBtn = output.querySelector('.dict-audio');
+    if (audioBtn) {
+      audioBtn.addEventListener('click', function() {
+        // dictionaryapi.dev's own audio endpoint is frequently down (502).
+        // Try its URL first, then fall back to Google's classic gstatic files,
+        // trying both the UK (_gb) and US (_us) audio variants.
+        var base = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
+          + entry.word + '--_';
+        var candidates = [audioUrl, base + 'gb_1.mp3', base + 'us_1.mp3'];
+        (function tryNext(i) {
+          if (i >= candidates.length) return;
+          new Audio(candidates[i]).play().catch(function() { tryNext(i + 1); });
+        })(0);
+      });
+    }
+  }
 
   form.addEventListener('submit', function(e) {
     e.preventDefault();
     var word = input.value.trim();
     if (!word) return;
 
+    // Cancel whatever's still in flight — its result would be stale anyway.
+    if (currentController) currentController.abort();
+    var controller = new AbortController();
+    currentController = controller;
+
+    var timeoutId = setTimeout(function() { controller.abort(); }, FETCH_TIMEOUT_MS);
+
+    setLoading(true);
     output.innerHTML = '<p class="dict-status"><span class="live-dot"></span> looking up…</p>';
 
-    fetch('https://api.dictionaryapi.dev/api/v2/entries/en/' + encodeURIComponent(word))
+    fetch(API_BASE + encodeURIComponent(word), { signal: controller.signal })
       .then(function(r) {
-        if (!r.ok) throw new Error('not found');
+        if (!r.ok) {
+          // dictionaryapi.dev is inconsistent for missing words: it returns
+          // 404 + JSON "No Definitions Found", 502 + the same JSON, or 502 +
+          // plain "error code: 502" — all mean "word not found". A genuine
+          // outage looks different (HTML/connection error), so treat these
+          // known bodies as not-found instead of mislabeling as an outage.
+          return r.text().then(function(body) {
+            if (r.status === 404
+                || body.indexOf('No Definitions Found') !== -1
+                || body.indexOf('error code: 502') !== -1) {
+              var nf = new Error('not found');
+              nf.notFound = true;
+              throw nf;
+            }
+            throw new Error('server error: ' + r.status);
+          });
+        }
         return r.json();
       })
       .then(function(data) {
+        clearTimeout(timeoutId);
         renderResult(data[0]);
       })
-      .catch(function() {
-        var jabs = [
-          'nice try. did you mean to spell that correctly?',
-          'that\'s not a word. try again, genius.',
-          'spell check is free, you know.',
-          'did you hit the keyboard with your face?',
-          'not in the dictionary. shocking.',
-          'maybe try English next time.',
-          'i looked it up. it doesn\'t exist. just like— nevermind.',
-          'you call that a word?',
-          'are you sure you know how to read?',
-          'that word is as real as your plans.',
-          'congratulations. you invented a word nobody uses.',
-          'error 404: word not found. skill issue.',
-          'did you have a stroke while typing?',
-          'the dictionary said "lol no".',
-          'that\'s not a word. try harder.',
-          'are you typing with your elbows?',
-          'even autocorrect gave up on that one.',
-          'i googled it. nothing. embarrassing.',
-        ];
-        var kaomoji = [
-          '(◍•ᴗ•◍)♡ ✧*。', '(つ◉益◉)つ', '(╯°□°）╯︵ ┻━┻',
-          '(⊙_⊙)', '(¬_¬)', '(￣ヘ￣)', 'ಠ_ಠ', '(；一_一)',
-          '(▀̿̿Ĺ̯̿̿▀̿ ̿)', '( ͡° ͜ʖ ͡°)', '(ʘ‿ʘ)', 'ʕ•ᴥ•ʔ',
-          '(ノಠ益ಠ)ノ', '︵ヽ(`Д´)ﾉ︵', '┐(\'～`;)┌',
-          '(◔_◔)', '(-_-;)', '(＃￣ω￣)', '＜（－︿－）＞',
-          '(◕‿◕)', '(ᗒᗨᗕ)', 'ヽ(´ー｀)ノ', '＼(◎o◎)／',
-          '(＾▽＾)', 'ᕙ(▀̿̿Ĺ̯̿̿▀̿ ̿)ᕗ', '┬─┬ノ( º _ ºノ)',
-          '(ಥ_ಥ)', '(◞‸◟)', '〳◔Ĺ̯◔〵', '(;´Д`)',
-          '(´-ω-`)', '〜(꒪꒳꒪)〜', '(˘̩̩̩̩̩̩̩̩˘)', '(个_个)',
-          'ヽ(￣д￣;)ノ', '(￣□￣;)', '∑(O_O;)', '(╯▽╰)',
-        ];
-        var jab = jabs[Math.floor(Math.random() * jabs.length)];
-        var kao = kaomoji[Math.floor(Math.random() * kaomoji.length)];
-        output.innerHTML = '<div class="dict-mock">'
-          + '<p class="dict-jab">' + jab + '</p>'
-          + '<p class="dict-kao">' + kao + '</p>'
-          + '<button class="dict-retry">try again ↵</button>'
-          + '</div>';
-        var btn = output.querySelector('.dict-retry');
-        if (btn) {
-          btn.addEventListener('click', function() {
-            output.innerHTML = '';
-            input.value = '';
-            input.focus();
-          });
+      .catch(function(err) {
+        clearTimeout(timeoutId);
+        // A newer submit already took over — let it own the output, say nothing here.
+        if (controller !== currentController) return;
+
+        if (err && err.name === 'AbortError') {
+          renderTimeoutError();
+        } else if (err && err.notFound) {
+          renderNotFound();
+        } else {
+          renderServerError();
         }
+      })
+      .then(function() {
+        if (controller === currentController) setLoading(false);
       });
   });
-
-  function renderResult(entry) {
-    var phonetic = entry.phonetic || '';
-    if (!phonetic) {
-      for (var i = 0; i < entry.phonetics.length; i++) {
-        if (entry.phonetics[i].text) { phonetic = entry.phonetics[i].text; break; }
-      }
-    }
-
-    var html = '<div class="dict-result">';
-    html += '<div class="dict-word-row"><span class="dict-word">' + entry.word + '</span>';
-    if (phonetic) html += '<span class="dict-phonetic">' + phonetic + '</span>';
-    html += '</div>';
-
-    for (var m = 0; m < entry.meanings.length; m++) {
-      var meaning = entry.meanings[m];
-      html += '<div class="dict-meaning">';
-      html += '<span class="dict-pos">' + meaning.partOfSpeech + '</span>';
-      for (var d = 0; d < Math.min(meaning.definitions.length, 3); d++) {
-        var def = meaning.definitions[d];
-        html += '<p class="dict-def">' + def.definition + '</p>';
-      }
-      html += '</div>';
-    }
-
-    html += '</div>';
-    output.innerHTML = html;
-  }
 })();
 </script>
 {% endblock content %}
