@@ -41,7 +41,11 @@
     {% set ri = get_section(path="reverend-insanity/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
     {% set md = get_section(path="moby-dick/_index.md") %}
-    {% set shelves = [ri, chapters, md] %}
+    {% set wn = get_section(path="white-nights/_index.md") %}
+    {% set idiot = get_section(path="the-idiot/_index.md") %}
+    {% set nfu = get_section(path="notes-from-underground/_index.md") %}
+    {% set bk = get_section(path="brothers-karamazov/_index.md") %}
+    {% set shelves = [ri, chapters, md, wn, idiot, nfu, bk] %}
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="playlist-item reveal">
       <div>
@@ -134,6 +138,10 @@
     {% set ri = get_section(path="reverend-insanity/_index.md") %}
     {% set chapters = get_section(path="chapters/_index.md") %}
     {% set md = get_section(path="moby-dick/_index.md") %}
+    {% set wn = get_section(path="white-nights/_index.md") %}
+    {% set idiot = get_section(path="the-idiot/_index.md") %}
+    {% set nfu = get_section(path="notes-from-underground/_index.md") %}
+    {% set bk = get_section(path="brothers-karamazov/_index.md") %}
     {% set ri_all = [] %}
     {% for sub in ri.subsections %}
       {% set vol = get_section(path=sub) %}
@@ -142,9 +150,28 @@
     {% set ch_n = chapters.pages | length %}
     {% set ri_n = ri_all | length %}
     {% set md_n = md.pages | length %}
-    {% set all_n = ch_n + ri_n + md_n %}
+    {% set wn_n = wn.pages | length %}
+    {% set idiot_all = [] %}
+    {% for sub in idiot.subsections %}
+      {% set vol = get_section(path=sub) %}
+      {% set_global idiot_all = idiot_all | concat(with=vol.pages) %}
+    {% endfor %}
+    {% set idiot_n = idiot_all | length %}
+    {% set nfu_all = [] %}
+    {% for sub in nfu.subsections %}
+      {% set vol = get_section(path=sub) %}
+      {% set_global nfu_all = nfu_all | concat(with=vol.pages) %}
+    {% endfor %}
+    {% set nfu_n = nfu_all | length %}
+    {% set bk_all = [] %}
+    {% for sub in bk.subsections %}
+      {% set vol = get_section(path=sub) %}
+      {% set_global bk_all = bk_all | concat(with=vol.pages) %}
+    {% endfor %}
+    {% set bk_n = bk_all | length %}
+    {% set all_n = ch_n + ri_n + md_n + wn_n + idiot_n + nfu_n + bk_n %}
     <div class="stat-card reveal">
-      <div class="value">3+1</div>
+      <div class="value">7+1</div>
       <div class="label">Novels and Tools</div>
     </div>
     <div class="stat-card reveal">
