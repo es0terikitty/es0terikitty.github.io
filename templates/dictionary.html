@@ -194,7 +194,7 @@
   function probeAudio(word) {
     var base = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
       + encodeURIComponent(word) + '--_';
-    var variants = ['us_1.mp3', 'gb_1.mp3'];
+    var variants = ['us_1.mp3'];
 
     function tryNext(i) {
       if (i >= variants.length) return;
