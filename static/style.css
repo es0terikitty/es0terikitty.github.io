@@ -26,19 +26,20 @@
   --bg-panel-alt: #210d0d;
   --border: #3d1414;
   --border-strong: #ff2a2a;
-  --fg: #f5e6e4;
-  --fg-dim: #d49a96;
-  --fg-muted: #8c4a46;
-  --accent: #ff2a2a;
-  --accent-bright: #ff5c5c;
-  --accent-soft: #ff6a5a;
-  --accent-dim: #ff7a6e;
+  --fg: #fff3f1;
+  --fg-dim: #e8b8b4;
+  --fg-muted: #a05a54;
+  --accent: #ff3b3b;
+  --accent-bright: #ff6b6b;
+  --accent-soft: #ff7a6e;
+  --accent-dim: #ff9d92;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #0d0505;
   --grid-line: rgba(255, 42, 42, 0.06);
   --grid-dot: rgba(255, 42, 42, 0.22);
+  --bg-glow: #5c0f0f;
   --font-mono: "Iosevka", monospace;
   --font-read: "Iosevka", monospace;
   --text-xs: 0.8125rem;
@@ -59,19 +60,20 @@
   --bg-panel-alt: #111b30;
   --border: #1e2b47;
   --border-strong: #3b82f6;
-  --fg: #e7eefb;
-  --fg-dim: #90a6c7;
-  --fg-muted: #4d6288;
-  --accent: #3b82f6;
-  --accent-bright: #60a5fa;
-  --accent-soft: #6ea8ff;
-  --accent-dim: #93c5fd;
+  --fg: #f2f7ff;
+  --fg-dim: #a8bde0;
+  --fg-muted: #5a7199;
+  --accent: #4d8bff;
+  --accent-bright: #74b0ff;
+  --accent-soft: #82b8ff;
+  --accent-dim: #aacdff;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #070a12;
   --grid-line: rgba(96, 165, 250, 0.06);
   --grid-dot: rgba(96, 165, 250, 0.22);
+  --bg-glow: #0f2f66;
 }
 
 /* ── Crimson (more red, less orange) ── */
@@ -81,19 +83,20 @@
   --bg-panel-alt: #210d0d;
   --border: #3d1414;
   --border-strong: #ff2a2a;
-  --fg: #f5e6e4;
-  --fg-dim: #d49a96;
-  --fg-muted: #8c4a46;
-  --accent: #ff2a2a;
-  --accent-bright: #ff5c5c;
-  --accent-soft: #ff6a5a;
-  --accent-dim: #ff7a6e;
+  --fg: #fff3f1;
+  --fg-dim: #e8b8b4;
+  --fg-muted: #a05a54;
+  --accent: #ff3b3b;
+  --accent-bright: #ff6b6b;
+  --accent-soft: #ff7a6e;
+  --accent-dim: #ff9d92;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #0d0505;
   --grid-line: rgba(255, 42, 42, 0.06);
   --grid-dot: rgba(255, 42, 42, 0.22);
+  --bg-glow: #5c0f0f;
 }
 
 /* ── Emerald (terminal) ── */
@@ -103,19 +106,20 @@
   --bg-panel-alt: #0d2016;
   --border: #143a26;
   --border-strong: #00e65c;
-  --fg: #d8ffe8;
-  --fg-dim: #7fb892;
-  --fg-muted: #3f6b51;
-  --accent: #00e65c;
-  --accent-bright: #3dff8a;
-  --accent-soft: #5cff99;
-  --accent-dim: #a5ffc9;
+  --fg: #ecfff3;
+  --fg-dim: #96d4ab;
+  --fg-muted: #4f825f;
+  --accent: #00ff6b;
+  --accent-bright: #4dff96;
+  --accent-soft: #6bffa8;
+  --accent-dim: #b2ffd4;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #05100a;
   --grid-line: rgba(0, 230, 92, 0.06);
   --grid-dot: rgba(0, 230, 92, 0.22);
+  --bg-glow: #0a5c2c;
 }
 
 /* ── Gruvbox (warm, comfortable) ── */
@@ -125,19 +129,20 @@
   --bg-panel-alt: #32302f;
   --border: #504945;
   --border-strong: #d79921;
-  --fg: #ebdbb2;
-  --fg-dim: #bdae93;
-  --fg-muted: #928374;
-  --accent: #d79921;
-  --accent-bright: #fabd2f;
-  --accent-soft: #ea6962;
-  --accent-dim: #8ec07c;
+  --fg: #f4e9c9;
+  --fg-dim: #cfc0a2;
+  --fg-muted: #a0907d;
+  --accent: #e0a42a;
+  --accent-bright: #ffc53a;
+  --accent-soft: #f27d74;
+  --accent-dim: #a0d18a;
   --link: #83a598;
   --link-hover: #8ec07c;
   --focus-ring: var(--accent-bright);
   --grid-fade: #282828;
   --grid-line: rgba(235, 219, 178, 0.05);
   --grid-dot: rgba(235, 219, 178, 0.16);
+  --bg-glow: #3d3318;
 }
 
 /* ── Mizuki Akiyama (soft pink / lavender) ── */
@@ -147,19 +152,20 @@
   --bg-panel-alt: #292344;
   --border: #3b3256;
   --border-strong: #e6a6c8;
-  --fg: #f2e8f4;
-  --fg-dim: #cbbbe0;
-  --fg-muted: #8f84a8;
-  --accent: #e6a6c8;
-  --accent-bright: #f0bcd4;
-  --accent-soft: #ecb7d2;
-  --accent-dim: #afa2d8;
+  --fg: #fbf4fc;
+  --fg-dim: #dccfed;
+  --fg-muted: #a395bd;
+  --accent: #f0b0d2;
+  --accent-bright: #f8c8e0;
+  --accent-soft: #f4c0da;
+  --accent-dim: #c0b6e6;
   --link: #c7bce8;
   --link-hover: #e6a6c8;
   --focus-ring: var(--accent-bright);
   --grid-fade: #141122;
   --grid-line: rgba(230, 166, 200, 0.07);
   --grid-dot: rgba(230, 166, 200, 0.20);
+  --bg-glow: #33204f;
 }
 
 *, *::before, *::after {
@@ -179,7 +185,9 @@ html {
 * { scrollbar-width: thin; scrollbar-color: var(--border) var(--bg); }
 
 body {
-  background: var(--bg);
+  background:
+    radial-gradient(ellipse 120% 90% at 50% 35%, #000 0%, var(--bg) 45%, var(--bg-glow) 100%);
+  background-attachment: fixed;
   color: var(--fg);
   font-family: var(--font-mono);
   font-size: var(--text-sm);
@@ -303,6 +311,8 @@ nav.top .logo:hover { color: var(--accent); }
   font-size: clamp(0.6rem, 3vw, 1.05rem);
   line-height: 1.15;
   color: var(--accent);
+  text-shadow: 0 0 12px color-mix(in srgb, var(--accent) 45%, transparent),
+               0 0 32px color-mix(in srgb, var(--accent) 20%, transparent);
   overflow-x: clip;
   max-width: 100%;
   user-select: none;
@@ -353,11 +363,12 @@ nav.top .logo:hover { color: var(--accent); }
 }
 
 /* ── Glow on hover ── */
-a:hover, .playlist-item:hover .title, .stack-card:hover .name {
-  text-shadow: 0 0 8px color-mix(in srgb, var(--accent) 25%, transparent);
+a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover .value {
+  text-shadow: 0 0 10px color-mix(in srgb, var(--accent) 55%, transparent),
+               0 0 24px color-mix(in srgb, var(--accent) 30%, transparent);
 }
-.stack-card:hover { box-shadow: 0 0 12px color-mix(in srgb, var(--accent) 10%, transparent); }
-.playlist-item:hover { box-shadow: inset 0 0 20px color-mix(in srgb, var(--accent) 4%, transparent); }
+.stack-card:hover { box-shadow: 0 0 18px color-mix(in srgb, var(--accent) 22%, transparent); }
+.playlist-item:hover { box-shadow: inset 0 0 24px color-mix(in srgb, var(--accent) 8%, transparent); }
 
 /* ── Playlist ── */
 .playlist {
@@ -442,9 +453,18 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name {
   border: 1px solid var(--border);
   padding: 16px;
   text-align: center;
-  transition: border-color 0.15s;
+  transition: border-color 0.15s, background 0.15s;
+  position: relative; overflow: hidden;
 }
-.stat-card:hover { border-color: var(--border-strong); }
+.stat-card:hover { border-color: var(--border-strong); background: var(--bg-panel-alt); }
+.stat-card::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0;
+  height: 2px;
+  background: var(--accent);
+  transform: translateX(-101%);
+  transition: transform 0.35s ease;
+}
+.stat-card:hover::after { transform: translateX(0); }
 .stat-card .value { font-size: var(--text-xl); font-weight: 700; color: var(--fg); }
 .stat-card .label { font-size: var(--text-xs); color: var(--fg-dim); text-transform: uppercase; letter-spacing: 0.08em; margin-top: 4px; }
 .live-date { font-size: var(--text-xs); color: var(--fg-dim); margin-top: 6px; }
