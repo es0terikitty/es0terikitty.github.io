@@ -192,40 +192,35 @@
   }
 
   function probeAudio(word) {
-    var base = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
-      + encodeURIComponent(word) + '--_';
-    var variants = ['us_1.mp3'];
+    // gstatic's dictionary files record a different speaker per word (some
+    // male, some female), so they can't give one consistent voice. Google
+    // Translate TTS (tl=en) uses a single female US voice for every word —
+    // probe it with an <Audio> element and only show the button if it loads.
+    var url = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q='
+      + encodeURIComponent(word);
 
-    function tryNext(i) {
-      if (i >= variants.length) return;
-      var audio = new Audio();
-      var settled = false;
-      audio.preload = 'auto';
-      audio.addEventListener('canplaythrough', function() {
-        if (settled) return;
-        settled = true;
-        var url = base + variants[i];
-        var btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'dict-audio';
-        btn.setAttribute('aria-label', 'play pronunciation');
-        btn.innerHTML = '&#9658;';
-        btn.addEventListener('click', function() {
-          new Audio(url).play().catch(function() {});
-        });
-        var row = output.querySelector('.dict-word-row');
-        if (row) row.appendChild(btn);
+    var audio = new Audio();
+    var settled = false;
+    audio.preload = 'auto';
+    audio.addEventListener('canplaythrough', function() {
+      if (settled) return;
+      settled = true;
+      var btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'dict-audio';
+      btn.setAttribute('aria-label', 'play pronunciation');
+      btn.innerHTML = '&#9658;';
+      btn.addEventListener('click', function() {
+        new Audio(url).play().catch(function() {});
       });
-      audio.addEventListener('error', function() {
-        if (settled) return;
-        settled = true;
-        tryNext(i + 1);
-      });
-      audio.src = base + variants[i];
-      audio.load();
-    }
-
-    tryNext(0);
+      var row = output.querySelector('.dict-word-row');
+      if (row) row.appendChild(btn);
+    });
+    audio.addEventListener('error', function() {
+      settled = true;
+    });
+    audio.src = url;
+    audio.load();
   }
 
   form.addEventListener('submit', function(e) {
