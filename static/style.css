@@ -603,7 +603,6 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   display: flex; align-items: baseline; gap: 12px; margin-bottom: 12px;
 }
 .dict-word { font-size: var(--text-lg); font-weight: 700; color: var(--fg); }
-.dict-phonetic { color: var(--fg-dim); font-size: var(--text-sm); }
 .dict-audio {
   background: none; border: 1px solid var(--border); color: var(--accent-dim);
   padding: 0 6px; line-height: 1.6; cursor: pointer;
@@ -615,6 +614,12 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   margin-top: 12px; padding-top: 10px;
   border-top: 1px dashed var(--border);
 }
+.dict-lang {
+  font-size: 0.6875rem; letter-spacing: 0.12em;
+  color: var(--fg-dim); text-transform: uppercase;
+  margin-top: 16px; margin-bottom: -4px;
+}
+.dict-lang:first-of-type { margin-top: 8px; }
 .dict-pos {
   display: inline-block; font-size: 0.8125rem;
   color: var(--accent-dim); border: 1px solid var(--accent-dim);
@@ -625,12 +630,6 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
 .dict-example {
   color: var(--fg-dim); font-size: var(--text-sm); line-height: 1.6;
   margin-top: 2px; padding-left: 12px;
-}
-.dict-syn {
-  color: var(--fg-dim); font-size: 0.8125rem; line-height: 1.6; margin-top: 6px;
-}
-.dict-syn-label {
-  color: var(--accent-dim); text-transform: lowercase; margin-right: 6px;
 }
 
 .dict-input:disabled, .dict-submit:disabled { opacity: 0.5; cursor: default; }

@@ -33,7 +33,7 @@
 
 <script>
 (function() {
-  var API_BASE = 'https://api.dictionaryapi.dev/api/v2/entries/en/';
+  var API_BASE = 'https://en.wiktionary.org/api/rest_v1/page/definition/';
   var FETCH_TIMEOUT_MS = 8000;
 
   var form = document.getElementById('dict-form');
@@ -84,6 +84,15 @@
     });
   }
 
+  // Wiktionary definitions come as HTML fragments (with <a>, <span> links etc).
+  // Parse them into plain text via the DOM, which also handles entities safely.
+  function stripHTML(html) {
+    if (!html) return '';
+    var div = document.createElement('div');
+    div.innerHTML = html;
+    return (div.textContent || '').replace(/\s+/g, ' ').trim();
+  }
+
   function setLoading(isLoading) {
     input.disabled = isLoading;
     submitBtn.disabled = isLoading;
@@ -129,73 +138,94 @@
     bindRetry();
   }
 
-  function renderResult(entry) {
-    var phonetic = entry.phonetic || '';
-    var audioUrl = '';
-    var phonetics = entry.phonetics || [];
-    for (var i = 0; i < phonetics.length; i++) {
-      if (!phonetic && phonetics[i].text) phonetic = phonetics[i].text;
-      if (!audioUrl && phonetics[i].audio) audioUrl = phonetics[i].audio;
-      if (phonetic && audioUrl) break;
-    }
+  function renderResult(word, data) {
+    // Wiktionary REST shape: { "en": [{ partOfSpeech, language, definitions: [...] }], "la": [...] }
+    var langCodes = Object.keys(data);
+    // Prefer English first when present, then show the rest as-is.
+    langCodes.sort(function(a, b) {
+      if (a === 'en') return -1;
+      if (b === 'en') return 1;
+      return 0;
+    });
 
     var html = '<div class="dict-result">';
     html += '<div class="dict-word-row">';
-    html += '<span class="dict-word">' + escapeHTML(entry.word) + '</span>';
-    if (phonetic) html += '<span class="dict-phonetic">' + escapeHTML(phonetic) + '</span>';
-    if (audioUrl) {
-      html += '<button type="button" class="dict-audio" aria-label="play pronunciation" data-audio="'
-        + escapeHTML(audioUrl) + '">&#9658;</button>';
-    }
+    html += '<span class="dict-word">' + escapeHTML(word) + '</span>';
     html += '</div>';
 
-    var meanings = entry.meanings || [];
-    for (var m = 0; m < meanings.length; m++) {
-      var meaning = meanings[m];
-      html += '<div class="dict-meaning">';
-      html += '<span class="dict-pos">' + escapeHTML(meaning.partOfSpeech || '') + '</span>';
+    for (var li = 0; li < langCodes.length; li++) {
+      var code = langCodes[li];
+      var entries = data[code] || [];
+      if (!entries.length) continue;
 
-      var defs = meaning.definitions || [];
-      for (var d = 0; d < Math.min(defs.length, 3); d++) {
-        var def = defs[d];
-        html += '<p class="dict-def">' + escapeHTML(def.definition) + '</p>';
-        if (def.example) {
-          html += '<p class="dict-example">“' + escapeHTML(def.example) + '”</p>';
+      var langName = entries[0].language || code.toUpperCase();
+      html += '<div class="dict-lang">' + escapeHTML(langName) + '</div>';
+
+      for (var e = 0; e < entries.length; e++) {
+        var entry = entries[e];
+        html += '<div class="dict-meaning">';
+        html += '<span class="dict-pos">' + escapeHTML(entry.partOfSpeech || '') + '</span>';
+
+        var defs = entry.definitions || [];
+        for (var d = 0; d < Math.min(defs.length, 3); d++) {
+          var def = defs[d];
+          html += '<p class="dict-def">' + escapeHTML(stripHTML(def.definition)) + '</p>';
+          var ex = (def.parsedExamples && def.parsedExamples.length)
+            ? stripHTML(def.parsedExamples[0].example)
+            : '';
+          if (ex) {
+            html += '<p class="dict-example">“' + escapeHTML(ex) + '”</p>';
+          }
         }
-      }
 
-      var synonyms = meaning.synonyms || [];
-      if (synonyms.length) {
-        html += '<p class="dict-syn"><span class="dict-syn-label">synonyms</span> '
-          + escapeHTML(synonyms.slice(0, 5).join(', ')) + '</p>';
+        html += '</div>';
       }
-      var antonyms = meaning.antonyms || [];
-      if (antonyms.length) {
-        html += '<p class="dict-syn"><span class="dict-syn-label">antonyms</span> '
-          + escapeHTML(antonyms.slice(0, 5).join(', ')) + '</p>';
-      }
-
-      html += '</div>';
     }
 
     html += '</div>';
     output.innerHTML = html;
 
-    var audioBtn = output.querySelector('.dict-audio');
-    if (audioBtn) {
-      audioBtn.addEventListener('click', function() {
-        // dictionaryapi.dev's own audio endpoint is frequently down (502).
-        // Try its URL first, then fall back to Google's classic gstatic files,
-        // trying both the UK (_gb) and US (_us) audio variants.
-        var base = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
-          + entry.word + '--_';
-        var candidates = [audioUrl, base + 'gb_1.mp3', base + 'us_1.mp3'];
-        (function tryNext(i) {
-          if (i >= candidates.length) return;
-          new Audio(candidates[i]).play().catch(function() { tryNext(i + 1); });
-        })(0);
+    // Wiktionary's own audio lives in page media, not this endpoint, and
+    // gstatic has no CORS headers, so probe availability with an <Audio>
+    // element before showing the pronunciation button (only for gstatic hits).
+    probeAudio(word);
+  }
+
+  function probeAudio(word) {
+    var base = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
+      + encodeURIComponent(word) + '--_';
+    var variants = ['us_1.mp3', 'gb_1.mp3'];
+
+    function tryNext(i) {
+      if (i >= variants.length) return;
+      var audio = new Audio();
+      var settled = false;
+      audio.preload = 'auto';
+      audio.addEventListener('canplaythrough', function() {
+        if (settled) return;
+        settled = true;
+        var url = base + variants[i];
+        var btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'dict-audio';
+        btn.setAttribute('aria-label', 'play pronunciation');
+        btn.innerHTML = '&#9658;';
+        btn.addEventListener('click', function() {
+          new Audio(url).play().catch(function() {});
+        });
+        var row = output.querySelector('.dict-word-row');
+        if (row) row.appendChild(btn);
       });
+      audio.addEventListener('error', function() {
+        if (settled) return;
+        settled = true;
+        tryNext(i + 1);
+      });
+      audio.src = base + variants[i];
+      audio.load();
     }
+
+    tryNext(0);
   }
 
   form.addEventListener('submit', function(e) {
@@ -213,30 +243,39 @@
     setLoading(true);
     output.innerHTML = '<p class="dict-status"><span class="live-dot"></span> looking up…</p>';
 
-    fetch(API_BASE + encodeURIComponent(word), { signal: controller.signal })
-      .then(function(r) {
-        if (!r.ok) {
-          // dictionaryapi.dev is inconsistent for missing words: it returns
-          // 404 + JSON "No Definitions Found", 502 + the same JSON, or 502 +
-          // plain "error code: 502" — all mean "word not found". A genuine
-          // outage looks different (HTML/connection error), so treat these
-          // known bodies as not-found instead of mislabeling as an outage.
-          return r.text().then(function(body) {
-            if (r.status === 404
-                || body.indexOf('No Definitions Found') !== -1
-                || body.indexOf('error code: 502') !== -1) {
-              var nf = new Error('not found');
-              nf.notFound = true;
-              throw nf;
-            }
+    // Wiktionary page titles are case-sensitive; try the typed form first,
+    // then fall back to lowercase before declaring the word not found.
+    var attempts = [word];
+    var lower = word.toLowerCase();
+    if (lower !== word) attempts.push(lower);
+
+    function tryLookup(i) {
+      if (i >= attempts.length) {
+        var nf = new Error('not found');
+        nf.notFound = true;
+        return Promise.reject(nf);
+      }
+      return fetch(API_BASE + encodeURIComponent(attempts[i]), { signal: controller.signal })
+        .then(function(r) {
+          if (!r.ok) {
+            // A genuine Wiktionary miss is a 404 with an error JSON body.
+            // Anything else (5xx, HTML, connection error) is an outage.
+            if (r.status === 404) return tryLookup(i + 1);
             throw new Error('server error: ' + r.status);
-          });
-        }
-        return r.json();
-      })
+          }
+          return r.json();
+        });
+    }
+
+    tryLookup(0)
       .then(function(data) {
         clearTimeout(timeoutId);
-        renderResult(data[0]);
+        if (!Object.keys(data).length) {
+          var nf2 = new Error('not found');
+          nf2.notFound = true;
+          throw nf2;
+        }
+        renderResult(word, data);
       })
       .catch(function(err) {
         clearTimeout(timeoutId);
