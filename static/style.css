@@ -482,12 +482,9 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
 .footer .rule {
   color: var(--fg-muted);
   font-size: var(--text-sm);
-  margin-bottom: 12px;
   user-select: none;
 }
-.footer .meta { color: var(--fg-dim); font-size: var(--text-xs); }
-.footer .meta a { color: var(--fg-muted); }
-.footer .meta a:hover { color: var(--accent); }
+.footer .rule:hover { color: var(--accent); }
 
 /* ── Content pages (MT chapters, CP) ── */
 .chapter-body {
