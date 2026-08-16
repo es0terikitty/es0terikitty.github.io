@@ -1059,4 +1059,160 @@ html.js .reveal.in { opacity: 1; transform: none; }
 .wtc-credit a { color: var(--link); }
 .wtc-credit a:hover { color: var(--link-hover); }
 
+/* ── Novel cover cards ── */
+.cover-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-bottom: 40px;
+}
+.cover-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+  transition: border-color .2s ease;
+}
+.cover-card:hover {
+  border-color: var(--border-strong);
+}
+.cover-bar {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 6px 9px;
+  background: var(--bg-panel-alt);
+  border-bottom: 1px solid var(--border);
+}
+.cover-bar .dot { width: 7px; height: 7px; border-radius: 50%; }
+.cover-bar .dot.r { background: #ff5f56; }
+.cover-bar .dot.y { background: #ffbd2e; }
+.cover-bar .dot.g { background: #27c93f; }
+.cover-bar .fname {
+  margin-left: 6px;
+  font-size: 10px;
+  color: var(--fg-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.cover-bar .live {
+  margin-left: auto;
+  font-size: 9px;
+  color: var(--accent-soft);
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.cover-bar .live-dot {
+  width: 6px; height: 6px; border-radius: 50%;
+  background: var(--accent);
+  animation: pulse 1.6s infinite;
+}
+@keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .25 } }
+
+.cover-body {
+  position: relative;
+  padding: 10px 8px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1 / 1.15;
+  overflow: hidden;
+}
+.cover-body::after {
+  content: "";
+  position: absolute; inset: 0;
+  background: repeating-linear-gradient(
+    0deg,
+    color-mix(in srgb, var(--fg) 3%, transparent) 0 1px,
+    transparent 1px 3px
+  );
+  pointer-events: none;
+}
+.cover-art {
+  position: relative;
+  white-space: pre;
+  line-height: 1.1;
+  color: var(--fg);
+  transform-origin: center center;
+}
+
+.cover-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 6px 9px;
+  border-top: 1px solid var(--border);
+  background: var(--bg-panel-alt);
+  font-size: 10px;
+}
+.cover-foot .author { color: var(--fg-dim); }
+.cover-foot .chapters { color: var(--fg-muted); }
+
+.cover-more-body { flex-direction: column; gap: 6px; }
+.cover-more-body .more-text {
+  font-size: var(--text-sm);
+  color: var(--accent-soft);
+  text-transform: lowercase;
+}
+
+/* ── Novels page ── */
+.novels { padding-bottom: 60px; }
+.novels-title {
+  font-size: var(--text-xl); font-weight: 700; color: var(--fg);
+  margin-bottom: 8px;
+}
+.novels-toolbar {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+.novels-toolbar .toolbar-label {
+  font-size: var(--text-xs);
+  color: var(--fg-muted);
+  margin-right: 4px;
+}
+.author-btn {
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--fg-dim);
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+  transition: border-color .15s ease, color .15s ease;
+}
+.author-btn:hover { border-color: var(--accent); color: var(--accent-dim); }
+.author-btn.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+.novels-search {
+  margin-left: auto;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--fg);
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 5px 10px;
+  min-width: 160px;
+}
+.novels-search:focus { outline: none; border-color: var(--accent); }
+.novels-search::placeholder { color: var(--fg-muted); }
+.cover-card.hidden { display: none; }
+
+@media (max-width: 860px) {
+  .cover-grid { grid-template-columns: repeat(2, 1fr); gap: 14px; }
+}
+@media (max-width: 420px) {
+  .cover-grid { grid-template-columns: 1fr; }
+}
+
 

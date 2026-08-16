@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block title %}{{ section.title }} — {{ config.title }}{% endblock title %}
+
+{% block content %}
+<nav class="back-link wrap">
+  <a href="/">&larr; Home</a>
+</nav>
+
+<section class="novels">
+  <h2 class="novels-title">~/novels</h2>
+  {{ section.content | safe }}
+
+  {% set novels = load_data(path="data/novels.toml") %}
+  {% set authors = novels.novels | map(attribute="author") | unique | sort %}
+
+  <div class="novels-toolbar reveal">
+    <span class="toolbar-label">[All Novels]</span>
+    <button type="button" class="author-btn active" data-author="all">All</button>
+    {% for a in authors %}
+    <button type="button" class="author-btn" data-author="{{ a }}">{{ a }}</button>
+    {% endfor %}
+    <input type="search" class="novels-search" id="novels-search" placeholder="search…" autocomplete="off">
+  </div>
+
+  <div class="cover-grid" id="cover-grid">
+    {% for n in novels.novels %}
+    <a href="{{ n.slug }}/" class="cover-card reveal" data-author="{{ n.author }}" data-title="{{ n.title | lower }}">
+      <div class="cover-bar">
+        <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
+        <span class="fname">{{ n.slug }}/</span>
+        <span class="live"><span class="live-dot"></span>tty1</span>
+      </div>
+      <div class="cover-body">
+        <pre class="cover-art">{% for line in n.cover %}{{ line }}{% if not loop.last %}
+{% endif %}{% endfor %}</pre>
+      </div>
+      <div class="cover-foot">
+        <span class="author">{{ n.author }}</span>
+        <span class="chapters">{{ n.chapters }} ch</span>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endblock content %}
+
+{% block extrascripts %}
+<script src="/js/novels.js"></script>
+<script src="/js/grid.js"></script>
+{% endblock extrascripts %}
