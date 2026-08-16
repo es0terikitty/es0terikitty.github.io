@@ -194,33 +194,52 @@
   function probeAudio(word) {
     // gstatic's dictionary files record a different speaker per word (some
     // male, some female), so they can't give one consistent voice. Google
-    // Translate TTS (tl=en) uses a single female US voice for every word —
-    // probe it with an <Audio> element and only show the button if it loads.
-    var url = 'https://translate.google.com/translate_tts?ie=UTF-8&client=tw-ob&tl=en&q='
-      + encodeURIComponent(word);
+    // Translate TTS blocks cross-origin browser requests entirely. tts.ai
+    // (Kokoro) gives one fixed female voice for every word with full CORS:
+    // POST the word -> get an mp3 URL -> play. The button is always shown;
+    // generation happens lazily on click, falling back to gstatic if it fails.
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'dict-audio';
+    btn.setAttribute('aria-label', 'play pronunciation');
+    btn.innerHTML = '&#9658;';
 
-    var audio = new Audio();
-    var settled = false;
-    audio.preload = 'auto';
-    audio.addEventListener('canplaythrough', function() {
-      if (settled) return;
-      settled = true;
-      var btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'dict-audio';
-      btn.setAttribute('aria-label', 'play pronunciation');
-      btn.innerHTML = '&#9658;';
-      btn.addEventListener('click', function() {
-        new Audio(url).play().catch(function() {});
-      });
-      var row = output.querySelector('.dict-word-row');
-      if (row) row.appendChild(btn);
+    var busy = false;
+    btn.addEventListener('click', function() {
+      if (busy) return;
+      busy = true;
+      btn.innerHTML = '…';
+
+      fetch('https://api.tts.ai/v1/tts/', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ model: 'kokoro', text: word, voice: 'af_bella', format: 'mp3' })
+      })
+        .then(function(r) {
+          if (!r.ok) throw new Error('tts status ' + r.status);
+          return r.json();
+        })
+        .then(function(data) {
+          var url = data && data.result_url;
+          if (!url) throw new Error('no result_url');
+          return new Audio(url).play();
+        })
+        .catch(function() {
+          // Fall back to Google's classic US recording (may be male for some
+          // words, but better than nothing if tts.ai is down or rate-limited).
+          var gs = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
+            + encodeURIComponent(word) + '--_us_1.mp3';
+          return new Audio(gs).play();
+        })
+        .catch(function() {})
+        .then(function() {
+          btn.innerHTML = '&#9658;';
+          busy = false;
+        });
     });
-    audio.addEventListener('error', function() {
-      settled = true;
-    });
-    audio.src = url;
-    audio.load();
+
+    var row = output.querySelector('.dict-word-row');
+    if (row) row.appendChild(btn);
   }
 
   form.addEventListener('submit', function(e) {
