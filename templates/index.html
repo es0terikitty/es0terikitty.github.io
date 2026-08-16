@@ -33,41 +33,27 @@
 
 <section id="notes" class="wrap reveal">
   <h2 class="section-heading">~/novels</h2>
-  {% set novels = load_data(path="data/novels.toml") %}
-  <div class="cover-grid cover-grid-home">
-    {% for n in novels.novels %}
-    {% if n.featured %}
-    <a href="{{ n.slug }}/" class="cover-card reveal" data-author="{{ n.author }}">
-      <div class="cover-bar">
-        <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
-        <span class="fname">{{ n.slug }}/</span>
-        <span class="live"><span class="live-dot"></span>tty1</span>
-      </div>
-      <div class="cover-body">
-        <pre class="cover-art">{% for line in n.cover %}{{ line }}{% if not loop.last %}
-{% endif %}{% endfor %}</pre>
-      </div>
-      <div class="cover-foot">
-        <span class="author">{{ n.author }}</span>
-        <span class="chapters">{{ n.chapters }} ch</span>
+  <div class="playlist">
+    <div class="playlist-bar">
+      <span>novels</span>
+      <span></span>
+    </div>
+    {% set ri = get_section(path="reverend-insanity/_index.md") %}
+    {% set chapters = get_section(path="chapters/_index.md") %}
+    {% set md = get_section(path="moby-dick/_index.md") %}
+    {% set wn = get_section(path="white-nights/_index.md") %}
+    {% set idiot = get_section(path="the-idiot/_index.md") %}
+    {% set nfu = get_section(path="notes-from-underground/_index.md") %}
+    {% set bk = get_section(path="brothers-karamazov/_index.md") %}
+    {% set shelves = [ri, chapters, md, wn, idiot, nfu, bk] %}
+    {% for shelf in shelves %}
+    <a href="{{ shelf.path }}" class="playlist-item reveal">
+      <div>
+        <div class="title">{{ shelf.title }}</div>
+        <div class="summary">{{ shelf.extra.summary | default(value="") }}</div>
       </div>
     </a>
-    {% endif %}
     {% endfor %}
-    <a href="/novels/" class="cover-card cover-more reveal">
-      <div class="cover-bar">
-        <span class="dot r"></span><span class="dot y"></span><span class="dot g"></span>
-        <span class="fname">all-novels/</span>
-        <span class="live"><span class="live-dot"></span>tty1</span>
-      </div>
-      <div class="cover-body cover-more-body">
-        <span class="more-text">all novels&nbsp;→</span>
-      </div>
-      <div class="cover-foot">
-        <span class="author">{{ novels.novels | length }} novels</span>
-        <span class="chapters">read</span>
-      </div>
-    </a>
   </div>
 </section>
 
@@ -253,10 +239,6 @@ setInterval(tick, 1000);
   type();
 })();
 </script>
-{% block extrascripts %}
-<script src="/js/novels.js"></script>
-<script src="/js/grid.js"></script>
-{% endblock extrascripts %}
 {% endblock content %}
 
 
