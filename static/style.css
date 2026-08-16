@@ -29,17 +29,17 @@
   --fg: #fff3f1;
   --fg-dim: #e8b8b4;
   --fg-muted: #a05a54;
-  --accent: #ff3b3b;
-  --accent-bright: #ff6b6b;
-  --accent-soft: #ff7a6e;
-  --accent-dim: #ff9d92;
+  --accent: #ff2a2a;
+  --accent-bright: #ff5252;
+  --accent-soft: #ff665a;
+  --accent-dim: #ff8a80;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #0d0505;
   --grid-line: rgba(255, 42, 42, 0.06);
   --grid-dot: rgba(255, 42, 42, 0.22);
-  --bg-glow: #5c0f0f;
+  --bg-glow: #450b0b;
   --font-mono: "Iosevka", monospace;
   --font-read: "Iosevka", monospace;
   --text-xs: 0.8125rem;
@@ -64,16 +64,16 @@
   --fg-dim: #a8bde0;
   --fg-muted: #5a7199;
   --accent: #4d8bff;
-  --accent-bright: #74b0ff;
-  --accent-soft: #82b8ff;
-  --accent-dim: #aacdff;
+  --accent-bright: #3f7bff;
+  --accent-soft: #5a92ff;
+  --accent-dim: #7fabff;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #070a12;
   --grid-line: rgba(96, 165, 250, 0.06);
   --grid-dot: rgba(96, 165, 250, 0.22);
-  --bg-glow: #0f2f66;
+  --bg-glow: #0b1f45;
 }
 
 /* ── Crimson (more red, less orange) ── */
@@ -86,17 +86,17 @@
   --fg: #fff3f1;
   --fg-dim: #e8b8b4;
   --fg-muted: #a05a54;
-  --accent: #ff3b3b;
-  --accent-bright: #ff6b6b;
-  --accent-soft: #ff7a6e;
-  --accent-dim: #ff9d92;
+  --accent: #ff2a2a;
+  --accent-bright: #ff5252;
+  --accent-soft: #ff665a;
+  --accent-dim: #ff8a80;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #0d0505;
   --grid-line: rgba(255, 42, 42, 0.06);
   --grid-dot: rgba(255, 42, 42, 0.22);
-  --bg-glow: #5c0f0f;
+  --bg-glow: #450b0b;
 }
 
 /* ── Emerald (terminal) ── */
@@ -110,16 +110,16 @@
   --fg-dim: #96d4ab;
   --fg-muted: #4f825f;
   --accent: #00ff6b;
-  --accent-bright: #4dff96;
-  --accent-soft: #6bffa8;
-  --accent-dim: #b2ffd4;
+  --accent-bright: #2dff82;
+  --accent-soft: #47ff94;
+  --accent-dim: #8dffc0;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
   --grid-fade: #05100a;
   --grid-line: rgba(0, 230, 92, 0.06);
   --grid-dot: rgba(0, 230, 92, 0.22);
-  --bg-glow: #0a5c2c;
+  --bg-glow: #073b1d;
 }
 
 /* ── Gruvbox (warm, comfortable) ── */
@@ -133,16 +133,16 @@
   --fg-dim: #cfc0a2;
   --fg-muted: #a0907d;
   --accent: #e0a42a;
-  --accent-bright: #ffc53a;
-  --accent-soft: #f27d74;
-  --accent-dim: #a0d18a;
+  --accent-bright: #f5b22e;
+  --accent-soft: #ef6f66;
+  --accent-dim: #93c97c;
   --link: #83a598;
   --link-hover: #8ec07c;
   --focus-ring: var(--accent-bright);
   --grid-fade: #282828;
   --grid-line: rgba(235, 219, 178, 0.05);
   --grid-dot: rgba(235, 219, 178, 0.16);
-  --bg-glow: #3d3318;
+  --bg-glow: #2b2512;
 }
 
 /* ── Mizuki Akiyama (soft pink / lavender) ── */
@@ -156,16 +156,16 @@
   --fg-dim: #dccfed;
   --fg-muted: #a395bd;
   --accent: #f0b0d2;
-  --accent-bright: #f8c8e0;
-  --accent-soft: #f4c0da;
-  --accent-dim: #c0b6e6;
+  --accent-bright: #f79cc4;
+  --accent-soft: #f2a8cb;
+  --accent-dim: #b2a4e0;
   --link: #c7bce8;
   --link-hover: #e6a6c8;
   --focus-ring: var(--accent-bright);
   --grid-fade: #141122;
   --grid-line: rgba(230, 166, 200, 0.07);
   --grid-dot: rgba(230, 166, 200, 0.20);
-  --bg-glow: #33204f;
+  --bg-glow: #26183a;
 }
 
 *, *::before, *::after {
@@ -186,7 +186,7 @@ html {
 
 body {
   background:
-    radial-gradient(ellipse 120% 90% at 50% 35%, #000 0%, var(--bg) 45%, var(--bg-glow) 100%);
+    radial-gradient(ellipse 120% 90% at 50% 35%, #000 0%, var(--bg) 55%, var(--bg-glow) 100%);
   background-attachment: fixed;
   color: var(--fg);
   font-family: var(--font-mono);
@@ -311,8 +311,8 @@ nav.top .logo:hover { color: var(--accent); }
   font-size: clamp(0.6rem, 3vw, 1.05rem);
   line-height: 1.15;
   color: var(--accent);
-  text-shadow: 0 0 12px color-mix(in srgb, var(--accent) 45%, transparent),
-               0 0 32px color-mix(in srgb, var(--accent) 20%, transparent);
+  text-shadow: 0 0 9px color-mix(in srgb, var(--accent) 35%, transparent),
+               0 0 24px color-mix(in srgb, var(--accent) 15%, transparent);
   overflow-x: clip;
   max-width: 100%;
   user-select: none;
@@ -364,11 +364,11 @@ nav.top .logo:hover { color: var(--accent); }
 
 /* ── Glow on hover ── */
 a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover .value {
-  text-shadow: 0 0 10px color-mix(in srgb, var(--accent) 55%, transparent),
-               0 0 24px color-mix(in srgb, var(--accent) 30%, transparent);
+  text-shadow: 0 0 8px color-mix(in srgb, var(--accent) 40%, transparent),
+               0 0 18px color-mix(in srgb, var(--accent) 22%, transparent);
 }
-.stack-card:hover { box-shadow: 0 0 18px color-mix(in srgb, var(--accent) 22%, transparent); }
-.playlist-item:hover { box-shadow: inset 0 0 24px color-mix(in srgb, var(--accent) 8%, transparent); }
+.stack-card:hover { box-shadow: 0 0 14px color-mix(in srgb, var(--accent) 16%, transparent); }
+.playlist-item:hover { box-shadow: inset 0 0 20px color-mix(in srgb, var(--accent) 6%, transparent); }
 
 /* ── Playlist ── */
 .playlist {
