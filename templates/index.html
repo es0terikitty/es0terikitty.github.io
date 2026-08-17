@@ -45,7 +45,11 @@
     {% set idiot = get_section(path="the-idiot/_index.md") %}
     {% set nfu = get_section(path="notes-from-underground/_index.md") %}
     {% set bk = get_section(path="brothers-karamazov/_index.md") %}
-    {% set shelves = [ri, chapters, md, wn, idiot, nfu, bk] %}
+    {% set meta = get_section(path="metamorphosis/_index.md") %}
+    {% set trial = get_section(path="the-trial/_index.md") %}
+    {% set pride = get_section(path="pride-and-prejudice/_index.md") %}
+    {% set odyssey = get_section(path="the-odyssey/_index.md") %}
+    {% set shelves = [ri, chapters, md, wn, idiot, nfu, bk, meta, trial, pride, odyssey] %}
     {% for shelf in shelves %}
     <a href="{{ shelf.path }}" class="playlist-item reveal">
       <div>
@@ -142,6 +146,10 @@
     {% set idiot = get_section(path="the-idiot/_index.md") %}
     {% set nfu = get_section(path="notes-from-underground/_index.md") %}
     {% set bk = get_section(path="brothers-karamazov/_index.md") %}
+    {% set meta = get_section(path="metamorphosis/_index.md") %}
+    {% set trial = get_section(path="the-trial/_index.md") %}
+    {% set pride = get_section(path="pride-and-prejudice/_index.md") %}
+    {% set odyssey = get_section(path="the-odyssey/_index.md") %}
     {% set ri_all = [] %}
     {% for sub in ri.subsections %}
       {% set vol = get_section(path=sub) %}
@@ -169,9 +177,13 @@
       {% set_global bk_all = bk_all | concat(with=vol.pages) %}
     {% endfor %}
     {% set bk_n = bk_all | length %}
-    {% set all_n = ch_n + ri_n + md_n + wn_n + idiot_n + nfu_n + bk_n %}
+    {% set meta_n = meta.pages | length %}
+    {% set trial_n = trial.pages | length %}
+    {% set pride_n = pride.pages | length %}
+    {% set odyssey_n = odyssey.pages | length %}
+    {% set all_n = ch_n + ri_n + md_n + wn_n + idiot_n + nfu_n + bk_n + meta_n + trial_n + pride_n + odyssey_n %}
     <div class="stat-card reveal">
-      <div class="value">7+1</div>
+      <div class="value">11+1</div>
       <div class="label">Novels and Tools</div>
     </div>
     <div class="stat-card reveal">

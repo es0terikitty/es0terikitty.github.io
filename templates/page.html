@@ -22,7 +22,58 @@
 </div>
 
 <div class="page-nav">
-  <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; Chapter {{ page.lower.extra.chapter }}</a>{% endif %}</div>
-  <div>{% if page.higher %}<a href="{{ page.higher.path }}">Chapter {{ page.higher.extra.chapter }} &#8594;</a>{% endif %}</div>
+  {% set ancestors = page.ancestors %}
+  {% if ancestors | length >= 2 %}
+    {% set novel = get_section(path=ancestors[1]) %}
+    {% set_global prev_page = page.lower %}
+    {% set_global next_page = page.higher %}
+    {% if novel.subsections %}
+      {% set subs = novel.subsections | sort %}
+      {% set my_sub = ancestors | last %}
+      {% set_global next_sub = false %}
+      {% set_global prev_sub = false %}
+      {% set_global found_sub = false %}
+      {% for sub in subs %}
+        {% if sub == my_sub %}
+          {% set_global found_sub = true %}
+        {% elif found_sub and not next_sub %}
+          {% set_global next_sub = sub %}
+        {% elif not found_sub %}
+          {% set_global prev_sub = sub %}
+        {% endif %}
+      {% endfor %}
+      {% if found_sub %}
+        {% if not page.higher and next_sub %}
+          {% set nxt = get_section(path=next_sub) %}
+          {% if nxt.pages %}{% set_global next_page = nxt.pages[0] %}{% endif %}
+        {% endif %}
+        {% if not page.lower and prev_sub and prev_sub != my_sub %}
+          {% set prv = get_section(path=prev_sub) %}
+          {% if prv.pages %}{% set_global prev_page = prv.pages | last %}{% endif %}
+        {% endif %}
+      {% endif %}
+    {% else %}
+      {% set pages = novel.pages | sort(attribute="extra.chapter") %}
+      {% set_global prev_page = false %}
+      {% set_global next_page = false %}
+      {% for p in pages %}
+        {% if p.path == page.path %}
+          {% set_global seen = true %}
+        {% else %}
+          {% if seen and not next_page %}
+            {% set_global next_page = p %}
+          {% elif not seen %}
+            {% set_global prev_page = p %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% set unit = novel.extra.unit | default(value="Chapter") %}
+    <div>{% if prev_page %}<a href="{{ prev_page.path }}">&#8592; {{ unit }} {{ prev_page.extra.chapter }}</a>{% endif %}</div>
+    <div>{% if next_page %}<a href="{{ next_page.path }}">{{ unit }} {{ next_page.extra.chapter }} &#8594;</a>{% endif %}</div>
+  {% else %}
+    <div>{% if page.lower %}<a href="{{ page.lower.path }}">&#8592; Chapter {{ page.lower.extra.chapter }}</a>{% endif %}</div>
+    <div>{% if page.higher %}<a href="{{ page.higher.path }}">Chapter {{ page.higher.extra.chapter }} &#8594;</a>{% endif %}</div>
+  {% endif %}
 </div>
 {% endblock content %}
