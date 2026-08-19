@@ -42,12 +42,12 @@
   --bg-glow: #450b0b;
   --font-mono: "Maple Mono NF", monospace;
   --font-read: "Maple Mono NF", monospace;
-  --text-xs: 0.8125rem;
-  --text-sm: 0.9375rem;
-  --text-base: 1.0625rem;
-  --text-lg: 1.3125rem;
-  --text-xl: 1.875rem;
-  --text-2xl: 2.625rem;
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.25rem;
+  --text-xl: 1.8125rem;
+  --text-2xl: 2.5625rem;
   --content-w: 720px;
   --content-w-wide: 1100px;
   --content-w-list: 960px;
@@ -312,7 +312,7 @@ nav.top .logo:hover { color: var(--accent); }
 .terminal-body .prompt span { color: var(--accent); }
 .ascii-logo {
   font-family: var(--font-mono);
-  font-size: clamp(0.6rem, 3vw, 1.05rem);
+  font-size: clamp(0.5375rem, 3vw, 0.9875rem);
   line-height: 1.15;
   color: var(--accent);
   text-shadow: 0 0 9px color-mix(in srgb, var(--accent) 35%, transparent),
@@ -491,7 +491,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   max-width: var(--content-w); margin: 0 auto;
   padding: 24px;
   font-family: var(--font-read);
-  font-size: 1.0625rem; line-height: 1.85; color: var(--fg);
+  font-size: 1rem; line-height: 1.85; color: var(--fg);
 }
 .chapter-body p { margin-bottom: 1.4em; }
 .chapter-body em { color: var(--accent-soft); font-style: italic; }
@@ -552,9 +552,9 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   #stats.wrap { max-width: var(--content-w-wide); }
   #dictionary.wrap { max-width: var(--content-w-wide); }
   .terminal { max-width: 720px; }
-  .terminal-body h1 { font-size: 3.125rem; }
-  .section-heading { font-size: 2.125rem; }
-  .playlist-item .title { font-size: 1.125rem; }
+  .terminal-body h1 { font-size: 3.0625rem; }
+  .section-heading { font-size: 2.0625rem; }
+  .playlist-item .title { font-size: 1.0625rem; }
   .chapter-list { max-width: var(--content-w-wide); }
   .chapter-body, .page-header, .page-nav, .back-link { max-width: var(--content-w-wide); }
   .chapter-grid { display: block; columns: 3; column-gap: 24px; }
@@ -610,7 +610,7 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
 .dict-audio {
   background: none; border: 1px solid var(--border); color: var(--accent-dim);
   padding: 0 6px; line-height: 1.6; cursor: pointer;
-  font-family: var(--font-mono); font-size: 0.75rem;
+  font-family: var(--font-mono); font-size: 0.6875rem;
 }
 .dict-audio:hover { border-color: var(--accent-dim); }
 
@@ -619,13 +619,13 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   border-top: 1px dashed var(--border);
 }
 .dict-lang {
-  font-size: 0.6875rem; letter-spacing: 0.12em;
+  font-size: 0.625rem; letter-spacing: 0.12em;
   color: var(--fg-dim); text-transform: uppercase;
   margin-top: 16px; margin-bottom: -4px;
 }
 .dict-lang:first-of-type { margin-top: 8px; }
 .dict-pos {
-  display: inline-block; font-size: 0.8125rem;
+  display: inline-block; font-size: 0.75rem;
   color: var(--accent-dim); border: 1px solid var(--accent-dim);
   padding: 1px 6px; margin-bottom: 6px;
   text-transform: lowercase; font-family: var(--font-mono);
@@ -642,11 +642,11 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   text-align: center; padding: 24px 0;
 }
 .dict-jab {
-  font-size: 1.5rem; font-weight: 700; color: var(--accent);
+  font-size: 1.4375rem; font-weight: 700; color: var(--accent);
   line-height: 1.4; margin-bottom: 16px;
 }
 .dict-kao {
-  font-size: 1.625rem; color: var(--accent-dim);
+  font-size: 1.5625rem; color: var(--accent-dim);
   margin-bottom: 20px; line-height: 1.4;
 }
 .dict-retry {
