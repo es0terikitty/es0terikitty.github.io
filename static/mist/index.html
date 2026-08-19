@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>mist — new tab</title>
+<link rel="icon" type="image/svg+xml" href="icons/logo.svg">
+<link rel="icon" type="image/png" href="icons/icon32.png">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/emerald-colors.css">
+</head>
+<body>
+  <canvas id="bg-canvas"></canvas>
+
+  <div class="topbar">
+    <div class="icon-row">
+      <button class="icon-btn" type="button" id="editToggle" title="Edit shortcuts">
+        <svg viewBox="0 0 24 24"><path d="M16.5 3.5l4 4L8 20H4v-4L16.5 3.5z"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <main class="main">
+    <div class="clock" id="clock">00:00</div>
+    <div class="date" id="date">WEDNESDAY AUG 19, 2026</div>
+
+    <div class="search-wrap">
+      <svg class="search-icon" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input type="text" id="searchInput" placeholder="Search…" autocomplete="off" spellcheck="false" autofocus>
+    </div>
+
+    <div class="groups" id="groups"></div>
+
+    <div class="add-row">
+      <button class="add-btn" type="button" id="addBtn" title="Add shortcut">
+        <svg viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></svg>
+      </button>
+    </div>
+  </main>
+
+  <div class="overlay" id="overlay">
+    <div class="modal">
+      <div class="modal-head">
+        <div>
+          <h2 id="modalTitle">Add shortcut</h2>
+          <p class="modal-sub">Name, URL, group, and optional icon. Done.</p>
+        </div>
+        <button class="close-btn" type="button" id="closeModal" aria-label="Close">×</button>
+      </div>
+
+      <form id="shortcutForm">
+        <label class="field-label" for="nameInput">Name</label>
+        <input type="text" id="nameInput" placeholder="GitHub…" autocomplete="off" required>
+
+        <label class="field-label" for="urlInput">URL</label>
+        <input type="text" id="urlInput" placeholder="https://github.com" autocomplete="off" required>
+
+        <label class="field-label">Shortcut icon</label>
+        <div class="icon-field">
+          <div class="icon-preview" id="iconPreview"><span>+</span></div>
+          <button type="button" class="ghost-btn" id="chooseImageBtn">Choose image</button>
+          <button type="button" class="ghost-btn" id="useAutoBtn" disabled>Use automatic</button>
+          <input type="file" id="imageInput" accept="image/*" hidden>
+        </div>
+        <p class="hint">Automatic favicon is used unless you choose an image.</p>
+
+        <label class="field-label" for="groupInput">Group</label>
+        <select id="groupInput"></select>
+
+        <button type="submit" class="primary-btn" id="submitBtn">Add shortcut</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="js/newtab.js"></script>
+  <script src="js/background.js"></script>
+</body>
+</html>

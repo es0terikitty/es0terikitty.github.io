@@ -1,0 +1,19 @@
+:root {
+  --bg: #05100a;
+  --glow-1: rgba(0, 255, 107, 0.08);
+  --glow-2: rgba(0, 230, 92, 0.06);
+  --text-primary: #ecfff3;
+  --text-secondary: #96d4ab;
+  --text-dim: #4f825f;
+  --surface: rgba(141, 255, 192, 0.05);
+  --surface-hover: rgba(141, 255, 192, 0.10);
+  --surface-strong: rgba(141, 255, 192, 0.16);
+  --border: rgba(0, 230, 92, 0.18);
+  --border-strong: rgba(0, 230, 92, 0.45);
+  --danger: #ff5252;
+  --bang-color: #00ff6b;
+  --modal-bg: rgba(5, 16, 10, 0.96);
+  --canvas-fade: #05100a;
+  --canvas-line: rgba(0, 230, 92, 0.06);
+  --canvas-dot: rgba(0, 230, 92, 0.22);
+}
