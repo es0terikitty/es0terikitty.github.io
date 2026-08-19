@@ -1,21 +1,21 @@
 @font-face {
-  font-family: "Iosevka";
-  src: url("/fonts/Iosevka-Regular.woff2") format("woff2");
+  font-family: "Maple Mono NF";
+  src: url("/fonts/MapleMono-NF-Regular.woff2") format("woff2");
   font-weight: 400; font-style: normal; font-display: block;
 }
 @font-face {
-  font-family: "Iosevka";
-  src: url("/fonts/Iosevka-Bold.woff2") format("woff2");
+  font-family: "Maple Mono NF";
+  src: url("/fonts/MapleMono-NF-Bold.woff2") format("woff2");
   font-weight: 700; font-style: normal; font-display: block;
 }
 @font-face {
-  font-family: "Iosevka";
-  src: url("/fonts/Iosevka-Italic.woff2") format("woff2");
+  font-family: "Maple Mono NF";
+  src: url("/fonts/MapleMono-NF-Italic.woff2") format("woff2");
   font-weight: 400; font-style: italic; font-display: block;
 }
 @font-face {
-  font-family: "Iosevka";
-  src: url("/fonts/Iosevka-BoldItalic.woff2") format("woff2");
+  font-family: "Maple Mono NF";
+  src: url("/fonts/MapleMono-NF-BoldItalic.woff2") format("woff2");
   font-weight: 700; font-style: italic; font-display: block;
 }
 
@@ -40,8 +40,8 @@
   --grid-line: rgba(255, 42, 42, 0.06);
   --grid-dot: rgba(255, 42, 42, 0.22);
   --bg-glow: #450b0b;
-  --font-mono: "Iosevka", monospace;
-  --font-read: "Iosevka", monospace;
+  --font-mono: "Maple Mono NF", monospace;
+  --font-read: "Maple Mono NF", monospace;
   --text-xs: 0.8125rem;
   --text-sm: 0.9375rem;
   --text-base: 1.0625rem;
