@@ -31,10 +31,12 @@
 
 </main>
 
+<script src="/js/dict-engine.js"></script>
 <script>
 (function() {
-  var API_BASE = 'https://en.wiktionary.org/api/rest_v1/page/definition/';
   var FETCH_TIMEOUT_MS = 8000;
+  var WORDLIST_URL = '/js/dict-wordlist.js';
+  var MAX_DEFS_PER_POS = 3;
 
   var form = document.getElementById('dict-form');
   var input = document.getElementById('dict-input');
@@ -44,6 +46,7 @@
   // Tracks the request currently allowed to write to the DOM. Any older,
   // superseded request checks against this before rendering.
   var currentController = null;
+  var wordlistLoaded = false;
 
   var jabs = [
     'nice try. did you mean to spell that correctly?',
@@ -84,15 +87,6 @@
     });
   }
 
-  // Wiktionary definitions come as HTML fragments (with <a>, <span> links etc).
-  // Parse them into plain text via the DOM, which also handles entities safely.
-  function stripHTML(html) {
-    if (!html) return '';
-    var div = document.createElement('div');
-    div.innerHTML = html;
-    return (div.textContent || '').replace(/\s+/g, ' ').trim();
-  }
-
   function setLoading(isLoading) {
     input.disabled = isLoading;
     submitBtn.disabled = isLoading;
@@ -107,6 +101,83 @@
         input.focus();
       });
     }
+  }
+
+  function currentLang() {
+    return DictEngine.defaultLanguage();
+  }
+
+  function fetchExtract(word, controller) {
+    var url = DictEngine.lookupUrl(word, currentLang());
+    if (!url) return Promise.reject(new Error('empty query'));
+    return fetch(url, { signal: controller.signal })
+      .then(function(r) {
+        if (!r.ok) throw new Error('server error: ' + r.status);
+        return r.text();
+      });
+  }
+
+  function lookup(word, controller) {
+    return fetchExtract(word, controller).then(function(raw) {
+      var res = DictEngine.parseResponse(raw, currentLang());
+      if (!res.ok && res.kind === 'notfound') {
+        var nf = new Error(res.error || 'not found');
+        nf.notFound = true;
+        throw nf;
+      }
+      if (!res.ok) throw new Error(res.error || 'lookup failed');
+      return res.entry;
+    });
+  }
+
+  function loadWordlist() {
+    if (wordlistLoaded) return Promise.resolve();
+    if (typeof ENGLISH_WORDLIST !== 'undefined') {
+      DictEngine.setWordlist(ENGLISH_WORDLIST);
+      wordlistLoaded = true;
+      return Promise.resolve();
+    }
+    return new Promise(function(resolve, reject) {
+      var s = document.createElement('script');
+      s.src = WORDLIST_URL;
+      s.onload = function() {
+        DictEngine.setWordlist(typeof ENGLISH_WORDLIST !== 'undefined' ? ENGLISH_WORDLIST : []);
+        wordlistLoaded = true;
+        resolve();
+      };
+      s.onerror = function() { reject(new Error('wordlist failed to load')); };
+      document.head.appendChild(s);
+    });
+  }
+
+  function renderNotFoundWithSuggestions(word) {
+    var fuzzy = DictEngine.fuzzyMatch(word);
+    if (fuzzy.autoMatch) {
+      output.innerHTML = '<p class="dict-status"><span class="live-dot"></span> did you mean “'
+        + escapeHTML(fuzzy.autoMatch) + '”? looking that up…</p>';
+      doLookup(fuzzy.autoMatch, output.innerHTML);
+      return;
+    }
+    if (fuzzy.alternatives.length) {
+      var html = '<div class="dict-mock">'
+        + '<p class="dict-jab">not found. did you mean:</p>'
+        + '<p class="dict-chips">';
+      for (var i = 0; i < fuzzy.alternatives.length; i++) {
+        html += '<button type="button" class="dict-chip" data-word="'
+          + escapeHTML(fuzzy.alternatives[i]) + '">' + escapeHTML(fuzzy.alternatives[i]) + '</button>';
+      }
+      html += '</p><button class="dict-retry">try again ↵</button></div>';
+      output.innerHTML = html;
+      var chips = output.querySelectorAll('.dict-chip');
+      for (var c = 0; c < chips.length; c++) {
+        chips[c].addEventListener('click', function() {
+          doLookup(this.getAttribute('data-word'), false);
+        });
+      }
+      bindRetry();
+      return;
+    }
+    renderNotFound();
   }
 
   function renderNotFound() {
@@ -138,66 +209,40 @@
     bindRetry();
   }
 
-  function renderResult(word, data) {
-    // Wiktionary REST shape: { "en": [{ partOfSpeech, language, definitions: [...] }], "la": [...] }
-    var langCodes = Object.keys(data);
-    // Prefer English first when present, then show the rest as-is.
-    langCodes.sort(function(a, b) {
-      if (a === 'en') return -1;
-      if (b === 'en') return 1;
-      return 0;
-    });
-
+  function renderResult(entry) {
     var html = '<div class="dict-result">';
     html += '<div class="dict-word-row">';
-    html += '<span class="dict-word">' + escapeHTML(word) + '</span>';
+    html += '<span class="dict-word">' + escapeHTML(entry.word) + '</span>';
+    if (entry.phonetic) html += '<span class="dict-phonetic">' + escapeHTML(entry.phonetic) + '</span>';
     html += '</div>';
 
-    for (var li = 0; li < langCodes.length; li++) {
-      var code = langCodes[li];
-      var entries = data[code] || [];
-      if (!entries.length) continue;
+    for (var m = 0; m < entry.meanings.length; m++) {
+      var meaning = entry.meanings[m];
+      html += '<div class="dict-meaning">';
+      html += '<span class="dict-pos">' + escapeHTML(meaning.partOfSpeech || '') + '</span>';
 
-      var langName = entries[0].language || code.toUpperCase();
-      html += '<div class="dict-lang">' + escapeHTML(langName) + '</div>';
-
-      for (var e = 0; e < entries.length; e++) {
-        var entry = entries[e];
-        html += '<div class="dict-meaning">';
-        html += '<span class="dict-pos">' + escapeHTML(entry.partOfSpeech || '') + '</span>';
-
-        var defs = entry.definitions || [];
-        for (var d = 0; d < Math.min(defs.length, 3); d++) {
-          var def = defs[d];
-          html += '<p class="dict-def">' + escapeHTML(stripHTML(def.definition)) + '</p>';
-          var ex = (def.parsedExamples && def.parsedExamples.length)
-            ? stripHTML(def.parsedExamples[0].example)
-            : '';
-          if (ex) {
-            html += '<p class="dict-example">“' + escapeHTML(ex) + '”</p>';
-          }
+      var defs = meaning.definitions || [];
+      for (var d = 0; d < Math.min(defs.length, MAX_DEFS_PER_POS); d++) {
+        var def = defs[d];
+        html += '<p class="dict-def">' + escapeHTML(def.definition) + '</p>';
+        if (def.example) {
+          html += '<p class="dict-example">“' + escapeHTML(def.example) + '”</p>';
         }
-
-        html += '</div>';
       }
+
+      html += '</div>';
     }
 
     html += '</div>';
     output.innerHTML = html;
 
-    // Wiktionary's own audio lives in page media, not this endpoint, and
-    // gstatic has no CORS headers, so probe availability with an <Audio>
-    // element before showing the pronunciation button (only for gstatic hits).
-    probeAudio(word);
+    attachAudioButton(entry.word);
   }
 
-  function probeAudio(word) {
-    // gstatic's dictionary files record a different speaker per word (some
-    // male, some female), so they can't give one consistent voice. Google
-    // Translate TTS blocks cross-origin browser requests entirely. tts.ai
-    // (Kokoro) gives one fixed female voice for every word with full CORS:
-    // POST the word -> get an mp3 URL -> play. The button is always shown;
-    // generation happens lazily on click, falling back to gstatic if it fails.
+  function attachAudioButton(word) {
+    // Wiktionary extracts carry no audio, and gstatic has no CORS headers,
+    // so pronunciation is generated lazily on click via tts.ai (Kokoro,
+    // consistent voice, full CORS), falling back to gstatic's US recording.
     var btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'dict-audio';
@@ -225,8 +270,6 @@
           return new Audio(url).play();
         })
         .catch(function() {
-          // Fall back to Google's classic US recording (may be male for some
-          // words, but better than nothing if tts.ai is down or rate-limited).
           var gs = 'https://ssl.gstatic.com/dictionary/static/sounds/20200429/'
             + encodeURIComponent(word) + '--_us_1.mp3';
           return new Audio(gs).play();
@@ -242,64 +285,32 @@
     if (row) row.appendChild(btn);
   }
 
-  form.addEventListener('submit', function(e) {
-    e.preventDefault();
-    var word = input.value.trim();
-    if (!word) return;
+  function doLookup(word, statusOverride) {
+    setLoading(true);
+    output.innerHTML = statusOverride
+      || '<p class="dict-status"><span class="live-dot"></span> looking up…</p>';
 
-    // Cancel whatever's still in flight — its result would be stale anyway.
     if (currentController) currentController.abort();
     var controller = new AbortController();
     currentController = controller;
-
     var timeoutId = setTimeout(function() { controller.abort(); }, FETCH_TIMEOUT_MS);
 
-    setLoading(true);
-    output.innerHTML = '<p class="dict-status"><span class="live-dot"></span> looking up…</p>';
-
-    // Wiktionary page titles are case-sensitive; try the typed form first,
-    // then fall back to lowercase before declaring the word not found.
-    var attempts = [word];
-    var lower = word.toLowerCase();
-    if (lower !== word) attempts.push(lower);
-
-    function tryLookup(i) {
-      if (i >= attempts.length) {
-        var nf = new Error('not found');
-        nf.notFound = true;
-        return Promise.reject(nf);
-      }
-      return fetch(API_BASE + encodeURIComponent(attempts[i]), { signal: controller.signal })
-        .then(function(r) {
-          if (!r.ok) {
-            // A genuine Wiktionary miss is a 404 with an error JSON body.
-            // Anything else (5xx, HTML, connection error) is an outage.
-            if (r.status === 404) return tryLookup(i + 1);
-            throw new Error('server error: ' + r.status);
-          }
-          return r.json();
-        });
-    }
-
-    tryLookup(0)
-      .then(function(data) {
+    lookup(word, controller)
+      .then(function(entry) {
         clearTimeout(timeoutId);
-        if (!Object.keys(data).length) {
-          var nf2 = new Error('not found');
-          nf2.notFound = true;
-          throw nf2;
-        }
-        renderResult(word, data);
+        renderResult(entry);
       })
       .catch(function(err) {
         clearTimeout(timeoutId);
-        // A newer submit already took over — let it own the output, say nothing here.
+        // A newer submit already took over — let it own the output.
         if (controller !== currentController) return;
 
         if (err && err.name === 'AbortError') {
           renderTimeoutError();
         } else if (err && err.notFound) {
-          renderNotFound();
+          loadWordlist()
+            .then(function() { renderNotFoundWithSuggestions(word); })
+            .catch(renderNotFound);
         } else {
           renderServerError();
         }
@@ -307,6 +318,13 @@
       .then(function() {
         if (controller === currentController) setLoading(false);
       });
+  }
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    var word = input.value.trim();
+    if (!word) return;
+    doLookup(word);
   });
 })();
 </script>

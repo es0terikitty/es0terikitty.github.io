@@ -638,6 +638,21 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
 
 .dict-input:disabled, .dict-submit:disabled { opacity: 0.5; cursor: default; }
 
+.dict-phonetic { color: var(--fg-dim); font-size: var(--text-sm); }
+
+.dict-chips {
+  display: flex; flex-wrap: wrap; gap: 8px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.dict-chip {
+  background: none; border: 1px solid var(--border);
+  color: var(--accent-dim); font-family: var(--font-mono);
+  font-size: var(--text-sm); padding: 4px 12px;
+  cursor: pointer;
+}
+.dict-chip:hover { border-color: var(--accent-dim); }
+
 .dict-mock {
   text-align: center; padding: 24px 0;
 }
@@ -1074,6 +1089,10 @@ html.js .reveal.in { opacity: 1; transform: none; }
   padding: 6px 10px;
 }
 .wtc-select:hover { border-color: var(--border-strong); }
+.wtc-select option {
+  background-color: var(--bg-panel);
+  color: var(--fg);
+}
 .wtc-dither {
   display: flex; align-items: center; justify-content: center; gap: 8px;
   margin-top: 14px; font-size: var(--text-sm); color: var(--fg-dim);
@@ -1099,5 +1118,33 @@ html.js .reveal.in { opacity: 1; transform: none; }
 }
 .wtc-credit a { color: var(--link); }
 .wtc-credit a:hover { color: var(--link-hover); }
+
+/* ── walldiff engine toggle ── */
+.wtc-mode { display: flex; justify-content: center; margin-top: 16px; }
+.wtc-mode-btn {
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  background: var(--bg-panel);
+  color: var(--fg-dim);
+  border: 1px solid var(--border);
+  padding: 6px 22px;
+  cursor: pointer;
+  transition: border-color 0.12s ease, color 0.12s ease, background-color 0.12s ease;
+}
+.wtc-mode-btn:first-child { border-radius: 6px 0 0 6px; }
+.wtc-mode-btn:last-child { border-radius: 0 6px 6px 0; }
+.wtc-mode-btn + .wtc-mode-btn { margin-left: -1px; }
+.wtc-mode-btn.is-active {
+  color: var(--accent-dim);
+  border-color: var(--accent);
+  background: var(--bg-panel-alt);
+}
+.wtc-mode-btn:hover:not(.is-active) { color: var(--fg); border-color: var(--border-strong); }
+.wtc-mode-hint {
+  margin-top: 8px;
+  text-align: center;
+  font-size: var(--text-xs);
+  color: var(--fg-muted);
+}
 
 
