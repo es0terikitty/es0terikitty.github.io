@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}wtc — {{ config.title }}{% endblock title %}
+{% block title %}walldiff — {{ config.title }}{% endblock title %}
 
 {% block content %}
 <main>
@@ -16,10 +16,10 @@
       <span></span>
     </div>
     <div class="terminal-body" style="align-items:stretch;">
-      <div class="prompt"><span>$</span> wtc</div>
+      <div class="prompt"><span>$</span> walldiff</div>
 
       <div id="drop-zone" class="wtc-drop">
-        <label for="image-loader">drop an image</label>
+        <label for="image-loader">drop an image <span class="wtc-drop-or">or</span> choose an image</label>
         <input type="file" id="image-loader" name="image-loader" accept=".jpg,.jpeg,.png,.webp" />
       </div>
 
@@ -32,31 +32,16 @@
 
       <div class="wtc-options">
         <button class="wtc-btn" id="opt-up" onclick="scrollTheme(-1)">▲</button>
-        <select name="Colour Scheme" id="theme-select" class="wtc-select">
-          <option value="Gruvbox">Gruvbox</option>
-          <option value="Nord">Nord</option>
-          <option value="Everforest">Everforest</option>
-          <option value="Tokyo Night">Tokyo Night</option>
-          <option value="Kanagawa">Kanagawa</option>
-          <option value="Mizuki Akiyama">Mizuki Akiyama</option>
-          <option value="Catppuccin Mocha">Catppuccin Mocha</option>
-          <option value="Rose Pine">Rose Pine</option>
-          <option value="Crimson Blood">Crimson Blood</option>
+        <select name="Colour Scheme" id="theme-select" class="wtc-select" aria-label="theme">
         </select>
         <button class="wtc-btn" id="opt-down" onclick="scrollTheme(1)">▼</button>
-      </div>
-
-      <div class="wtc-dither" onclick="dither()">
-        <input type="checkbox" id="dither-checkbox" />
-        <label id="dither-checkbox-label" for="checkbox">more accurate colours</label>
-        <span class="wtc-tooltip">dithering to reduce colour-banding</span>
       </div>
 
       <button class="compress-btn wtc-convert" id="convert" type="button" onclick="initialize()">convert</button>
 
       <div class="wtc-credit">
-        original tool —
-        <a href="https://notneelpatel.github.io/WallpaperThemeConverter" target="_blank" rel="noopener noreferrer">Wallpaper Theme Converter</a>
+        engine —
+        <a href="https://github.com/Achno/gowall" target="_blank" rel="noopener noreferrer">gowall</a>
       </div>
     </div>
   </div>
@@ -67,5 +52,5 @@
 
 {% block extrascripts %}
 {{ super() }}
-<script src="/wtc/assets/convert.js"></script>
+<script src="/wtc/assets/walldiff.js"></script>
 {% endblock extrascripts %}

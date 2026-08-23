@@ -1,4 +1,4 @@
 +++
-title = "wtc"
+title = "walldiff"
 template = "wtc.html"
 +++
