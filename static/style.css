@@ -1040,7 +1040,7 @@ html.js .reveal.in { opacity: 1; transform: none; }
 }
 
 /* ── WTC tool (wallpaper theme converter) ── */
-.terminal-wtc .wtc-drop {
+.terminal-walldiff .walldiff-drop {
   border: 1px dashed var(--border-strong);
   border-radius: 8px;
   padding: 14px 16px;
@@ -1049,25 +1049,25 @@ html.js .reveal.in { opacity: 1; transform: none; }
   cursor: pointer;
   transition: border-color 0.12s ease, background-color 0.12s ease;
 }
-.terminal-wtc .wtc-drop:hover { border-color: var(--accent-dim); background: var(--bg-panel-alt); }
-.terminal-wtc .wtc-drop label {
+.terminal-walldiff .walldiff-drop:hover { border-color: var(--accent-dim); background: var(--bg-panel-alt); }
+.terminal-walldiff .walldiff-drop label {
   cursor: pointer; display: flex; width: 100%;
   align-items: center; justify-content: center; gap: 5px;
 }
-.terminal-wtc .wtc-drop .wtc-drop-or { color: var(--fg-muted); }
-.terminal-wtc .wtc-drop input[type="file"] {
+.terminal-walldiff .walldiff-drop .walldiff-drop-or { color: var(--fg-muted); }
+.terminal-walldiff .walldiff-drop input[type="file"] {
   display: none;
 }
-.wtc-canvas {
+.walldiff-canvas {
   max-width: 100%;
   max-height: 55vh;
   border: 1px solid var(--border);
   border-radius: 8px;
   margin: 14px auto 0;
 }
-.wtc-buttons { display: flex; justify-content: center; gap: 10px; margin-top: 14px; }
-.wtc-options { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
-.wtc-btn {
+.walldiff-buttons { display: flex; justify-content: center; gap: 10px; margin-top: 14px; }
+.walldiff-options { display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 14px; }
+.walldiff-btn {
   font-family: var(--font-mono);
   color: var(--fg);
   background: var(--bg-panel);
@@ -1078,8 +1078,8 @@ html.js .reveal.in { opacity: 1; transform: none; }
   font-size: var(--text-sm);
   transition: border-color 0.12s ease, color 0.12s ease;
 }
-.wtc-btn:hover { border-color: var(--accent); color: var(--accent-dim); }
-.wtc-select {
+.walldiff-btn:hover { border-color: var(--accent); color: var(--accent-dim); }
+.walldiff-select {
   font-family: var(--font-mono);
   font-size: var(--text-sm);
   background: var(--bg-panel);
@@ -1088,17 +1088,17 @@ html.js .reveal.in { opacity: 1; transform: none; }
   border-radius: 6px;
   padding: 6px 10px;
 }
-.wtc-select:hover { border-color: var(--border-strong); }
-.wtc-select option {
+.walldiff-select:hover { border-color: var(--border-strong); }
+.walldiff-select option {
   background-color: var(--bg-panel);
   color: var(--fg);
 }
-.wtc-select option:hover,
-.wtc-select option:checked {
+.walldiff-select option:hover,
+.walldiff-select option:checked {
   background-color: color-mix(in srgb, var(--accent-dim) 28%, var(--bg-panel));
 }
-.wtc-convert { margin-top: 16px; }
-.wtc-credit {
+.walldiff-convert { margin-top: 16px; }
+.walldiff-credit {
   margin-top: 22px;
   padding-top: 14px;
   border-top: 1px solid var(--border);
@@ -1106,10 +1106,10 @@ html.js .reveal.in { opacity: 1; transform: none; }
   font-size: var(--text-xs);
   color: var(--fg-muted);
 }
-.wtc-credit a { color: var(--link); }
-.wtc-credit a:hover { color: var(--link-hover); }
+.walldiff-credit a { color: var(--link); }
+.walldiff-credit a:hover { color: var(--link-hover); }
 
-.wtc-mode-hint {
+.walldiff-mode-hint {
   margin-top: 8px;
   text-align: center;
   font-size: var(--text-xs);

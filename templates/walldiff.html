@@ -10,7 +10,7 @@
     <a href="/">&larr; Home</a>
   </nav>
 
-  <div class="terminal terminal-wtc">
+  <div class="terminal terminal-walldiff">
     <div class="terminal-bar">
       <span>tty4</span>
       <span></span>
@@ -18,28 +18,28 @@
     <div class="terminal-body" style="align-items:stretch;">
       <div class="prompt"><span>$</span> walldiff</div>
 
-      <div id="drop-zone" class="wtc-drop">
-        <label for="image-loader">drop an image <span class="wtc-drop-or">or</span> choose an image</label>
+      <div id="drop-zone" class="walldiff-drop">
+        <label for="image-loader">drop an image <span class="walldiff-drop-or">or</span> choose an image</label>
         <input type="file" id="image-loader" name="image-loader" accept=".jpg,.jpeg,.png,.webp" />
       </div>
 
-      <canvas id="image-canvas" class="wtc-canvas"></canvas>
+      <canvas id="image-canvas" class="walldiff-canvas"></canvas>
 
-      <div class="wtc-buttons">
+      <div class="walldiff-buttons">
         <button class="compress-btn" id="download-button" type="button" onclick="downloadImage()">download</button>
         <button class="compress-btn" id="reset-button" type="button" onclick="reset()">reset image</button>
       </div>
 
-      <div class="wtc-options">
-        <button class="wtc-btn" id="opt-up" onclick="scrollTheme(-1)">▲</button>
-        <select name="Colour Scheme" id="theme-select" class="wtc-select" aria-label="theme">
+      <div class="walldiff-options">
+        <button class="walldiff-btn" id="opt-up" onclick="scrollTheme(-1)">▲</button>
+        <select name="Colour Scheme" id="theme-select" class="walldiff-select" aria-label="theme">
         </select>
-        <button class="wtc-btn" id="opt-down" onclick="scrollTheme(1)">▼</button>
+        <button class="walldiff-btn" id="opt-down" onclick="scrollTheme(1)">▼</button>
       </div>
 
-      <button class="compress-btn wtc-convert" id="convert" type="button" onclick="initialize()">convert</button>
+      <button class="compress-btn walldiff-convert" id="convert" type="button" onclick="initialize()">convert</button>
 
-      <div class="wtc-credit">
+      <div class="walldiff-credit">
         engine —
         <a href="https://github.com/Achno/gowall" target="_blank" rel="noopener noreferrer">gowall</a>
       </div>
@@ -52,5 +52,5 @@
 
 {% block extrascripts %}
 {{ super() }}
-<script src="/wtc/assets/walldiff.js"></script>
+<script src="/walldiff/assets/walldiff.js"></script>
 {% endblock extrascripts %}
