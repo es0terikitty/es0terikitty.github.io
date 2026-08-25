@@ -295,6 +295,7 @@ nav.top .logo:hover { color: var(--accent); }
   font-size: var(--text-xs); color: var(--fg-dim);
   text-transform: uppercase; letter-spacing: 0.08em;
 }
+.dict-word-row .sym { color: var(--accent); margin-right: 2px; }
 .live-dot {
   display: inline-block;
   width: 6px; height: 6px;
@@ -302,7 +303,6 @@ nav.top .logo:hover { color: var(--accent); }
   margin-right: 6px;
   vertical-align: middle;
 }
-.terminal-bar .live-dot { animation: none; }
 @media (prefers-reduced-motion: no-preference) {
   .live-dot { animation: blink 1s step-end infinite; }
 }
