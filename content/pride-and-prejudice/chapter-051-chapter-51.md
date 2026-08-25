@@ -5,7 +5,7 @@ weight = 51
 chapter = 51
 +++
 
-Their sister’s wedding-day arrived; and Jane and Elizabeth felt for her probably more than she felt for herself. The carriage was sent to meet them at——, and they were to return in it by dinnertime. Their arrival was dreaded by the elder Miss Bennets—and Jane more especially, who gave Lydia the feelings which would have attended herself, had _she_ been the culprit, and was wretched in the thought of what her sister must endure.
+Their sister’s wedding-day arrived; and Jane and Elizabeth felt for her probably more than she felt for herself. The carriage was sent to meet them at——, and they were to return in it by dinnertime. Their arrival was dreaded by the elder Miss Bennets—and Jane more especially, who gave Lydia the feelings which would have attended herself, had she been the culprit, and was wretched in the thought of what her sister must endure.
 
 They came. The family were assembled in the breakfast-room to receive them. Smiles decked the face of Mrs. Bennet, as the carriage drove up to the door; her husband looked impenetrably grave; her daughters, alarmed, anxious, uneasy.
 
@@ -15,7 +15,7 @@ Their reception from Mr. Bennet, to whom they then turned, was not quite so cord
 
 Elizabeth was disgusted, and even Miss Bennet was shocked. Lydia was Lydia still; untamed, unabashed, wild, noisy, and fearless. She turned from sister to sister, demanding their congratulations; and when at length they all sat down, looked eagerly round the room, took notice of some little alteration in it, and observed, with a laugh, that it was a great while since she had been there.
 
-Wickham was not at all more distressed than herself; but his manners were always so pleasing, that, had his character and his marriage been exactly what they ought, his smiles and his easy address, while he claimed their relationship, would have delighted them all. Elizabeth had not before believed him quite equal to such assurance; but she sat down, resolving within herself to draw no limits in future to the impudence of an impudent man. _She_ blushed, and Jane blushed; but the cheeks of the two who caused their confusion suffered no variation of colour.
+Wickham was not at all more distressed than herself; but his manners were always so pleasing, that, had his character and his marriage been exactly what they ought, his smiles and his easy address, while he claimed their relationship, would have delighted them all. Elizabeth had not before believed him quite equal to such assurance; but she sat down, resolving within herself to draw no limits in future to the impudence of an impudent man. She blushed, and Jane blushed; but the cheeks of the two who caused their confusion suffered no variation of colour.
 
 There was no want of discourse. The bride and her mother could neither of them talk fast enough; and Wickham, who happened to sit near Elizabeth, began inquiring after his acquaintance in that neighbourhood, with a good-humoured ease, which she felt very unable to equal in her replies. They seemed each of them to have the happiest memories in the world. Nothing of the past was recollected with pain; and Lydia led voluntarily to subjects which her sisters would not have alluded to for the world.
 
@@ -53,7 +53,7 @@ Lydia was exceedingly fond of him. He was her dear Wickham on every occasion; no
 
 One morning, soon after their arrival, as she was sitting with her two elder sisters, she said to Elizabeth,—
 
-“Lizzy, I never gave _you_ an account of my wedding, I believe. You were not by, when I told mamma, and the others, all about it. Are not you curious to hear how it was managed?”
+“Lizzy, I never gave you an account of my wedding, I believe. You were not by, when I told mamma, and the others, all about it. Are not you curious to hear how it was managed?”
 
 “No, really,” replied Elizabeth; “I think there cannot be too little said on the subject.”
 
@@ -63,7 +63,7 @@ One morning, soon after their arrival, as she was sitting with her two elder sis
 
 “Well, and so we breakfasted at ten as usual: I thought it would never be over; for, by the bye, you are to understand that my uncle and aunt were horrid unpleasant all the time I was with them. If you’ll believe me, I did not once put my foot out of doors, though I was there a fortnight. Not one party, or scheme, or anything! To be sure, London was rather thin, but, however, the Little Theatre was open.
 
-“Well, and so, just as the carriage came to the door, my uncle was called away upon business to that horrid man Mr. Stone. And then, you know, when once they get together, there is no end of it. Well, I was so frightened I did not know what to do, for my uncle was to give me away; and if we were beyond the hour we could not be married all day. But, luckily, he came back again in ten minutes’ time, and then we all set out. However, I recollected afterwards, that if he _had_ been prevented going, the wedding need not be put off, for Mr. Darcy might have done as well.”
+“Well, and so, just as the carriage came to the door, my uncle was called away upon business to that horrid man Mr. Stone. And then, you know, when once they get together, there is no end of it. Well, I was so frightened I did not know what to do, for my uncle was to give me away; and if we were beyond the hour we could not be married all day. But, luckily, he came back again in ten minutes’ time, and then we all set out. However, I recollected afterwards, that if he had been prevented going, the wedding need not be put off, for Mr. Darcy might have done as well.”
 
 “Mr. Darcy!” repeated Elizabeth, in utter amazement.
 
@@ -81,6 +81,6 @@ But to live in ignorance on such a point was impossible; or at least it was impo
 
 “You may readily comprehend,” she added, “what my curiosity must be to know how a person unconnected with any of us, and, comparatively speaking, a stranger to our family, should have been amongst you at such a time. Pray write instantly, and let me understand it—unless it is, for very cogent reasons, to remain in the secrecy which Lydia seems to think necessary; and then I must endeavour to be satisfied with ignorance.”
 
-“Not that I _shall_, though,” she added to herself, and she finished the letter; “and, my dear aunt, if you do not tell me in an honourable manner, I shall certainly be reduced to tricks and stratagems to find it out.”
+“Not that I shall, though,” she added to herself, and she finished the letter; “and, my dear aunt, if you do not tell me in an honourable manner, I shall certainly be reduced to tricks and stratagems to find it out.”
 
 Jane’s delicate sense of honour would not allow her to speak to Elizabeth privately of what Lydia had let fall; Elizabeth was glad of it:—till it appeared whether her inquiries would receive any satisfaction, she had rather be without a confidante.

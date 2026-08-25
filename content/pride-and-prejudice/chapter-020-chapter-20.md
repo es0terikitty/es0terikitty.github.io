@@ -9,7 +9,7 @@ Mr. Collins was not left long to the silent contemplation of his successful love
 
 This information, however, startled Mrs. Bennet: she would have been glad to be equally satisfied that her daughter had meant to encourage him by protesting against his proposals, but she dared not believe it, and could not help saying so.
 
-“But depend upon it, Mr. Collins,” she added, “that Lizzy shall be brought to reason. I will speak to her about it myself directly. She is a very headstrong, foolish girl, and does not know her own interest; but I will _make_ her know it.”
+“But depend upon it, Mr. Collins,” she added, “that Lizzy shall be brought to reason. I will speak to her about it myself directly. She is a very headstrong, foolish girl, and does not know her own interest; but I will make her know it.”
 
 “Pardon me for interrupting you, madam,” cried Mr. Collins; “but if she is really headstrong and foolish, I know not whether she would altogether be a very desirable wife to a man in my situation, who naturally looks for happiness in the marriage state. If, therefore, she actually persists in rejecting my suit, perhaps it were better not to force her into accepting me, because, if liable to such defects of temper, she could not contribute much to my felicity.”
 
@@ -17,7 +17,7 @@ This information, however, startled Mrs. Bennet: she would have been glad to be 
 
 She would not give him time to reply, but hurrying instantly to her husband, called out, as she entered the library,—
 
-“Oh, Mr. Bennet, you are wanted immediately; we are all in an uproar. You must come and make Lizzy marry Mr. Collins, for she vows she will not have him; and if you do not make haste he will change his mind and not have _her_.”
+“Oh, Mr. Bennet, you are wanted immediately; we are all in an uproar. You must come and make Lizzy marry Mr. Collins, for she vows she will not have him; and if you do not make haste he will change his mind and not have her.”
 
 Mr. Bennet raised his eyes from his book as she entered, and fixed them on her face with a calm unconcern, which was not in the least altered by her communication.
 
@@ -45,11 +45,11 @@ Elizabeth replied that it was.
 
 “Yes, or I will never see her again.”
 
-“An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. Your mother will never see you again if you do _not_ marry Mr. Collins, and I will never see you again if you _do_.”
+“An unhappy alternative is before you, Elizabeth. From this day you must be a stranger to one of your parents. Your mother will never see you again if you do not marry Mr. Collins, and I will never see you again if you do.”
 
 Elizabeth could not but smile at such a conclusion of such a beginning; but Mrs. Bennet, who had persuaded herself that her husband regarded the affair as she wished, was excessively disappointed.
 
-“What do you mean, Mr. Bennet, by talking in this way? You promised me to _insist_ upon her marrying him.”
+“What do you mean, Mr. Bennet, by talking in this way? You promised me to insist upon her marrying him.”
 
 “My dear,” replied her husband, “I have two small favours to request. First, that you will allow me the free use of my understanding on the present occasion; and, secondly, of my room. I shall be glad to have the library to myself as soon as may be.”
 
@@ -63,7 +63,7 @@ Charlotte had hardly time to answer before they were joined by Kitty, who came t
 
 Charlotte’s reply was spared by the entrance of Jane and Elizabeth.
 
-“Ay, there she comes,” continued Mrs. Bennet, “looking as unconcerned as may be, and caring no more for us than if we were at York, provided she can have her own way. But I tell you what, Miss Lizzy, if you take it into your head to go on refusing every offer of marriage in this way, you will never get a husband at all—and I am sure I do not know who is to maintain you when your father is dead. _I_ shall not be able to keep you—and so I warn you. I have done with you from this very day. I told you in the library, you know, that I should never speak to you again, and you will find me as good as my word. I have no pleasure in talking to undutiful children. Not that I have much pleasure, indeed, in talking to anybody. People who suffer as I do from nervous complaints can have no great inclination for talking. Nobody can tell what I suffer! But it is always so. Those who do not complain are never pitied.”
+“Ay, there she comes,” continued Mrs. Bennet, “looking as unconcerned as may be, and caring no more for us than if we were at York, provided she can have her own way. But I tell you what, Miss Lizzy, if you take it into your head to go on refusing every offer of marriage in this way, you will never get a husband at all—and I am sure I do not know who is to maintain you when your father is dead. I shall not be able to keep you—and so I warn you. I have done with you from this very day. I told you in the library, you know, that I should never speak to you again, and you will find me as good as my word. I have no pleasure in talking to undutiful children. Not that I have much pleasure, indeed, in talking to anybody. People who suffer as I do from nervous complaints can have no great inclination for talking. Nobody can tell what I suffer! But it is always so. Those who do not complain are never pitied.”
 
 Her daughters listened in silence to this effusion, sensible that any attempt to reason with or soothe her would only increase the irritation. She talked on, therefore, without interruption from any of them till they were joined by Mr. Collins, who entered with an air more stately than usual, and on perceiving whom, she said to the girls,—
 
@@ -73,4 +73,4 @@ Elizabeth passed quietly out of the room, Jane and Kitty followed, but Lydia sto
 
 “Oh, Mr. Collins!”
 
-“My dear madam,” replied he, “let us be for ever silent on this point. Far be it from me,” he presently continued, in a voice that marked his displeasure, “to resent the behaviour of your daughter. Resignation to inevitable evils is the duty of us all: the peculiar duty of a young man who has been so fortunate as I have been, in early preferment; and, I trust, I am resigned. Perhaps not the less so from feeling a doubt of my positive happiness had my fair cousin honoured me with her hand; for I have often observed, that resignation is never so perfect as when the blessing denied begins to lose somewhat of its value in our estimation. You will not, I hope, consider me as showing any disrespect to your family, my dear madam, by thus withdrawing my pretensions to your daughter’s favour, without having paid yourself and Mr. Bennet the compliment of requesting you to interpose your authority in my behalf. My conduct may, I fear, be objectionable in having accepted my dismission from your daughter’s lips instead of your own; but we are all liable to error. I have certainly meant well through the whole affair. My object has been to secure an amiable companion for myself, with due consideration for the advantage of all your family; and if my _manner_ has been at all reprehensible, I here beg leave to apologize.”
+“My dear madam,” replied he, “let us be for ever silent on this point. Far be it from me,” he presently continued, in a voice that marked his displeasure, “to resent the behaviour of your daughter. Resignation to inevitable evils is the duty of us all: the peculiar duty of a young man who has been so fortunate as I have been, in early preferment; and, I trust, I am resigned. Perhaps not the less so from feeling a doubt of my positive happiness had my fair cousin honoured me with her hand; for I have often observed, that resignation is never so perfect as when the blessing denied begins to lose somewhat of its value in our estimation. You will not, I hope, consider me as showing any disrespect to your family, my dear madam, by thus withdrawing my pretensions to your daughter’s favour, without having paid yourself and Mr. Bennet the compliment of requesting you to interpose your authority in my behalf. My conduct may, I fear, be objectionable in having accepted my dismission from your daughter’s lips instead of your own; but we are all liable to error. I have certainly meant well through the whole affair. My object has been to secure an amiable companion for myself, with due consideration for the advantage of all your family; and if my manner has been at all reprehensible, I here beg leave to apologize.”

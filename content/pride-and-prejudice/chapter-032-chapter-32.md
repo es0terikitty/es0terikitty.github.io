@@ -9,7 +9,7 @@ Elizabeth was sitting by herself the next morning, and writing to Jane, while Mr
 
 He seemed astonished too on finding her alone, and apologized for his intrusion, by letting her know that he had understood all the ladies to be within.
 
-They then sat down, and when her inquiries after Rosings were made, seemed in danger of sinking into total silence. It was absolutely necessary, therefore, to think of something; and in this emergency recollecting _when_ she had seen him last in Hertfordshire, and feeling curious to know what he would say on the subject of their hasty departure, she observed,—
+They then sat down, and when her inquiries after Rosings were made, seemed in danger of sinking into total silence. It was absolutely necessary, therefore, to think of something; and in this emergency recollecting when she had seen him last in Hertfordshire, and feeling curious to know what he would say on the subject of their hasty departure, she observed,—
 
 “How very suddenly you all quitted Netherfield last November, Mr. Darcy! It must have been a most agreeable surprise to Mr. Bingley to see you all after him so soon; for, if I recollect right, he went but the day before. He and his sisters were well, I hope, when you left London?”
 
@@ -41,21 +41,21 @@ He took the hint and soon began with, “This seems a very comfortable house. La
 
 “And what is fifty miles of good road? Little more than half a day’s journey. Yes, I call it a very easy distance.”
 
-“I should never have considered the distance as one of the _advantages_ of the match,” cried Elizabeth. “I should never have said Mrs. Collins was settled _near_ her family.”
+“I should never have considered the distance as one of the advantages of the match,” cried Elizabeth. “I should never have said Mrs. Collins was settled near her family.”
 
 “It is a proof of your own attachment to Hertfordshire. Anything beyond the very neighbourhood of Longbourn, I suppose, would appear far.”
 
 As he spoke there was a sort of smile, which Elizabeth fancied she understood; he must be supposing her to be thinking of Jane and Netherfield, and she blushed as she answered,—
 
-“I do not mean to say that a woman may not be settled too near her family. The far and the near must be relative, and depend on many varying circumstances. Where there is fortune to make the expense of travelling unimportant, distance becomes no evil. But that is not the case _here_. Mr. and Mrs. Collins have a comfortable income, but not such a one as will allow of frequent journeys—and I am persuaded my friend would not call herself _near_ her family under less than _half_ the present distance.”
+“I do not mean to say that a woman may not be settled too near her family. The far and the near must be relative, and depend on many varying circumstances. Where there is fortune to make the expense of travelling unimportant, distance becomes no evil. But that is not the case here. Mr. and Mrs. Collins have a comfortable income, but not such a one as will allow of frequent journeys—and I am persuaded my friend would not call herself near her family under less than half the present distance.”
 
-Mr. Darcy drew his chair a little towards her, and said, “_You_ cannot have a right to such very strong local attachment. _You_ cannot have been always at Longbourn.”
+Mr. Darcy drew his chair a little towards her, and said, “You cannot have a right to such very strong local attachment. You cannot have been always at Longbourn.”
 
 Elizabeth looked surprised. The gentleman experienced some change of feeling; he drew back his chair, took a newspaper from the table, and, glancing over it, said, in a colder voice,—
 
 “Are you pleased with Kent?”
 
-A short dialogue on the subject of the country ensued, on either side calm and concise—and soon put an end to by the entrance of Charlotte and her sister, just returned from their walk. The _tête-à-tête_ surprised them. Mr. Darcy related the mistake which had occasioned his intruding on Miss Bennet, and, after sitting a few minutes longer, without saying much to anybody, went away.
+A short dialogue on the subject of the country ensued, on either side calm and concise—and soon put an end to by the entrance of Charlotte and her sister, just returned from their walk. The tête-à-tête surprised them. Mr. Darcy related the mistake which had occasioned his intruding on Miss Bennet, and, after sitting a few minutes longer, without saying much to anybody, went away.
 
 “What can be the meaning of this?” said Charlotte, as soon as he was gone. “My dear Eliza, he must be in love with you, or he would never have called on us in this familiar way.”
 

@@ -11,7 +11,7 @@ But when the gentlemen entered, Jane was no longer the first object; Miss Bingle
 
 When tea was over Mr. Hurst reminded his sister-in-law of the card-table—but in vain. She had obtained private intelligence that Mr. Darcy did not wish for cards, and Mr. Hurst soon found even his open petition rejected. She assured him that no one intended to play, and the silence of the whole party on the subject seemed to justify her. Mr. Hurst had, therefore, nothing to do but to stretch himself on one of the sofas and go to sleep. Darcy took up a book. Miss Bingley did the same; and Mrs. Hurst, principally occupied in playing with her bracelets and rings, joined now and then in her brother’s conversation with Miss Bennet.
 
-Miss Bingley’s attention was quite as much engaged in watching Mr. Darcy’s progress through _his_ book, as in reading her own; and she was perpetually either making some inquiry, or looking at his page. She could not win him, however, to any conversation; he merely answered her question and read on. At length, quite exhausted by the attempt to be amused with her own book, which she had only chosen because it was the second volume of his, she gave a great yawn and said, “How pleasant it is to spend an evening in this way! I declare, after all, there is no enjoyment like reading! How much sooner one tires of anything than of a book! When I have a house of my own, I shall be miserable if I have not an excellent library.”
+Miss Bingley’s attention was quite as much engaged in watching Mr. Darcy’s progress through his book, as in reading her own; and she was perpetually either making some inquiry, or looking at his page. She could not win him, however, to any conversation; he merely answered her question and read on. At length, quite exhausted by the attempt to be amused with her own book, which she had only chosen because it was the second volume of his, she gave a great yawn and said, “How pleasant it is to spend an evening in this way! I declare, after all, there is no enjoyment like reading! How much sooner one tires of anything than of a book! When I have a house of my own, I shall be miserable if I have not an excellent library.”
 
 No one made any reply. She then yawned again, threw aside her book, and cast her eyes round the room in quest of some amusement; when, hearing her brother mentioning a ball to Miss Bennet, she turned suddenly towards him and said,—
 
@@ -39,13 +39,13 @@ Miss Bingley, however, was incapable of disappointing Mr. Darcy in anything, and
 
 “Nothing so easy, if you have but the inclination,” said Elizabeth. “We can all plague and punish one another. Tease him—laugh at him. Intimate as you are, you must know how it is to be done.”
 
-“But upon my honour I do _not_. I do assure you that my intimacy has not yet taught me _that_. Tease calmness of temper and presence of mind! No, no; I feel he may defy us there. And as to laughter, we will not expose ourselves, if you please, by attempting to laugh without a subject. Mr. Darcy may hug himself.”
+“But upon my honour I do not. I do assure you that my intimacy has not yet taught me that. Tease calmness of temper and presence of mind! No, no; I feel he may defy us there. And as to laughter, we will not expose ourselves, if you please, by attempting to laugh without a subject. Mr. Darcy may hug himself.”
 
-“Mr. Darcy is not to be laughed at!” cried Elizabeth. “That is an uncommon advantage, and uncommon I hope it will continue, for it would be a great loss to _me_ to have many such acquaintance. I dearly love a laugh.”
+“Mr. Darcy is not to be laughed at!” cried Elizabeth. “That is an uncommon advantage, and uncommon I hope it will continue, for it would be a great loss to me to have many such acquaintance. I dearly love a laugh.”
 
 “Miss Bingley,” said he, “has given me credit for more than can be. The wisest and best of men,—nay, the wisest and best of their actions,—may be rendered ridiculous by a person whose first object in life is a joke.”
 
-“Certainly,” replied Elizabeth, “there are such people, but I hope I am not one of _them_. I hope I never ridicule what is wise or good. Follies and nonsense, whims and inconsistencies, _do_ divert me, I own, and I laugh at them whenever I can. But these, I suppose, are precisely what you are without.”
+“Certainly,” replied Elizabeth, “there are such people, but I hope I am not one of them. I hope I never ridicule what is wise or good. Follies and nonsense, whims and inconsistencies, do divert me, I own, and I laugh at them whenever I can. But these, I suppose, are precisely what you are without.”
 
 “Perhaps that is not possible for anyone. But it has been the study of my life to avoid those weaknesses which often expose a strong understanding to ridicule.”
 
@@ -61,11 +61,11 @@ Elizabeth turned away to hide a smile.
 
 “No,” said Darcy, “I have made no such pretension. I have faults enough, but they are not, I hope, of understanding. My temper I dare not vouch for. It is, I believe, too little yielding; certainly too little for the convenience of the world. I cannot forget the follies and vices of others so soon as I ought, nor their offences against myself. My feelings are not puffed about with every attempt to move them. My temper would perhaps be called resentful. My good opinion once lost is lost for ever.”
 
-“_That_ is a failing, indeed!” cried Elizabeth. “Implacable resentment _is_ a shade in a character. But you have chosen your fault well. I really cannot _laugh_ at it. You are safe from me.”
+“That is a failing, indeed!” cried Elizabeth. “Implacable resentment is a shade in a character. But you have chosen your fault well. I really cannot laugh at it. You are safe from me.”
 
 “There is, I believe, in every disposition a tendency to some particular evil, a natural defect, which not even the best education can overcome.”
 
-“And _your_ defect is a propensity to hate everybody.”
+“And your defect is a propensity to hate everybody.”
 
 “And yours,” he replied, with a smile, “is wilfully to misunderstand them.”
 

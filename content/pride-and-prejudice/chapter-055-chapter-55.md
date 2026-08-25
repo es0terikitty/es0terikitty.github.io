@@ -29,7 +29,7 @@ The same anxiety to get them by themselves was visible again in the evening. Aft
 
 “Nothing, child, nothing. I did not wink at you.” She then sat still five minutes longer; but unable to waste such a precious occasion, she suddenly got up, and saying to Kitty,—
 
-“Come here, my love, I want to speak to you,” took her out of the room. Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her entreaty that _she_ would not give in to it. In a few minutes, Mrs. Bennet half opened the door and called out,—
+“Come here, my love, I want to speak to you,” took her out of the room. Jane instantly gave a look at Elizabeth which spoke her distress at such premeditation, and her entreaty that she would not give in to it. In a few minutes, Mrs. Bennet half opened the door and called out,—
 
 “Lizzy, my dear, I want to speak with you.”
 
@@ -47,7 +47,7 @@ After this day, Jane said no more of her indifference. Not a word passed between
 
 Bingley was punctual to his appointment; and he and Mr. Bennet spent the morning together, as had been agreed on. The latter was much more agreeable than his companion expected. There was nothing of presumption or folly in Bingley that could provoke his ridicule, or disgust him into silence; and he was more communicative, and less eccentric, than the other had ever seen him. Bingley of course returned with him to dinner; and in the evening Mrs. Bennet’s invention was again at work to get everybody away from him and her daughter. Elizabeth, who had a letter to write, went into the breakfast-room for that purpose soon after tea; for as the others were all going to sit down to cards, she could not be wanted to counteract her mother’s schemes.
 
-But on her returning to the drawing-room, when her letter was finished, she saw, to her infinite surprise, there was reason to fear that her mother had been too ingenious for her. On opening the door, she perceived her sister and Bingley standing together over the hearth, as if engaged in earnest conversation; and had this led to no suspicion, the faces of both, as they hastily turned round and moved away from each other, would have told it all. _Their_ situation was awkward enough; but _hers_ she thought was still worse. Not a syllable was uttered by either; and Elizabeth was on the point of going away again, when Bingley, who as well as the other had sat down, suddenly rose, and, whispering a few words to her sister, ran out of the room.
+But on her returning to the drawing-room, when her letter was finished, she saw, to her infinite surprise, there was reason to fear that her mother had been too ingenious for her. On opening the door, she perceived her sister and Bingley standing together over the hearth, as if engaged in earnest conversation; and had this led to no suspicion, the faces of both, as they hastily turned round and moved away from each other, would have told it all. Their situation was awkward enough; but hers she thought was still worse. Not a syllable was uttered by either; and Elizabeth was on the point of going away again, when Bingley, who as well as the other had sat down, suddenly rose, and, whispering a few words to her sister, ran out of the room.
 
 Jane could have no reserves from Elizabeth, where confidence would give pleasure; and, instantly embracing her, acknowledged, with the liveliest emotion, that she was the happiest creature in the world.
 
@@ -81,7 +81,7 @@ Jane went to him instantly, kissed him, and thanked him for his goodness.
 
 “You are a good girl,” he replied, “and I have great pleasure in thinking you will be so happily settled. I have not a doubt of your doing very well together. Your tempers are by no means unlike. You are each of you so complying, that nothing will ever be resolved on; so easy, that every servant will cheat you; and so generous, that you will always exceed your income.”
 
-“I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in _me_.”
+“I hope not so. Imprudence or thoughtlessness in money matters would be unpardonable in me.”
 
 “Exceed their income! My dear Mr. Bennet,” cried his wife, “what are you talking of? Why, he has four or five thousand a year, and very likely more.” Then addressing her daughter, “Oh, my dear, dear Jane, I am so happy! I am sure I shan’t get a wink of sleep all night. I knew how it would be. I always said it must be so, at last. I was sure you could not be so beautiful for nothing! I remember, as soon as ever I saw him, when he first came into Hertfordshire last year, I thought how likely it was that you should come together. Oh, he is the handsomest young man that ever was seen!”
 
@@ -101,7 +101,7 @@ Elizabeth had now but little time for conversation with her sister; for while he
 
 “That is the most unforgiving speech,” said Elizabeth, “that I ever heard you utter. Good girl! It would vex me, indeed, to see you again the dupe of Miss Bingley’s pretended regard.”
 
-“Would you believe it, Lizzy, that when he went to town last November he really loved me, and nothing but a persuasion of _my_ being indifferent would have prevented his coming down again?”
+“Would you believe it, Lizzy, that when he went to town last November he really loved me, and nothing but a persuasion of my being indifferent would have prevented his coming down again?”
 
 “He made a little mistake, to be sure; but it is to the credit of his modesty.”
 

@@ -43,7 +43,7 @@ He was silent.
 
 “It is a rule with me, that a person who can write a long letter with ease cannot write ill.”
 
-“That will not do for a compliment to Darcy, Caroline,” cried her brother, “because he does _not_ write with ease. He studies too much for words of four syllables. Do not you, Darcy?”
+“That will not do for a compliment to Darcy, Caroline,” cried her brother, “because he does not write with ease. He studies too much for words of four syllables. Do not you, Darcy?”
 
 “My style of writing is very different from yours.”
 
@@ -55,7 +55,7 @@ He was silent.
 
 “Nothing is more deceitful,” said Darcy, “than the appearance of humility. It is often only carelessness of opinion, and sometimes an indirect boast.”
 
-“And which of the two do you call _my_ little recent piece of modesty?”
+“And which of the two do you call my little recent piece of modesty?”
 
 “The indirect boast; for you are really proud of your defects in writing, because you consider them as proceeding from a rapidity of thought and carelessness of execution, which, if not estimable, you think at least highly interesting. The power of doing anything with quickness is always much prized by the possessor, and often without any attention to the imperfection of the performance. When you told Mrs. Bennet this morning, that if you ever resolved on quitting Netherfield you should be gone in five minutes, you meant it to be a sort of panegyric, of compliment to yourself; and yet what is there so very laudable in a precipitance which must leave very necessary business undone, and can be of no real advantage to yourself or anyone else?”
 
@@ -73,7 +73,7 @@ He was silent.
 
 “You expect me to account for opinions which you choose to call mine, but which I have never acknowledged. Allowing the case, however, to stand according to your representation, you must remember, Miss Bennet, that the friend who is supposed to desire his return to the house, and the delay of his plan, has merely desired it, asked it without offering one argument in favour of its propriety.”
 
-“To yield readily—easily—to the _persuasion_ of a friend is no merit with you.”
+“To yield readily—easily—to the persuasion of a friend is no merit with you.”
 
 “To yield without conviction is no compliment to the understanding of either.”
 

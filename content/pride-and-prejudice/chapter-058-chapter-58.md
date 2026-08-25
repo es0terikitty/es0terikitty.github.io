@@ -15,17 +15,17 @@ They walked towards the Lucases’, because Kitty wished to call upon Maria; and
 
 “You must not blame my aunt. Lydia’s thoughtlessness first betrayed to me that you had been concerned in the matter; and, of course, I could not rest till I knew the particulars. Let me thank you again and again, in the name of all my family, for that generous compassion which induced you to take so much trouble, and bear so many mortifications, for the sake of discovering them.”
 
-“If you _will_ thank me,” he replied, “let it be for yourself alone. That the wish of giving happiness to you might add force to the other inducements which led me on, I shall not attempt to deny. But your _family_ owe me nothing. Much as I respect them, I believe I thought only of _you_.”
+“If you will thank me,” he replied, “let it be for yourself alone. That the wish of giving happiness to you might add force to the other inducements which led me on, I shall not attempt to deny. But your family owe me nothing. Much as I respect them, I believe I thought only of you.”
 
-Elizabeth was too much embarrassed to say a word. After a short pause, her companion added, “You are too generous to trifle with me. If your feelings are still what they were last April, tell me so at once. _My_ affections and wishes are unchanged; but one word from you will silence me on this subject for ever.”
+Elizabeth was too much embarrassed to say a word. After a short pause, her companion added, “You are too generous to trifle with me. If your feelings are still what they were last April, tell me so at once. My affections and wishes are unchanged; but one word from you will silence me on this subject for ever.”
 
 Elizabeth, feeling all the more than common awkwardness and anxiety of his situation, now forced herself to speak; and immediately, though not very fluently, gave him to understand that her sentiments had undergone so material a change since the period to which he alluded, as to make her receive with gratitude and pleasure his present assurances. The happiness which this reply produced was such as he had probably never felt before; and he expressed himself on the occasion as sensibly and as warmly as a man violently in love can be supposed to do. Had Elizabeth been able to encounter his eyes, she might have seen how well the expression of heartfelt delight diffused over his face became him: but though she could not look she could listen; and he told her of feelings which, in proving of what importance she was to him, made his affection every moment more valuable.
 
-They walked on without knowing in what direction. There was too much to be thought, and felt, and said, for attention to any other objects. She soon learnt that they were indebted for their present good understanding to the efforts of his aunt, who _did_ call on him in her return through London, and there relate her journey to Longbourn, its motive, and the substance of her conversation with Elizabeth; dwelling emphatically on every expression of the latter, which, in her Ladyship’s apprehension, peculiarly denoted her perverseness and assurance, in the belief that such a relation must assist her endeavours to obtain that promise from her nephew which _she_ had refused to give. But, unluckily for her Ladyship, its effect had been exactly contrariwise.
+They walked on without knowing in what direction. There was too much to be thought, and felt, and said, for attention to any other objects. She soon learnt that they were indebted for their present good understanding to the efforts of his aunt, who did call on him in her return through London, and there relate her journey to Longbourn, its motive, and the substance of her conversation with Elizabeth; dwelling emphatically on every expression of the latter, which, in her Ladyship’s apprehension, peculiarly denoted her perverseness and assurance, in the belief that such a relation must assist her endeavours to obtain that promise from her nephew which she had refused to give. But, unluckily for her Ladyship, its effect had been exactly contrariwise.
 
 “It taught me to hope,” said he, “as I had scarcely ever allowed myself to hope before. I knew enough of your disposition to be certain, that had you been absolutely, irrevocably decided against me, you would have acknowledged it to Lady Catherine frankly and openly.”
 
-Elizabeth coloured and laughed as she replied, “Yes, you know enough of my _frankness_ to believe me capable of _that_. After abusing you so abominably to your face, I could have no scruple in abusing you to all your relations.”
+Elizabeth coloured and laughed as she replied, “Yes, you know enough of my frankness to believe me capable of that. After abusing you so abominably to your face, I could have no scruple in abusing you to all your relations.”
 
 “What did you say of me that I did not deserve? For though your accusations were ill-founded, formed on mistaken premises, my behaviour to you at the time had merited the severest reproof. It was unpardonable. I cannot think of it without abhorrence.”
 
@@ -39,7 +39,7 @@ Elizabeth coloured and laughed as she replied, “Yes, you know enough of my _fr
 
 “Oh, do not repeat what I then said. These recollections will not do at all. I assure you that I have long been most heartily ashamed of it.”
 
-Darcy mentioned his letter. “Did it,” said he,—“did it _soon_ make you think better of me? Did you, on reading it, give any credit to its contents?”
+Darcy mentioned his letter. “Did it,” said he,—“did it soon make you think better of me? Did you, on reading it, give any credit to its contents?”
 
 She explained what its effects on her had been, and how gradually all her former prejudices had been removed.
 
@@ -51,13 +51,13 @@ She explained what its effects on her had been, and how gradually all her former
 
 “The letter, perhaps, began in bitterness, but it did not end so. The adieu is charity itself. But think no more of the letter. The feelings of the person who wrote and the person who received it are now so widely different from what they were then, that every unpleasant circumstance attending it ought to be forgotten. You must learn some of my philosophy. Think only of the past as its remembrance gives you pleasure.”
 
-“I cannot give you credit for any philosophy of the kind. _Your_ retrospections must be so totally void of reproach, that the contentment arising from them is not of philosophy, but, what is much better, of ignorance. But with _me_, it is not so. Painful recollections will intrude, which cannot, which ought not to be repelled. I have been a selfish being all my life, in practice, though not in principle. As a child I was taught what was _right_, but I was not taught to correct my temper. I was given good principles, but left to follow them in pride and conceit. Unfortunately an only son (for many years an only _child_), I was spoiled by my parents, who, though good themselves, (my father particularly, all that was benevolent and amiable,) allowed, encouraged, almost taught me to be selfish and overbearing, to care for none beyond my own family circle, to think meanly of all the rest of the world, to _wish_ at least to think meanly of their sense and worth compared with my own. Such I was, from eight to eight-and-twenty; and such I might still have been but for you, dearest, loveliest Elizabeth! What do I not owe you! You taught me a lesson, hard indeed at first, but most advantageous. By you, I was properly humbled. I came to you without a doubt of my reception. You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.”
+“I cannot give you credit for any philosophy of the kind. Your retrospections must be so totally void of reproach, that the contentment arising from them is not of philosophy, but, what is much better, of ignorance. But with me, it is not so. Painful recollections will intrude, which cannot, which ought not to be repelled. I have been a selfish being all my life, in practice, though not in principle. As a child I was taught what was right, but I was not taught to correct my temper. I was given good principles, but left to follow them in pride and conceit. Unfortunately an only son (for many years an only child), I was spoiled by my parents, who, though good themselves, (my father particularly, all that was benevolent and amiable,) allowed, encouraged, almost taught me to be selfish and overbearing, to care for none beyond my own family circle, to think meanly of all the rest of the world, to wish at least to think meanly of their sense and worth compared with my own. Such I was, from eight to eight-and-twenty; and such I might still have been but for you, dearest, loveliest Elizabeth! What do I not owe you! You taught me a lesson, hard indeed at first, but most advantageous. By you, I was properly humbled. I came to you without a doubt of my reception. You showed me how insufficient were all my pretensions to please a woman worthy of being pleased.”
 
 “Had you then persuaded yourself that I should?”
 
 “Indeed I had. What will you think of my vanity? I believed you to be wishing, expecting my addresses.”
 
-“My manners must have been in fault, but not intentionally, I assure you. I never meant to deceive you, but my spirits might often lead me wrong. How you must have hated me after _that_ evening!”
+“My manners must have been in fault, but not intentionally, I assure you. I never meant to deceive you, but my spirits might often lead me wrong. How you must have hated me after that evening!”
 
 “Hate you! I was angry, perhaps, at first, but my anger soon began to take a proper direction.”
 
@@ -65,9 +65,9 @@ She explained what its effects on her had been, and how gradually all her former
 
 “No, indeed, I felt nothing but surprise.”
 
-“Your surprise could not be greater than _mine_ in being noticed by you. My conscience told me that I deserved no extraordinary politeness, and I confess that I did not expect to receive _more_ than my due.”
+“Your surprise could not be greater than mine in being noticed by you. My conscience told me that I deserved no extraordinary politeness, and I confess that I did not expect to receive more than my due.”
 
-“My object _then_,” replied Darcy, “was to show you, by every civility in my power, that I was not so mean as to resent the past; and I hoped to obtain your forgiveness, to lessen your ill opinion, by letting you see that your reproofs had been attended to. How soon any other wishes introduced themselves, I can hardly tell, but I believe in about half an hour after I had seen you.”
+“My object then,” replied Darcy, “was to show you, by every civility in my power, that I was not so mean as to resent the past; and I hoped to obtain your forgiveness, to lessen your ill opinion, by letting you see that your reproofs had been attended to. How soon any other wishes introduced themselves, I can hardly tell, but I believe in about half an hour after I had seen you.”
 
 He then told her of Georgiana’s delight in her acquaintance, and of her disappointment at its sudden interruption; which naturally leading to the cause of that interruption, she soon learnt that his resolution of following her from Derbyshire in quest of her sister had been formed before he quitted the inn, and that his gravity and thoughtfulness there had arisen from no other struggles than what such a purpose must comprehend.
 
@@ -75,7 +75,7 @@ She expressed her gratitude again, but it was too painful a subject to each to b
 
 After walking several miles in a leisurely manner, and too busy to know anything about it, they found at last, on examining their watches, that it was time to be at home.
 
-“What could have become of Mr. Bingley and Jane?” was a wonder which introduced the discussion of _their_ affairs. Darcy was delighted with their engagement; his friend had given him the earliest information of it.
+“What could have become of Mr. Bingley and Jane?” was a wonder which introduced the discussion of their affairs. Darcy was delighted with their engagement; his friend had given him the earliest information of it.
 
 “I must ask whether you were surprised?” said Elizabeth.
 

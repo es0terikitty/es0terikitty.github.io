@@ -13,7 +13,7 @@ Their affectionate mother shared all their grief; she remembered what she had he
 
 “I am sure,” said she, “I cried for two days together when Colonel Miller’s regiment went away. I thought I should have broke my heart.”
 
-“I am sure I shall break _mine_,” said Lydia.
+“I am sure I shall break mine,” said Lydia.
 
 “If one could but go to Brighton!” observed Mrs. Bennet.
 
@@ -21,15 +21,15 @@ Their affectionate mother shared all their grief; she remembered what she had he
 
 “A little sea-bathing would set me up for ever.”
 
-“And my aunt Philips is sure it would do _me_ a great deal of good,” added Kitty.
+“And my aunt Philips is sure it would do me a great deal of good,” added Kitty.
 
 Such were the kind of lamentations resounding perpetually through Longbourn House. Elizabeth tried to be diverted by them; but all sense of pleasure was lost in shame. She felt anew the justice of Mr. Darcy’s objections; and never had she before been so much disposed to pardon his interference in the views of his friend.
 
-But the gloom of Lydia’s prospect was shortly cleared away; for she received an invitation from Mrs. Forster, the wife of the colonel of the regiment, to accompany her to Brighton. This invaluable friend was a very young woman, and very lately married. A resemblance in good-humour and good spirits had recommended her and Lydia to each other, and out of their _three_ months’ acquaintance they had been intimate _two_.
+But the gloom of Lydia’s prospect was shortly cleared away; for she received an invitation from Mrs. Forster, the wife of the colonel of the regiment, to accompany her to Brighton. This invaluable friend was a very young woman, and very lately married. A resemblance in good-humour and good spirits had recommended her and Lydia to each other, and out of their three months’ acquaintance they had been intimate two.
 
 The rapture of Lydia on this occasion, her adoration of Mrs. Forster, the delight of Mrs. Bennet, and the mortification of Kitty, are scarcely to be described. Wholly inattentive to her sister’s feelings, Lydia flew about the house in restless ecstasy, calling for everyone’s congratulations, and laughing and talking with more violence than ever; whilst the luckless Kitty continued in the parlour repining at her fate in terms as unreasonable as her accent was peevish.
 
-“I cannot see why Mrs. Forster should not ask _me_ as well as Lydia,” said she, “though I am _not_ her particular friend. I have just as much right to be asked as she has, and more too, for I am two years older.”
+“I cannot see why Mrs. Forster should not ask me as well as Lydia,” said she, “though I am not her particular friend. I have just as much right to be asked as she has, and more too, for I am two years older.”
 
 In vain did Elizabeth attempt to make her reasonable, and Jane to make her resigned. As for Elizabeth herself, this invitation was so far from exciting in her the same feelings as in her mother and Lydia, that she considered it as the death-warrant of all possibility of common sense for the latter; and detestable as such a step must make her, were it known, she could not help secretly advising her father not to let her go. She represented to him all the improprieties of Lydia’s general behaviour, the little advantage she could derive from the friendship of such a woman as Mrs. Forster, and the probability of her being yet more imprudent with such a companion at Brighton, where the temptations must be greater than at home. He heard her attentively, and then said,—
 
@@ -79,8 +79,8 @@ While she spoke, Wickham looked as if scarcely knowing whether to rejoice over h
 
 Wickham’s alarm now appeared in a heightened complexion and agitated look; for a few minutes he was silent; till, shaking off his embarrassment, he turned to her again, and said in the gentlest of accents,—
 
-“You, who so well know my feelings towards Mr. Darcy, will readily comprehend how sincerely I must rejoice that he is wise enough to assume even the _appearance_ of what is right. His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by. I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe. His fear of her has always operated, I know, when they were together; and a good deal is to be imputed to his wish of forwarding the match with Miss de Bourgh, which I am certain he has very much at heart.”
+“You, who so well know my feelings towards Mr. Darcy, will readily comprehend how sincerely I must rejoice that he is wise enough to assume even the appearance of what is right. His pride, in that direction, may be of service, if not to himself, to many others, for it must deter him from such foul misconduct as I have suffered by. I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe. His fear of her has always operated, I know, when they were together; and a good deal is to be imputed to his wish of forwarding the match with Miss de Bourgh, which I am certain he has very much at heart.”
 
-Elizabeth could not repress a smile at this, but she answered only by a slight inclination of the head. She saw that he wanted to engage her on the old subject of his grievances, and she was in no humour to indulge him. The rest of the evening passed with the _appearance_, on his side, of usual cheerfulness, but with no further attempt to distinguish Elizabeth; and they parted at last with mutual civility, and possibly a mutual desire of never meeting again.
+Elizabeth could not repress a smile at this, but she answered only by a slight inclination of the head. She saw that he wanted to engage her on the old subject of his grievances, and she was in no humour to indulge him. The rest of the evening passed with the appearance, on his side, of usual cheerfulness, but with no further attempt to distinguish Elizabeth; and they parted at last with mutual civility, and possibly a mutual desire of never meeting again.
 
 When the party broke up, Lydia returned with Mrs. Forster to Meryton, from whence they were to set out early the next morning. The separation between her and her family was rather noisy than pathetic. Kitty was the only one who shed tears; but she did weep from vexation and envy. Mrs. Bennet was diffuse in her good wishes for the felicity of her daughter, and impressive in her injunctions that she would not miss the opportunity of enjoying herself as much as possible,—advice which there was every reason to believe would be attended to; and, in the clamorous happiness of Lydia herself in bidding farewell, the more gentle adieus of her sisters were uttered without being heard.

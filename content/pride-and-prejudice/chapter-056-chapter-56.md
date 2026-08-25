@@ -17,7 +17,7 @@ Mrs. Bennet, all amazement, though flattered by having a guest of such high impo
 
 Elizabeth replied very concisely that she was.
 
-“And _that_, I suppose, is one of your sisters?”
+“And that, I suppose, is one of your sisters?”
 
 “Yes, madam,” said Mrs. Bennet, delighted to speak to a Lady Catherine. “She is my youngest girl but one. My youngest of all is lately married, and my eldest is somewhere about the ground, walking with a young man, who, I believe, will soon become a part of the family.”
 
@@ -55,7 +55,7 @@ Elizabeth looked with unaffected astonishment.
 
 “Indeed, you are mistaken, madam; I have not been at all able to account for the honour of seeing you here.”
 
-“Miss Bennet,” replied her Ladyship, in an angry tone, “you ought to know that I am not to be trifled with. But however insincere _you_ may choose to be, you shall not find _me_ so. My character has ever been celebrated for its sincerity and frankness; and in a cause of such moment as this, I shall certainly not depart from it. A report of a most alarming nature reached me two days ago. I was told, that not only your sister was on the point of being most advantageously married, but that _you_—that Miss Elizabeth Bennet would, in all likelihood, be soon afterwards united to my nephew—my own nephew, Mr. Darcy. Though I _know_ it must be a scandalous falsehood, though I would not injure him so much as to suppose the truth of it possible, I instantly resolved on setting off for this place, that I might make my sentiments known to you.”
+“Miss Bennet,” replied her Ladyship, in an angry tone, “you ought to know that I am not to be trifled with. But however insincere you may choose to be, you shall not find me so. My character has ever been celebrated for its sincerity and frankness; and in a cause of such moment as this, I shall certainly not depart from it. A report of a most alarming nature reached me two days ago. I was told, that not only your sister was on the point of being most advantageously married, but that you—that Miss Elizabeth Bennet would, in all likelihood, be soon afterwards united to my nephew—my own nephew, Mr. Darcy. Though I know it must be a scandalous falsehood, though I would not injure him so much as to suppose the truth of it possible, I instantly resolved on setting off for this place, that I might make my sentiments known to you.”
 
 “If you believed it impossible to be true,” said Elizabeth, colouring with astonishment and disdain, “I wonder you took the trouble of coming so far. What could your Ladyship propose by it?”
 
@@ -67,29 +67,29 @@ Elizabeth looked with unaffected astonishment.
 
 “I never heard that it was.”
 
-“And can you likewise declare, that there is no _foundation_ for it?”
+“And can you likewise declare, that there is no foundation for it?”
 
-“I do not pretend to possess equal frankness with your Ladyship. _You_ may ask questions which _I_ shall not choose to answer.”
+“I do not pretend to possess equal frankness with your Ladyship. You may ask questions which I shall not choose to answer.”
 
 “This is not to be borne. Miss Bennet, I insist on being satisfied. Has he, has my nephew, made you an offer of marriage?”
 
 “Your Ladyship has declared it to be impossible.”
 
-“It ought to be so; it must be so, while he retains the use of his reason. But _your_ arts and allurements may, in a moment of infatuation, have made him forget what he owes to himself and to all his family. You may have drawn him in.”
+“It ought to be so; it must be so, while he retains the use of his reason. But your arts and allurements may, in a moment of infatuation, have made him forget what he owes to himself and to all his family. You may have drawn him in.”
 
 “If I have, I shall be the last person to confess it.”
 
 “Miss Bennet, do you know who I am? I have not been accustomed to such language as this. I am almost the nearest relation he has in the world, and am entitled to know all his dearest concerns.”
 
-“But you are not entitled to know _mine_; nor will such behaviour as this ever induce me to be explicit.”
+“But you are not entitled to know mine; nor will such behaviour as this ever induce me to be explicit.”
 
-“Let me be rightly understood. This match, to which you have the presumption to aspire, can never take place. No, never. Mr. Darcy is engaged to _my daughter_. Now, what have you to say?”
+“Let me be rightly understood. This match, to which you have the presumption to aspire, can never take place. No, never. Mr. Darcy is engaged to my daughter. Now, what have you to say?”
 
 “Only this,—that if he is so, you can have no reason to suppose he will make an offer to me.”
 
 Lady Catherine hesitated for a moment, and then replied,—
 
-“The engagement between them is of a peculiar kind. From their infancy, they have been intended for each other. It was the favourite wish of _his_ mother, as well as of hers. While in their cradles we planned the union; and now, at the moment when the wishes of both sisters would be accomplished, is their marriage to be prevented by a young woman of inferior birth, of no importance in the world, and wholly unallied to the family? Do you pay no regard to the wishes of his friends—to his tacit engagement with Miss de Bourgh? Are you lost to every feeling of propriety and delicacy? Have you not heard me say, that from his earliest hours he was destined for his cousin?”
+“The engagement between them is of a peculiar kind. From their infancy, they have been intended for each other. It was the favourite wish of his mother, as well as of hers. While in their cradles we planned the union; and now, at the moment when the wishes of both sisters would be accomplished, is their marriage to be prevented by a young woman of inferior birth, of no importance in the world, and wholly unallied to the family? Do you pay no regard to the wishes of his friends—to his tacit engagement with Miss de Bourgh? Are you lost to every feeling of propriety and delicacy? Have you not heard me say, that from his earliest hours he was destined for his cousin?”
 
 “Yes; and I had heard it before. But what is that to me? If there is no other objection to my marrying your nephew, I shall certainly not be kept from it by knowing that his mother and aunt wished him to marry Miss de Bourgh. You both did as much as you could in planning the marriage. Its completion depended on others. If Mr. Darcy is neither by honour nor inclination confined to his cousin, why is not he to make another choice? And if I am that choice, why may not I accept him?”
 
@@ -99,15 +99,15 @@ Lady Catherine hesitated for a moment, and then replied,—
 
 “Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude for my attentions to you last spring? Is nothing due to me on that score? Let us sit down. You are to understand, Miss Bennet, that I came here with the determined resolution of carrying my purpose; nor will I be dissuaded from it. I have not been used to submit to any person’s whims. I have not been in the habit of brooking disappointment.”
 
-“_That_ will make your Ladyship’s situation at present more pitiable; but it will have no effect on _me_.”
+“That will make your Ladyship’s situation at present more pitiable; but it will have no effect on me.”
 
 “I will not be interrupted! Hear me in silence. My daughter and my nephew are formed for each other. They are descended, on the maternal side, from the same noble line; and, on the father’s, from respectable, honourable, and ancient, though untitled, families. Their fortune on both sides is splendid. They are destined for each other by the voice of every member of their respective houses; and what is to divide them?—the upstart pretensions of a young woman without family, connections, or fortune! Is this to be endured? But it must not, shall not be! If you were sensible of your own good, you would not wish to quit the sphere in which you have been brought up.”
 
 “In marrying your nephew, I should not consider myself as quitting that sphere. He is a gentleman; I am a gentleman’s daughter; so far we are equal.”
 
-“True. You _are_ a gentleman’s daughter. But what was your mother? Who are your uncles and aunts? Do not imagine me ignorant of their condition.”
+“True. You are a gentleman’s daughter. But what was your mother? Who are your uncles and aunts? Do not imagine me ignorant of their condition.”
 
-“Whatever my connections may be,” said Elizabeth, “if your nephew does not object to them, they can be nothing to _you_.”
+“Whatever my connections may be,” said Elizabeth, “if your nephew does not object to them, they can be nothing to you.”
 
 “Tell me, once for all, are you engaged to him?”
 
@@ -123,11 +123,11 @@ Lady Catherine seemed pleased.
 
 “Miss Bennet, I am shocked and astonished. I expected to find a more reasonable young woman. But do not deceive yourself into a belief that I will ever recede. I shall not go away till you have given me the assurance I require.”
 
-“And I certainly _never_ shall give it. I am not to be intimidated into anything so wholly unreasonable. Your Ladyship wants Mr. Darcy to marry your daughter; but would my giving you the wished-for promise make _their_ marriage at all more probable? Supposing him to be attached to me, would _my_ refusing to accept his hand make him wish to bestow it on his cousin? Allow me to say, Lady Catherine, that the arguments with which you have supported this extraordinary application have been as frivolous as the application was ill-judged. You have widely mistaken my character, if you think I can be worked on by such persuasions as these. How far your nephew might approve of your interference in _his_ affairs, I cannot tell; but you have certainly no right to concern yourself in mine. I must beg, therefore, to be importuned no further on the subject.”
+“And I certainly never shall give it. I am not to be intimidated into anything so wholly unreasonable. Your Ladyship wants Mr. Darcy to marry your daughter; but would my giving you the wished-for promise make their marriage at all more probable? Supposing him to be attached to me, would my refusing to accept his hand make him wish to bestow it on his cousin? Allow me to say, Lady Catherine, that the arguments with which you have supported this extraordinary application have been as frivolous as the application was ill-judged. You have widely mistaken my character, if you think I can be worked on by such persuasions as these. How far your nephew might approve of your interference in his affairs, I cannot tell; but you have certainly no right to concern yourself in mine. I must beg, therefore, to be importuned no further on the subject.”
 
-“Not so hasty, if you please. I have by no means done. To all the objections I have already urged I have still another to add. I am no stranger to the particulars of your youngest sister’s infamous elopement. I know it all; that the young man’s marrying her was a patched-up business, at the expense of your father and uncle. And is _such_ a girl to be my nephew’s sister? Is _her_ husband, who is the son of his late father’s steward, to be his brother? Heaven and earth!—of what are you thinking? Are the shades of Pemberley to be thus polluted?”
+“Not so hasty, if you please. I have by no means done. To all the objections I have already urged I have still another to add. I am no stranger to the particulars of your youngest sister’s infamous elopement. I know it all; that the young man’s marrying her was a patched-up business, at the expense of your father and uncle. And is such a girl to be my nephew’s sister? Is her husband, who is the son of his late father’s steward, to be his brother? Heaven and earth!—of what are you thinking? Are the shades of Pemberley to be thus polluted?”
 
-“You can _now_ have nothing further to say,” she resentfully answered. “You have insulted me, in every possible method. I must beg to return to the house.”
+“You can now have nothing further to say,” she resentfully answered. “You have insulted me, in every possible method. I must beg to return to the house.”
 
 And she rose as she spoke. Lady Catherine rose also, and they turned back. Her Ladyship was highly incensed.
 
@@ -137,11 +137,11 @@ And she rose as she spoke. Lady Catherine rose also, and they turned back. Her L
 
 “You are then resolved to have him?”
 
-“I have said no such thing. I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to _you_, or to any person so wholly unconnected with me.”
+“I have said no such thing. I am only resolved to act in that manner, which will, in my own opinion, constitute my happiness, without reference to you, or to any person so wholly unconnected with me.”
 
 “It is well. You refuse, then, to oblige me. You refuse to obey the claims of duty, honour, and gratitude. You are determined to ruin him in the opinion of all his friends, and make him the contempt of the world.”
 
-“Neither duty, nor honour, nor gratitude,” replied Elizabeth, “has any possible claim on me, in the present instance. No principle of either would be violated by my marriage with Mr. Darcy. And with regard to the resentment of his family, or the indignation of the world, if the former _were_ excited by his marrying me, it would not give me one moment’s concern—and the world in general would have too much sense to join in the scorn.”
+“Neither duty, nor honour, nor gratitude,” replied Elizabeth, “has any possible claim on me, in the present instance. No principle of either would be violated by my marriage with Mr. Darcy. And with regard to the resentment of his family, or the indignation of the world, if the former were excited by his marrying me, it would not give me one moment’s concern—and the world in general would have too much sense to join in the scorn.”
 
 “And this is your real opinion! This is your final resolve! Very well. I shall now know how to act. Do not imagine, Miss Bennet, that your ambition will ever be gratified. I came to try you. I hoped to find you reasonable; but depend upon it I will carry my point.”
 

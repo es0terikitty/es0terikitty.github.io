@@ -66,6 +66,29 @@
     return apiBase(langCode) + encodeURIComponent(w);
   }
 
+  // ---- Case handling (mirrors dictd/CLI behaviour) ----
+  // Wiktionary titles are case-sensitive (wgCapitalLinks=false): "time" and
+  // "Time" are different entries, and "norway" doesn't exist ("Norway" does).
+  // A dictionary should treat them as the same word, so lookups walk an
+  // ordered candidate list — common word first, proper noun last:
+  //   "Time"   -> ["time", "Time"]
+  //   "Build"  -> ["build", "Build"]
+  //   "norway" -> ["norway", "Norway"]
+  //   "iPhone" -> ["iphone", "iPhone", "IPhone"]  (mid-word caps preserved)
+  function lookupCandidates(word) {
+    var w = String(word || "").trim();
+    var out = [];
+    function push(v) {
+      if (v && v !== "" && out.indexOf(v) === -1) out.push(v);
+    }
+    if (w === "") return out;
+    push(w.toLowerCase());      // common-word form wins (Time == time)
+    push(w);                    // exactly as typed
+    push(w.charAt(0).toUpperCase() + w.slice(1));  // proper noun fallback
+    push(w.charAt(0).toLowerCase() + w.slice(1));  // …and the reverse
+    return out;
+  }
+
   // ---- Response parsing & normalisation ----
   function parseResponse(raw, langCode) {
     var text = String(raw || "").trim();
@@ -588,6 +611,7 @@
     langLabel: langLabel,
     apiBase: apiBase,
     lookupUrl: lookupUrl,
+    lookupCandidates: lookupCandidates,
     parseResponse: parseResponse,
     parseWiktionaryWikitext: parseWiktionaryWikitext,
     levenshtein: levenshtein,

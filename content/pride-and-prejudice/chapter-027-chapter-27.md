@@ -29,17 +29,17 @@ Mrs. Gardiner then rallied her niece on Wickham’s desertion, and complimented 
 
 “But he paid her not the smallest attention till her grandfather’s death made her mistress of this fortune?”
 
-“No—why should he? If it were not allowable for him to gain _my_ affections, because I had no money, what occasion could there be for making love to a girl whom he did not care about, and who was equally poor?”
+“No—why should he? If it were not allowable for him to gain my affections, because I had no money, what occasion could there be for making love to a girl whom he did not care about, and who was equally poor?”
 
 “But there seems indelicacy in directing his attentions towards her so soon after this event.”
 
-“A man in distressed circumstances has not time for all those elegant decorums which other people may observe. If _she_ does not object to it, why should _we_?”
+“A man in distressed circumstances has not time for all those elegant decorums which other people may observe. If she does not object to it, why should we?”
 
-“_Her_ not objecting does not justify _him_. It only shows her being deficient in something herself—sense or feeling.”
+“Her not objecting does not justify him. It only shows her being deficient in something herself—sense or feeling.”
 
-“Well,” cried Elizabeth, “have it as you choose. _He_ shall be mercenary, and _she_ shall be foolish.”
+“Well,” cried Elizabeth, “have it as you choose. He shall be mercenary, and she shall be foolish.”
 
-“No, Lizzy, that is what I do _not_ choose. I should be sorry, you know, to think ill of a young man who has lived so long in Derbyshire.”
+“No, Lizzy, that is what I do not choose. I should be sorry, you know, to think ill of a young man who has lived so long in Derbyshire.”
 
 “Oh, if that is all, I have a very poor opinion of young men who live in Derbyshire; and their intimate friends who live in Hertfordshire are not much better. I am sick of them all. Thank heaven! I am going to-morrow where I shall find a man who has not one agreeable quality, who has neither manners nor sense to recommend him. Stupid men are the only ones worth knowing, after all.”
 
@@ -49,4 +49,4 @@ Before they were separated by the conclusion of the play, she had the unexpected
 
 “We have not quite determined how far it shall carry us,” said Mrs. Gardiner; “but perhaps, to the Lakes.”
 
-No scheme could have been more agreeable to Elizabeth, and her acceptance of the invitation was most ready and grateful. “My dear, dear aunt,” she rapturously cried, “what delight! what felicity! You give me fresh life and vigour. Adieu to disappointment and spleen. What are men to rocks and mountains? Oh, what hours of transport we shall spend! And when we _do_ return, it shall not be like other travellers, without being able to give one accurate idea of anything. We _will_ know where we have gone—we _will_ recollect what we have seen. Lakes, mountains, and rivers, shall not be jumbled together in our imaginations; nor, when we attempt to describe any particular scene, will we begin quarrelling about its relative situation. Let _our_ first effusions be less insupportable than those of the generality of travellers.”
+No scheme could have been more agreeable to Elizabeth, and her acceptance of the invitation was most ready and grateful. “My dear, dear aunt,” she rapturously cried, “what delight! what felicity! You give me fresh life and vigour. Adieu to disappointment and spleen. What are men to rocks and mountains? Oh, what hours of transport we shall spend! And when we do return, it shall not be like other travellers, without being able to give one accurate idea of anything. We will know where we have gone—we will recollect what we have seen. Lakes, mountains, and rivers, shall not be jumbled together in our imaginations; nor, when we attempt to describe any particular scene, will we begin quarrelling about its relative situation. Let our first effusions be less insupportable than those of the generality of travellers.”

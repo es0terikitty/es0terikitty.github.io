@@ -73,7 +73,7 @@ Elizabeth could hardly help smiling, as she assured her that had not been the ca
 
 “All! What, all five out at once? Very odd! And you only the second. The younger ones out before the elder are married! Your younger sisters must be very young?”
 
-“Yes, my youngest is not sixteen. Perhaps _she_ is full young to be much in company. But really, ma’am, I think it would be very hard upon younger sisters that they should not have their share of society and amusement, because the elder may not have the means or inclination to marry early. The last born has as good a right to the pleasures of youth as the first. And to be kept back on _such_ a motive! I think it would not be very likely to promote sisterly affection or delicacy of mind.”
+“Yes, my youngest is not sixteen. Perhaps she is full young to be much in company. But really, ma’am, I think it would be very hard upon younger sisters that they should not have their share of society and amusement, because the elder may not have the means or inclination to marry early. The last born has as good a right to the pleasures of youth as the first. And to be kept back on such a motive! I think it would not be very likely to promote sisterly affection or delicacy of mind.”
 
 “Upon my word,” said her Ladyship, “you give your opinion very decidedly for so young a person. Pray, what is your age?”
 

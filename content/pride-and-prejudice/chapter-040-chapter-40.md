@@ -19,7 +19,7 @@ Miss Bennet’s astonishment was soon lessened by the strong sisterly partiality
 
 “No—I do not know that you were wrong in saying what you did.”
 
-“But you _will_ know it, when I have told you what happened the very next day.”
+“But you will know it, when I have told you what happened the very next day.”
 
 She then spoke of the letter, repeating the whole of its contents as far as they concerned George Wickham. What a stroke was this for poor Jane, who would willingly have gone through the world without believing that so much wickedness existed in the whole race of mankind as was here collected in one individual! Nor was Darcy’s vindication, though grateful to her feelings, capable of consoling her for such discovery. Most earnestly did she labour to prove the probability of error, and seek to clear one, without involving the other.
 
@@ -35,7 +35,7 @@ It was some time, however, before a smile could be extorted from Jane.
 
 “There certainly was some great mismanagement in the education of those two young men. One has got all the goodness, and the other all the appearance of it.”
 
-“I never thought Mr. Darcy so deficient in the _appearance_ of it as you used to do.”
+“I never thought Mr. Darcy so deficient in the appearance of it as you used to do.”
 
 “And yet I meant to be uncommonly clever in taking so decided a dislike to him, without any reason. It is such a spur to one’s genius, such an opening for wit, to have a dislike of that kind. One may be continually abusive without saying anything just; but one cannot be always laughing at a man without now and then stumbling on something witty.”
 
@@ -43,7 +43,7 @@ It was some time, however, before a smile could be extorted from Jane.
 
 “Indeed, I could not. I was uncomfortable enough, I was very uncomfortable—I may say unhappy. And with no one to speak to of what I felt, no Jane to comfort me, and say that I had not been so very weak, and vain, and nonsensical, as I knew I had! Oh, how I wanted you!”
 
-“How unfortunate that you should have used such very strong expressions in speaking of Wickham to Mr. Darcy, for now they _do_ appear wholly undeserved.”
+“How unfortunate that you should have used such very strong expressions in speaking of Wickham to Mr. Darcy, for now they do appear wholly undeserved.”
 
 “Certainly. But the misfortune of speaking with bitterness is a most natural consequence of the prejudices I had been encouraging. There is one point on which I want your advice. I want to be told whether I ought, or ought not, to make our acquaintance in general understand Wickham’s character.”
 
@@ -57,7 +57,7 @@ The tumult of Elizabeth’s mind was allayed by this conversation. She had got r
 
 She was now, on being settled at home, at leisure to observe the real state of her sister’s spirits. Jane was not happy. She still cherished a very tender affection for Bingley. Having never even fancied herself in love before, her regard had all the warmth of first attachment, and from her age and disposition, greater steadiness than first attachments often boast; and so fervently did she value his remembrance, and prefer him to every other man, that all her good sense, and all her attention to the feelings of her friends, were requisite to check the indulgence of those regrets which must have been injurious to her own health and their tranquillity.
 
-“Well, Lizzy,” said Mrs. Bennet, one day, “what is your opinion _now_ of this sad business of Jane’s? For my part, I am determined never to speak of it again to anybody. I told my sister Philips so the other day. But I cannot find out that Jane saw anything of him in London. Well, he is a very undeserving young man—and I do not suppose there is the least chance in the world of her ever getting him now. There is no talk of his coming to Netherfield again in the summer; and I have inquired of everybody, too, who is likely to know.”
+“Well, Lizzy,” said Mrs. Bennet, one day, “what is your opinion now of this sad business of Jane’s? For my part, I am determined never to speak of it again to anybody. I told my sister Philips so the other day. But I cannot find out that Jane saw anything of him in London. Well, he is a very undeserving young man—and I do not suppose there is the least chance in the world of her ever getting him now. There is no talk of his coming to Netherfield again in the summer; and I have inquired of everybody, too, who is likely to know.”
 
 “I do not believe that he will ever live at Netherfield any more.”
 
@@ -65,12 +65,12 @@ She was now, on being settled at home, at leisure to observe the real state of h
 
 But as Elizabeth could not receive comfort from any such expectation she made no answer.
 
-“Well, Lizzy,” continued her mother, soon afterwards, “and so the Collinses live very comfortable, do they? Well, well, I only hope it will last. And what sort of table do they keep? Charlotte is an excellent manager, I dare say. If she is half as sharp as her mother, she is saving enough. There is nothing extravagant in _their_ housekeeping, I dare say.”
+“Well, Lizzy,” continued her mother, soon afterwards, “and so the Collinses live very comfortable, do they? Well, well, I only hope it will last. And what sort of table do they keep? Charlotte is an excellent manager, I dare say. If she is half as sharp as her mother, she is saving enough. There is nothing extravagant in their housekeeping, I dare say.”
 
 “No, nothing at all.”
 
-“A great deal of good management, depend upon it. Yes, yes. _They_ will take care not to outrun their income. _They_ will never be distressed for money. Well, much good may it do them! And so, I suppose, they often talk of having Longbourn when your father is dead. They look upon it quite as their own, I dare say, whenever that happens.”
+“A great deal of good management, depend upon it. Yes, yes. They will take care not to outrun their income. They will never be distressed for money. Well, much good may it do them! And so, I suppose, they often talk of having Longbourn when your father is dead. They look upon it quite as their own, I dare say, whenever that happens.”
 
 “It was a subject which they could not mention before me.”
 
-“No; it would have been strange if they had. But I make no doubt they often talk of it between themselves. Well, if they can be easy with an estate that is not lawfully their own, so much the better. _I_ should be ashamed of having one that was only entailed on me.”
+“No; it would have been strange if they had. But I make no doubt they often talk of it between themselves. Well, if they can be easy with an estate that is not lawfully their own, so much the better. I should be ashamed of having one that was only entailed on me.”

@@ -33,7 +33,7 @@ His behaviour to her sister was such during dinnertime as showed an admiration o
 
 She was in hopes that the evening would afford some opportunity of bringing them together; that the whole of the visit would not pass away without enabling them to enter into something more of conversation, than the mere ceremonious salutation attending his entrance. Anxious and uneasy, the period which passed in the drawing-room before the gentlemen came, was wearisome and dull to a degree that almost made her uncivil. She looked forward to their entrance as the point on which all her chance of pleasure for the evening must depend.
 
-“If he does not come to me, _then_,” said she, “I shall give him up for ever.”
+“If he does not come to me, then,” said she, “I shall give him up for ever.”
 
 The gentlemen came; and she thought he looked as if he would have answered her hopes; but, alas! the ladies had crowded round the table, where Miss Bennet was making tea, and Elizabeth pouring out the coffee, in so close a confederacy, that there was not a single vacancy near her which would admit of a chair. And on the gentlemen’s approaching, one of the girls moved closer to her than ever, and said, in a whisper,—
 
@@ -73,4 +73,4 @@ Elizabeth smiled.
 
 “How hard it is in some cases to be believed! And how impossible in others! But why should you wish to persuade me that I feel more than I acknowledge?”
 
-“That is a question which I hardly know how to answer. We all love to instruct, though we can teach only what is not worth knowing. Forgive me; and if you persist in indifference, do not make _me_ your confidante.”
+“That is a question which I hardly know how to answer. We all love to instruct, though we can teach only what is not worth knowing. Forgive me; and if you persist in indifference, do not make me your confidante.”

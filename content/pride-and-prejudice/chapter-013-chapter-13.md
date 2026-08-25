@@ -7,13 +7,13 @@ chapter = 13
 
 “I hope, my dear,” said Mr. Bennet to his wife, as they were at breakfast the next morning, “that you have ordered a good dinner to-day, because I have reason to expect an addition to our family party.”
 
-“Who do you mean, my dear? I know of nobody that is coming, I am sure, unless Charlotte Lucas should happen to call in; and I hope _my_ dinners are good enough for her. I do not believe she often sees such at home.”
+“Who do you mean, my dear? I know of nobody that is coming, I am sure, unless Charlotte Lucas should happen to call in; and I hope my dinners are good enough for her. I do not believe she often sees such at home.”
 
 “The person of whom I speak is a gentleman and a stranger.”
 
 Mrs. Bennet’s eyes sparkled. “A gentleman and a stranger! It is Mr. Bingley, I am sure. Why, Jane—you never dropped a word of this—you sly thing! Well, I am sure I shall be extremely glad to see Mr. Bingley. But—good Lord! how unlucky! there is not a bit of fish to be got to-day. Lydia, my love, ring the bell. I must speak to Hill this moment.”
 
-“It is _not_ Mr. Bingley,” said her husband; “it is a person whom I never saw in the whole course of my life.”
+“It is not Mr. Bingley,” said her husband; “it is a person whom I never saw in the whole course of my life.”
 
 This roused a general astonishment; and he had the pleasure of being eagerly questioned by his wife and five daughters at once.
 
@@ -29,7 +29,7 @@ Jane and Elizabeth attempted to explain to her the nature of an entail. They had
 
 “Why, indeed, he does seem to have had some filial scruples on that head, as you will hear.”
 
-/* RIGHT “Hunsford, near Westerham, Kent, _15th October_. */
+/* RIGHT “Hunsford, near Westerham, Kent, 15th October. */
 
 “Dear Sir,
 
@@ -59,7 +59,7 @@ Mr. Collins was punctual to his time, and was received with great politeness by 
 
 “You allude, perhaps, to the entail of this estate.”
 
-“Ah, sir, I do indeed. It is a grievous affair to my poor girls, you must confess. Not that I mean to find fault with _you_, for such things, I know, are all chance in this world. There is no knowing how estates will go when once they come to be entailed.”
+“Ah, sir, I do indeed. It is a grievous affair to my poor girls, you must confess. Not that I mean to find fault with you, for such things, I know, are all chance in this world. There is no knowing how estates will go when once they come to be entailed.”
 
 “I am very sensible, madam, of the hardship to my fair cousins, and could say much on the subject, but that I am cautious of appearing forward and precipitate. But I can assure the young ladies that I come prepared to admire them. At present I will not say more, but, perhaps, when we are better acquainted——”
 

@@ -17,7 +17,7 @@ From his garden, Mr. Collins would have led them round his two meadows; but the 
 
 She had already learnt that Lady Catherine was still in the country. It was spoken of again while they were at dinner, when Mr. Collins joining in, observed,—
 
-“Yes, Miss Elizabeth, you will have the honour of seeing Lady Catherine de Bourgh on the ensuing Sunday at church, and I need not say you will be delighted with her. She is all affability and condescension, and I doubt not but you will be honoured with some portion of her notice when service is over. I have scarcely any hesitation in saying that she will include you and my sister Maria in every invitation with which she honours us during your stay here. Her behaviour to my dear Charlotte is charming. We dine at Rosings twice every week, and are never allowed to walk home. Her Ladyship’s carriage is regularly ordered for us. I _should_ say, one of her Ladyship’s carriages, for she has several.”
+“Yes, Miss Elizabeth, you will have the honour of seeing Lady Catherine de Bourgh on the ensuing Sunday at church, and I need not say you will be delighted with her. She is all affability and condescension, and I doubt not but you will be honoured with some portion of her notice when service is over. I have scarcely any hesitation in saying that she will include you and my sister Maria in every invitation with which she honours us during your stay here. Her behaviour to my dear Charlotte is charming. We dine at Rosings twice every week, and are never allowed to walk home. Her Ladyship’s carriage is regularly ordered for us. I should say, one of her Ladyship’s carriages, for she has several.”
 
 “Lady Catherine is a very respectable, sensible woman, indeed,” added Charlotte, “and a most attentive neighbour.”
 

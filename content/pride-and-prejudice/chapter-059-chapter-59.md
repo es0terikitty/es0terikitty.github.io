@@ -7,7 +7,7 @@ chapter = 59
 
 “My dear Lizzy, where can you have been walking to?” was a question which Elizabeth received from Jane as soon as she entered the room, and from all the others when they sat down to table. She had only to say in reply, that they had wandered about till she was beyond her own knowledge. She coloured as she spoke; but neither that, nor anything else, awakened a suspicion of the truth.
 
-The evening passed quietly, unmarked by anything extraordinary. The acknowledged lovers talked and laughed; the unacknowledged were silent. Darcy was not of a disposition in which happiness overflows in mirth; and Elizabeth, agitated and confused, rather _knew_ that she was happy than _felt_ herself to be so; for, besides the immediate embarrassment, there were other evils before her. She anticipated what would be felt in the family when her situation became known: she was aware that no one liked him but Jane; and even feared that with the others it was a _dislike_ which not all his fortune and consequence might do away.
+The evening passed quietly, unmarked by anything extraordinary. The acknowledged lovers talked and laughed; the unacknowledged were silent. Darcy was not of a disposition in which happiness overflows in mirth; and Elizabeth, agitated and confused, rather knew that she was happy than felt herself to be so; for, besides the immediate embarrassment, there were other evils before her. She anticipated what would be felt in the family when her situation became known: she was aware that no one liked him but Jane; and even feared that with the others it was a dislike which not all his fortune and consequence might do away.
 
 At night she opened her heart to Jane. Though suspicion was very far from Miss Bennet’s general habits, she was absolutely incredulous here.
 
@@ -17,7 +17,7 @@ At night she opened her heart to Jane. Though suspicion was very far from Miss B
 
 Jane looked at her doubtingly. “Oh, Lizzy! it cannot be. I know how much you dislike him.”
 
-“You know nothing of the matter. _That_ is all to be forgot. Perhaps I did not always love him so well as I do now; but in such cases as these a good memory is unpardonable. This is the last time I shall ever remember it myself.”
+“You know nothing of the matter. That is all to be forgot. Perhaps I did not always love him so well as I do now; but in such cases as these a good memory is unpardonable. This is the last time I shall ever remember it myself.”
 
 Miss Bennet still looked all amazement. Elizabeth again, and more seriously, assured her of its truth.
 
@@ -27,13 +27,13 @@ Miss Bennet still looked all amazement. Elizabeth again, and more seriously, ass
 
 “Very, very much. Nothing could give either Bingley or myself more delight. But we considered it, we talked of it as impossible. And do you really love him quite well enough? Oh, Lizzy! do anything rather than marry without affection. Are you quite sure that you feel what you ought to do?”
 
-“Oh, yes! You will only think I feel _more_ than I ought to do when I tell you all.”
+“Oh, yes! You will only think I feel more than I ought to do when I tell you all.”
 
 “What do you mean?”
 
 “Why, I must confess that I love him better than I do Bingley. I am afraid you will be angry.”
 
-“My dearest sister, now be, _be_ serious. I want to talk very seriously. Let me know everything that I am to know without delay. Will you tell me how long you have loved him?”
+“My dearest sister, now be, be serious. I want to talk very seriously. Let me know everything that I am to know without delay. Will you tell me how long you have loved him?”
 
 “It has been coming on so gradually, that I hardly know when it began; but I believe I must date it from my first seeing his beautiful grounds at Pemberley.”
 
@@ -59,7 +59,7 @@ Kitty owned that she had rather stay at home. Darcy professed a great curiosity 
 
 During their walk, it was resolved that Mr. Bennet’s consent should be asked in the course of the evening: Elizabeth reserved to herself the application for her mother’s. She could not determine how her mother would take it; sometimes doubting whether all his wealth and grandeur would be enough to overcome her abhorrence of the man; but whether she were violently set against the match, or violently delighted with it, it was certain that her manner would be equally ill adapted to do credit to her sense; and she could no more bear that Mr. Darcy should hear the first raptures of her joy, than the first vehemence of her disapprobation.
 
-In the evening, soon after Mr. Bennet withdrew to the library, she saw Mr. Darcy rise also and follow him, and her agitation on seeing it was extreme. She did not fear her father’s opposition, but he was going to be made unhappy, and that it should be through her means; that _she_, his favourite child, should be distressing him by her choice, should be filling him with fears and regrets in disposing of her, was a wretched reflection, and she sat in misery till Mr. Darcy appeared again, when, looking at him, she was a little relieved by his smile. In a few minutes he approached the table where she was sitting with Kitty; and, while pretending to admire her work, said in a whisper, “Go to your father; he wants you in the library.” She was gone directly.
+In the evening, soon after Mr. Bennet withdrew to the library, she saw Mr. Darcy rise also and follow him, and her agitation on seeing it was extreme. She did not fear her father’s opposition, but he was going to be made unhappy, and that it should be through her means; that she, his favourite child, should be distressing him by her choice, should be filling him with fears and regrets in disposing of her, was a wretched reflection, and she sat in misery till Mr. Darcy appeared again, when, looking at him, she was a little relieved by his smile. In a few minutes he approached the table where she was sitting with Kitty; and, while pretending to admire her work, said in a whisper, “Go to your father; he wants you in the library.” She was gone directly.
 
 Her father was walking about the room, looking grave and anxious. “Lizzy,” said he, “what are you doing? Are you out of your senses to be accepting this man? Have not you always hated him?”
 
@@ -73,7 +73,7 @@ How earnestly did she then wish that her former opinions had been more reasonabl
 
 “I do, I do like him,” she replied, with tears in her eyes; “I love him. Indeed he has no improper pride. He is perfectly amiable. You do not know what he really is; then pray do not pain me by speaking of him in such terms.”
 
-“Lizzy,” said her father, “I have given him my consent. He is the kind of man, indeed, to whom I should never dare refuse anything, which he condescended to ask. I now give it to _you_, if you are resolved on having him. But let me advise you to think better of it. I know your disposition, Lizzy. I know that you could be neither happy nor respectable, unless you truly esteemed your husband, unless you looked up to him as a superior. Your lively talents would place you in the greatest danger in an unequal marriage. You could scarcely escape discredit and misery. My child, let me not have the grief of seeing _you_ unable to respect your partner in life. You know not what you are about.”
+“Lizzy,” said her father, “I have given him my consent. He is the kind of man, indeed, to whom I should never dare refuse anything, which he condescended to ask. I now give it to you, if you are resolved on having him. But let me advise you to think better of it. I know your disposition, Lizzy. I know that you could be neither happy nor respectable, unless you truly esteemed your husband, unless you looked up to him as a superior. Your lively talents would place you in the greatest danger in an unequal marriage. You could scarcely escape discredit and misery. My child, let me not have the grief of seeing you unable to respect your partner in life. You know not what you are about.”
 
 Elizabeth, still more affected, was earnest and solemn in her reply; and, at length, by repeated assurances that Mr. Darcy was really the object of her choice, by explaining the gradual change which her estimation of him had undergone, relating her absolute certainty that his affection was not the work of a day, but had stood the test of many months’ suspense, and enumerating with energy all his good qualities, she did conquer her father’s incredulity, and reconcile him to the match.
 
@@ -81,7 +81,7 @@ Elizabeth, still more affected, was earnest and solemn in her reply; and, at len
 
 To complete the favourable impression, she then told him what Mr. Darcy had voluntarily done for Lydia. He heard her with astonishment.
 
-“This is an evening of wonders, indeed! And so, Darcy did everything; made up the match, gave the money, paid the fellow’s debts, and got him his commission! So much the better. It will save me a world of trouble and economy. Had it been your uncle’s doing, I must and _would_ have paid him; but these violent young lovers carry everything their own way. I shall offer to pay him to-morrow, he will rant and storm about his love for you, and there will be an end of the matter.”
+“This is an evening of wonders, indeed! And so, Darcy did everything; made up the match, gave the money, paid the fellow’s debts, and got him his commission! So much the better. It will save me a world of trouble and economy. Had it been your uncle’s doing, I must and would have paid him; but these violent young lovers carry everything their own way. I shall offer to pay him to-morrow, he will rant and storm about his love for you, and there will be an end of the matter.”
 
 He then recollected her embarrassment a few days before on his reading Mr. Collins’s letter; and after laughing at her some time, allowed her at last to go, saying, as she quitted the room, “If any young men come for Mary or Kitty, send them in, for I am quite at leisure.”
 
@@ -99,4 +99,4 @@ This was a sad omen of what her mother’s behaviour to the gentleman himself mi
 
 Elizabeth had the satisfaction of seeing her father taking pains to get acquainted with him; and Mr. Bennet soon assured her that he was rising every hour in his esteem.
 
-“I admire all my three sons-in-law highly,” said he. “Wickham, perhaps, is my favourite; but I think I shall like _your_ husband quite as well as Jane’s.”
+“I admire all my three sons-in-law highly,” said he. “Wickham, perhaps, is my favourite; but I think I shall like your husband quite as well as Jane’s.”

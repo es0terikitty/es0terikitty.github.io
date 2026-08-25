@@ -117,17 +117,27 @@
       });
   }
 
+  // case-insensitive lookup: walk candidate spellings until one hits
   function lookup(word, controller) {
-    return fetchExtract(word, controller).then(function(raw) {
-      var res = DictEngine.parseResponse(raw, currentLang());
-      if (!res.ok && res.kind === 'notfound') {
-        var nf = new Error(res.error || 'not found');
+    var candidates = DictEngine.lookupCandidates(word);
+    var i = 0;
+
+    function attempt() {
+      if (i >= candidates.length) {
+        var nf = new Error('no entry for "' + word + '"');
         nf.notFound = true;
         throw nf;
       }
-      if (!res.ok) throw new Error(res.error || 'lookup failed');
-      return res.entry;
-    });
+      return fetchExtract(candidates[i++], controller).then(function(raw) {
+        var res = DictEngine.parseResponse(raw, currentLang());
+        if (res.ok) return res.entry;
+        // try next spelling on misses; real failures bubble up
+        if (res.kind === 'notfound' || res.kind === 'empty') return attempt();
+        throw new Error(res.error || 'lookup failed');
+      });
+    }
+
+    return Promise.resolve().then(attempt);
   }
 
   function loadWordlist() {

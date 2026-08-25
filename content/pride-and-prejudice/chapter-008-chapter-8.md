@@ -13,13 +13,13 @@ When dinner was over, she returned directly to Jane, and Miss Bingley began abus
 
 “She has nothing, in short, to recommend her, but being an excellent walker. I shall never forget her appearance this morning. She really looked almost wild.”
 
-“She did indeed, Louisa. I could hardly keep my countenance. Very nonsensical to come at all! Why must _she_ be scampering about the country, because her sister had a cold? Her hair so untidy, so blowzy!”
+“She did indeed, Louisa. I could hardly keep my countenance. Very nonsensical to come at all! Why must she be scampering about the country, because her sister had a cold? Her hair so untidy, so blowzy!”
 
 “Yes, and her petticoat; I hope you saw her petticoat, six inches deep in mud, I am absolutely certain, and the gown which had been let down to hide it not doing its office.”
 
 “Your picture may be very exact, Louisa,” said Bingley; “but this was all lost upon me. I thought Miss Elizabeth Bennet looked remarkably well when she came into the room this morning. Her dirty petticoat quite escaped my notice.”
 
-“_You_ observed it, Mr. Darcy, I am sure,” said Miss Bingley; “and I am inclined to think that you would not wish to see _your sister_ make such an exhibition.”
+“You observed it, Mr. Darcy, I am sure,” said Miss Bingley; “and I am inclined to think that you would not wish to see your sister make such an exhibition.”
 
 “Certainly not.”
 
@@ -39,7 +39,7 @@ When dinner was over, she returned directly to Jane, and Miss Bingley began abus
 
 “That is capital,” added her sister; and they both laughed heartily.
 
-“If they had uncles enough to fill _all_ Cheapside,” cried Bingley, “it would not make them one jot less agreeable.”
+“If they had uncles enough to fill all Cheapside,” cried Bingley, “it would not make them one jot less agreeable.”
 
 “But it must very materially lessen their chance of marrying men of any consideration in the world,” replied Darcy.
 
@@ -51,7 +51,7 @@ With a renewal of tenderness, however, they repaired to her room on leaving the 
 
 “Miss Eliza Bennet,” said Miss Bingley, “despises cards. She is a great reader, and has no pleasure in anything else.”
 
-“I deserve neither such praise nor such censure,” cried Elizabeth; “I am _not_ a great reader, and I have pleasure in many things.”
+“I deserve neither such praise nor such censure,” cried Elizabeth; “I am not a great reader, and I have pleasure in many things.”
 
 “In nursing your sister I am sure you have pleasure,” said Bingley; “and I hope it will soon be increased by seeing her quite well.”
 
@@ -69,7 +69,7 @@ Elizabeth assured him that she could suit herself perfectly with those in the ro
 
 “I cannot comprehend the neglect of a family library in such days as these.”
 
-“Neglect! I am sure you neglect nothing that can add to the beauties of that noble place. Charles, when you build _your_ house, I wish it may be half as delightful as Pemberley.”
+“Neglect! I am sure you neglect nothing that can add to the beauties of that noble place. Charles, when you build your house, I wish it may be half as delightful as Pemberley.”
 
 “I wish it may.”
 
@@ -107,17 +107,17 @@ Elizabeth was so much caught by what passed, as to leave her very little attenti
 
 “All this she must possess,” added Darcy; “and to all she must yet add something more substantial in the improvement of her mind by extensive reading.”
 
-“I am no longer surprised at your knowing _only_ six accomplished women. I rather wonder now at your knowing _any_.”
+“I am no longer surprised at your knowing only six accomplished women. I rather wonder now at your knowing any.”
 
 “Are you so severe upon your own sex as to doubt the possibility of all this?”
 
-“_I_ never saw such a woman. _I_ never saw such capacity, and taste, and application, and elegance, as you describe, united.”
+“I never saw such a woman. I never saw such capacity, and taste, and application, and elegance, as you describe, united.”
 
 Mrs. Hurst and Miss Bingley both cried out against the injustice of her implied doubt, and were both protesting that they knew many women who answered this description, when Mr. Hurst called them to order, with bitter complaints of their inattention to what was going forward. As all conversation was thereby at an end, Elizabeth soon afterwards left the room.
 
 “Eliza Bennet,” said Miss Bingley, when the door was closed on her, “is one of those young ladies who seek to recommend themselves to the other sex by undervaluing their own; and with many men, I daresay, it succeeds; but, in my opinion, it is a paltry device, a very mean art.”
 
-“Undoubtedly,” replied Darcy, to whom this remark was chiefly addressed, “there is meanness in _all_ the arts which ladies sometimes condescend to employ for captivation. Whatever bears affinity to cunning is despicable.”
+“Undoubtedly,” replied Darcy, to whom this remark was chiefly addressed, “there is meanness in all the arts which ladies sometimes condescend to employ for captivation. Whatever bears affinity to cunning is despicable.”
 
 Miss Bingley was not so entirely satisfied with this reply as to continue the subject.
 

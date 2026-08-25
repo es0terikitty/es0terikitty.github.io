@@ -31,7 +31,7 @@ Elizabeth impatiently caught it from his hand. Jane now came up.
 
 “Read it aloud,” said their father, “for I hardly know myself what it is about.”
 
-/* RIGHT “Gracechurch Street, _Monday, August 2_. */
+/* RIGHT “Gracechurch Street, Monday, August 2. */
 
 “My dear Brother,
 
@@ -65,7 +65,7 @@ And so saying, he turned back with them, and walked towards the house.
 
 “Complied with! I am only ashamed of his asking so little.”
 
-“And they _must_ marry! Yet he is _such_ a man.”
+“And they must marry! Yet he is such a man.”
 
 “Yes, yes, they must marry. There is nothing else to be done. But there are two things that I want very much to know:—one is, how much money your uncle has laid down to bring it about; and the other, how I am ever to pay him.”
 
@@ -81,7 +81,7 @@ And so saying, he turned back with them, and walked towards the house.
 
 Mr. Bennet made no answer; and each of them, deep in thought, continued silent till they reached the house. Their father then went to the library to write, and the girls walked into the breakfast-room.
 
-“And they are really to be married!” cried Elizabeth, as soon as they were by themselves. “How strange this is! and for _this_ we are to be thankful. That they should marry, small as is their chance of happiness, and wretched as is his character, we are forced to rejoice! Oh, Lydia!”
+“And they are really to be married!” cried Elizabeth, as soon as they were by themselves. “How strange this is! and for this we are to be thankful. That they should marry, small as is their chance of happiness, and wretched as is his character, we are forced to rejoice! Oh, Lydia!”
 
 “I comfort myself with thinking,” replied Jane, “that he certainly would not marry Lydia, if he had not a real regard for her. Though our kind uncle has done something towards clearing him, I cannot believe that ten thousand pounds, or anything like it, has been advanced. He has children of his own, and may have more. How could he spare half ten thousand pounds?”
 

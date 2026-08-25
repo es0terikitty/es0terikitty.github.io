@@ -17,21 +17,21 @@ Mrs. Gardiner, to whom the chief of this news had been given before, in the cour
 
 When alone with Elizabeth afterwards, she spoke more on the subject. “It seems likely to have been a desirable match for Jane,” said she. “I am sorry it went off. But these things happen so often! A young man, such as you describe Mr. Bingley, so easily falls in love with a pretty girl for a few weeks, and, when accident separates them, so easily forgets her, that these sort of inconstancies are very frequent.”
 
-“An excellent consolation in its way,” said Elizabeth; “but it will not do for _us_. We do not suffer by accident. It does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was violently in love with only a few days before.”
+“An excellent consolation in its way,” said Elizabeth; “but it will not do for us. We do not suffer by accident. It does not often happen that the interference of friends will persuade a young man of independent fortune to think no more of a girl whom he was violently in love with only a few days before.”
 
-“But that expression of ‘violently in love’ is so hackneyed, so doubtful, so indefinite, that it gives me very little idea. It is as often applied to feelings which arise only from a half hour’s acquaintance, as to a real, strong attachment. Pray, how _violent was_ Mr. Bingley’s love?”
+“But that expression of ‘violently in love’ is so hackneyed, so doubtful, so indefinite, that it gives me very little idea. It is as often applied to feelings which arise only from a half hour’s acquaintance, as to a real, strong attachment. Pray, how violent was Mr. Bingley’s love?”
 
 “I never saw a more promising inclination; he was growing quite inattentive to other people, and wholly engrossed by her. Every time they met, it was more decided and remarkable. At his own ball he offended two or three young ladies by not asking them to dance; and I spoke to him twice myself without receiving an answer. Could there be finer symptoms? Is not general incivility the very essence of love?”
 
-“Oh, yes! of that kind of love which I suppose him to have felt. Poor Jane! I am sorry for her, because, with her disposition, she may not get over it immediately. It had better have happened to _you_, Lizzy; you would have laughed yourself out of it sooner. But do you think she would be prevailed on to go back with us? Change of scene might be of service—and perhaps a little relief from home may be as useful as anything.”
+“Oh, yes! of that kind of love which I suppose him to have felt. Poor Jane! I am sorry for her, because, with her disposition, she may not get over it immediately. It had better have happened to you, Lizzy; you would have laughed yourself out of it sooner. But do you think she would be prevailed on to go back with us? Change of scene might be of service—and perhaps a little relief from home may be as useful as anything.”
 
 Elizabeth was exceedingly pleased with this proposal, and felt persuaded of her sister’s ready acquiescence.
 
 “I hope,” added Mrs. Gardiner, “that no consideration with regard to this young man will influence her. We live in so different a part of town, all our connections are so different, and, as you well know, we go out so little, that it is very improbable they should meet at all, unless he really comes to see her.”
 
-“And _that_ is quite impossible; for he is now in the custody of his friend, and Mr. Darcy would no more suffer him to call on Jane in such a part of London! My dear aunt, how could you think of it? Mr. Darcy may, perhaps, have _heard_ of such a place as Gracechurch Street, but he would hardly think a month’s ablution enough to cleanse him from its impurities, were he once to enter it; and, depend upon it, Mr. Bingley never stirs without him.”
+“And that is quite impossible; for he is now in the custody of his friend, and Mr. Darcy would no more suffer him to call on Jane in such a part of London! My dear aunt, how could you think of it? Mr. Darcy may, perhaps, have heard of such a place as Gracechurch Street, but he would hardly think a month’s ablution enough to cleanse him from its impurities, were he once to enter it; and, depend upon it, Mr. Bingley never stirs without him.”
 
-“So much the better. I hope they will not meet at all. But does not Jane correspond with his sister? _She_ will not be able to help calling.”
+“So much the better. I hope they will not meet at all. But does not Jane correspond with his sister? She will not be able to help calling.”
 
 “She will drop the acquaintance entirely.”
 

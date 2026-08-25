@@ -5,7 +5,7 @@ weight = 48
 chapter = 48
 +++
 
-The whole party were in hopes of a letter from Mr. Bennet the next morning, but the post came in without bringing a single line from him. His family knew him to be, on all common occasions, a most negligent and dilatory correspondent; but at such a time they had hoped for exertion. They were forced to conclude, that he had no pleasing intelligence to send; but even of _that_ they would have been glad to be certain. Mr. Gardiner had waited only for the letters before he set off.
+The whole party were in hopes of a letter from Mr. Bennet the next morning, but the post came in without bringing a single line from him. His family knew him to be, on all common occasions, a most negligent and dilatory correspondent; but at such a time they had hoped for exertion. They were forced to conclude, that he had no pleasing intelligence to send; but even of that they would have been glad to be certain. Mr. Gardiner had waited only for the letters before he set off.
 
 When he was gone, they were certain at least of receiving constant information of what was going on; and their uncle promised, at parting, to prevail on Mr. Bennet to return to Longbourn as soon as he could, to the great consolation of his sister, who considered it as the only security for her husband’s not being killed in a duel.
 
@@ -43,7 +43,7 @@ As Mrs. Gardiner began to wish to be at home, it was settled that she and her ch
 
 Mrs. Gardiner went away in all the perplexity about Elizabeth and her Derbyshire friend, that had attended her from that part of the world. His name had never been voluntarily mentioned before them by her niece; and the kind of half-expectation which Mrs. Gardiner had formed, of their being followed by a letter from him, had ended in nothing. Elizabeth had received none since her return, that could come from Pemberley.
 
-The present unhappy state of the family rendered any other excuse for the lowness of her spirits unnecessary; nothing, therefore, could be fairly conjectured from _that_,—though Elizabeth, who was by this time tolerably well acquainted with her own feelings, was perfectly aware that, had she known nothing of Darcy, she could have borne the dread of Lydia’s infamy somewhat better. It would have spared her, she thought, one sleepless night out of two.
+The present unhappy state of the family rendered any other excuse for the lowness of her spirits unnecessary; nothing, therefore, could be fairly conjectured from that,—though Elizabeth, who was by this time tolerably well acquainted with her own feelings, was perfectly aware that, had she known nothing of Darcy, she could have borne the dread of Lydia’s infamy somewhat better. It would have spared her, she thought, one sleepless night out of two.
 
 When Mr. Bennet arrived, he had all the appearance of his usual philosophic composure. He said as little as he had ever been in the habit of saying; made no mention of the business that had taken him away; and it was some time before his daughters had courage to speak of it.
 
@@ -67,9 +67,9 @@ They were interrupted by Miss Bennet, who came to fetch her mother’s tea.
 
 “This is a parade,” cried he, “which does one good; it gives such an elegance to misfortune! Another day I will do the same; I will sit in my library, in my nightcap and powdering gown, and give as much trouble as I can,—or perhaps I may defer it till Kitty runs away.”
 
-“I am not going to run away, papa,” said Kitty, fretfully. “If _I_ should ever go to Brighton, I would behave better than Lydia.”
+“I am not going to run away, papa,” said Kitty, fretfully. “If I should ever go to Brighton, I would behave better than Lydia.”
 
-“_You_ go to Brighton! I would not trust you so near it as Eastbourne, for fifty pounds! No, Kitty, I have at least learnt to be cautious, and you will feel the effects of it. No officer is ever to enter my house again, nor even to pass through the village. Balls will be absolutely prohibited, unless you stand up with one of your sisters. And you are never to stir out of doors, till you can prove that you have spent ten minutes of every day in a rational manner.”
+“You go to Brighton! I would not trust you so near it as Eastbourne, for fifty pounds! No, Kitty, I have at least learnt to be cautious, and you will feel the effects of it. No officer is ever to enter my house again, nor even to pass through the village. Balls will be absolutely prohibited, unless you stand up with one of your sisters. And you are never to stir out of doors, till you can prove that you have spent ten minutes of every day in a rational manner.”
 
 Kitty, who took all these threats in a serious light, began to cry.
 

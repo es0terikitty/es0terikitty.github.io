@@ -13,7 +13,7 @@ When Jane and Elizabeth were alone, the former, who had been cautious in her pra
 
 “I was very much flattered by his asking me to dance a second time. I did not expect such a compliment.”
 
-“Did not you? _I_ did for you. But that is one great difference between us. Compliments always take _you_ by surprise, and _me_ never. What could be more natural than his asking you again? He could not help seeing that you were about five times as pretty as every other woman in the room. No thanks to his gallantry for that. Well, he certainly is very agreeable, and I give you leave to like him. You have liked many a stupider person.”
+“Did not you? I did for you. But that is one great difference between us. Compliments always take you by surprise, and me never. What could be more natural than his asking you again? He could not help seeing that you were about five times as pretty as every other woman in the room. No thanks to his gallantry for that. Well, he certainly is very agreeable, and I give you leave to like him. You have liked many a stupider person.”
 
 “Dear Lizzy!”
 
@@ -21,7 +21,7 @@ When Jane and Elizabeth were alone, the former, who had been cautious in her pra
 
 “I would wish not to be hasty in censuring anyone; but I always speak what I think.”
 
-“I know you do: and it is _that_ which makes the wonder. With _your_ good sense, to be so honestly blind to the follies and nonsense of others! Affectation of candour is common enough; one meets with it everywhere. But to be candid without ostentation or design,—to take the good of everybody’s character and make it still better, and say nothing of the bad,—belongs to you alone. And so, you like this man’s sisters, too, do you? Their manners are not equal to his.”
+“I know you do: and it is that which makes the wonder. With your good sense, to be so honestly blind to the follies and nonsense of others! Affectation of candour is common enough; one meets with it everywhere. But to be candid without ostentation or design,—to take the good of everybody’s character and make it still better, and say nothing of the bad,—belongs to you alone. And so, you like this man’s sisters, too, do you? Their manners are not equal to his.”
 
 “Certainly not, at first; but they are very pleasing women when you converse with them. Miss Bingley is to live with her brother, and keep his house; and I am much mistaken if we shall not find a very charming neighbour in her.”
 

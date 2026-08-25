@@ -17,7 +17,7 @@ Had she found Jane in any apparent danger, Mrs. Bennet would have been very mise
 
 Mrs. Bennet was profuse in her acknowledgments.
 
-“I am sure,” she added, “if it was not for such good friends, I do not know what would become of her, for she is very ill indeed, and suffers a vast deal, though with the greatest patience in the world, which is always the way with her, for she has, without exception, the sweetest temper I ever met with. I often tell my other girls they are nothing to _her_. You have a sweet room here, Mr. Bingley, and a charming prospect over that gravel walk. I do not know a place in the country that is equal to Netherfield. You will not think of quitting it in a hurry, I hope, though you have but a short lease.”
+“I am sure,” she added, “if it was not for such good friends, I do not know what would become of her, for she is very ill indeed, and suffers a vast deal, though with the greatest patience in the world, which is always the way with her, for she has, without exception, the sweetest temper I ever met with. I often tell my other girls they are nothing to her. You have a sweet room here, Mr. Bingley, and a charming prospect over that gravel walk. I do not know a place in the country that is equal to Netherfield. You will not think of quitting it in a hurry, I hope, though you have but a short lease.”
 
 “Whatever I do is done in a hurry,” replied he; “and therefore if I should resolve to quit Netherfield, I should probably be off in five minutes. At present, however, I consider myself as quite fixed here.”
 
@@ -35,13 +35,13 @@ Mrs. Bennet was profuse in her acknowledgments.
 
 “I did not know before,” continued Bingley, immediately, “that you were a studier of character. It must be an amusing study.”
 
-“Yes; but intricate characters are the _most_ amusing. They have at least that advantage.”
+“Yes; but intricate characters are the most amusing. They have at least that advantage.”
 
 “The country,” said Darcy, “can in general supply but few subjects for such a study. In a country neighbourhood you move in a very confined and unvarying society.”
 
 “But people themselves alter so much, that there is something new to be observed in them for ever.”
 
-“Yes, indeed,” cried Mrs. Bennet, offended by his manner of mentioning a country neighbourhood. “I assure you there is quite as much of _that_ going on in the country as in town.”
+“Yes, indeed,” cried Mrs. Bennet, offended by his manner of mentioning a country neighbourhood. “I assure you there is quite as much of that going on in the country as in town.”
 
 Everybody was surprised; and Darcy, after looking at her for a moment, turned silently away. Mrs. Bennet, who fancied she had gained a complete victory over him, continued her triumph,—
 
@@ -55,13 +55,13 @@ Everybody was surprised; and Darcy, after looking at her for a moment, turned si
 
 “Certainly, my dear, nobody said there were; but as to not meeting with many people in this neighbourhood, I believe there are few neighbourhoods larger. I know we dine with four-and-twenty families.”
 
-Nothing but concern for Elizabeth could enable Bingley to keep his countenance. His sister was less delicate, and directed her eye towards Mr. Darcy with a very expressive smile. Elizabeth, for the sake of saying something that might turn her mother’s thoughts, now asked her if Charlotte Lucas had been at Longbourn since _her_ coming away.
+Nothing but concern for Elizabeth could enable Bingley to keep his countenance. His sister was less delicate, and directed her eye towards Mr. Darcy with a very expressive smile. Elizabeth, for the sake of saying something that might turn her mother’s thoughts, now asked her if Charlotte Lucas had been at Longbourn since her coming away.
 
-“Yes, she called yesterday with her father. What an agreeable man Sir William is, Mr. Bingley—is not he? so much the man of fashion! so genteel and so easy! He has always something to say to everybody. _That_ is my idea of good breeding; and those persons who fancy themselves very important and never open their mouths quite mistake the matter.”
+“Yes, she called yesterday with her father. What an agreeable man Sir William is, Mr. Bingley—is not he? so much the man of fashion! so genteel and so easy! He has always something to say to everybody. That is my idea of good breeding; and those persons who fancy themselves very important and never open their mouths quite mistake the matter.”
 
 “Did Charlotte dine with you?”
 
-“No, she would go home. I fancy she was wanted about the mince-pies. For my part, Mr. Bingley, _I_ always keep servants that can do their own work; _my_ daughters are brought up differently. But everybody is to judge for themselves, and the Lucases are a very good sort of girls, I assure you. It is a pity they are not handsome! Not that _I_ think Charlotte so _very_ plain; but then she is our particular friend.”
+“No, she would go home. I fancy she was wanted about the mince-pies. For my part, Mr. Bingley, I always keep servants that can do their own work; my daughters are brought up differently. But everybody is to judge for themselves, and the Lucases are a very good sort of girls, I assure you. It is a pity they are not handsome! Not that I think Charlotte so very plain; but then she is our particular friend.”
 
 “She seems a very pleasant young woman,” said Bingley.
 
@@ -69,7 +69,7 @@ Nothing but concern for Elizabeth could enable Bingley to keep his countenance. 
 
 “And so ended his affection,” said Elizabeth, impatiently. “There has been many a one, I fancy, overcome in the same way. I wonder who first discovered the efficacy of poetry in driving away love!”
 
-“I have been used to consider poetry as the _food_ of love,” said Darcy.
+“I have been used to consider poetry as the food of love,” said Darcy.
 
 “Of a fine, stout, healthy love it may. Everything nourishes what is strong already. But if it be only a slight, thin sort of inclination, I am convinced that one good sonnet will starve it entirely away.”
 
@@ -79,6 +79,6 @@ Lydia was a stout, well-grown girl of fifteen, with a fine complexion and good-h
 
 “I am perfectly ready, I assure you, to keep my engagement; and, when your sister is recovered, you shall, if you please, name the very day of the ball. But you would not wish to be dancing while she is ill?”
 
-Lydia declared herself satisfied. “Oh yes—it would be much better to wait till Jane was well; and by that time, most likely, Captain Carter would be at Meryton again. And when you have given _your_ ball,” she added, “I shall insist on their giving one also. I shall tell Colonel Forster it will be quite a shame if he does not.”
+Lydia declared herself satisfied. “Oh yes—it would be much better to wait till Jane was well; and by that time, most likely, Captain Carter would be at Meryton again. And when you have given your ball,” she added, “I shall insist on their giving one also. I shall tell Colonel Forster it will be quite a shame if he does not.”
 
-Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to Jane, leaving her own and her relations’ behaviour to the remarks of the two ladies and Mr. Darcy; the latter of whom, however, could not be prevailed on to join in their censure of _her_, in spite of all Miss Bingley’s witticisms on _fine eyes_.
+Mrs. Bennet and her daughters then departed, and Elizabeth returned instantly to Jane, leaving her own and her relations’ behaviour to the remarks of the two ladies and Mr. Darcy; the latter of whom, however, could not be prevailed on to join in their censure of her, in spite of all Miss Bingley’s witticisms on fine eyes.

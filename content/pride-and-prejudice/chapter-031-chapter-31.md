@@ -9,7 +9,7 @@ Colonel Fitzwilliam’s manners were very much admired at the Parsonage, and the
 
 The invitation was accepted, of course, and at a proper hour they joined the party in Lady Catherine’s drawing-room. Her Ladyship received them civilly, but it was plain that their company was by no means so acceptable as when she could get nobody else; and she was, in fact, almost engrossed by her nephews, speaking to them, especially to Darcy, much more than to any other person in the room.
 
-Colonel Fitzwilliam seemed really glad to see them: anything was a welcome relief to him at Rosings; and Mrs. Collins’s pretty friend had, moreover, caught his fancy very much. He now seated himself by her, and talked so agreeably of Kent and Hertfordshire, of travelling and staying at home, of new books and music, that Elizabeth had never been half so well entertained in that room before; and they conversed with so much spirit and flow as to draw the attention of Lady Catherine herself, as well as of Mr. Darcy. _His_ eyes had been soon and repeatedly turned towards them with a look of curiosity; and that her Ladyship, after a while, shared the feeling, was more openly acknowledged, for she did not scruple to call out,—
+Colonel Fitzwilliam seemed really glad to see them: anything was a welcome relief to him at Rosings; and Mrs. Collins’s pretty friend had, moreover, caught his fancy very much. He now seated himself by her, and talked so agreeably of Kent and Hertfordshire, of travelling and staying at home, of new books and music, that Elizabeth had never been half so well entertained in that room before; and they conversed with so much spirit and flow as to draw the attention of Lady Catherine herself, as well as of Mr. Darcy. His eyes had been soon and repeatedly turned towards them with a look of curiosity; and that her Ladyship, after a while, shared the feeling, was more openly acknowledged, for she did not scruple to call out,—
 
 “What is that you are saying, Fitzwilliam? What is it you are talking of? What are you telling Miss Bennet? Let me hear what it is.”
 
@@ -29,7 +29,7 @@ Mr. Darcy looked a little ashamed of his aunt’s ill-breeding, and made no answ
 
 When coffee was over, Colonel Fitzwilliam reminded Elizabeth of having promised to play to him; and she sat down directly to the instrument. He drew a chair near her. Lady Catherine listened to half a song, and then talked, as before, to her other nephew; till the latter walked away from her, and moving with his usual deliberation towards the pianoforte, stationed himself so as to command a full view of the fair performer’s countenance. Elizabeth saw what he was doing, and at the first convenient pause turned to him with an arch smile, and said,—
 
-“You mean to frighten me, Mr. Darcy, by coming in all this state to hear me. But I will not be alarmed, though your sister _does_ play so well. There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.”
+“You mean to frighten me, Mr. Darcy, by coming in all this state to hear me. But I will not be alarmed, though your sister does play so well. There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.”
 
 “I shall not say that you are mistaken,” he replied, “because you could not really believe me to entertain any design of alarming you; and I have had the pleasure of your acquaintance long enough to know, that you find great enjoyment in occasionally professing opinions which, in fact, are not your own.”
 
@@ -53,7 +53,7 @@ Elizabeth laughed heartily at this picture of herself, and said to Colonel Fitzw
 
 “I certainly have not the talent which some people possess,” said Darcy, “of conversing easily with those I have never seen before. I cannot catch their tone of conversation, or appear interested in their concerns, as I often see done.”
 
-“My fingers,” said Elizabeth, “do not move over this instrument in the masterly manner which I see so many women’s do. They have not the same force or rapidity, and do not produce the same expression. But then I have always supposed it to be my own fault—because I would not take the trouble of practising. It is not that I do not believe _my_ fingers as capable as any other woman’s of superior execution.”
+“My fingers,” said Elizabeth, “do not move over this instrument in the masterly manner which I see so many women’s do. They have not the same force or rapidity, and do not produce the same expression. But then I have always supposed it to be my own fault—because I would not take the trouble of practising. It is not that I do not believe my fingers as capable as any other woman’s of superior execution.”
 
 Darcy smiled and said, “You are perfectly right. You have employed your time much better. No one admitted to the privilege of hearing you can think anything wanting. We neither of us perform to strangers.”
 
@@ -61,6 +61,6 @@ Here they were interrupted by Lady Catherine, who called out to know what they w
 
 “Miss Bennet would not play at all amiss if she practised more, and could have the advantage of a London master. She has a very good notion of fingering, though her taste is not equal to Anne’s. Anne would have been a delightful performer, had her health allowed her to learn.”
 
-Elizabeth looked at Darcy, to see how cordially he assented to his cousin’s praise: but neither at that moment nor at any other could she discern any symptom of love; and from the whole of his behaviour to Miss De Bourgh she derived this comfort for Miss Bingley, that he might have been just as likely to marry _her_, had she been his relation.
+Elizabeth looked at Darcy, to see how cordially he assented to his cousin’s praise: but neither at that moment nor at any other could she discern any symptom of love; and from the whole of his behaviour to Miss De Bourgh she derived this comfort for Miss Bingley, that he might have been just as likely to marry her, had she been his relation.
 
 Lady Catherine continued her remarks on Elizabeth’s performance, mixing with them many instructions on execution and taste. Elizabeth received them with all the forbearance of civility; and at the request of the gentlemen remained at the instrument till her Ladyship’s carriage was ready to take them all home.
