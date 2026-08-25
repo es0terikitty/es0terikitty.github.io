@@ -1069,6 +1069,15 @@ html.js .reveal.in { opacity: 1; transform: none; }
   align-items: center; justify-content: center; gap: 5px;
 }
 .terminal-walldiff .walldiff-drop .walldiff-drop-or { color: var(--fg-muted); }
+.terminal-walldiff .walldiff-drop u { text-underline-offset: 3px; }
+.walldiff-invert {
+  display: flex; align-items: center; justify-content: center; gap: 7px;
+  font-size: var(--text-xs); color: var(--fg-dim);
+  text-transform: uppercase; letter-spacing: 0.08em;
+  cursor: pointer; margin-bottom: 14px;
+}
+.walldiff-invert:hover { color: var(--fg); }
+.walldiff-invert input { accent-color: var(--accent); cursor: pointer; margin: 0; }
 .terminal-walldiff .walldiff-drop input[type="file"] {
   display: none;
 }

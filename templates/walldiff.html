@@ -19,7 +19,7 @@
       <div class="prompt"><span>$</span> walldiff</div>
 
       <div id="drop-zone" class="walldiff-drop">
-        <label for="image-loader">drop an image <span class="walldiff-drop-or">or</span> choose an image</label>
+        <label for="image-loader">drop an image <span class="walldiff-drop-or">or</span> <u>browse</u></label>
         <input type="file" id="image-loader" name="image-loader" accept=".jpg,.jpeg,.png,.webp" />
       </div>
 
@@ -36,6 +36,10 @@
         </select>
         <button class="walldiff-btn" id="opt-down" onclick="scrollTheme(1)">▼</button>
       </div>
+
+      <label class="walldiff-invert" for="invert-toggle" title="invert colours before applying the colour scheme">
+        <input type="checkbox" id="invert-toggle"> invert
+      </label>
 
       <button class="compress-btn walldiff-convert" id="convert" type="button" onclick="initialize()">convert</button>
 

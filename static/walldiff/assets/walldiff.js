@@ -78,6 +78,13 @@ var ogimage;
 var themeName = null;
 var converting = false;
 
+// render state: canvas = original -> (invert?) -> (theme?)
+var inverted = false;
+var converted = false;
+var baseData = null; // untouched copy of the loaded image
+
+var invertToggle = document.getElementById("invert-toggle");
+
 // same order as `gowall list`
 var themeKeys = Object.keys(GOWALL_THEMES).sort();
 themeKeys.forEach(function (k) {
@@ -120,6 +127,10 @@ function handleImage(source) {
       canvas.width = img.width;
       canvas.height = img.height;
       ctx.drawImage(img, 0, 0);
+      baseData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+      inverted = invertToggle.checked;
+      converted = false;
+      if (inverted) rebuild();
     };
     img.src = event.target.result;
   };
@@ -128,6 +139,45 @@ function handleImage(source) {
   downloadButton.style.visibility = "hidden";
   resetButton.style.visibility = "hidden";
   canvas.style.visibility = "visible";
+}
+
+// live toggle: re-render immediately, no convert press needed
+invertToggle.addEventListener("change", function () {
+  if (converting || !baseData) {
+    invertToggle.checked = inverted; // snap back while busy / no image
+    return;
+  }
+  inverted = invertToggle.checked;
+  rebuild();
+});
+
+function rebuild() {
+  var imageData = new ImageData(
+    new Uint8ClampedArray(baseData.data),
+    canvas.width,
+    canvas.height
+  );
+
+  if (inverted) {
+    // gowall's `invert` filter (internal/image/invert.go → imaging.Invert):
+    // per-channel 255 - v, alpha untouched. Applied before the CLUT so the
+    // colour scheme maps over the inverted colours.
+    var px = imageData.data;
+    for (var i = 0; i < px.length; i += 4) {
+      px[i] = 255 - px[i];
+      px[i + 1] = 255 - px[i + 1];
+      px[i + 2] = 255 - px[i + 2];
+    }
+  }
+
+  ctx.putImageData(imageData, 0, 0);
+
+  if (converted) {
+    applyLut();
+  } else if (!converting) {
+    downloadButton.style.visibility = "hidden";
+    resetButton.style.visibility = "hidden";
+  }
 }
 
 function reset() {
@@ -143,7 +193,8 @@ function initialize() {
 
   setTimeout(function () {
     try {
-      convertGowall();
+      converted = true;
+      rebuild();
     } catch (err) {
       console.error(err);
       finishConvert();
@@ -216,7 +267,7 @@ function getLut(name) {
   return lutCache[name];
 }
 
-function convertGowall() {
+function applyLut() {
   var w = canvas.width;
   var h = canvas.height;
   var imageData = ctx.getImageData(0, 0, w, h);
