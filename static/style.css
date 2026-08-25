@@ -146,7 +146,7 @@
 }
 
 /* ── Mizuki Akiyama (soft pink / lavender) ── */
-[data-theme="mizuki-akiyama"] {
+[data-theme="mizuki"] {
   --bg: #141122;
   --bg-panel: #1d1a2d;
   --bg-panel-alt: #292344;
@@ -286,7 +286,9 @@ nav.top .logo:hover { color: var(--accent); }
   box-shadow: 0 0 20px color-mix(in srgb, var(--accent) 10%, transparent);
 }
 .terminal-bar {
-  background: var(--bg-panel);
+  background: color-mix(in srgb, var(--bg-panel) 60%, transparent);
+  backdrop-filter: blur(14px) saturate(160%);
+  -webkit-backdrop-filter: blur(14px) saturate(160%);
   padding: 8px 12px;
   border-bottom: 1px solid var(--border);
   display: flex; justify-content: space-between; align-items: center;
@@ -300,11 +302,14 @@ nav.top .logo:hover { color: var(--accent); }
   margin-right: 6px;
   vertical-align: middle;
 }
+.terminal-bar .live-dot { animation: none; }
 @media (prefers-reduced-motion: no-preference) {
   .live-dot { animation: blink 1s step-end infinite; }
 }
 .terminal-body {
-  background: var(--bg-panel);
+  background: color-mix(in srgb, var(--bg-panel) 60%, transparent);
+  backdrop-filter: blur(14px) saturate(160%);
+  -webkit-backdrop-filter: blur(14px) saturate(160%);
   padding: 24px;
   display: flex; flex-direction: column; align-items: center; gap: 12px;
 }
@@ -391,13 +396,13 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   display: flex; align-items: center; gap: 12px;
   padding: 12px 16px;
   border-bottom: 1px solid var(--border);
-  transition: background 0.15s, border-left-color 0.15s;
-  border-left: 2px solid transparent;
+  transition: background 0.15s, backdrop-filter 0.2s ease, -webkit-backdrop-filter 0.2s ease;
 }
 .playlist-item:last-child { border-bottom: none; }
 .playlist-item:hover {
-  background: var(--bg-panel-alt);
-  border-left-color: var(--border-strong);
+  background: color-mix(in srgb, var(--bg-panel-alt) 55%, transparent);
+  backdrop-filter: blur(12px) saturate(160%);
+  -webkit-backdrop-filter: blur(12px) saturate(160%);
 }
 .playlist-item .title { color: var(--fg); font-size: var(--text-base); font-weight: 700; }
 .playlist-item .summary { color: var(--fg-dim); font-size: var(--text-xs); margin-top: 2px; }
@@ -414,10 +419,14 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   display: block;
   border: 1px solid var(--border);
   padding: 16px;
-  transition: border-color 0.15s, background 0.15s;
+  transition: border-color 0.15s, background 0.15s, backdrop-filter 0.2s ease, -webkit-backdrop-filter 0.2s ease;
   color: inherit; text-decoration: none;
 }
-.stack-card:hover { border-color: var(--border-strong); background: var(--bg-panel-alt); }
+.stack-card:hover {
+  background: color-mix(in srgb, var(--bg-panel-alt) 55%, transparent);
+  backdrop-filter: blur(12px) saturate(160%);
+  -webkit-backdrop-filter: blur(12px) saturate(160%);
+}
 .stack-card .name { font-size: var(--text-sm); font-weight: 700; color: var(--fg); }
 .stack-card .kicker {
   font-size: var(--text-xs); color: var(--fg-muted);
@@ -457,10 +466,14 @@ a:hover, .playlist-item:hover .title, .stack-card:hover .name, .stat-card:hover 
   border: 1px solid var(--border);
   padding: 16px;
   text-align: center;
-  transition: border-color 0.15s, background 0.15s;
+  transition: border-color 0.15s, background 0.15s, backdrop-filter 0.2s ease, -webkit-backdrop-filter 0.2s ease;
   position: relative; overflow: hidden;
 }
-.stat-card:hover { border-color: var(--border-strong); background: var(--bg-panel-alt); }
+.stat-card:hover {
+  background: color-mix(in srgb, var(--bg-panel-alt) 55%, transparent);
+  backdrop-filter: blur(12px) saturate(160%);
+  -webkit-backdrop-filter: blur(12px) saturate(160%);
+}
 .stat-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 2px;
@@ -995,18 +1008,19 @@ html.js .reveal.in { opacity: 1; transform: none; }
   50% { box-shadow: 0 0 7px 3px color-mix(in srgb, var(--accent) 20%, transparent); }
 }
 
-/* playlist arrow on hover */
-.playlist-item { position: relative; padding-left: 30px; }
-.playlist-item::before {
-  content: ">"; position: absolute; left: 12px; top: 50%;
-  transform: translateY(-50%);
-  color: var(--accent);
-  opacity: 0;
-  transition: opacity 0.2s ease, left 0.2s ease;
+/* playlist left-edge loading bar (slow, loads bottom -> top) */
+.playlist-item { position: relative; overflow: hidden; }
+.playlist-item::after {
+  content: ""; position: absolute; left: 0; top: 0; bottom: 0;
+  width: 2px;
+  background: var(--accent);
+  transform: scaleY(0);
+  transform-origin: bottom;
+  transition: transform 0.9s cubic-bezier(0.25, 1, 0.4, 1);
 }
-.playlist-item:hover::before { opacity: 1; left: 14px; }
+.playlist-item:hover::after { transform: scaleY(1); }
 
-/* stack card bottom scan line */
+/* stack card bottom + top scan lines (opposite directions) */
 .stack-card { position: relative; overflow: hidden; }
 .stack-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
