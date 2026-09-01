@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>New Tab</title>
+<link rel="icon" type="image/svg+xml" href="icons/logo.svg">
+<link rel="icon" type="image/png" href="icons/icon32.png">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/noctalia-colors.css">
+</head>
+<body>
+  <canvas id="bg-canvas"></canvas>
+
+  <div class="topbar">
+    <div class="icon-row">
+      <button class="icon-btn" type="button" id="editToggle" title="Edit shortcuts" aria-pressed="false">
+        <span class="icon-wrap" aria-hidden="true">
+          <svg class="icon-pencil" viewBox="0 0 24 24"><path d="M16.5 3.5l4 4L8 20H4v-4L16.5 3.5z"/></svg>
+          <svg class="icon-check" viewBox="0 0 24 24"><path d="M6 12l4 4 8-10" /></svg>
+        </span>
+        <span class="edit-label">Edit</span>
+      </button>
+    </div>
+  </div>
+
+  <main class="main">
+    <section class="launcher" aria-label="New tab launcher">
+      <div class="launch-copy">
+        <div class="clock" id="clock">00:00</div>
+        <div class="date" id="date">WEDNESDAY AUG 19, 2026</div>
+
+        <div class="search-wrap">
+          <span class="search-prompt">λ</span>
+          <input type="text" id="searchInput" placeholder="Search the web…" autocomplete="off" spellcheck="false" autofocus>
+          <span class="search-key">ENTER</span>
+        </div>
+        <div class="groups" id="groups"></div>
+
+        <div class="add-row">
+          <button class="add-btn" type="button" id="addBtn" title="Add shortcut"><span>+</span> ADD SHORTCUT</button>
+        </div>
+      </div>
+
+      <aside class="signal-shell" aria-label="Live time display">
+        <div class="signal-panel">
+          <div class="panel-head"><span>hiraeth@kitty</span><div class="panel-lights"><i></i><i></i><i></i></div></div>
+          <div class="panel-rule"></div>
+          <div class="cat-logo" aria-hidden="true">
+            <i class="cat-tail"></i><i class="cat-body"></i><i class="cat-paw cat-paw-one"></i><i class="cat-paw cat-paw-two"></i>
+            <i class="cat-head"></i><i class="cat-ear cat-ear-left"></i><i class="cat-ear cat-ear-right"></i>
+            <i class="cat-face"></i><i class="cat-muzzle cat-muzzle-left"></i><i class="cat-muzzle cat-muzzle-right"></i><i class="cat-nose"></i><i class="cat-mouth"></i><i class="cat-whiskers"></i><i class="cat-mark"></i>
+            <b class="cat-z cat-z-one">Z</b><b class="cat-z cat-z-two">Z</b><b class="cat-z cat-z-three">Z</b><b class="cat-z cat-z-four">Z</b>
+          </div>
+          <!-- Volcanic logo backup:
+          <div class="mountain-logo" aria-hidden="true">
+            <i class="volcano-back"></i><i class="volcano-front"></i><i class="volcano-ridge"></i>
+            <i class="crater-glow"></i><i class="eruption eruption-main"></i><i class="eruption eruption-left"></i><i class="eruption eruption-right"></i>
+          </div> -->
+          <div class="signal-copy">SLEEP MODE / DO NOT DISTURB</div>
+          <div class="meter" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="panel-divider"></div>
+          <div class="panel-meta"><span>STATUS</span><b>RESTING</b></div>
+          <div class="panel-meta"><span>MODE</span><b>NEW TAB</b></div>
+        </div>
+      </aside>
+    </section>
+  </main>
+
+  <div class="overlay" id="overlay">
+    <div class="modal">
+      <div class="modal-head">
+        <div>
+          <h2 id="modalTitle">Add shortcut</h2>
+          <p class="modal-sub">Name, URL, group, and optional icon. Done.</p>
+        </div>
+        <button class="close-btn" type="button" id="closeModal" aria-label="Close">×</button>
+      </div>
+
+      <form id="shortcutForm">
+        <label class="field-label" for="nameInput">Name</label>
+        <input type="text" id="nameInput" placeholder="GitHub…" autocomplete="off" required>
+
+        <label class="field-label" for="urlInput">URL</label>
+        <input type="text" id="urlInput" placeholder="https://github.com" autocomplete="off" required>
+
+        <label class="field-label">Shortcut icon</label>
+        <div class="icon-field">
+          <div class="icon-preview" id="iconPreview"><span>+</span></div>
+          <button type="button" class="ghost-btn" id="chooseImageBtn">Choose image</button>
+          <button type="button" class="ghost-btn" id="useAutoBtn" disabled>Use automatic</button>
+          <input type="file" id="imageInput" accept="image/*" hidden>
+        </div>
+        <p class="hint">Automatic favicon is used unless you choose an image.</p>
+
+        <label class="field-label" for="groupInput">Group</label>
+        <select id="groupInput"></select>
+
+        <button type="submit" class="primary-btn" id="submitBtn">Add shortcut</button>
+      </form>
+    </div>
+  </div>
+
+  <script src="js/newtab.js"></script>
+  <script src="js/background.js"></script>
+</body>
+</html>

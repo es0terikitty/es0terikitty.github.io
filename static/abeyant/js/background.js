@@ -19,6 +19,16 @@
     line: cs.getPropertyValue('--canvas-line').trim() || 'rgba(150, 170, 220, 0.05)',
     dot: cs.getPropertyValue('--canvas-dot').trim() || 'rgba(150, 170, 220, 0.20)',
   };
+  function parseRgba(str) {
+    const m = str.match(/rgba?\(\s*(\d+)[,\s]+(\d+)[,\s]+(\d+)(?:[,\s]+([\d.]+))?/);
+    if (m) return { r: +m[1], g: +m[2], b: +m[3], a: m[4] != null ? +m[4] : 0.20 };
+    if (str.startsWith('#')) {
+      const r = parseInt(str.slice(1, 3), 16), g = parseInt(str.slice(3, 5), 16), b = parseInt(str.slice(5, 7), 16);
+      return { r, g, b, a: 0.20 };
+    }
+    return { r: 150, g: 170, b: 220, a: 0.20 };
+  }
+  const dotRgba = parseRgba(clr.dot);
 
   function resize() {
     c.width = window.innerWidth;
@@ -38,6 +48,8 @@
           x: col * SPACING,
           y: r * SPACING,
           vx: 0, vy: 0,
+          phase: Math.random() * Math.PI * 2,
+          flick: 0.003 + Math.random() * 0.007,
         });
       }
     }
@@ -50,7 +62,7 @@
     return 'rgba(' + r + ',' + g + ',' + b + ',' + a + ')';
   }
 
-  function draw() {
+  function draw(now = performance.now()) {
     const w = c.width, h = c.height;
     ctx.clearRect(0, 0, w, h);
 
@@ -91,12 +103,42 @@
       ctx.stroke();
     }
 
-    ctx.fillStyle = clr.dot;
+    // original grid preserved — only hover bloom is premium
     for (let i = 0; i < pts.length; i++) {
       const p = pts[i];
-      ctx.beginPath();
-      ctx.arc(p.x, p.y, 1.5, 0, Math.PI * 2);
-      ctx.fill();
+      const dx = p.x - mx, dy = p.y - my;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      let t = 0;
+      if (dist < RADIUS) t = 1 - dist / RADIUS;
+      const glow = t * t * 1.12;
+      // blink only affects the hover glow, not the base grid
+      const blink = 0.88 + 0.12 * Math.sin(now * p.flick + p.phase);
+      if (glow > 0.02) {
+        const outer = 1.5 + 6 + glow * 12;
+        const grad = ctx.createRadialGradient(p.x, p.y, 0, p.x, p.y, outer);
+        const ga = (0.14 + glow * 0.32) * blink;
+        grad.addColorStop(0, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${ga})`);
+        grad.addColorStop(0.24, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${ga * 0.38})`);
+        grad.addColorStop(0.6, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${glow * 0.10 * blink})`);
+        grad.addColorStop(1, `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},0)`);
+        ctx.globalCompositeOperation = 'lighter';
+        ctx.fillStyle = grad;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, outer, 0, Math.PI * 2);
+        ctx.fill();
+        ctx.globalCompositeOperation = 'source-over';
+        // brightened core on hover
+        ctx.fillStyle = `rgba(${dotRgba.r},${dotRgba.g},${dotRgba.b},${dotRgba.a + glow * 0.5 * blink})`;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, 1.5 + glow * 2.0, 0, Math.PI * 2);
+        ctx.fill();
+      } else {
+        // original grid dot — untouched
+        ctx.fillStyle = clr.dot;
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, 1.5, 0, Math.PI * 2);
+        ctx.fill();
+      }
     }
   }
 
@@ -139,7 +181,7 @@
       p.y += p.vy;
     }
 
-    draw();
+    draw(now);
     requestAnimationFrame(tick);
   }
 

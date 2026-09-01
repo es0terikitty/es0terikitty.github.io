@@ -46,6 +46,8 @@
   updateDate();
   setInterval(updateClock, 1000);
   setInterval(updateDate, 60000);
+  clockEl.style.fontFamily = "'Oxanium', var(--font)";
+  clockEl.style.fontWeight = "700";
 
   // ---------- Storage ----------
   const STORAGE_VERSION = 3;
@@ -132,12 +134,7 @@
       url.searchParams.set('size', '64');
       return url.toString();
     } catch (e) {
-      try {
-        const u = new URL(pageUrl);
-        return 'https://www.google.com/s2/favicons?domain=' + u.hostname + '&sz=64';
-      } catch (e2) {
-        return '';
-      }
+      return '';
     }
   }
 
@@ -333,14 +330,26 @@
   overlay.addEventListener('click', (e) => {
     if (e.target === overlay) closeModal();
   });
+  function setEditMode(on) {
+    const isEdit = typeof on === 'boolean' ? on : !document.body.classList.contains('edit-mode');
+    document.body.classList.toggle('edit-mode', isEdit);
+    editToggle.classList.toggle('active', isEdit);
+    editToggle.setAttribute('aria-pressed', String(isEdit));
+    editToggle.title = isEdit ? 'Done editing — click to save' : 'Edit shortcuts';
+    const label = editToggle.querySelector('.edit-label');
+    if (label) label.textContent = isEdit ? 'Done' : 'Edit';
+  }
+
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && overlay.classList.contains('open')) closeModal();
+    if (e.key === 'Escape' && overlay.classList.contains('open')) { closeModal(); return; }
+    if (e.key === 'Escape' && document.body.classList.contains('edit-mode')) { setEditMode(false); return; }
+    // Quick toggle with 'e' when focus is on body (no input/modal)
+    if (e.key.toLowerCase() === 'e' && !overlay.classList.contains('open') && document.activeElement === document.body && !e.metaKey && !e.ctrlKey && !e.altKey) {
+      setEditMode(!document.body.classList.contains('edit-mode'));
+    }
   });
 
-  editToggle.addEventListener('click', () => {
-    document.body.classList.toggle('edit-mode');
-    editToggle.classList.toggle('active');
-  });
+  editToggle.addEventListener('click', () => setEditMode());
 
   chooseImageBtn.addEventListener('click', () => imageInput.click());
 
