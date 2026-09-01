@@ -1,20 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
   <defs>
-    <linearGradient id="mntBack" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#8bb9c1" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#8bb9c1" stop-opacity="0"/>
+    <linearGradient id="volcanicBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7658" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#6d1118" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="mntFront" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#bcdbe0"/>
-      <stop offset="1" stop-color="#5a8790"/>
+    <linearGradient id="volcanicFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7658"/>
+      <stop offset="1" stop-color="#9b1e26"/>
     </linearGradient>
-    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0" stop-color="#eef7f8" stop-opacity="0.95"/>
-      <stop offset="1" stop-color="#8bb9c1" stop-opacity="0"/>
+    <radialGradient id="lavaGlow" cx="0.5" cy="0.55" r="0.5">
+      <stop offset="0" stop-color="#ffe38a"/>
+      <stop offset="0.42" stop-color="#ff9a4b" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#ff5a4c" stop-opacity="0"/>
     </radialGradient>
   </defs>
-
-  <path d="M0 64 L38 22 L64 52 L84 28 L128 76 L128 128 L0 128 Z" fill="url(#mntBack)"/>
-  <path d="M0 84 L40 40 L72 78 L96 52 L128 86 L128 128 L0 128 Z" fill="url(#mntFront)"/>
-  <circle cx="86" cy="66" r="16" fill="url(#sun)"/>
+  <!-- Original two-ridge mountain construction, recolored as volcanic terrain. -->
+  <path d="M0 64 L38 22 L64 52 L84 28 L128 76 L128 128 L0 128 Z" fill="url(#volcanicBack)"/>
+  <!-- A small hot eruption rises from the right-hand peak. -->
+  <path d="M86 31 L91 10 L96 31 L102 18 L100 41 L111 31 L101 53 L84 53 L75 36 Z" fill="#ff634d"/>
+  <path d="M91 34 L95 18 L98 37 L105 31 L99 47 L87 48 L82 37 Z" fill="#ffb04d"/>
+  <path d="M0 84 L40 40 L72 78 L96 52 L128 86 L128 128 L0 128 Z" fill="url(#volcanicFront)"/>
+  <circle cx="96" cy="51" r="18" fill="url(#lavaGlow)"/>
 </svg>
