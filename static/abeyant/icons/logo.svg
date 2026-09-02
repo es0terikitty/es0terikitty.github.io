@@ -1,106 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
   <defs>
-    <!-- Background / Planet Gradient -->
-    <radialGradient id="planetGlow" cx="45%" cy="40%" r="55%">
-      <stop offset="0%" stop-color="#7038db"/>
-      <stop offset="50%" stop-color="#431692"/>
-      <stop offset="85%" stop-color="#220a52"/>
-      <stop offset="100%" stop-color="#130533"/>
-    </radialGradient>
-
-    <!-- Orbital Ring Gradient -->
-    <linearGradient id="ringGrad" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6322ea"/>
-      <stop offset="30%" stop-color="#3b82f6"/>
-      <stop offset="60%" stop-color="#00e5ff"/>
-      <stop offset="100%" stop-color="#818cf8"/>
+    <linearGradient id="volcanicBack" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7658" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#6d1118" stop-opacity="0"/>
     </linearGradient>
-
-    <!-- Eye Frame Outer Gradient -->
-    <linearGradient id="eyeOuterGrad" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7928ca"/>
-      <stop offset="40%" stop-color="#2563eb"/>
-      <stop offset="75%" stop-color="#00f0ff"/>
-      <stop offset="100%" stop-color="#70e2ff"/>
+    <linearGradient id="volcanicFront" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff7658"/>
+      <stop offset="1" stop-color="#9b1e26"/>
     </linearGradient>
-
-    <!-- Eye Fill Gradient -->
-    <linearGradient id="eyeFillGrad" x1="0%" y1="100%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1a0b36" stop-opacity="0.95"/>
-      <stop offset="50%" stop-color="#2e1564" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.85"/>
-    </linearGradient>
-
-    <!-- Pupil Core Glow -->
-    <radialGradient id="pupilGlow" cx="35%" cy="35%" r="65%">
-      <stop offset="0%" stop-color="#d8b4fe"/>
-      <stop offset="35%" stop-color="#a855f7"/>
-      <stop offset="70%" stop-color="#3b82f6"/>
-      <stop offset="100%" stop-color="#06b6d4"/>
+    <radialGradient id="lavaGlow" cx="0.5" cy="0.55" r="0.5">
+      <stop offset="0" stop-color="#ffe38a"/>
+      <stop offset="0.42" stop-color="#ff9a4b" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#ff5a4c" stop-opacity="0"/>
     </radialGradient>
-
-    <radialGradient id="innerVoid" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0b031a"/>
-      <stop offset="80%" stop-color="#180838"/>
-      <stop offset="100%" stop-color="#3b1875"/>
-    </radialGradient>
-
-    <!-- Ray Glow Filter -->
-    <filter id="neonGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="6" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
-
-  <!-- Cosmic Background Stars / Particles (subtle) -->
-  <g opacity="0.6">
-    <circle cx="100" cy="140" r="2.5" fill="#a78bfa"/>
-    <circle cx="160" cy="90" r="1.8" fill="#38bdf8"/>
-    <circle cx="420" cy="380" r="2.2" fill="#38bdf8"/>
-    <circle cx="370" cy="440" r="1.8" fill="#c084fc"/>
-    <circle cx="450" cy="180" r="2" fill="#e0e7ff"/>
-    <circle cx="70" cy="320" r="2" fill="#818cf8"/>
-  </g>
-
-  <!-- Central Celestial Sphere / Planet -->
-  <circle cx="256" cy="256" r="155" fill="url(#planetGlow)"/>
-
-  <!-- Back Half of Orbital Ring -->
-  <g transform="rotate(-28 256 256)">
-    <ellipse cx="256" cy="256" rx="220" ry="62" fill="none" stroke="url(#ringGrad)" stroke-width="16" stroke-dasharray="380 400" stroke-dashoffset="190" opacity="0.5" stroke-linecap="round"/>
-  </g>
-
-  <!-- Sun Rays / Radiant Dashes around center -->
-  <g stroke="#00f0ff" stroke-width="5" stroke-linecap="round" opacity="0.9" filter="url(#neonGlow)">
-    <line x1="256" y1="178" x2="256" y2="192"/>
-    <line x1="256" y1="320" x2="256" y2="334"/>
-    <line x1="178" y1="256" x2="192" y2="256"/>
-    <line x1="320" y1="256" x2="334" y2="256"/>
-    <line x1="201" y1="201" x2="211" y2="211"/>
-    <line x1="301" y1="301" x2="311" y2="311"/>
-    <line x1="201" y1="311" x2="211" y2="301"/>
-    <line x1="301" y1="211" x2="311" y2="201"/>
-  </g>
-
-  <!-- Cosmic Celestial Eye Base (Diagonal) -->
-  <!-- Outer Shape -->
-  <path d="M 100 395 C 135 270, 240 135, 412 85 C 375 220, 270 355, 100 395 Z" fill="url(#eyeFillGrad)" stroke="url(#eyeOuterGrad)" stroke-width="16" stroke-linejoin="round" stroke-linecap="round" filter="url(#neonGlow)"/>
-
-  <!-- Inner Eye Accent Line -->
-  <path d="M 128 372 C 160 275, 248 165, 385 118 C 352 225, 265 332, 128 372 Z" fill="none" stroke="#00f0ff" stroke-width="3.5" opacity="0.7"/>
-
-  <!-- Center Glowing Celestial Pupil Core -->
-  <circle cx="256" cy="256" r="48" fill="url(#pupilGlow)" filter="url(#neonGlow)"/>
-  <!-- Inner Iris Void -->
-  <circle cx="256" cy="256" r="26" fill="url(#innerVoid)"/>
-  <!-- Reflection Glint -->
-  <circle cx="267" cy="245" r="8" fill="#ffffff" opacity="0.9"/>
-
-  <!-- Front Half of Orbital Ring (Looping over front) -->
-  <g transform="rotate(-28 256 256)">
-    <ellipse cx="256" cy="256" rx="220" ry="62" fill="none" stroke="url(#ringGrad)" stroke-width="18" stroke-dasharray="380 400" stroke-dashoffset="0" stroke-linecap="round" filter="url(#neonGlow)"/>
-  </g>
+  <!-- Original two-ridge mountain construction, recolored as volcanic terrain. -->
+  <path d="M0 64 L38 22 L64 52 L84 28 L128 76 L128 128 L0 128 Z" fill="url(#volcanicBack)"/>
+  <!-- A small hot eruption rises from the right-hand peak. -->
+  <path d="M86 31 L91 10 L96 31 L102 18 L100 41 L111 31 L101 53 L84 53 L75 36 Z" fill="#ff634d"/>
+  <path d="M91 34 L95 18 L98 37 L105 31 L99 47 L87 48 L82 37 Z" fill="#ffb04d"/>
+  <path d="M0 84 L40 40 L72 78 L96 52 L128 86 L128 128 L0 128 Z" fill="url(#volcanicFront)"/>
+  <circle cx="96" cy="51" r="18" fill="url(#lavaGlow)"/>
 </svg>
