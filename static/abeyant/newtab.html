@@ -34,7 +34,7 @@
           <input type="text" id="searchInput" placeholder="Search the web…" autocomplete="off" spellcheck="false" autofocus>
           <span class="search-key">ENTER</span>
         </div>
-        <div class="groups" id="groups"></div>
+        <div class="shortcut-row" id="shortcutRow"></div>
 
         <div class="add-row">
           <button class="add-btn" type="button" id="addBtn" title="Add shortcut"><span>+</span> ADD SHORTCUT</button>
@@ -45,7 +45,7 @@
         <div class="signal-panel">
           <div class="panel-head"><span>hiraeth@kitty</span><div class="panel-lights"><i></i><i></i><i></i></div></div>
           <div class="panel-rule"></div>
-          <div class="cat-logo" aria-hidden="true">
+          <div class="cat-logo" id="catLogo" aria-hidden="true" title="Pet the kitty!">
             <i class="cat-tail"></i><i class="cat-body"></i><i class="cat-paw cat-paw-one"></i><i class="cat-paw cat-paw-two"></i>
             <i class="cat-head"></i><i class="cat-ear cat-ear-left"></i><i class="cat-ear cat-ear-right"></i>
             <i class="cat-face"></i><i class="cat-muzzle cat-muzzle-left"></i><i class="cat-muzzle cat-muzzle-right"></i><i class="cat-nose"></i><i class="cat-mouth"></i><i class="cat-whiskers"></i><i class="cat-mark"></i>
@@ -56,11 +56,11 @@
             <i class="volcano-back"></i><i class="volcano-front"></i><i class="volcano-ridge"></i>
             <i class="crater-glow"></i><i class="eruption eruption-main"></i><i class="eruption eruption-left"></i><i class="eruption eruption-right"></i>
           </div> -->
-          <div class="signal-copy">SLEEP MODE / DO NOT DISTURB</div>
-          <div class="meter" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <div class="signal-copy" id="meterLabel">SLEEP MODE / DO NOT DISTURB</div>
+          <div class="meter" id="purrMeter" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
           <div class="panel-divider"></div>
-          <div class="panel-meta"><span>STATUS</span><b>RESTING</b></div>
-          <div class="panel-meta"><span>MODE</span><b>NEW TAB</b></div>
+          <div class="panel-meta"><span>STATUS</span><b id="kittyStatus">RESTING</b></div>
+          <div class="panel-meta"><span>MODE</span><b id="kittyMode">NEW TAB</b></div>
         </div>
       </aside>
     </section>
@@ -71,7 +71,7 @@
       <div class="modal-head">
         <div>
           <h2 id="modalTitle">Add shortcut</h2>
-          <p class="modal-sub">Name, URL, group, and optional icon. Done.</p>
+          <p class="modal-sub">Name and URL. Done.</p>
         </div>
         <button class="close-btn" type="button" id="closeModal" aria-label="Close">×</button>
       </div>
@@ -82,18 +82,6 @@
 
         <label class="field-label" for="urlInput">URL</label>
         <input type="text" id="urlInput" placeholder="https://github.com" autocomplete="off" required>
-
-        <label class="field-label">Shortcut icon</label>
-        <div class="icon-field">
-          <div class="icon-preview" id="iconPreview"><span>+</span></div>
-          <button type="button" class="ghost-btn" id="chooseImageBtn">Choose image</button>
-          <button type="button" class="ghost-btn" id="useAutoBtn" disabled>Use automatic</button>
-          <input type="file" id="imageInput" accept="image/*" hidden>
-        </div>
-        <p class="hint">Automatic favicon is used unless you choose an image.</p>
-
-        <label class="field-label" for="groupInput">Group</label>
-        <select id="groupInput"></select>
 
         <button type="submit" class="primary-btn" id="submitBtn">Add shortcut</button>
       </form>

@@ -5,7 +5,7 @@
   const dateEl = document.getElementById('date');
   const clockEl = document.getElementById('clock');
   const searchInput = document.getElementById('searchInput');
-  const groupsEl = document.getElementById('groups');
+  const shortcutRow = document.getElementById('shortcutRow');
   const addBtn = document.getElementById('addBtn');
   const editToggle = document.getElementById('editToggle');
 
@@ -15,17 +15,10 @@
   const form = document.getElementById('shortcutForm');
   const nameInput = document.getElementById('nameInput');
   const urlInput = document.getElementById('urlInput');
-  const groupInput = document.getElementById('groupInput');
-  const iconPreview = document.getElementById('iconPreview');
-  const chooseImageBtn = document.getElementById('chooseImageBtn');
-  const useAutoBtn = document.getElementById('useAutoBtn');
-  const imageInput = document.getElementById('imageInput');
   const submitBtn = document.getElementById('submitBtn');
 
   let shortcuts = [];
   let editingId = null;
-  let tempIconData = null;
-  let iconMode = 'auto'; // 'auto' | 'custom'
 
   // ---------- Clock / date ----------
   function updateClock() {
@@ -50,21 +43,21 @@
   clockEl.style.fontWeight = "700";
 
   // ---------- Storage ----------
-  const STORAGE_VERSION = 3;
+  const STORAGE_VERSION = 4;
 
   const DEFAULT_SHORTCUTS = [
-    { name: 'Hiraeth', url: 'https://hiraeth-dev.github.io', group: 'work' },
-    { name: 'Proton', url: 'https://mail.proton.me', group: 'work' },
-    { name: 'Drive', url: 'https://drive.google.com', group: 'work' },
-    { name: 'Gmail', url: 'https://mail.google.com', group: 'work' },
-    { name: 'Gemini', url: 'https://gemini.google.com', group: 'work' },
-    { name: 'ChatGPT', url: 'https://chatgpt.com', group: 'work' },
-    { name: 'Syncthing', url: 'http://127.0.0.1:8384/', group: 'work' },
-    { name: 'Keybr', url: 'https://keybr.com', group: 'play' },
-    { name: 'Kick', url: 'https://kick.com/gmhikaru', group: 'play' },
-    { name: 'Anime', url: 'https://everythingmoe.com', group: 'play' },
-    { name: 'FMHY', url: 'https://fmhy.net/video#anime-streaming', group: 'play' },
-    { name: 'YouShows', url: 'https://youshows.org/', group: 'play' },
+    { name: 'Hiraeth', url: 'https://hiraeth-dev.github.io' },
+    { name: 'Proton', url: 'https://mail.proton.me' },
+    { name: 'Drive', url: 'https://drive.google.com' },
+    { name: 'Gmail', url: 'https://mail.google.com' },
+    { name: 'Gemini', url: 'https://gemini.google.com' },
+    { name: 'ChatGPT', url: 'https://chatgpt.com' },
+    { name: 'Syncthing', url: 'http://127.0.0.1:8384/' },
+    { name: 'Keybr', url: 'https://keybr.com' },
+    { name: 'Kick', url: 'https://kick.com/gmhikaru' },
+    { name: 'Anime', url: 'https://everythingmoe.com' },
+    { name: 'FMHY', url: 'https://fmhy.net/video#anime-streaming' },
+    { name: 'YouShows', url: 'https://youshows.org/' },
   ];
 
   const DEFAULT_URLS = new Set(DEFAULT_SHORTCUTS.map((s) => s.url));
@@ -72,7 +65,7 @@
   function loadShortcuts() {
     return new Promise((resolve) => {
       const applyDefaults = () => {
-        const defaults = DEFAULT_SHORTCUTS.map((s) => ({ ...s, icon: null, id: cryptoId() }));
+        const defaults = DEFAULT_SHORTCUTS.map((s) => ({ ...s, id: cryptoId() }));
         saveShortcuts(defaults);
         return defaults;
       };
@@ -84,7 +77,7 @@
           .filter((s) => !existingUrls.has(s.url)
             && !existingNames.has(s.name.toLowerCase())
             && !removed.includes(s.url))
-          .map((s) => ({ ...s, icon: null, id: cryptoId() }));
+          .map((s) => ({ ...s, id: cryptoId() }));
         if (missing.length) {
           const merged = [...list, ...missing];
           saveShortcuts(merged);
@@ -126,8 +119,15 @@
     });
   }
 
-  // ---------- Favicon ----------
-  function faviconUrl(pageUrl) {
+  // ---------- Favicon cache ----------
+  // Favicons are cached as base64 data URLs in chrome.storage.local under
+  // the key 'faviconCache' (an object keyed by origin). On first open they
+  // load from chrome://favicon2 and are saved; on every subsequent open
+  // they're read from storage and appear instantly with no network round-trip.
+
+  let faviconCache = {}; // in-memory mirror of storage
+
+  function faviconStorageUrl(pageUrl) {
     try {
       const url = new URL(chrome.runtime.getURL('/_favicon/'));
       url.searchParams.set('pageUrl', pageUrl);
@@ -136,6 +136,68 @@
     } catch (e) {
       return '';
     }
+  }
+
+  function cacheKey(pageUrl) {
+    try { return new URL(pageUrl).origin; } catch (e) { return pageUrl; }
+  }
+
+  function saveFaviconCache() {
+    if (chrome?.storage?.local) {
+      chrome.storage.local.set({ faviconCache });
+    }
+  }
+
+  function loadFaviconCache() {
+    return new Promise((resolve) => {
+      const finish = (cache) => {
+        faviconCache = cache || {};
+        // One-time cache refresh for Hiraeth to pick up new logo
+        const hiraethKey = 'https://hiraeth-dev.github.io';
+        if (!faviconCache._hiraethRefreshedV2) {
+          delete faviconCache[hiraethKey];
+          faviconCache._hiraethRefreshedV2 = true;
+          saveFaviconCache();
+        }
+        resolve();
+      };
+
+      if (chrome?.storage?.local) {
+        chrome.storage.local.get('faviconCache', (res) => {
+          finish(res.faviconCache);
+        });
+      } else {
+        try { finish(JSON.parse(localStorage.getItem('faviconCache') || '{}')); } catch (e) { finish({}); }
+      }
+    });
+  }
+
+  // Fetch favicon via chrome://favicon2, convert to base64, cache it, then
+  // update the already-rendered <img> element in place.
+  function fetchAndCacheFavicon(pageUrl, imgEl) {
+    const src = faviconStorageUrl(pageUrl);
+    if (!src) return;
+    const tmp = new Image();
+    tmp.crossOrigin = 'anonymous';
+    tmp.onload = () => {
+      try {
+        const canvas = document.createElement('canvas');
+        canvas.width = tmp.naturalWidth || 64;
+        canvas.height = tmp.naturalHeight || 64;
+        canvas.getContext('2d').drawImage(tmp, 0, 0);
+        const data = canvas.toDataURL('image/png');
+        faviconCache[cacheKey(pageUrl)] = data;
+        saveFaviconCache();
+        if (imgEl && imgEl.isConnected) imgEl.src = data;
+      } catch (e) {
+        // canvas tainted (shouldn't happen with chrome:// favicon) — leave the direct URL
+        if (imgEl && imgEl.isConnected) imgEl.src = src;
+      }
+    };
+    tmp.onerror = () => {
+      if (imgEl && imgEl.isConnected) imgEl.src = src;
+    };
+    tmp.src = src;
   }
 
   function initialColor(name) {
@@ -167,8 +229,16 @@
 
     const img = document.createElement('img');
     img.alt = '';
-    img.src = s.icon || faviconUrl(s.url);
     img.addEventListener('error', () => img.replaceWith(makeInitialAvatar(s.name)), { once: true });
+
+    const cached = faviconCache[cacheKey(s.url)];
+    if (cached) {
+      img.src = cached;
+    } else {
+      img.src = faviconStorageUrl(s.url);
+      fetchAndCacheFavicon(s.url, img);
+    }
+
     el.appendChild(img);
 
     const label = document.createElement('span');
@@ -192,40 +262,16 @@
       }
     });
 
+    makeDraggable(el, s);
+
     return el;
   }
 
   function render() {
-    groupsEl.innerHTML = '';
+    shortcutRow.innerHTML = '';
     if (!shortcuts.length) return;
 
-    const groups = new Map();
-    shortcuts.forEach((s) => {
-      const g = s.group || 'Main';
-      if (!groups.has(g)) groups.set(g, []);
-      groups.get(g).push(s);
-    });
-
-    groups.forEach((items, groupName) => {
-      const groupEl = document.createElement('div');
-      groupEl.className = 'group';
-
-      const labelRow = document.createElement('div');
-      labelRow.className = 'group-label-row';
-      labelRow.innerHTML = `
-        <span class="line"></span>
-        <span class="group-label">${escapeHtml(groupName.toUpperCase())}</span>
-        <span class="line"></span>
-      `;
-      groupEl.appendChild(labelRow);
-
-      const row = document.createElement('div');
-      row.className = 'shortcut-row';
-      items.forEach((s) => row.appendChild(renderShortcut(s)));
-      groupEl.appendChild(row);
-
-      groupsEl.appendChild(groupEl);
-    });
+    shortcuts.forEach((s) => shortcutRow.appendChild(renderShortcut(s)));
   }
 
   function removeShortcut(id) {
@@ -264,30 +310,6 @@
   }
 
   // ---------- Modal ----------
-  function setIconPreview(dataUrl) {
-    iconPreview.innerHTML = dataUrl ? `<img src="${dataUrl}" alt="">` : '<span>+</span>';
-  }
-
-  function populateGroupSelect(selected) {
-    const existing = Array.from(new Set(shortcuts.map((s) => s.group || 'Main')));
-    if (!existing.includes('Main')) existing.unshift('Main');
-
-    groupInput.innerHTML = '';
-    existing.forEach((g) => {
-      const opt = document.createElement('option');
-      opt.value = g;
-      opt.textContent = g;
-      groupInput.appendChild(opt);
-    });
-
-    const newOpt = document.createElement('option');
-    newOpt.value = '__new__';
-    newOpt.textContent = '+ New group…';
-    groupInput.appendChild(newOpt);
-
-    groupInput.value = existing.includes(selected) ? selected : 'Main';
-  }
-
   function openModal(mode, id = null) {
     editingId = mode === 'edit' ? id : null;
     const shortcut = editingId ? shortcuts.find((s) => s.id === editingId) : null;
@@ -297,19 +319,6 @@
 
     nameInput.value = shortcut ? shortcut.name : '';
     urlInput.value = shortcut ? shortcut.url : '';
-    populateGroupSelect(shortcut ? shortcut.group : 'Main');
-
-    if (shortcut && shortcut.icon) {
-      tempIconData = shortcut.icon;
-      iconMode = 'custom';
-      setIconPreview(shortcut.icon);
-      useAutoBtn.disabled = false;
-    } else {
-      tempIconData = null;
-      iconMode = 'auto';
-      setIconPreview(null);
-      useAutoBtn.disabled = true;
-    }
 
     overlay.classList.add('open');
     setTimeout(() => nameInput.focus(), 50);
@@ -319,10 +328,6 @@
     overlay.classList.remove('open');
     form.reset();
     editingId = null;
-    tempIconData = null;
-    iconMode = 'auto';
-    setIconPreview(null);
-    useAutoBtn.disabled = true;
   }
 
   addBtn.addEventListener('click', () => openModal('add'));
@@ -351,44 +356,6 @@
 
   editToggle.addEventListener('click', () => setEditMode());
 
-  chooseImageBtn.addEventListener('click', () => imageInput.click());
-
-  imageInput.addEventListener('change', () => {
-    const file = imageInput.files[0];
-    if (!file) return;
-    const reader = new FileReader();
-    reader.onload = (e) => {
-      tempIconData = e.target.result;
-      iconMode = 'custom';
-      setIconPreview(tempIconData);
-      useAutoBtn.disabled = false;
-    };
-    reader.readAsDataURL(file);
-  });
-
-  useAutoBtn.addEventListener('click', () => {
-    if (useAutoBtn.disabled) return;
-    tempIconData = null;
-    iconMode = 'auto';
-    setIconPreview(null);
-    useAutoBtn.disabled = true;
-  });
-
-  groupInput.addEventListener('change', () => {
-    if (groupInput.value === '__new__') {
-      const name = window.prompt('New group name:');
-      if (name && name.trim()) {
-        const opt = document.createElement('option');
-        opt.value = name.trim();
-        opt.textContent = name.trim();
-        groupInput.insertBefore(opt, groupInput.lastElementChild);
-        groupInput.value = name.trim();
-      } else {
-        groupInput.value = 'Main';
-      }
-    }
-  });
-
   function cryptoId() {
     return window.crypto?.randomUUID
       ? window.crypto.randomUUID()
@@ -402,14 +369,11 @@
     if (!name || !url) return;
     if (!/^https?:\/\//i.test(url)) url = 'https://' + url;
 
-    const group = groupInput.value === '__new__' ? 'Main' : groupInput.value;
-    const icon = iconMode === 'custom' ? tempIconData : null;
-
     if (editingId) {
       const idx = shortcuts.findIndex((s) => s.id === editingId);
-      if (idx > -1) shortcuts[idx] = { ...shortcuts[idx], name, url, group, icon };
+      if (idx > -1) shortcuts[idx] = { ...shortcuts[idx], name, url };
     } else {
-      shortcuts.push({ id: cryptoId(), name, url, group, icon });
+      shortcuts.push({ id: cryptoId(), name, url });
     }
 
     await saveShortcuts(shortcuts);
@@ -484,8 +448,199 @@
     searchInput.focus();
   });
 
+  // ---------- Purr-o-Meter (Interactive Kitty) ----------
+  const catLogo = document.getElementById('catLogo');
+  const purrMeter = document.getElementById('purrMeter');
+  const meterLabel = document.getElementById('meterLabel');
+  const kittyStatus = document.getElementById('kittyStatus');
+  const kittyMode = document.getElementById('kittyMode');
+
+  if (catLogo && purrMeter) {
+    const meterBoxes = Array.from(purrMeter.querySelectorAll('i'));
+    const TOTAL_BOXES = meterBoxes.length || 11;
+
+    // 10 min total drain = 600 000 ms across 11 boxes
+    const DRAIN_TOTAL_MS = 10 * 60 * 1000;
+
+    // purrCharge is a float 0..TOTAL_BOXES. We store the absolute timestamp at
+    // which purrCharge was at its recorded value so we can recompute continuously.
+    let purrCharge = 0;       // last known charge (float)
+    let chargeSetAt = null;   // Date.now() when purrCharge was last set
+    let rafId = null;
+
+    function currentCharge() {
+      if (chargeSetAt === null || purrCharge <= 0) return 0;
+      const elapsed = Date.now() - chargeSetAt;
+      const drained = (elapsed / DRAIN_TOTAL_MS) * TOTAL_BOXES;
+      return Math.max(0, purrCharge - drained);
+    }
+
+    const HEARTS = ['♥', 'purr~', '✦', '🐾', 'zzZ'];
+
+    function updatePurrUI(charge) {
+      const level = Math.ceil(charge); // boxes lit = ceiling of float charge
+      meterBoxes.forEach((box, idx) => {
+        box.classList.toggle('lit', idx < level);
+      });
+
+      if (level >= TOTAL_BOXES) {
+        purrMeter.classList.add('overload');
+        if (meterLabel) meterLabel.textContent = 'PURR OVERLOAD! MAXIMUM LOVE';
+        if (kittyStatus) kittyStatus.textContent = 'PURRING 100% (^._.^)ﾉ';
+        if (kittyMode) kittyMode.textContent = 'OVERJOYED';
+      } else if (level >= 8) {
+        purrMeter.classList.remove('overload');
+        if (meterLabel) meterLabel.textContent = 'PURR-O-METER: VERY COZY';
+        if (kittyStatus) kittyStatus.textContent = `BLISSFUL (${Math.round((charge / TOTAL_BOXES) * 100)}%)`;
+        if (kittyMode) kittyMode.textContent = 'HAPPY';
+      } else if (level >= 4) {
+        purrMeter.classList.remove('overload');
+        if (meterLabel) meterLabel.textContent = 'PURR-O-METER: ENJOYING IT';
+        if (kittyStatus) kittyStatus.textContent = `PURRING (${Math.round((charge / TOTAL_BOXES) * 100)}%)`;
+        if (kittyMode) kittyMode.textContent = 'PETTING';
+      } else if (level >= 1) {
+        purrMeter.classList.remove('overload');
+        if (meterLabel) meterLabel.textContent = 'PURR-O-METER: WAKING UP';
+        if (kittyStatus) kittyStatus.textContent = `DOZING (${Math.round((charge / TOTAL_BOXES) * 100)}%)`;
+        if (kittyMode) kittyMode.textContent = 'PETTING';
+      } else {
+        purrMeter.classList.remove('overload');
+        if (meterLabel) meterLabel.textContent = 'SLEEP MODE / DO NOT DISTURB';
+        if (kittyStatus) kittyStatus.textContent = 'RESTING';
+        if (kittyMode) kittyMode.textContent = 'NEW TAB';
+      }
+    }
+
+    function drainLoop() {
+      const charge = currentCharge();
+      updatePurrUI(charge);
+      if (charge > 0) {
+        rafId = requestAnimationFrame(drainLoop);
+      } else {
+        rafId = null;
+      }
+    }
+
+    function startDrain() {
+      if (rafId) cancelAnimationFrame(rafId);
+      rafId = requestAnimationFrame(drainLoop);
+    }
+
+    function spawnFloatingHeart(e) {
+      const heart = document.createElement('span');
+      heart.className = 'pet-heart';
+      const text = HEARTS[Math.floor(Math.random() * HEARTS.length)];
+      heart.textContent = text;
+
+      const rect = catLogo.getBoundingClientRect();
+      const x = (e && e.clientX) ? (e.clientX - rect.left) : (rect.width * (0.3 + Math.random() * 0.4));
+      const y = (e && e.clientY) ? (e.clientY - rect.top) : (rect.height * 0.3);
+
+      heart.style.left = `${Math.max(5, Math.min(rect.width - 25, x))}px`;
+      heart.style.top = `${Math.max(5, y)}px`;
+
+      catLogo.appendChild(heart);
+      setTimeout(() => heart.remove(), 750);
+    }
+
+    function handlePet(e) {
+      // Snapshot current charge, add 1 box, restart drain from now
+      const charge = currentCharge();
+      purrCharge = Math.min(TOTAL_BOXES, charge + 1);
+      chargeSetAt = Date.now();
+
+      catLogo.classList.remove('pet-bounce');
+      void catLogo.offsetWidth;
+      catLogo.classList.add('pet-bounce');
+
+      spawnFloatingHeart(e);
+      updatePurrUI(purrCharge);
+      startDrain();
+    }
+
+    catLogo.addEventListener('click', handlePet);
+    updatePurrUI(0);
+  }
+
+  // ---------- Drag-to-reorder & trash-drop for shortcuts ----------
+  let dragSrcId = null;
+  let dragSrcEl = null;
+
+  // Convert editToggle into a drop-trash zone when dragging
+  function setTrashMode(on) {
+    editToggle.classList.toggle('trash-zone', on);
+    editToggle.querySelector('.edit-label').textContent = on ? 'Delete' : (document.body.classList.contains('edit-mode') ? 'Done' : 'Edit');
+    editToggle.querySelector('.icon-pencil').style.display = on ? 'none' : '';
+    editToggle.querySelector('.icon-check').style.display = 'none';
+  }
+
+  function makeDraggable(el, s) {
+    el.draggable = true;
+
+    el.addEventListener('dragstart', (e) => {
+      dragSrcId = s.id;
+      dragSrcEl = el;
+      e.dataTransfer.effectAllowed = 'move';
+      e.dataTransfer.setData('text/plain', s.id);
+      requestAnimationFrame(() => el.classList.add('dragging'));
+      setTrashMode(true);
+    });
+
+    el.addEventListener('dragend', () => {
+      el.classList.remove('dragging');
+      document.querySelectorAll('.shortcut.drag-over').forEach(x => x.classList.remove('drag-over'));
+      setTrashMode(false);
+      dragSrcId = null;
+      dragSrcEl = null;
+    });
+
+    el.addEventListener('dragover', (e) => {
+      if (dragSrcId === s.id) return;
+      e.preventDefault();
+      e.dataTransfer.dropEffect = 'move';
+      document.querySelectorAll('.shortcut.drag-over').forEach(x => x.classList.remove('drag-over'));
+      el.classList.add('drag-over');
+    });
+
+    el.addEventListener('dragleave', () => {
+      el.classList.remove('drag-over');
+    });
+
+    el.addEventListener('drop', (e) => {
+      e.preventDefault();
+      el.classList.remove('drag-over');
+      if (!dragSrcId || dragSrcId === s.id) return;
+      const fromIdx = shortcuts.findIndex(x => x.id === dragSrcId);
+      const toIdx = shortcuts.findIndex(x => x.id === s.id);
+      if (fromIdx === -1 || toIdx === -1) return;
+      const [moved] = shortcuts.splice(fromIdx, 1);
+      shortcuts.splice(toIdx, 0, moved);
+      saveShortcuts(shortcuts).then(render);
+    });
+  }
+
+  // Wire trash-drop on the edit button
+  editToggle.addEventListener('dragover', (e) => {
+    if (!dragSrcId) return;
+    e.preventDefault();
+    e.dataTransfer.dropEffect = 'move';
+    editToggle.classList.add('trash-active');
+  });
+  editToggle.addEventListener('dragleave', () => {
+    editToggle.classList.remove('trash-active');
+  });
+  editToggle.addEventListener('drop', (e) => {
+    e.preventDefault();
+    editToggle.classList.remove('trash-active');
+    if (!dragSrcId) return;
+    removeShortcut(dragSrcId);
+    setTrashMode(false);
+    dragSrcId = null;
+  });
+
   // ---------- Init ----------
-  loadShortcuts().then((data) => {
+  // Load favicon cache first so cached icons are ready before render().
+  loadFaviconCache().then(() => loadShortcuts()).then((data) => {
     shortcuts = data;
     render();
   });
