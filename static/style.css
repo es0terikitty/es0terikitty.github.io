@@ -168,6 +168,29 @@
   --bg-glow: #26183a;
 }
 
+/* ── Dusky (noctalia custom palette) ── */
+[data-theme="dusky"] {
+  --bg: #13111a;
+  --bg-panel: #1f1b29;
+  --bg-panel-alt: #2d273a;
+  --border: #40394f;
+  --border-strong: #d85d7b;
+  --fg: #e2deea;
+  --fg-dim: #9c96aa;
+  --fg-muted: #6f687e;
+  --accent: #d85d7b;
+  --accent-bright: #e697aa;
+  --accent-soft: #9b74b8;
+  --accent-dim: #629cb8;
+  --link: var(--accent-soft);
+  --link-hover: var(--accent-dim);
+  --focus-ring: var(--accent-bright);
+  --grid-fade: #13111a;
+  --grid-line: rgba(216, 93, 123, 0.06);
+  --grid-dot: rgba(216, 93, 123, 0.22);
+  --bg-glow: #2a1420;
+}
+
 *, *::before, *::after {
   margin: 0; padding: 0; box-sizing: border-box;
   border-radius: 0 !important;
