@@ -7,7 +7,11 @@
   <div class="terminal" style="max-width:480px;">
     <div class="terminal-bar">
       <span>error</span>
-      <span>exit code 1</span>
+      <div class="terminal-dots">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-cyan"></span>
+      </div>
     </div>
     <div class="terminal-body">
       <div class="prompt" style="font-size:var(--text-2xl);margin-bottom:8px;">
@@ -15,8 +19,8 @@
       </div>
       <div style="color:var(--fg-dim);line-height:2;">
         <p>file not found</p>
-        <p style="margin-top:16px;">
-          <a href="/" style="color:var(--accent);">cd ~</a>
+        <p style="margin-top:20px;">
+          <a href="/" class="theme-btn" style="padding:8px 20px;display:inline-block;">cd ~</a>
         </p>
       </div>
     </div>

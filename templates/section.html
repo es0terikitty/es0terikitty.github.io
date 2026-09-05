@@ -7,29 +7,112 @@
   {% set ancestors = section.ancestors %}
   {% if ancestors %}
     {% set parent = get_section(path=ancestors | last) %}
-    <a href="{{ parent.path }}">&larr; {% if parent.path == "/" %}Home{% else %}{{ parent.title }}{% endif %}</a>
+    <a href="{% if parent.path == '/' %}/#notes{% else %}{{ parent.path }}{% endif %}" class="back-btn">&larr; {% if parent.path == "/" %}~/novels{% else %}{{ parent.title }}{% endif %}</a>
   {% else %}
-    <a href="/">&larr; Home</a>
+    <a href="/#notes" class="back-btn">&larr; ~/novels</a>
   {% endif %}
 </nav>
 
-<section class="chapter-list">
-  <h2>{{ section.title }}</h2>
-  {{ section.content | safe }}
+{% if "/chapters/" in section.path or "/moby-dick/" in section.path %}
+  {% set pages = section.pages | sort(attribute="extra.chapter") %}
+{% else %}
+  {% set pages = section.pages %}
+{% endif %}
+
+<div class="novel-hero wrap">
+  <div class="terminal novel-hero-terminal">
+    <div class="terminal-bar">
+      <span>BOOK ARCHIVE // {{ section.title | upper }}</span>
+      <div class="terminal-dots">
+        <span class="dot dot-red"></span>
+        <span class="dot dot-yellow"></span>
+        <span class="dot dot-cyan"></span>
+      </div>
+    </div>
+    <div class="terminal-body novel-hero-body">
+      <div class="novel-hero-head">
+        <h1 class="novel-hero-title">{{ section.title }}</h1>
+        <div class="novel-hero-badges">
+          {% if section.subsections %}
+            <span class="section-badge">{{ section.subsections | length }} books</span>
+          {% else %}
+            <span class="section-badge">{{ pages | length }} chapters</span>
+          {% endif %}
+          <span class="section-badge badge-accent">complete</span>
+        </div>
+      </div>
+      {% if section.extra.summary %}
+      <div class="novel-hero-quote">
+        <span class="quote-sym">&ldquo;</span>
+        <p class="quote-text">{{ section.extra.summary }}</p>
+      </div>
+      {% endif %}
+      {% if section.content %}
+      <div class="novel-hero-desc">
+        {{ section.content | safe }}
+      </div>
+      {% endif %}
+      {% if not section.subsections and pages | length > 0 %}
+        {% set first_page = pages | first %}
+        <div class="novel-hero-action">
+          <a href="{{ first_page.path }}" class="novel-start-btn">
+            start reading &rarr;
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<section class="chapter-list wrap">
+  <div class="section-header">
+    <h2 class="section-heading"><span class="heading-sym">~/</span>{% if section.subsections %}books{% else %}chapters{% endif %}</h2>
+    <div class="section-line" aria-hidden="true"></div>
+    <span class="section-badge">
+      {% if section.subsections %}
+        {{ section.subsections | length }} books
+      {% else %}
+        {{ pages | length }} chapters
+      {% endif %}
+    </span>
+  </div>
   <div class="chapter-grid">
     {% if section.subsections %}
       {% for sub in section.subsections | sort %}
         {% set sub_sec = get_section(path=sub) %}
-        <a href="{{ sub_sec.path | safe }}" class="grid-item">{{ sub_sec.title }}</a>
+        <a href="{{ sub_sec.path | safe }}" class="chapter-card">
+          <div class="chapter-card-top">
+            <span class="chapter-num">BOOK {{ loop.index }}</span>
+            <span class="chapter-arrow">&nearr;</span>
+          </div>
+          <div class="chapter-card-title">{{ sub_sec.title }}</div>
+          {% if sub_sec.pages %}
+            <div class="chapter-card-meta">{{ sub_sec.pages | length }} chapters</div>
+          {% endif %}
+        </a>
       {% endfor %}
     {% else %}
-      {% if "/chapters/" in section.path or "/moby-dick/" in section.path %}
-        {% set pages = section.pages | sort(attribute="extra.chapter") %}
-      {% else %}
-        {% set pages = section.pages %}
-      {% endif %}
       {% for page in pages %}
-        <a href="{{ page.path | safe }}" class="grid-item">{{ page.title }}</a>
+        <a href="{{ page.path | safe }}" class="chapter-card">
+          <div class="chapter-card-top">
+            <span class="chapter-num">
+              {% if page.extra.chapter %}
+                CH.{{ page.extra.chapter }}
+              {% else %}
+                {{ loop.index }}
+              {% endif %}
+            </span>
+            <span class="chapter-arrow">&nearr;</span>
+          </div>
+          <div class="chapter-card-title">
+            {% if ":" in page.title %}
+              {% set title_parts = page.title | split(pat=":") %}
+              {{ title_parts | last | trim }}
+            {% else %}
+              {{ page.title }}
+            {% endif %}
+          </div>
+        </a>
       {% endfor %}
     {% endif %}
   </div>
