@@ -3,7 +3,7 @@
   var btn = document.getElementById('theme-btn');
   var menu = document.getElementById('theme-menu');
   if (!btn || !menu) return;
-  var current = html.getAttribute('data-theme') || 'emerald';
+  var current = html.getAttribute('data-theme') || 'dusky';
 
   function setActive() {
     var opts = menu.querySelectorAll('[data-theme-opt]');
