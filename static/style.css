@@ -96,31 +96,31 @@
   --bar-c: #39ff14;
 }
 
-/* ── 3. Solaris (autumn manuscript — ruby crimson × golden amber × jade green) ── */
-[data-theme="solaris"] {
-  --bg: #100b07;
-  --bg-panel: #1a120b;
-  --bg-panel-alt: #261b11;
-  --border: #3d2a1a;
-  --border-strong: #f59e0b;
-  --fg: #fbf1e4;
-  --fg-dim: #c7ab91;
-  --fg-muted: #7d644e;
-  --accent: #f59e0b;
-  --accent-bright: #fbbf24;
-  --accent-soft: #ef4444;
-  --accent-dim: #10b981;
-  --link: #f59e0b;
-  --link-hover: #ef4444;
-  --focus-ring: #fbbf24;
-  --grid-fade: #100b07;
-  --grid-line: rgba(245, 158, 11, 0.06);
-  --grid-dot: rgba(245, 158, 11, 0.22);
-  --bg-glow: #241200;
+/* ── 3. Jade (Imperial Jade — Emerald × Celadon × Deep Pine) ── */
+[data-theme="jade"] {
+  --bg: #081512;
+  --bg-panel: #0f251f;
+  --bg-panel-alt: #16362d;
+  --border: #1b6352;
+  --border-strong: #1e9177;
+  --fg: #a8c5b5;
+  --fg-dim: #9ab8a8;
+  --fg-muted: #567d6c;
+  --accent: #1e9177;
+  --accent-bright: #26a589;
+  --accent-soft: #167a63;
+  --accent-dim: #933636;
+  --link: #1e9177;
+  --link-hover: #26a589;
+  --focus-ring: #26a589;
+  --grid-fade: #081512;
+  --grid-line: rgba(30, 145, 119, 0.08);
+  --grid-dot: rgba(30, 145, 119, 0.28);
+  --bg-glow: #072b22;
   --bg-core: #000000;
-  --bar-a: #ef4444;
-  --bar-b: #f59e0b;
-  --bar-c: #10b981;
+  --bar-a: #1e9177;
+  --bar-b: #26a589;
+  --bar-c: #167a63;
 }
 
 /* ── 4. Crimson (blood-red gothic — arterial scarlet × relic gold × phantom amethyst) ── */
