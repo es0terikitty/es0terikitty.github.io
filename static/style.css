@@ -96,7 +96,7 @@
   --bar-c: #39ff14;
 }
 
-/* ── 3. Jade (Imperial Jade — Emerald × Celadon × Deep Pine) ── */
+/* ── 3. Jade (Imperial Jade — Emerald × Golden Amber × Cinnabar Red) ── */
 [data-theme="jade"] {
   --bg: #081512;
   --bg-panel: #0f251f;
@@ -108,8 +108,8 @@
   --fg-muted: #567d6c;
   --accent: #1e9177;
   --accent-bright: #26a589;
-  --accent-soft: #167a63;
-  --accent-dim: #933636;
+  --accent-soft: #f59e0b;
+  --accent-dim: #c93b3b;
   --link: #1e9177;
   --link-hover: #26a589;
   --focus-ring: #26a589;
@@ -119,8 +119,8 @@
   --bg-glow: #072b22;
   --bg-core: #000000;
   --bar-a: #1e9177;
-  --bar-b: #26a589;
-  --bar-c: #167a63;
+  --bar-b: #f59e0b;
+  --bar-c: #c93b3b;
 }
 
 /* ── 4. Crimson (blood-red gothic — arterial scarlet × relic gold × phantom amethyst) ── */
