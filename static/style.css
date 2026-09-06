@@ -19,27 +19,31 @@
   font-weight: 700; font-style: italic; font-display: swap;
 }
 
-/* ── Base: crimson (fallback when JS disabled) ── */
+/* ── Base: parchment (fallback when JS disabled) ── */
 :root {
-  --bg: #0d0505;
-  --bg-panel: #160809;
-  --bg-panel-alt: #210d0d;
-  --border: #3d1414;
-  --border-strong: #ff2a2a;
-  --fg: #fff3f1;
-  --fg-dim: #e8b8b4;
-  --fg-muted: #a05a54;
-  --accent: #ff2a2a;
-  --accent-bright: #ff5252;
-  --accent-soft: #ff665a;
-  --accent-dim: #ff8a80;
+  --bg: #eae1cd;
+  --bg-panel: #f7f2e7;
+  --bg-panel-alt: #fdfaf3;
+  --border: #3b2d1f;
+  --border-strong: #8b2513;
+  --fg: #1c1611;
+  --fg-dim: #5c4937;
+  --fg-muted: #8e7861;
+  --accent: #8b2513;
+  --accent-bright: #b3321d;
+  --accent-soft: #1e567a;
+  --accent-dim: #286644;
   --link: var(--accent-soft);
   --link-hover: var(--accent-dim);
   --focus-ring: var(--accent-bright);
-  --grid-fade: #0d0505;
-  --grid-line: rgba(255, 42, 42, 0.06);
-  --grid-dot: rgba(255, 42, 42, 0.22);
-  --bg-glow: #450b0b;
+  --grid-fade: #eae1cd;
+  --grid-line: rgba(59, 45, 31, 0.09);
+  --grid-dot: rgba(59, 45, 31, 0.28);
+  --bg-glow: #ded4bf;
+  --bg-core: #f3ecde;
+  --bar-a: #8b2513;
+  --bar-b: #bf8524;
+  --bar-c: #1e567a;
   --font-mono: "Maple Mono NF", monospace;
   --font-read: "Maple Mono NF", monospace;
   --text-xs: 0.75rem;
@@ -60,143 +64,188 @@
   --yellow: #f59e0b;
 }
 
-/* ── Aqua (default) ── */
-[data-theme="aqua"] {
-  --bg: #070a12;
-  --bg-panel: #0b1120;
-  --bg-panel-alt: #111b30;
-  --border: #1e2b47;
-  --border-strong: #3b82f6;
-  --fg: #f2f7ff;
-  --fg-dim: #a8bde0;
-  --fg-muted: #5a7199;
-  --accent: #4d8bff;
-  --accent-bright: #3f7bff;
-  --accent-soft: #5a92ff;
-  --accent-dim: #7fabff;
-  --link: var(--accent-soft);
-  --link-hover: var(--accent-dim);
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #070a12;
-  --grid-line: rgba(96, 165, 250, 0.06);
-  --grid-dot: rgba(96, 165, 250, 0.22);
-  --bg-glow: #0b1f45;
+/* ═══════════════════════════════════════════════════════════
+   THEMES — 5 diverse, multi-accent themes (including light)
+   Each with unique accent trios and custom hover-bar gradients
+   ─────────────────────────────────────────────────────────── */
+
+/* ── 2. Cyberpunk (vibrant terminal — electric cyan × neon magenta × toxic lime) ── */
+[data-theme="cyberpunk"] {
+  --bg: #07090e;
+  --bg-panel: #0d121c;
+  --bg-panel-alt: #141b29;
+  --border: #223048;
+  --border-strong: #00f0ff;
+  --fg: #f0f6fc;
+  --fg-dim: #8ba2c4;
+  --fg-muted: #4e6382;
+  --accent: #00f0ff;
+  --accent-bright: #38bdf8;
+  --accent-soft: #ff2a85;
+  --accent-dim: #39ff14;
+  --link: #00f0ff;
+  --link-hover: #ff2a85;
+  --focus-ring: #00f0ff;
+  --grid-fade: #07090e;
+  --grid-line: rgba(0, 240, 255, 0.06);
+  --grid-dot: rgba(0, 240, 255, 0.22);
+  --bg-glow: #021a24;
+  --bg-core: #000000;
+  --bar-a: #00f0ff;
+  --bar-b: #ff2a85;
+  --bar-c: #39ff14;
 }
 
-/* ── Crimson (more red, less orange) ── */
-[data-theme="crimson"] {
-  --bg: #0d0505;
-  --bg-panel: #160809;
-  --bg-panel-alt: #210d0d;
-  --border: #3d1414;
-  --border-strong: #ff2a2a;
-  --fg: #fff3f1;
-  --fg-dim: #e8b8b4;
-  --fg-muted: #a05a54;
-  --accent: #ff2a2a;
-  --accent-bright: #ff5252;
-  --accent-soft: #ff665a;
-  --accent-dim: #ff8a80;
-  --link: var(--accent-soft);
-  --link-hover: var(--accent-dim);
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #0d0505;
-  --grid-line: rgba(255, 42, 42, 0.06);
-  --grid-dot: rgba(255, 42, 42, 0.22);
-  --bg-glow: #450b0b;
+/* ── 3. Solaris (autumn manuscript — ruby crimson × golden amber × jade green) ── */
+[data-theme="solaris"] {
+  --bg: #100b07;
+  --bg-panel: #1a120b;
+  --bg-panel-alt: #261b11;
+  --border: #3d2a1a;
+  --border-strong: #f59e0b;
+  --fg: #fbf1e4;
+  --fg-dim: #c7ab91;
+  --fg-muted: #7d644e;
+  --accent: #f59e0b;
+  --accent-bright: #fbbf24;
+  --accent-soft: #ef4444;
+  --accent-dim: #10b981;
+  --link: #f59e0b;
+  --link-hover: #ef4444;
+  --focus-ring: #fbbf24;
+  --grid-fade: #100b07;
+  --grid-line: rgba(245, 158, 11, 0.06);
+  --grid-dot: rgba(245, 158, 11, 0.22);
+  --bg-glow: #241200;
+  --bg-core: #000000;
+  --bar-a: #ef4444;
+  --bar-b: #f59e0b;
+  --bar-c: #10b981;
 }
 
-/* ── Emerald (terminal) ── */
-[data-theme="emerald"] {
-  --bg: #05100a;
-  --bg-panel: #08160e;
-  --bg-panel-alt: #0d2016;
-  --border: #143a26;
-  --border-strong: #00e65c;
-  --fg: #ecfff3;
-  --fg-dim: #96d4ab;
-  --fg-muted: #4f825f;
-  --accent: #00ff6b;
-  --accent-bright: #2dff82;
-  --accent-soft: #47ff94;
-  --accent-dim: #8dffc0;
-  --link: var(--accent-soft);
-  --link-hover: var(--accent-dim);
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #05100a;
-  --grid-line: rgba(0, 230, 92, 0.06);
-  --grid-dot: rgba(0, 230, 92, 0.22);
-  --bg-glow: #073b1d;
+/* ── 4. Abyssal (oceanic depths — bioluminescent azure × seafoam emerald × coral) ── */
+[data-theme="abyssal"] {
+  --bg: #040d16;
+  --bg-panel: #081726;
+  --bg-panel-alt: #0e2338;
+  --border: #183654;
+  --border-strong: #38bdf8;
+  --fg: #e0f2fe;
+  --fg-dim: #7ec0e8;
+  --fg-muted: #3d6a8f;
+  --accent: #38bdf8;
+  --accent-bright: #7dd3fc;
+  --accent-soft: #34d399;
+  --accent-dim: #fb7185;
+  --link: #38bdf8;
+  --link-hover: #34d399;
+  --focus-ring: #38bdf8;
+  --grid-fade: #040d16;
+  --grid-line: rgba(56, 189, 248, 0.06);
+  --grid-dot: rgba(56, 189, 248, 0.20);
+  --bg-glow: #021a30;
+  --bg-core: #000000;
+  --bar-a: #38bdf8;
+  --bar-b: #34d399;
+  --bar-c: #fb7185;
 }
 
-/* ── Gruvbox (warm, comfortable) ── */
-[data-theme="gruvbox"] {
-  --bg: #1d1d1d;
-  --bg-panel: #282828;
-  --bg-panel-alt: #32302f;
-  --border: #504945;
-  --border-strong: #d79921;
-  --fg: #f4e9c9;
-  --fg-dim: #cfc0a2;
-  --fg-muted: #a0907d;
-  --accent: #e0a42a;
-  --accent-bright: #f5b22e;
-  --accent-soft: #ef6f66;
-  --accent-dim: #93c97c;
-  --link: #83a598;
-  --link-hover: #8ec07c;
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #282828;
-  --grid-line: rgba(235, 219, 178, 0.05);
-  --grid-dot: rgba(235, 219, 178, 0.16);
-  --bg-glow: #2b2512;
+/* ── 5. Synthwave (retro outrun — flamingo pink × sunset orange × electric cyan) ── */
+[data-theme="synthwave"] {
+  --bg: #0c0614;
+  --bg-panel: #160c24;
+  --bg-panel-alt: #221336;
+  --border: #3b1d5a;
+  --border-strong: #f43f5e;
+  --fg: #fdf2f8;
+  --fg-dim: #d1a8e2;
+  --fg-muted: #78508e;
+  --accent: #f43f5e;
+  --accent-bright: #fb7185;
+  --accent-soft: #fb923c;
+  --accent-dim: #06b6d4;
+  --link: #fb923c;
+  --link-hover: #f43f5e;
+  --focus-ring: #f43f5e;
+  --grid-fade: #0c0614;
+  --grid-line: rgba(244, 63, 94, 0.06);
+  --grid-dot: rgba(244, 63, 94, 0.20);
+  --bg-glow: #240530;
+  --bg-core: #000000;
+  --bar-a: #f43f5e;
+  --bar-b: #fb923c;
+  --bar-c: #06b6d4;
 }
 
-/* ── Mizuki Akiyama (soft pink / lavender) ── */
-[data-theme="mizuki"] {
-  --bg: #141122;
-  --bg-panel: #1d1a2d;
-  --bg-panel-alt: #292344;
-  --border: #3b3256;
-  --border-strong: #e6a6c8;
-  --fg: #fbf4fc;
-  --fg-dim: #dccfed;
-  --fg-muted: #a395bd;
-  --accent: #f0b0d2;
-  --accent-bright: #f79cc4;
-  --accent-soft: #f2a8cb;
-  --accent-dim: #b2a4e0;
-  --link: #c7bce8;
-  --link-hover: #e6a6c8;
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #141122;
-  --grid-line: rgba(230, 166, 200, 0.07);
-  --grid-dot: rgba(230, 166, 200, 0.20);
-  --bg-glow: #26183a;
+/* ── 6. Parchment (LIGHT — tactile archival paper × vermilion wax × Prussian ink × verdigris) ── */
+[data-theme="parchment"] {
+  --bg: #eae1cd;
+  --bg-panel: #f7f2e7;
+  --bg-panel-alt: #fdfaf3;
+  --border: #3b2d1f;
+  --border-strong: #8b2513;
+  --fg: #1c1611;
+  --fg-dim: #5c4937;
+  --fg-muted: #8e7861;
+  --accent: #8b2513;
+  --accent-bright: #b3321d;
+  --accent-soft: #1e567a;
+  --accent-dim: #286644;
+  --link: #1e567a;
+  --link-hover: #8b2513;
+  --focus-ring: #8b2513;
+  --grid-fade: #eae1cd;
+  --grid-line: rgba(59, 45, 31, 0.09);
+  --grid-dot: rgba(59, 45, 31, 0.28);
+  --bg-glow: #ded4bf;
+  --bg-core: #f3ecde;
+  --bar-a: #8b2513;
+  --bar-b: #bf8524;
+  --bar-c: #1e567a;
 }
 
-/* ── Dusky (noctalia custom palette) ── */
-[data-theme="dusky"] {
-  --bg: #13111a;
-  --bg-panel: #1f1b29;
-  --bg-panel-alt: #2d273a;
-  --border: #40394f;
-  --border-strong: #d85d7b;
-  --fg: #e2deea;
-  --fg-dim: #9c96aa;
-  --fg-muted: #6f687e;
-  --accent: #d85d7b;
-  --accent-bright: #e697aa;
-  --accent-soft: #9b74b8;
-  --accent-dim: #629cb8;
-  --link: var(--accent-soft);
-  --link-hover: var(--accent-dim);
-  --focus-ring: var(--accent-bright);
-  --grid-fade: #13111a;
-  --grid-line: rgba(216, 93, 123, 0.06);
-  --grid-dot: rgba(216, 93, 123, 0.22);
-  --bg-glow: #2a1420;
+/* ── Parchment Tactile Paper Texture for Cards & Elements ── */
+
+[data-theme="parchment"] .novel-card,
+[data-theme="parchment"] .stack-card,
+[data-theme="parchment"] .stat-card,
+[data-theme="parchment"] .terminal,
+[data-theme="parchment"] .chapter-card,
+[data-theme="parchment"] .code-block,
+[data-theme="parchment"] .section-badge,
+[data-theme="parchment"] nav.top .logo,
+[data-theme="parchment"] .theme-btn,
+[data-theme="parchment"] .theme-menu,
+[data-theme="parchment"] .dict-launch-btn,
+[data-theme="parchment"] .dict-meaning-item,
+[data-theme="parchment"] .novel-hero-terminal {
+  background-color: var(--bg-panel);
+  background-image:
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='cardNoise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23cardNoise)' opacity='0.06'/%3E%3C/svg%3E"),
+    repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(100, 75, 45, 0.02) 3px, rgba(100, 75, 45, 0.02) 6px);
 }
+
+[data-theme="parchment"] .novel-card:hover,
+[data-theme="parchment"] .stack-card:hover,
+[data-theme="parchment"] .stat-card:hover,
+[data-theme="parchment"] .chapter-card:hover {
+  background-color: var(--bg-panel-alt);
+}
+
+[data-theme="parchment"] nav.top {
+  background: color-mix(in srgb, var(--bg-panel) 92%, transparent);
+}
+
+[data-theme="parchment"] .terminal-bar {
+  background: var(--bg-panel-alt);
+}
+
+[data-theme="parchment"] ::selection {
+  background: #e8d0a9;
+  color: #1a1208;
+}
+
+
 
 *, *::before, *::after {
   margin: 0; padding: 0; box-sizing: border-box;
@@ -219,7 +268,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   background:
-    radial-gradient(ellipse 120% 90% at 50% 35%, #000 0%, var(--bg) 55%, var(--bg-glow) 100%);
+    radial-gradient(ellipse 120% 90% at 50% 35%, var(--bg-core, #000) 0%, var(--bg) 55%, var(--bg-glow) 100%);
   background-attachment: fixed;
   color: var(--fg);
   font-family: var(--font-mono);
@@ -582,7 +631,7 @@ nav.top .logo:active {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, #ff4d4d, #f59e0b, #2dd4bf);
+  background: linear-gradient(90deg, var(--bar-a, #ff4d4d), var(--bar-b, #f59e0b), var(--bar-c, #2dd4bf));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -738,7 +787,7 @@ nav.top .logo:active {
 .stack-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, #ff4d4d, #f59e0b, #2dd4bf);
+  background: linear-gradient(90deg, var(--bar-a, #ff4d4d), var(--bar-b, #f59e0b), var(--bar-c, #2dd4bf));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -810,7 +859,7 @@ nav.top .logo:active {
 .stat-card::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, #2dd4bf, #f59e0b, #ff4d4d);
+  background: linear-gradient(90deg, var(--bar-c, #2dd4bf), var(--bar-b, #f59e0b), var(--bar-a, #ff4d4d));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -929,8 +978,8 @@ nav.top .logo:active {
   flex-wrap: wrap;
 }
 .novel-hero-badges .badge-accent {
-  color: #2dd4bf;
-  border-color: #2dd4bf;
+  color: var(--accent-soft, #2dd4bf);
+  border-color: var(--accent-soft, #2dd4bf);
 }
 .novel-hero-quote {
   background: var(--bg-panel-alt);
@@ -1040,7 +1089,7 @@ nav.top .logo:active {
   right: 0;
   bottom: 0;
   height: 3px;
-  background: linear-gradient(90deg, #ff4d4d, #f59e0b, #2dd4bf);
+  background: linear-gradient(90deg, var(--bar-a, #ff4d4d), var(--bar-b, #f59e0b), var(--bar-c, #2dd4bf));
   transform: translateX(-101%);
   transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -1229,40 +1278,58 @@ nav.top .logo:active {
   margin-right: 6px;
 }
 .dict-cmd-line .dict-cmd {
-  color: #2dd4bf;
+  color: var(--accent-soft, #2dd4bf);
   font-weight: 700;
 }
 .dict-entry {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 10px;
   width: 100%;
 }
 .dict-meaning-item {
   display: flex;
-  align-items: baseline;
-  gap: 12px;
+  align-items: flex-start;
+  gap: 14px;
   line-height: 1.6;
+  padding: 10px 14px;
+  background: color-mix(in srgb, var(--bg-panel-alt) 50%, transparent);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  box-shadow: 3px 3px 0 var(--border);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-left-color 0.15s ease;
+}
+.dict-meaning-item:hover {
+  transform: translate(1px, 1px);
+  box-shadow: 2px 2px 0 var(--border);
+  border-left-color: var(--accent-bright, var(--accent));
 }
 .dict-meaning-lbl {
-  font-size: 0.75rem;
-  font-weight: 700;
+  font-size: 0.6875rem;
+  font-weight: 800;
   color: var(--accent);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.12em;
   font-family: var(--font-mono);
-  min-width: 48px;
+  min-width: 52px;
   flex-shrink: 0;
   user-select: none;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  box-shadow: 1px 1px 0 var(--border);
+  padding: 3px 8px;
+  text-align: center;
+  margin-top: 1px;
 }
 .dict-meaning-item .dict-def {
-  color: var(--fg-dim);
+  color: var(--fg);
   font-size: var(--text-sm);
   line-height: 1.6;
   margin: 0;
+  flex: 1;
 }
 .dict-meaning-item em {
-  color: var(--fg);
+  color: var(--accent-soft);
   font-style: italic;
 }
 .dict-footer-action {
@@ -1312,9 +1379,17 @@ nav.top .logo:active {
 .dict-error { color: var(--accent); }
 
 .dict-word-row {
-  display: flex; align-items: baseline; gap: 12px; margin-bottom: 12px;
+  display: flex; align-items: center; gap: 12px; margin-bottom: 14px; flex-wrap: wrap;
 }
-.dict-word { font-size: var(--text-lg); font-weight: 700; color: var(--fg); }
+.dict-word { font-size: 1.35rem; font-weight: 800; color: var(--fg); letter-spacing: -0.01em; }
+.dict-phonetic {
+  color: var(--fg-dim);
+  font-size: var(--text-sm);
+  font-family: var(--font-mono);
+  background: var(--bg-panel-alt);
+  border: 1px solid var(--border);
+  padding: 2px 8px;
+}
 .dict-audio {
   background: var(--bg-panel-alt);
   border: 1px solid var(--border);
@@ -1344,10 +1419,13 @@ nav.top .logo:active {
 }
 .dict-lang:first-of-type { margin-top: 8px; }
 .dict-pos {
-  display: inline-block; font-size: 0.75rem;
-  color: var(--accent-dim); border: 1px solid var(--accent-dim);
-  padding: 1px 6px; margin-bottom: 6px;
-  text-transform: lowercase; font-family: var(--font-mono);
+  display: inline-flex; align-items: center; font-size: 0.6875rem;
+  font-weight: 800; letter-spacing: 0.12em; text-transform: uppercase;
+  color: var(--accent); border: 1px solid var(--border);
+  background: var(--bg-panel-alt);
+  box-shadow: 2px 2px 0 var(--border);
+  padding: 3px 9px;
+  font-family: var(--font-mono);
 }
 .dict-def { color: var(--fg); font-size: var(--text-sm); line-height: 1.6; margin-top: 4px; }
 .dict-example {
@@ -1356,8 +1434,6 @@ nav.top .logo:active {
 }
 
 .dict-input:disabled, .dict-submit:disabled { opacity: 0.5; cursor: default; }
-
-.dict-phonetic { color: var(--fg-dim); font-size: var(--text-sm); }
 
 .dict-chips {
   display: flex; flex-wrap: wrap; gap: 8px;

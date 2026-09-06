@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}if(t==='mizuki-akiyama')t='mizuki';var v=['aqua','crimson','emerald','mizuki','gruvbox','dusky'];if(v.indexOf(t)<0)t='dusky';document.documentElement.setAttribute('data-theme',t);document.documentElement.classList.add('js')})();</script>
+  <script>(function(){var t;try{t=localStorage.getItem('theme')}catch(e){}var v=['parchment','cyberpunk','solaris','abyssal','synthwave'];if(v.indexOf(t)<0)t='parchment';document.documentElement.setAttribute('data-theme',t);document.documentElement.classList.add('js')})();</script>
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <link rel="stylesheet" href="/style.css">
   <link rel="preload" href="/fonts/MapleMono-NF-Regular.woff2" as="font" type="font/woff2" crossorigin>
@@ -32,12 +32,11 @@
   <div class="theme-pick">
     <button class="theme-btn" id="theme-btn" type="button" aria-haspopup="true" aria-expanded="false">theme</button>
     <div class="theme-menu" id="theme-menu">
-      <button type="button" data-theme-opt="gruvbox">gruvbox</button>
-      <button type="button" data-theme-opt="aqua">aqua</button>
-      <button type="button" data-theme-opt="crimson">crimson</button>
-      <button type="button" data-theme-opt="emerald">emerald</button>
-      <button type="button" data-theme-opt="mizuki">mizuki</button>
-      <button type="button" data-theme-opt="dusky">dusky</button>
+      <button type="button" data-theme-opt="parchment">parchment</button>
+      <button type="button" data-theme-opt="cyberpunk">cyberpunk</button>
+      <button type="button" data-theme-opt="solaris">solaris</button>
+      <button type="button" data-theme-opt="abyssal">abyssal</button>
+      <button type="button" data-theme-opt="synthwave">synthwave</button>
     </div>
   </div>
 </nav>
