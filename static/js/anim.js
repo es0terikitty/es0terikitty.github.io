@@ -22,11 +22,10 @@
     return;
   }
 
-  /* stagger items within their row */
   for (var j = 0; j < els.length; j++) {
     var el = els[j];
-    if (!el.getAttribute('data-delay')) {
-      var parent = el.parentElement;
+    var parent = el.parentElement;
+    if (parent) {
       var idx = Array.prototype.indexOf.call(parent.children, el);
       el.style.setProperty('--delay', (idx * 60) + 'ms');
     }
@@ -39,8 +38,16 @@
         io.unobserve(entry.target);
       }
     });
-  }, { threshold: 0.12, rootMargin: '0px 0px -8% 0px' });
-  for (var k = 0; k < els.length; k++) io.observe(els[k]);
+  }, { threshold: 0.01, rootMargin: '0px 0px 60px 0px' });
+
+  for (var k = 0; k < els.length; k++) {
+    var r = els[k].getBoundingClientRect();
+    if (r.top < window.innerHeight + 60) {
+      els[k].classList.add('in');
+    } else {
+      io.observe(els[k]);
+    }
+  }
 
   /* stat counters */
   var counts = doc.querySelectorAll('.stat-count');
